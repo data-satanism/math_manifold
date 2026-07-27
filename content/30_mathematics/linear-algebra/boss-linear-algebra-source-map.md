@@ -107,9 +107,20 @@ updated: 2026-07-27
 | 11.7 | Неравенства | 213 | R |
 | 11.8 | Положительные матрицы | 214–215 | R |
 
-Всего учтено 82 подраздела. Решения будут уточняться после визуальной проверки самих теорем и сравнения с `topic_index.csv`.
+Всего учтено 82 подраздела. Решения проверены по визуальному рендеру источника и сопоставлены с существующим каталогом; рутинные повторы помечены `R`, расширения существующих узлов — `E`, новые узлы — `N`.
 
-## Текущее покрытие главы 7
+## Текущее покрытие
+
+- главы 1–2: [[30_mathematics/linear-algebra/modules/01-coordinate-geometry-invariants|координатная геометрия]] и [[30_mathematics/linear-algebra/modules/02-linear-representations-recognition|линейное распознавание]];
+- главы 3–4: [[30_mathematics/linear-algebra/modules/04-quadratic-forms-canonical-structure|квадратичные формы и каноническая структура]];
+- глава 5: [[30_mathematics/linear-algebra/modules/05-annihilating-polynomials-root-spaces|аннулирующие многочлены]], [[30_mathematics/linear-algebra/theorems/cayley-hamilton-theorem|Кэли—Гамильтон]] и [[30_mathematics/linear-algebra/theorems/jordan-canonical-form|жорданова форма]];
+- глава 6: [[30_mathematics/linear-algebra/modules/06-matrix-functions-linear-dynamics|функции от матриц и линейная динамика]];
+- глава 7: [[30_mathematics/linear-algebra/modules/07-matrix-equations|кронекерово произведение и матричные уравнения]];
+- глава 8: [[30_mathematics/linear-algebra/modules/08-linear-programming-duality-games|линейное программирование]], [[30_mathematics/linear-algebra/theorems/gordan-alternative-theorem|альтернатива Гордана]] и [[30_mathematics/linear-algebra/theorems/linear-programming-complementary-slackness|дополняющая нежёсткость]];
+- глава 9: [[30_mathematics/linear-algebra/modules/09-positive-stochastic-matrices|положительные и стохастические матрицы]] и [[30_mathematics/linear-algebra/theorems/perron-frobenius-theorem|Перрон—Фробениус]];
+- главы 10–11: `reference-only` относительно курса численного анализа и уже созданных итоговых карт.
+
+### Глава 7
 
 - 7.1–7.3: [[30_mathematics/linear-algebra/modules/07-matrix-equations|единый модуль о кронекеровом произведении и матричных уравнениях]];
 - центральный результат: [[30_mathematics/linear-algebra/theorems/sylvester-equation-uniqueness|спектральный критерий единственности уравнения Сильвестра]];

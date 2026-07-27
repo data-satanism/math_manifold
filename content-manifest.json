@@ -110,12 +110,12 @@
     {
       "id": "boss-linear-algebra-map",
       "path": "30_mathematics/linear-algebra/boss-linear-algebra-map.md",
-      "sha256": "c89e217dd8a9b47ee31ff2718133dbe36e051042d891e0d3ab47fc2b62816903"
+      "sha256": "dda18ea2917d83b8e5ddff2ecc05be659770d1f1a32950f07558f99e4933814f"
     },
     {
       "id": "boss-linear-algebra-source-map",
       "path": "30_mathematics/linear-algebra/boss-linear-algebra-source-map.md",
-      "sha256": "dedadb0921b5c188790df90d21047d175477023586171918988f8e1066e49f1f"
+      "sha256": "dd5efa4f332f50a027642404f5db49591cc404bf5852aea6dca7ecd235b5fab5"
     },
     {
       "id": "bounded-operator",
@@ -363,6 +363,11 @@
       "sha256": "c0c22b0e159cbb280e3e8b6a17a8c0b2eb62814601c09f37dbd4ce2300243fac"
     },
     {
+      "id": "cayley-hamilton-theorem",
+      "path": "30_mathematics/linear-algebra/theorems/cayley-hamilton-theorem.md",
+      "sha256": "3c3b530dc147fd5a03fffa4f311bac2c9013781e96b195e0f7c433ba3ac4df26"
+    },
+    {
       "id": "cg-a-norm-optimality-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/cg-a-norm-optimality.md",
       "sha256": "a7d62254056d136bb5c2d8c52df32c8d7588ba9f37921e6f6c324cfa5c5eec3c"
@@ -461,6 +466,16 @@
       "id": "degenerate-kernel-finite-rank-reduction",
       "path": "30_mathematics/applied-mathematics/theorems/degenerate-kernel-finite-rank-reduction.md",
       "sha256": "cda01e07f8fcae0093747a8a80386ab79338a6378d2196840199f9d2fa4ecb99"
+    },
+    {
+      "id": "dense-sbm-spectral-transition",
+      "path": "30_mathematics/random-matrix-theory/theorems/dense-sbm-spectral-transition.md",
+      "sha256": "b4c3b93f0745b24d0d8840995c74742a3aa8ac9082f7f33db595b373aa562481"
+    },
+    {
+      "id": "distance-kernel-low-rank-equivalent",
+      "path": "30_mathematics/random-matrix-theory/theorems/distance-kernel-low-rank-equivalent.md",
+      "sha256": "f2c9791aa28a8f0e941c4031a98837407f364ff28a6dacd073b49c1ca837a28c"
     },
     {
       "id": "distribution",
@@ -608,6 +623,11 @@
       "sha256": "bf0de9a5402b6a68ede6d18cb3c71d4e75a803d0c1f02b4b68aba6491ecbd5a9"
     },
     {
+      "id": "generalized-linear-classifier-asymptotics",
+      "path": "30_mathematics/random-matrix-theory/theorems/generalized-linear-classifier-asymptotics.md",
+      "sha256": "3c342ba6256c4ef55ef46279e105493cb7d778901b6b160b269c8f2da9a42b49"
+    },
+    {
       "id": "gershgorin-circles-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/gershgorin-circles.md",
       "sha256": "7de34d96f4d4e2efc002fc7fecd776a6dbe2ef07fe9656ccce24a0081246e25a"
@@ -631,6 +651,11 @@
       "id": "gmres-polynomial-residual-bound-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/gmres-polynomial-residual-bound.md",
       "sha256": "57cd67d619e224d107b9c7052e6100b127551bf8fbf50d509d2b475ffa200ac1"
+    },
+    {
+      "id": "gordan-alternative-theorem",
+      "path": "30_mathematics/linear-algebra/theorems/gordan-alternative-theorem.md",
+      "sha256": "f147a710b1241edf59e728bf2cb79ffd50eb301f59511ebc6c2fc6f716c85822"
     },
     {
       "id": "hermitian-qr-cubic-convergence-theorem",
@@ -853,14 +878,44 @@
       "sha256": "e2a23dcf7faa10f9b79955b6ef9370c26920bcc6b479f39d077f385c185ec81a"
     },
     {
+      "id": "linear-algebra-01-coordinate-geometry-invariants",
+      "path": "30_mathematics/linear-algebra/modules/01-coordinate-geometry-invariants.md",
+      "sha256": "d125f381d8f18b535c8dd9cbda1fcc05c23833dc98f0648e2495fff9181b1659"
+    },
+    {
+      "id": "linear-algebra-02-linear-representations-recognition",
+      "path": "30_mathematics/linear-algebra/modules/02-linear-representations-recognition.md",
+      "sha256": "8fd2d9b3d777626f20b2e4d2b794a4076efd402d5c9f990f2eeee7c757600b4c"
+    },
+    {
       "id": "linear-algebra-04-quadratic-canonical-structure",
       "path": "30_mathematics/linear-algebra/modules/04-quadratic-forms-canonical-structure.md",
       "sha256": "3a33b48c99176f1854162ea4f37abad70e981ec38d82c89160808ee87f2e664a"
     },
     {
+      "id": "linear-algebra-05-annihilating-polynomials-root-spaces",
+      "path": "30_mathematics/linear-algebra/modules/05-annihilating-polynomials-root-spaces.md",
+      "sha256": "570f89587a5cd78e12574e5fcfe80d1f71b07757f06959a023c8bd121e853135"
+    },
+    {
+      "id": "linear-algebra-06-matrix-functions-linear-dynamics",
+      "path": "30_mathematics/linear-algebra/modules/06-matrix-functions-linear-dynamics.md",
+      "sha256": "99db6c62b67ff6da1568ca548622aa9de93712f66b712a47e954b380a3fe900d"
+    },
+    {
       "id": "linear-algebra-07-matrix-equations",
       "path": "30_mathematics/linear-algebra/modules/07-matrix-equations.md",
       "sha256": "6d76a21a9ed02096291debd6da7470391d8f6466d0388ab35c3f9fcdabbcaf4b"
+    },
+    {
+      "id": "linear-algebra-09-positive-stochastic-matrices",
+      "path": "30_mathematics/linear-algebra/modules/09-positive-stochastic-matrices.md",
+      "sha256": "a36a326245b7020a3a4097ac0c92f8692c718e01301042f861fd30b6b3d1eb9f"
+    },
+    {
+      "id": "linear-algebra-gaps-figures-v3",
+      "path": "70_labs/figures/linear-algebra-gaps-v3.md",
+      "sha256": "abe6b4fc77fc7c8d99daa2e4210aa9c3b2cc5503f3a712ef303bf58123b9ba7d"
     },
     {
       "id": "linear-algebra-myshkis-boss-ch04-prompts",
@@ -876,6 +931,11 @@
       "id": "linear-programming-complementary-slackness-theorem",
       "path": "30_mathematics/linear-algebra/theorems/linear-programming-complementary-slackness.md",
       "sha256": "f96395de359e1d913a86ce6acb8e8d6e6bbaff3d56c8ce7f73aa1e971edaaf85"
+    },
+    {
+      "id": "lipschitz-image-concentration",
+      "path": "30_mathematics/random-matrix-theory/theorems/lipschitz-image-concentration.md",
+      "sha256": "f1254c633fcf079567d823212bb413e51f489a67a45d258b0ccf2b76444f37c4"
     },
     {
       "id": "lp-spaces",
@@ -900,7 +960,7 @@
     {
       "id": "math-ai-home",
       "path": "index.md",
-      "sha256": "c886b43ffe2220f6491a701683a3777992b3be0707f05b604a9f55c38cab3c43"
+      "sha256": "77440d3b1b035258ae0964e5df738d3e734d0ab3d1dd6398606a0170f840c6cd"
     },
     {
       "id": "mathematics-integration-map",
@@ -1173,6 +1233,11 @@
       "sha256": "ad517691ebd3f50fc4e593a49499e90c75529b2dab921018d2045ec6d155dd4a"
     },
     {
+      "id": "perron-frobenius-theorem",
+      "path": "30_mathematics/linear-algebra/theorems/perron-frobenius-theorem.md",
+      "sha256": "476b5733510ea2eda038898fc2688d4963e183d07573763e6634d58f1f385d33"
+    },
+    {
       "id": "poincare-bendixson-trapping-region",
       "path": "30_mathematics/applied-mathematics/theorems/poincare-bendixson-trapping-region.md",
       "sha256": "e9997582076ee82c82cbf12e912cf3c04e6f5297e47b45eddb976ed5e0c67e58"
@@ -1218,9 +1283,14 @@
       "sha256": "27ddb5525ab76d801767d71aa79799f5a85ecafa4c4b11796045271c2d361cae"
     },
     {
+      "id": "random-feature-gram-deterministic-equivalent",
+      "path": "30_mathematics/random-matrix-theory/theorems/random-feature-gram-deterministic-equivalent.md",
+      "sha256": "492b8edac68a5f6c4852eabe55d2d8f0cf59f288a6ad0bc588813fc9f4e05864"
+    },
+    {
       "id": "random-matrix-theory-map",
       "path": "30_mathematics/random-matrix-theory/random-matrix-theory-map.md",
-      "sha256": "09dd619e31c2710d8658440f7fddfbb415ba44581a718ef3a1112536b0e5dae6"
+      "sha256": "d65a23325c27fd5e256c56dd7d95c1c90595b0559d130157a833df2ed1d172ac"
     },
     {
       "id": "rayleigh-shift-quadratic-convergence-theorem",
@@ -1253,14 +1323,59 @@
       "sha256": "df0d77a3f4be73bb0913f9010639f6aedf85d59ea91b19b604650ab4c56108d9"
     },
     {
+      "id": "rmt-02-resolvents-deterministic-equivalents",
+      "path": "30_mathematics/random-matrix-theory/modules/02-resolvents-deterministic-equivalents.md",
+      "sha256": "153c94bdb435e7678b94aa60b97540e3972696bab21d2b1a80bd065d84a13cbe"
+    },
+    {
+      "id": "rmt-03-covariance-inference-linear-models",
+      "path": "30_mathematics/random-matrix-theory/modules/03-covariance-inference-linear-models.md",
+      "sha256": "2f73fc5b867f302009f1611d421104f135dd40c677e1ef21dca205d659681033"
+    },
+    {
+      "id": "rmt-04-random-kernel-matrices",
+      "path": "30_mathematics/random-matrix-theory/modules/04-random-kernel-matrices.md",
+      "sha256": "5c84ebaa40bc8ebb1b8571afca7872265bb03df39b596fa4e02ed9472f0a0155"
+    },
+    {
+      "id": "rmt-05-random-neural-networks",
+      "path": "30_mathematics/random-matrix-theory/modules/05-random-neural-networks.md",
+      "sha256": "e2e34205f105d7ac8ff6b7e2e085cc63bf0af957054a6393e7e70570424c5ac2"
+    },
+    {
+      "id": "rmt-06-high-dimensional-convex-classifiers",
+      "path": "30_mathematics/random-matrix-theory/modules/06-high-dimensional-convex-classifiers.md",
+      "sha256": "bc7af5fdb0b6226522c296011f104cff07c5686437f7b0c264fd55ec16c7e7f4"
+    },
+    {
+      "id": "rmt-07-graph-spectra-community-detection",
+      "path": "30_mathematics/random-matrix-theory/modules/07-graph-spectra-community-detection.md",
+      "sha256": "22beb1c5b76ee2143d207dceefc1f47d626cb366b8b6f01478d9626450f56a9c"
+    },
+    {
+      "id": "rmt-08-universality-real-data",
+      "path": "30_mathematics/random-matrix-theory/modules/08-universality-real-data.md",
+      "sha256": "e435424671acd671281fc8d64c377ee4880a76a30f28c390cee560c38901be6f"
+    },
+    {
       "id": "rmt-09-random-tensors",
       "path": "30_mathematics/random-matrix-theory/modules/09-random-tensors.md",
       "sha256": "c6b29befc85abdb4a14a4fcf69753f185ce7667459076aab03a2a0d89adf19e8"
     },
     {
+      "id": "rmt-chapters-02-08-v3-figures",
+      "path": "70_labs/figures/rmt-chapters-02-08-v3.md",
+      "sha256": "01cb2dd858e0c9565630739fa9409179fc622402593ac02283f597a9d3a91ab7"
+    },
+    {
       "id": "rmt-source-map",
       "path": "30_mathematics/random-matrix-theory/rmt-source-map.md",
-      "sha256": "a7352480c0e356f13166795d0f49b07a6185a4ee36650e337d2d5b5841258e48"
+      "sha256": "eee6b5910a4246d6608bc16821774467a34881da60518db3af0307d51197a50e"
+    },
+    {
+      "id": "sample-covariance-deterministic-equivalent",
+      "path": "30_mathematics/random-matrix-theory/theorems/sample-covariance-deterministic-equivalent.md",
+      "sha256": "9c97f93d29837902c2e4f94fd9bf888ae9e4eac6b40d07a9ab1f775efe21f6a2"
     },
     {
       "id": "shifted-implicit-qr",
@@ -1521,6 +1636,11 @@
       "id": "topology",
       "path": "20_concepts/topology.md",
       "sha256": "fc83674c928e2136e8bfe8e77d1c5c35a3bf8b1857a5e8e873bead02bf6c50f2"
+    },
+    {
+      "id": "trace-covariance-distance-correction",
+      "path": "30_mathematics/random-matrix-theory/theorems/trace-covariance-distance-correction.md",
+      "sha256": "52335e0ffaa8b466f0ad3a41bf0ae91db7db3c2aee76f69fee4b7a0d598202cb"
     },
     {
       "id": "tsybakov-noise-localization",
@@ -2041,6 +2161,30 @@
       "sha256": "f39c102a06e0f93b9606cf28a4129b790187339092eb5a42185317c2b6f2b29c"
     },
     {
+      "path": "80_assets/linear-algebra/gpt-image-v3/cayley-hamilton-recurrence-insight-v3.png",
+      "sha256": "83aab7954babc31f390014f155ff2e3b65713e6bea2299d60036c53aed36131a"
+    },
+    {
+      "path": "80_assets/linear-algebra/gpt-image-v3/coordinate-invariants-embeddings-insight-v3.png",
+      "sha256": "7b4d67c5b4b6e74d06347dcbe35b6ceea6eaf0fc7d2a9d5ca8fcbcb7d8bb87f9"
+    },
+    {
+      "path": "80_assets/linear-algebra/gpt-image-v3/gordan-alternative-certificate-insight-v3.png",
+      "sha256": "b13ed01b53691cc6b19d9a8305244f5133c29712b8e44d3c07d92e2324d84761"
+    },
+    {
+      "path": "80_assets/linear-algebra/gpt-image-v3/linear-recognition-probe-insight-v3.png",
+      "sha256": "c78f582eb0edc28af863f8d47218166deec215e7add035678353cb4b50e4f6f9"
+    },
+    {
+      "path": "80_assets/linear-algebra/gpt-image-v3/matrix-exponential-flow-insight-v3.png",
+      "sha256": "e7a4e1699e396f832a927afa7d7cb213e8766d629d408ac15064d37ebb77c724"
+    },
+    {
+      "path": "80_assets/linear-algebra/gpt-image-v3/perron-frobenius-positive-dynamics-insight-v3.png",
+      "sha256": "dfd3c66bdacad0e21b379047a882ebe29f910d4954d8a252e8efd3bd235e3e4d"
+    },
+    {
       "path": "80_assets/matrix-equations/gpt-image-v1/matrix-equations-control-learning-insight-v2.png",
       "sha256": "fb1623e0bd06970b9661b56b145c3d3d5f2463ebb32919aac9b189ecaf888c2e"
     },
@@ -2377,6 +2521,34 @@
       "sha256": "e15b2076c91393d38e60276ff536a63bd498bb8d186168bc96a9f9ef55591231"
     },
     {
+      "path": "80_assets/random-matrix-theory/gpt-image-v3/concentrated-data-universality-insight-v3.png",
+      "sha256": "8b72be46d8cf1036659defaabe2f5321cae9d819e1f34faf121bfd2284827eed"
+    },
+    {
+      "path": "80_assets/random-matrix-theory/gpt-image-v3/covariance-distance-correction-insight-v3.png",
+      "sha256": "f6ca4aad942f527298198a7872f3908228224555f4fe2a1f31d046a8928f0144"
+    },
+    {
+      "path": "80_assets/random-matrix-theory/gpt-image-v3/dense-sbm-spectral-transition-insight-v3.png",
+      "sha256": "bf58d7fe28a67ab8ea466fabf4ae5ff167de38d96cba445e030243062e4c40aa"
+    },
+    {
+      "path": "80_assets/random-matrix-theory/gpt-image-v3/deterministic-equivalent-resolvent-insight-v3.png",
+      "sha256": "786d77b55c27957026976a46bbaf8e522e374c359f7a07c1a0dc8cd9fd144422"
+    },
+    {
+      "path": "80_assets/random-matrix-theory/gpt-image-v3/high-dimensional-convex-classifier-insight-v3.png",
+      "sha256": "07927652e9b8246f7a79b872953a729eaa21be55cfe13f80240dea7b847e083d"
+    },
+    {
+      "path": "80_assets/random-matrix-theory/gpt-image-v3/random-feature-gram-insight-v3.png",
+      "sha256": "c96f2e864adf6ab93dfc5d11031f3b072939d22f949081bcea283f885ed18d02"
+    },
+    {
+      "path": "80_assets/random-matrix-theory/gpt-image-v3/random-kernel-scaling-insight-v3.png",
+      "sha256": "2412a420a5ad440952e8b101d2807ccd91508b52d91617847748e84aca05cd75"
+    },
+    {
       "path": "80_assets/tensor-analysis/gpt-image-v1/covariant-derivative-tensoriality-insight.png",
       "sha256": "bf1433f29329af581b58fc22cb3ebea2f4d471d401af9311a984e1946094170f"
     },
@@ -2429,5 +2601,5 @@
       "sha256": "cc09f3c892cd62aae783732facb1fc6e07cc30fc4596862e17c035b652c9ade6"
     }
   ],
-  "asset_count": 216
+  "asset_count": 229
 }

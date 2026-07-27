@@ -26,15 +26,15 @@ updated: 2026-07-27
 
 ## Решения по главам
 
-1. Аналитическая геометрия — новый геометрический пререквизит.
-2. Векторы и матрицы — `reference-only`, кроме новых примеров распознавания образов.
+1. [[30_mathematics/linear-algebra/modules/01-coordinate-geometry-invariants|Аналитическая геометрия и инварианты]] — геометрический пререквизит.
+2. [[30_mathematics/linear-algebra/modules/02-linear-representations-recognition|Векторы, признаки и линейное распознавание]] — новый прикладной слой; рутинные операции остаются `reference-only`.
 3. Линейные преобразования — дополнение конечномерной интуиции к [[30_mathematics/functional-analysis/modules/06-linear-operators|линейным операторам]].
 4. Квадратичные формы — расширение геометрии гессиана, положительности и сигнатуры.
-5. Канонические представления — новые узлы для жордановой формы, аннулирующего многочлена и корневых подпространств.
-6. Функции от матриц — расширение [[30_mathematics/numerical-analysis/modules/03-conditioning-and-matrix-series|матричных рядов]] и динамических моделей.
+5. [[30_mathematics/linear-algebra/modules/05-annihilating-polynomials-root-spaces|Аннулирующие многочлены и корневые подпространства]] дополняют жорданову структуру.
+6. [[30_mathematics/linear-algebra/modules/06-matrix-functions-linear-dynamics|Функции от матриц и линейная динамика]] расширяют [[30_mathematics/numerical-analysis/modules/03-conditioning-and-matrix-series|матричные ряды]].
 7. [[30_mathematics/linear-algebra/modules/07-matrix-equations|Матричные уравнения]] — новый маршрут к уравнениям Сильвестра и Ляпунова.
-8. Неравенства — теоремы об альтернативах, конусы и линейное программирование.
-9. Положительные матрицы — расширение [[30_mathematics/functional-analysis/modules/12-positive-operators|положительных операторов]] и связь с марковскими моделями.
+8. [[30_mathematics/linear-algebra/modules/08-linear-programming-duality-games|Неравенства, конусы и линейное программирование]] дополнены [[30_mathematics/linear-algebra/theorems/gordan-alternative-theorem|теоремой Гордана об альтернативе]].
+9. [[30_mathematics/linear-algebra/modules/09-positive-stochastic-matrices|Положительные и стохастические матрицы]] расширяют [[30_mathematics/functional-analysis/modules/12-positive-operators|положительные операторы]] и связывают их с марковскими моделями.
 10. Численные методы — `reference-only` относительно курса Тыртышникова, кроме новых вероятностных оценок.
 11. Сводка — итоговая карта зависимостей, без повторения доказательств.
 
@@ -46,12 +46,17 @@ updated: 2026-07-27
 
 ## Текущее покрытие
 
+- главы 1–2: [[30_mathematics/linear-algebra/modules/01-coordinate-geometry-invariants|координатная геометрия]] и [[30_mathematics/linear-algebra/modules/02-linear-representations-recognition|линейное распознавание]];
 - главы 3–6 интегрируются через [[30_mathematics/linear-algebra/modules/04-quadratic-forms-canonical-structure|квадратичные формы и каноническую структуру]];
 - новый инвариант форм: [[30_mathematics/linear-algebra/theorems/sylvester-law-inertia|закон инерции Сильвестра]];
 - новый узел ненормальной структуры: [[30_mathematics/linear-algebra/theorems/jordan-canonical-form|жорданова форма]];
+- глава 5: [[30_mathematics/linear-algebra/modules/05-annihilating-polynomials-root-spaces|минимальный многочлен и корневые подпространства]], [[30_mathematics/linear-algebra/theorems/cayley-hamilton-theorem|теорема Кэли—Гамильтона]];
+- глава 6: [[30_mathematics/linear-algebra/modules/06-matrix-functions-linear-dynamics|матричная экспонента и линейный поток]];
 - глава 8 объединена с материалом Мышкиса в [[30_mathematics/linear-algebra/modules/08-linear-programming-duality-games|модуле линейного программирования]];
+- сертификат несовместности: [[30_mathematics/linear-algebra/theorems/gordan-alternative-theorem|теорема Гордана]];
 - критерий оптимальности: [[30_mathematics/linear-algebra/theorems/linear-programming-complementary-slackness|дополняющая нежёсткость]];
-- AI-перенос: [[50_bridges/linear-programming-structured-prediction|двойственные сертификаты и робастные смеси]].
+- AI-перенос: [[50_bridges/linear-programming-structured-prediction|двойственные сертификаты и робастные смеси]];
 - глава 7: [[30_mathematics/linear-algebra/modules/07-matrix-equations|кронекеровы произведения, уравнения Сильвестра и Ляпунова]];
 - спектральный критерий: [[30_mathematics/linear-algebra/theorems/sylvester-equation-uniqueness|единственность решения уравнения Сильвестра]];
-- AI-перенос: [[50_bridges/matrix-equations-control-learning|устойчивость, стационарные ковариации и неявное обучение]].
+- AI-перенос: [[50_bridges/matrix-equations-control-learning|устойчивость, стационарные ковариации и неявное обучение]];
+- глава 9: [[30_mathematics/linear-algebra/modules/09-positive-stochastic-matrices|положительная и марковская динамика]], [[30_mathematics/linear-algebra/theorems/perron-frobenius-theorem|теорема Перрона—Фробениуса]].

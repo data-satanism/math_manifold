@@ -42,40 +42,40 @@ updated: 2026-07-27
 
 | Раздел RMT4ML | Страницы | Целевой материал | Состояние |
 |---|---:|---|---|
-| 1.1 Ловушки статистики большой размерности | 7–18 | [[30_mathematics/random-matrix-theory/modules/01-high-dimensional-spectra]] | review |
-| 1.2 Теория случайных матриц как ответ | 19–38 | [[30_mathematics/random-matrix-theory/modules/01-high-dimensional-spectra]] | review |
-| 1.3 План книги и программные материалы | 39–42 | [[30_mathematics/random-matrix-theory/random-matrix-theory-map]] | review |
-| 2.1 Фундаментальные объекты | 44–50 | [[20_concepts/empirical-spectral-distribution]], [[20_concepts/resolvent-stieltjes-transform]] | review |
-| 2.2 Основополагающие результаты | 51–90 | [[30_mathematics/random-matrix-theory/theorems/marchenko-pastur-law]]; модуль 2 запланирован | partial |
-| 2.3 Продвинутый анализ выборочных ковариаций | 91–97 | модуль 2 | planned |
-| 2.4 Предварительные сведения по статистическому выводу | 98–112 | модуль 3 | planned |
-| 2.5 Спайковые модели | 113–126 | [[30_mathematics/random-matrix-theory/theorems/spiked-covariance-transition]] | review |
-| 2.6 Модели «сигнал плюс шум» и деформированный Вигнер | 127–142 | модуль 2 | planned |
-| 2.7 Концентрация меры в RMT | 143–159 | модуль 2 | planned |
-| 2.8 Итоги | 160–161 | карта зависимостей | planned |
-| 2.9 Упражнения | 162–168 | лабораторные работы | planned |
-| 3.1 Обнаружение и оценивание в моделях «сигнал плюс шум» | 171–187 | модуль 3 | planned |
-| 3.2 Оценивание расстояний между ковариациями | 188–199 | модуль 3 | planned |
-| 3.3 M-оценки матрицы рассеяния | 200–214 | модуль 3 | planned |
-| 3.4–3.5 Итоги и практикум | 215–224 | модуль 3 и лаборатория | planned |
-| 4.1 Базовая постановка ядровых методов | 227–229 | модуль 4 | planned |
-| 4.2 Случайные ядровые матрицы расстояний и скалярных произведений | 230–246 | модуль 4 | planned |
-| 4.3 Правильное масштабирование ядра | 247–261 | модуль 4 | planned |
-| 4.4 Следствия для ядровых методов | 262–293 | модуль 4 | planned |
-| 4.5–4.6 Итоги и практикум | 294–298 | модуль 4 и лаборатория | planned |
-| 5.1 Случайные нейронные сети | 299–317 | модуль 5 | planned |
-| 5.2 Динамика градиентного спуска в линейных сетях | 318–324 | модуль 5 | planned |
-| 5.3 Рекуррентные сети и эхо-состояния | 325–332 | модуль 5 | planned |
-| 5.4–5.5 Итоги и практикум | 333–338 | модуль 5 и лаборатория | planned |
-| 6.1 Обобщённый линейный классификатор | 340–352 | модуль 6 | planned |
-| 6.2 Метод опорных векторов большой размерности | 353–357 | модуль 6 | planned |
-| 6.3–6.4 Итоги и практикум | 358–364 | модуль 6 и лаборатория | planned |
-| 7.1 Сообщества в плотных графах | 366–383 | модуль 7 | planned |
-| 7.2 Переход к разреженным графам | 384–390 | модуль 7 | planned |
-| 7.3–7.4 Итоги и практикум | 391–394 | модуль 7 и лаборатория | planned |
-| 8.1 От гауссовых смесей к концентрированным векторам и GAN | 395–404 | модуль 8 | planned |
-| 8.2 Универсальность в широком смысле для ML | 405–407 | модуль 8 | planned |
-| 8.3 Обсуждение и выводы | 408–410 | итоговая карта | planned |
+| 1.1 Ловушки статистики большой размерности | 7–18 | [[30_mathematics/random-matrix-theory/modules/01-high-dimensional-spectra]] | canonical |
+| 1.2 Теория случайных матриц как ответ | 19–38 | [[30_mathematics/random-matrix-theory/modules/01-high-dimensional-spectra]] | canonical |
+| 1.3 План книги и программные материалы | 39–42 | [[30_mathematics/random-matrix-theory/random-matrix-theory-map]] | canonical |
+| 2.1 Фундаментальные объекты | 44–50 | [[20_concepts/empirical-spectral-distribution]], [[20_concepts/resolvent-stieltjes-transform]] | canonical |
+| 2.2 Основополагающие результаты | 51–90 | [[30_mathematics/random-matrix-theory/modules/02-resolvents-deterministic-equivalents]], [[30_mathematics/random-matrix-theory/theorems/marchenko-pastur-law]] | canonical |
+| 2.3 Продвинутый анализ выборочных ковариаций | 91–97 | [[30_mathematics/random-matrix-theory/modules/02-resolvents-deterministic-equivalents]] | canonical |
+| 2.4 Предварительные сведения по статистическому выводу | 98–112 | [[30_mathematics/random-matrix-theory/modules/03-covariance-inference-linear-models]] | canonical |
+| 2.5 Спайковые модели | 113–126 | [[30_mathematics/random-matrix-theory/theorems/spiked-covariance-transition]] | canonical |
+| 2.6 Модели «сигнал плюс шум» и деформированный Вигнер | 127–142 | [[30_mathematics/random-matrix-theory/modules/02-resolvents-deterministic-equivalents]] | canonical |
+| 2.7 Концентрация меры в RMT | 143–159 | [[30_mathematics/random-matrix-theory/modules/02-resolvents-deterministic-equivalents]], [[30_mathematics/random-matrix-theory/theorems/lipschitz-image-concentration]] | canonical |
+| 2.8 Итоги | 160–161 | [[30_mathematics/random-matrix-theory/random-matrix-theory-map]] | canonical |
+| 2.9 Упражнения | 162–168 | [[70_labs/figures/rmt-chapters-02-08-v3]] | canonical |
+| 3.1 Обнаружение и оценивание в моделях «сигнал плюс шум» | 171–187 | [[30_mathematics/random-matrix-theory/modules/03-covariance-inference-linear-models]] | canonical |
+| 3.2 Оценивание расстояний между ковариациями | 188–199 | [[30_mathematics/random-matrix-theory/theorems/trace-covariance-distance-correction]] | canonical |
+| 3.3 M-оценки матрицы рассеяния | 200–214 | [[30_mathematics/random-matrix-theory/modules/03-covariance-inference-linear-models]] | canonical |
+| 3.4–3.5 Итоги и практикум | 215–224 | [[30_mathematics/random-matrix-theory/modules/03-covariance-inference-linear-models]], [[70_labs/figures/rmt-chapters-02-08-v3]] | canonical |
+| 4.1 Базовая постановка ядровых методов | 227–229 | [[30_mathematics/random-matrix-theory/modules/04-random-kernel-matrices]] | canonical |
+| 4.2 Случайные ядровые матрицы расстояний и скалярных произведений | 230–246 | [[30_mathematics/random-matrix-theory/theorems/distance-kernel-low-rank-equivalent]] | canonical |
+| 4.3 Правильное масштабирование ядра | 247–261 | [[30_mathematics/random-matrix-theory/modules/04-random-kernel-matrices]] | canonical |
+| 4.4 Следствия для ядровых методов | 262–293 | [[30_mathematics/random-matrix-theory/modules/04-random-kernel-matrices]] | canonical |
+| 4.5–4.6 Итоги и практикум | 294–298 | [[30_mathematics/random-matrix-theory/modules/04-random-kernel-matrices]], [[70_labs/figures/rmt-chapters-02-08-v3]] | canonical |
+| 5.1 Случайные нейронные сети | 299–317 | [[30_mathematics/random-matrix-theory/modules/05-random-neural-networks]], [[30_mathematics/random-matrix-theory/theorems/random-feature-gram-deterministic-equivalent]] | canonical |
+| 5.2 Динамика градиентного спуска в линейных сетях | 318–324 | [[30_mathematics/random-matrix-theory/modules/05-random-neural-networks]] | canonical |
+| 5.3 Рекуррентные сети и эхо-состояния | 325–332 | [[30_mathematics/random-matrix-theory/modules/05-random-neural-networks]] | canonical |
+| 5.4–5.5 Итоги и практикум | 333–338 | [[30_mathematics/random-matrix-theory/modules/05-random-neural-networks]], [[70_labs/figures/rmt-chapters-02-08-v3]] | canonical |
+| 6.1 Обобщённый линейный классификатор | 340–352 | [[30_mathematics/random-matrix-theory/theorems/generalized-linear-classifier-asymptotics]] | canonical |
+| 6.2 Метод опорных векторов большой размерности | 353–357 | [[30_mathematics/random-matrix-theory/modules/06-high-dimensional-convex-classifiers]] | canonical |
+| 6.3–6.4 Итоги и практикум | 358–364 | [[30_mathematics/random-matrix-theory/modules/06-high-dimensional-convex-classifiers]], [[70_labs/figures/rmt-chapters-02-08-v3]] | canonical |
+| 7.1 Сообщества в плотных графах | 366–383 | [[30_mathematics/random-matrix-theory/theorems/dense-sbm-spectral-transition]] | canonical |
+| 7.2 Переход к разреженным графам | 384–390 | [[30_mathematics/random-matrix-theory/modules/07-graph-spectra-community-detection]] | canonical |
+| 7.3–7.4 Итоги и практикум | 391–394 | [[30_mathematics/random-matrix-theory/modules/07-graph-spectra-community-detection]], [[70_labs/figures/rmt-chapters-02-08-v3]] | canonical |
+| 8.1 От гауссовых смесей к концентрированным векторам и GAN | 395–404 | [[30_mathematics/random-matrix-theory/modules/08-universality-real-data]], [[30_mathematics/random-matrix-theory/theorems/lipschitz-image-concentration]] | canonical |
+| 8.2 Универсальность в широком смысле для ML | 405–407 | [[30_mathematics/random-matrix-theory/modules/08-universality-real-data]] | canonical |
+| 8.3 Обсуждение и выводы | 408–410 | [[30_mathematics/random-matrix-theory/random-matrix-theory-map]] | canonical |
 
 ## Дополнительные источники
 
