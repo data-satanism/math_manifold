@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Феномен Рунге и узлы Чебышёва</title>
+  <style>
+    :root{--ink:#263746;--muted:#6f8391;--grid:#dbe4e9;--blue:#66869b;--fill:#e9f0f4;--accent:#d27a37;--bad:#a94f4f}
+    *{box-sizing:border-box}body{margin:0;background:#fff;color:var(--ink);font:16px/1.45 system-ui,-apple-system,"Segoe UI",sans-serif}
+    main{max-width:980px;margin:auto;padding:20px}.head{display:flex;gap:18px;align-items:end;justify-content:space-between;flex-wrap:wrap}
+    h1{font-size:1.35rem;margin:0 0 4px}.sub{color:var(--muted);margin:0}.controls{display:flex;gap:14px;flex-wrap:wrap;align-items:end}
+    label{font-size:.86rem;color:var(--muted);display:grid;gap:4px}select,input{accent-color:var(--accent);font:inherit}
+    canvas{width:100%;height:auto;border:1px solid var(--grid);border-radius:8px;margin-top:16px;background:#fff}
+    .stats{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:12px}.stat{background:var(--fill);padding:10px 12px;border-radius:7px}
+    .stat b{display:block;font-size:1.08rem}.legend{display:flex;gap:18px;flex-wrap:wrap;margin-top:10px;font-size:.9rem;color:var(--muted)}
+    .key:before{content:"";display:inline-block;width:18px;border-top:3px solid var(--blue);margin-right:6px;vertical-align:middle}.key.model:before{border-color:var(--accent)}.key.node:before{border-color:var(--ink);border-top-style:dotted}
+    .insight{border-left:3px solid var(--accent);padding:8px 12px;margin-top:14px;background:#fffaf6}.sr{position:absolute;left:-10000px}
+    @media(max-width:620px){main{padding:12px}.stats{grid-template-columns:1fr}.controls{width:100%}label{flex:1;min-width:130px}}
+  </style>
+</head>
+<body>
+<main>
+  <div class="head">
+    <div><h1>Феномен Рунге: геометрия узлов важнее их числа</h1><p class="sub">Сравните равномерную и чебышёвскую сетки при той же степени.</p></div>
+    <div class="controls">
+      <label>Сетка<select id="grid"><option value="uniform">равномерная</option><option value="cheb" selected>Чебышёва</option></select></label>
+      <label>Степень: <span id="nOut">12</span><input id="degree" type="range" min="4" max="24" value="12" step="1"></label>
+    </div>
+  </div>
+  <canvas id="plot" width="920" height="470" role="img" aria-label="График функции Рунге, интерполяционного многочлена и расположения узлов"></canvas>
+  <div class="legend"><span class="key">исходная функция</span><span class="key model">интерполянт</span><span class="key node">узлы</span></div>
+  <div class="stats"><div class="stat"><span>Максимальная ошибка</span><b id="err">—</b></div><div class="stat"><span>Наибольший пик у края</span><b id="edge">—</b></div><div class="stat"><span>Число узлов</span><b id="count">—</b></div></div>
+  <p class="insight" id="insight">Чебышёвская сетка добавляет контроль там, где глобальный многочлен наиболее склонен к краевым колебаниям.</p>
+  <noscript><img src="../../numerical-analysis/interactive-runge-chebyshev.svg" alt="Статическая схема сравнения равномерных и чебышёвских узлов" style="max-width:100%"></noscript>
+</main>
+<script>
+const C=document.getElementById('plot'),ctx=C.getContext('2d'),degree=document.getElementById('degree'),grid=document.getElementById('grid');
+const f=x=>1/(1+25*x*x);
+function nodes(n,type){return Array.from({length:n+1},(_,i)=>type==='cheb'?Math.cos((2*i+1)*Math.PI/(2*(n+1))):-1+2*i/n).sort((a,b)=>a-b)}
+function weights(xs){return xs.map((x,i)=>{let s=1;for(let j=0;j<xs.length;j++)if(i!==j)s*=x-xs[j];return 1/s})}
+function bary(x,xs,ys,ws){for(let i=0;i<xs.length;i++)if(Math.abs(x-xs[i])<1e-12)return ys[i];let a=0,b=0;for(let i=0;i<xs.length;i++){const t=ws[i]/(x-xs[i]);a+=t*ys[i];b+=t}return a/b}
+function draw(){const n=+degree.value,type=grid.value,xs=nodes(n,type),ys=xs.map(f),ws=weights(xs),pad={l:54,r:20,t:20,b:44},W=C.width-pad.l-pad.r,H=C.height-pad.t-pad.b;
+  const samples=900,curve=[];let maxErr=0,edgeErr=0,maxAbs=1.05;for(let k=0;k<=samples;k++){const x=-1+2*k/samples,y=bary(x,xs,ys,ws),e=Math.abs(y-f(x));curve.push([x,y]);maxErr=Math.max(maxErr,e);if(Math.abs(x)>.8)edgeErr=Math.max(edgeErr,e);maxAbs=Math.max(maxAbs,Math.min(6,Math.abs(y)))}
+  const yMax=Math.min(6,Math.max(1.15,maxAbs*1.08)),yMin=Math.min(-.35,curve.reduce((m,p)=>Math.min(m,p[1]),0)*1.08),X=x=>pad.l+(x+1)/2*W,Y=y=>pad.t+(yMax-y)/(yMax-yMin)*H;
+  ctx.clearRect(0,0,C.width,C.height);ctx.strokeStyle='#dbe4e9';ctx.lineWidth=1;ctx.fillStyle='#6f8391';ctx.font='13px system-ui';
+  for(let x=-1;x<=1.001;x+=.25){ctx.beginPath();ctx.moveTo(X(x),pad.t);ctx.lineTo(X(x),pad.t+H);ctx.stroke();ctx.fillText(x.toFixed(2),X(x)-15,pad.t+H+22)}
+  for(let y=0;y<=yMax+.01;y+=.5){ctx.beginPath();ctx.moveTo(pad.l,Y(y));ctx.lineTo(pad.l+W,Y(y));ctx.stroke();ctx.fillText(y.toFixed(1),9,Y(y)+4)}
+  function line(points,color,width){ctx.beginPath();points.forEach((p,i)=>i?ctx.lineTo(X(p[0]),Y(p[1])):ctx.moveTo(X(p[0]),Y(p[1])));ctx.strokeStyle=color;ctx.lineWidth=width;ctx.stroke()}
+  line(Array.from({length:501},(_,k)=>{const x=-1+2*k/500;return[x,f(x)]}),'#66869b',3);line(curve,'#d27a37',2.4);
+  xs.forEach((x,i)=>{ctx.beginPath();ctx.arc(X(x),Y(ys[i]),4.5,0,2*Math.PI);ctx.fillStyle='#263746';ctx.fill();ctx.strokeStyle='#fff';ctx.lineWidth=1.5;ctx.stroke()});
+  document.getElementById('nOut').textContent=n;document.getElementById('err').textContent=maxErr.toExponential(2);document.getElementById('edge').textContent=edgeErr.toExponential(2);document.getElementById('count').textContent=n+1;
+  document.getElementById('insight').textContent=type==='cheb'?'Чебышёвская сетка добавляет контроль у границ. Рост степени обычно уменьшает ошибку гладкой функции без разрушительных краевых пиков.':'На равномерной сетке новые узлы не устраняют слабый контроль у границ. При большой степени краевые колебания могут расти.';
+}
+degree.addEventListener('input',draw);grid.addEventListener('change',draw);draw();
+</script>
+</body></html>

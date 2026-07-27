@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ньютон и секущая</title>
+<style>
+:root{color-scheme:light;--ink:#17324d;--muted:#6e879b;--line:#c8d6e2;--accent:#e66b19;--paper:#fff;--wash:#edf3f7}*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:15px/1.45 system-ui,sans-serif}.app{max-width:980px;margin:auto;padding:16px}.controls{display:flex;gap:18px;flex-wrap:wrap;align-items:end;margin-bottom:12px}.control{min-width:210px;flex:1}label{display:block;font-weight:650;margin-bottom:4px}input,select{width:100%}output{font-variant-numeric:tabular-nums;color:var(--accent)}canvas{width:100%;height:auto;border:1px solid var(--line);border-radius:10px;background:#fff}.note{margin-top:10px;padding:10px 12px;background:var(--wash);border-left:3px solid var(--accent)}
+</style>
+</head>
+<body><main class="app">
+<div class="controls">
+  <div class="control"><label for="method">Метод</label><select id="method"><option value="newton">Ньютон</option><option value="secant">Секущая</option></select></div>
+  <div class="control"><label for="start">Начальная точка: <output id="startOut">1.80</output></label><input id="start" type="range" min="-2" max="2.5" step="0.05" value="1.8"></div>
+  <div class="control"><label for="steps">Число шагов: <output id="stepsOut">5</output></label><input id="steps" type="range" min="1" max="8" step="1" value="5"></div>
+</div>
+<canvas id="plot" width="940" height="520" role="img" aria-label="График функции и траектория метода к корню"></canvas>
+<div class="note" id="summary" aria-live="polite"></div>
+</main>
+<script>
+const c=document.querySelector('#plot'),g=c.getContext('2d');const ink='#17324d',muted='#6e879b',line='#c8d6e2',accent='#e66b19',wash='#edf3f7';
+const f=x=>x*x*x-x-1,df=x=>3*x*x-1;const X=x=>60+(x+2.2)/5*820,Y=y=>260-y/12*210;
+function arrow(x1,y1,x2,y2,color=accent){g.strokeStyle=color;g.fillStyle=color;g.lineWidth=2;g.beginPath();g.moveTo(x1,y1);g.lineTo(x2,y2);g.stroke();let a=Math.atan2(y2-y1,x2-x1);g.beginPath();g.moveTo(x2,y2);g.lineTo(x2-9*Math.cos(a-.45),y2-9*Math.sin(a-.45));g.lineTo(x2-9*Math.cos(a+.45),y2-9*Math.sin(a+.45));g.fill()}
+function draw(){let method=document.querySelector('#method').value,x0=+start.value,n=+steps.value;startOut.value=x0.toFixed(2);stepsOut.value=n;g.clearRect(0,0,c.width,c.height);g.fillStyle='#fff';g.fillRect(0,0,c.width,c.height);g.strokeStyle=line;g.lineWidth=1;for(let i=-2;i<=2;i++){g.beginPath();g.moveTo(X(i),35);g.lineTo(X(i),475);g.stroke()}g.strokeStyle=ink;g.lineWidth=1.5;g.beginPath();g.moveTo(45,Y(0));g.lineTo(900,Y(0));g.stroke();g.beginPath();g.moveTo(X(0),30);g.lineTo(X(0),485);g.stroke();g.fillStyle=ink;g.font='15px system-ui';g.fillText('x',905,Y(0)+5);g.fillText('f(x)',X(0)+8,30);g.beginPath();for(let i=0;i<=500;i++){let x=-2.2+i/100,y=f(x);let px=X(x),py=Y(Math.max(-12,Math.min(12,y)));i?g.lineTo(px,py):g.moveTo(px,py)}g.strokeStyle=ink;g.lineWidth=3;g.stroke();let xs=[x0];if(method==='secant')xs.push(x0-.35);for(let k=xs.length-1;k<n;k++){let x=xs[xs.length-1],xn;if(method==='newton'){if(Math.abs(df(x))<.05)break;xn=x-f(x)/df(x)}else{let xp=xs[xs.length-2],den=f(x)-f(xp);if(Math.abs(den)<1e-8)break;xn=x-f(x)*(x-xp)/den}if(!Number.isFinite(xn)||Math.abs(xn)>8)break;xs.push(xn)}g.font='14px system-ui';for(let k=0;k<xs.length-1;k++){let x=xs[k],xn=xs[k+1],px=X(x),py=Y(Math.max(-12,Math.min(12,f(x))));g.fillStyle=accent;g.beginPath();g.arc(px,py,5,0,7);g.fill();g.setLineDash([6,5]);g.strokeStyle=muted;g.beginPath();g.moveTo(px,py);g.lineTo(X(xn),Y(0));g.stroke();g.setLineDash([]);arrow(X(x),Y(0)+18,X(xn),Y(0)+18)}let last=xs[xs.length-1];g.fillStyle=accent;g.beginPath();g.arc(X(last),Y(0),6,0,7);g.fill();g.fillText('последнее приближение',Math.min(730,X(last)+10),Y(0)-12);summary.textContent=`Шагов построено: ${xs.length-1}. Последняя невязка: ${Math.abs(f(last)).toExponential(2)}. Обратите внимание: быстрый локальный спад не гарантирует удачный старт.`}
+document.querySelectorAll('input,select').forEach(e=>e.addEventListener('input',draw));draw();
+</script></body></html>
+

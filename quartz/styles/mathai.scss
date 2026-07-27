@@ -1,0 +1,96 @@
+// Math for AI: keep long Russian titles, metadata, and formulae inside a mobile viewport.
+// Standalone Markdown figures keep their natural size when small and scale down
+// to the article width when they are wider than the reading column.
+article p > img:only-child {
+  content-visibility: visible;
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin-inline: auto;
+}
+
+@media all and (max-width: 800px) {
+  html,
+  body,
+  .page {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+
+  .page > #quartz-body {
+    grid-template-columns: minmax(0, 1fr) !important;
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+  }
+
+  .page > #quartz-body > *,
+  .center,
+  .page-header,
+  article,
+  .markdown-preview-view {
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  .article-title,
+  article h1,
+  article h2,
+  article h3 {
+    overflow-wrap: anywhere;
+    word-break: normal;
+  }
+
+  .sidebar.left {
+    width: 100%;
+    min-width: 0;
+    overflow: hidden;
+  }
+
+  .sidebar.left .page-title {
+    flex: 1 1 auto;
+    min-width: 0;
+    white-space: nowrap;
+  }
+
+  .sidebar.left .search {
+    flex: 0 0 2.5rem;
+    min-width: 2.5rem;
+    max-width: 2.5rem;
+  }
+
+  .search > .search-button {
+    padding: 0;
+  }
+
+  .search > .search-button > p {
+    display: none;
+  }
+
+  .note-properties {
+    max-width: 100%;
+    overflow-x: auto;
+  }
+
+  .note-properties .note-properties-table {
+    min-width: 0;
+  }
+
+  .note-properties .note-properties-value {
+    overflow-wrap: anywhere;
+    word-break: break-word;
+  }
+
+  .katex-display,
+  .table-container {
+    max-width: 100%;
+    overflow-x: auto;
+    overflow-y: hidden;
+  }
+
+  .breadcrumb-container {
+    max-width: 100%;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+}

@@ -1,0 +1,6 @@
+# Локальный preview: review-заметки видимы, но этот файл не используется в CI.
+# Перед preview скопировать во временное рабочее дерево как quartz.config.yaml.
+preview: true
+production_config: quartz.config.yaml
+content_source: ../MathAI_Knowledge
+

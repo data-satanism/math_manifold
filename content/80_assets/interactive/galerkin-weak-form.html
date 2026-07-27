@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Слабая форма и проекция Галёркина</title>
+<style>
+body{margin:0;background:#f8fafc;color:#172b4d;font:16px system-ui,sans-serif}.wrap{max-width:980px;margin:auto;padding:22px}h1{font-size:24px;margin:0 0 8px}.panel{background:white;border:1px solid #9eb3c7;border-radius:12px;padding:16px;box-shadow:0 2px 10px #18324b12}.controls{display:flex;gap:22px;flex-wrap:wrap;margin:12px 0}.controls label{display:grid;gap:5px;font-weight:650}input{width:240px}canvas{width:100%;height:430px;border:1px solid #c8d4df;border-radius:8px;background:white}.stats{display:flex;gap:24px;flex-wrap:wrap;margin-top:10px}.tag{padding:7px 11px;border-radius:8px;background:#e9f1f7}.warn{color:#a33b2b}button{border:1px solid #456b8a;background:#e9f1f7;color:#17324d;border-radius:8px;padding:8px 12px;font-weight:700}button:focus,input:focus{outline:3px solid #e78b39;outline-offset:2px}
+</style></head>
+<body><main class="wrap"><h1>Слабая форма и галёркинская проекция</h1><p>Уточнение сетки уменьшает ошибку представления; слабая устойчивость усиливает малые возмущения.</p><section class="panel"><div class="controls"><label>Число конечных элементов: <span id="nOut">8</span><input id="nodes" type="range" min="3" max="30" value="8"></label><label>Константа устойчивости: <span id="cOut">0.80</span><input id="stab" type="range" min="10" max="100" value="80"></label><button id="perturb">Возмутить правую часть</button></div><canvas id="plot" width="920" height="430" aria-label="Точное решение и кусочно-линейная проекция"></canvas><div class="stats"><span class="tag">Ошибка аппроксимации: <b id="approx"></b></span><span class="tag">Оценка после усиления: <b id="bound"></b></span><span class="tag warn" id="message"></span></div></section></main>
+<script>
+const canvas=document.getElementById('plot'),ctx=canvas.getContext('2d'),nodes=document.getElementById('nodes'),stab=document.getElementById('stab'),nOut=document.getElementById('nOut'),cOut=document.getElementById('cOut'),approx=document.getElementById('approx'),bound=document.getElementById('bound'),message=document.getElementById('message'),perturb=document.getElementById('perturb');let noise=0;
+const exact=x=>Math.sin(Math.PI*x)+0.22*Math.sin(3*Math.PI*x);
+function draw(){const n=+nodes.value,c=+stab.value/100;nOut.textContent=n;cOut.textContent=c.toFixed(2);ctx.clearRect(0,0,canvas.width,canvas.height);const L=58,R=28,T=35,B=55,W=canvas.width-L-R,H=canvas.height-T-B;const sx=x=>L+x*W,sy=y=>T+(1.3-y)*H/2.6;ctx.strokeStyle='#9eb3c7';ctx.lineWidth=1;ctx.beginPath();ctx.moveTo(L,sy(0));ctx.lineTo(L+W,sy(0));ctx.stroke();
+const xs=Array.from({length:n+1},(_,i)=>i/n),ys=xs.map(x=>exact(x)+noise*(0.5-c)*Math.sin((n-1)*Math.PI*x));
+ctx.strokeStyle='#183f72';ctx.lineWidth=3;ctx.beginPath();for(let i=0;i<=500;i++){const x=i/500,y=exact(x);i?ctx.lineTo(sx(x),sy(y)):ctx.moveTo(sx(x),sy(y))}ctx.stroke();
+ctx.strokeStyle='#e27832';ctx.setLineDash([7,5]);ctx.lineWidth=2.5;ctx.beginPath();xs.forEach((x,i)=>{i?ctx.lineTo(sx(x),sy(ys[i])):ctx.moveTo(sx(x),sy(ys[i]))});ctx.stroke();ctx.setLineDash([]);ctx.fillStyle='#e27832';xs.forEach((x,i)=>{ctx.beginPath();ctx.arc(sx(x),sy(ys[i]),4,0,7);ctx.fill()});
+ctx.fillStyle='#172b4d';ctx.font='15px system-ui';ctx.fillText('точное решение',L+15,T+18);ctx.fillStyle='#e27832';ctx.fillText('приближение в кусочно-линейном пространстве',L+200,T+18);ctx.fillStyle='#172b4d';ctx.fillText('0',L-5,sy(0)+22);ctx.fillText('1',L+W-5,sy(0)+22);
+let e=0;for(let i=0;i<1000;i++){const x=(i+.5)/1000,j=Math.min(n-1,Math.floor(x*n)),t=x*n-j,y=(1-t)*ys[j]+t*ys[j+1];e+=(exact(x)-y)**2}e=Math.sqrt(e/1000);approx.textContent=e.toFixed(4);bound.textContent=(e/c).toFixed(4);message.textContent=c<.3?'Неустойчивость может доминировать над уточнением сетки':'';}
+nodes.oninput=stab.oninput=draw;perturb.onclick=()=>{noise=noise?0:.18;draw()};draw();
+</script></body></html>
