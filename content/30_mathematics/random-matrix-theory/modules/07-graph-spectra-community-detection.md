@@ -15,7 +15,7 @@ source_refs:
     role: primary
 level: advanced
 created: 2026-07-27
-updated: 2026-07-27
+updated: 2026-07-30
 ---
 
 # Модуль RMT 07. Спектры графов и обнаружение сообществ
@@ -88,7 +88,7 @@ $$
 
 ## Визуализация
 
-![Сигнал сообществ поверх случайного фона, спектральный порог и различие плотного и разреженного режимов](80_assets/random-matrix-theory/gpt-image-v3/dense-sbm-spectral-transition-insight-v3.png)
+![Спектральная геометрия графа: информативная собственная мода, отделение от шумового диапазона и разделение сообществ во вложении](80_assets/random-matrix-theory/gpt-image-v5/rmt-module-07-graph-spectra-v5.png)
 
 ## Упражнения
 

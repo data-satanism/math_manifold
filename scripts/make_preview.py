@@ -1,7 +1,9 @@
 from __future__ import annotations
 
 import argparse
+import os
 import shutil
+import subprocess
 from pathlib import Path
 
 import yaml
@@ -16,6 +18,33 @@ def ignored(path: Path, root: Path) -> bool:
     return any(part in EXCLUDED for part in rel.parts)
 
 
+def link_dependencies(repo: Path, preview: Path) -> Path:
+    """Link preview directly to the physical dependency directory.
+
+    On Windows the repository's ``node_modules`` can itself be a junction.
+    Chaining another junction through it makes esbuild workers hang before
+    Markdown parsing. Resolving the source first keeps the preview link flat.
+    """
+
+    source = repo / "node_modules"
+    if not source.exists():
+        raise FileNotFoundError(
+            f"node_modules is missing in {repo}; install Quartz dependencies first"
+        )
+    resolved_source = source.resolve(strict=True)
+    destination = preview / "node_modules"
+    if os.name == "nt":
+        subprocess.run(
+            ["cmd", "/c", "mklink", "/J", str(destination), str(resolved_source)],
+            check=True,
+            capture_output=True,
+            text=True,
+        )
+    else:
+        destination.symlink_to(resolved_source, target_is_directory=True)
+    return resolved_source
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("repo", type=Path)
@@ -26,6 +55,7 @@ def main() -> int:
     if preview.exists():
         shutil.rmtree(preview)
     shutil.copytree(repo, preview, ignore=shutil.ignore_patterns(".git", "node_modules", "public", "content"))
+    dependencies = link_dependencies(repo, preview)
     content = preview / "content"
     content.mkdir()
     for source in vault.rglob("*"):
@@ -48,9 +78,9 @@ def main() -> int:
             plugin["enabled"] = False
     config_path.write_text(yaml.safe_dump(config, allow_unicode=True, sort_keys=False), encoding="utf-8")
     print(f"preview={preview}")
+    print(f"node_modules={dependencies}")
     return 0
 
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

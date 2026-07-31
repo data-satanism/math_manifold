@@ -310,7 +310,7 @@
     {
       "id": "bridge-rmt-spectral-diagnostics",
       "path": "50_bridges/rmt-spectral-diagnostics.md",
-      "sha256": "86fe61e2bf1e8e8e6a336ebd4016ed0d7afb0124f1f54ce36d257d827e115e2d"
+      "sha256": "c63148a28402cf14afa56ad772a89b8f61a210c37153aba10a0567b6f8699f1f"
     },
     {
       "id": "bridge-shifted-qr-spectral-diagnostics",
@@ -370,12 +370,12 @@
     {
       "id": "cg-a-norm-optimality-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/cg-a-norm-optimality.md",
-      "sha256": "a7d62254056d136bb5c2d8c52df32c8d7588ba9f37921e6f6c324cfa5c5eec3c"
+      "sha256": "981c7be6145255f40972396fce3e9974aa0b6b366af8eeb3e714436c43c5a9d9"
     },
     {
       "id": "cg-chebyshev-convergence-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/cg-chebyshev-convergence.md",
-      "sha256": "130fe6bd141a81e05265bbd8c98edb0944d957636445203eab4effd47fe1585f"
+      "sha256": "ed5b1829a370f34e01dcfc9060156fd784c930c8a291ae3cb7e397f92b47e6ad"
     },
     {
       "id": "chebyshev-alternation-theorem",
@@ -410,7 +410,7 @@
     {
       "id": "coercive-form-existence-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/coercive-form-existence.md",
-      "sha256": "87e9fc562168470dd6405f650d2a7816990b354db19be5f0ab8b1f7e10f126c5"
+      "sha256": "6fb7aec315321268f39dc8d7980798084e93c62dfa96247e13301c1668b23986"
     },
     {
       "id": "compactness",
@@ -430,7 +430,7 @@
     {
       "id": "conjugate-gradient-method",
       "path": "30_mathematics/numerical-analysis/methods/conjugate-gradient.md",
-      "sha256": "b62593aea31c8ebce5d821f8dae819ecee160217dfb4b05fc2a7d24a715ae0e7"
+      "sha256": "0ddc47e30f17aee4fabc8828dadddb8638c038029c42c9c6868f6566fcfe3fc5"
     },
     {
       "id": "convergence-modes",
@@ -490,7 +490,7 @@
     {
       "id": "empirical-spectral-distribution",
       "path": "20_concepts/empirical-spectral-distribution.md",
-      "sha256": "f2e8cf98562b764870f4e84ebb98fe36df1ad87ee791ee3f6715c5332140cf1a"
+      "sha256": "a4d6717d15ce40e5bc6e1e75492f9738a4a6bcc9601dbefb3aa88a488f20adbc"
     },
     {
       "id": "euler-lagrange-equation-theorem",
@@ -610,7 +610,7 @@
     {
       "id": "galerkin-finite-elements-method",
       "path": "30_mathematics/numerical-analysis/methods/galerkin-finite-elements.md",
-      "sha256": "69b362355c65ad4e9272a4d9c8669d944786029af7c0786d19ea82ea1efdebcc"
+      "sha256": "30fe10afa4c82540628cd8730403719ea548471472ea005e24aa8b6f447eabfd"
     },
     {
       "id": "gauss-ostrogradsky-theorem",
@@ -645,7 +645,7 @@
     {
       "id": "gmres-minimal-residual-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/gmres-minimal-residual.md",
-      "sha256": "cbefb339b27ac83d49c17e26fd6c0a7fac83ac9ca898067d8aa2c993b41e20a0"
+      "sha256": "0e017ab2630b126f73a7f83dbc05021373620ab692a961113e10419e57bc9a0a"
     },
     {
       "id": "gmres-polynomial-residual-bound-theorem",
@@ -670,7 +670,7 @@
     {
       "id": "hierarchical-matrix-compressibility-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/hierarchical-matrix-compressibility.md",
-      "sha256": "01f886a91b4b3389a38f734e66e88c9a85002e6de27f4ee23069a9e43ba9ad63"
+      "sha256": "a719af7b5cc6de1ce0356d2a7236761c3e219ddbfc0892e4f6979185c5af072f"
     },
     {
       "id": "hilbert-schmidt-symmetric-kernel-expansion",
@@ -955,7 +955,7 @@
     {
       "id": "marchenko-pastur-law",
       "path": "30_mathematics/random-matrix-theory/theorems/marchenko-pastur-law.md",
-      "sha256": "b39af79a3256719662e8f1ff61c2f6dbe22107cd47e3b68d9f186693600e0493"
+      "sha256": "68bdf34b3837e261c348bf5198e97d58b13078c4205bdc24eacd616bf6f95771"
     },
     {
       "id": "math-ai-home",
@@ -1025,7 +1025,7 @@
     {
       "id": "multigrid-v-cycle-convergence-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/multigrid-v-cycle-convergence.md",
-      "sha256": "dfd4c4318fb2b38864aff291f32984daf33bfc826c60bc4f588f71479d8bda1c"
+      "sha256": "446165c6e9073a07bcccd3a91e40f0443da7b01bd146a42079745500179b556b"
     },
     {
       "id": "multigrid-v-w-cycle-method",
@@ -1055,7 +1055,7 @@
     {
       "id": "newton-local-quadratic-convergence-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/newton-local-quadratic-convergence.md",
-      "sha256": "6a30970cf765a8bfa907eb7ad4d114bda83a59659c78e24fc11eedd5d5e3599d"
+      "sha256": "f4d7487180177274aa873dd1394c8b77b29cbc04687de5ce0055bf4aeab75ac9"
     },
     {
       "id": "newton-secant-method",
@@ -1150,7 +1150,7 @@
     {
       "id": "nla-18-nonlinear-equations-newton-secant",
       "path": "30_mathematics/numerical-analysis/modules/18-nonlinear-equations-newton-secant.md",
-      "sha256": "89f8e430e56aab6cb279c2d3966e91d176e3aa5b9a1640de998276e7a1da277e"
+      "sha256": "36aaa5adc67e56256250da56bea90df25b20312c94fed48ce37bb1dbb4ffa1a3"
     },
     {
       "id": "nla-19-unconstrained-optimization",
@@ -1180,7 +1180,7 @@
     {
       "id": "nla-24-multigrid-subspace-corrections",
       "path": "30_mathematics/numerical-analysis/modules/24-multigrid-subspace-corrections.md",
-      "sha256": "e4a497d160d60502ea9e68f51f456216b26763451343d99d10324d6a1c86fc75"
+      "sha256": "1ff1f9e94281629c4bf4362a51bca0918c45aab74bc7ae1a8923dda997598d5f"
     },
     {
       "id": "nla-25-structured-toeplitz-circulant",
@@ -1260,7 +1260,7 @@
     {
       "id": "projection-stability-convergence-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/projection-stability-convergence.md",
-      "sha256": "9212734c83a6b5ad3072c492028b1746e594cb03a615597e40bdb86456e50cbe"
+      "sha256": "e9934e2509bc05b7951fceb26fdf8ca58ddcbba10a4e05f549479ce9fb76e923"
     },
     {
       "id": "qr-algorithm-convergence-theorem",
@@ -1290,7 +1290,7 @@
     {
       "id": "random-matrix-theory-map",
       "path": "30_mathematics/random-matrix-theory/random-matrix-theory-map.md",
-      "sha256": "d65a23325c27fd5e256c56dd7d95c1c90595b0559d130157a833df2ed1d172ac"
+      "sha256": "2f0afd857d2962eee6e16ce7f48608f0cf7ca40291bb3df03ba2fb66a38b8f08"
     },
     {
       "id": "rayleigh-shift-quadratic-convergence-theorem",
@@ -1310,7 +1310,7 @@
     {
       "id": "resolvent-stieltjes-transform",
       "path": "20_concepts/resolvent-stieltjes-transform.md",
-      "sha256": "8ffa75bb167bf86efe830ec5cb80db2e6377dba673f7d05753b6e2cc9ee79be4"
+      "sha256": "19f5cdf7622253c95d05d590541d1e14d7facf002f1a81327410fb1655a2ff00"
     },
     {
       "id": "ritz-superlinear-convergence-theorem",
@@ -1320,42 +1320,42 @@
     {
       "id": "rmt-01-high-dimensional-spectra",
       "path": "30_mathematics/random-matrix-theory/modules/01-high-dimensional-spectra.md",
-      "sha256": "df0d77a3f4be73bb0913f9010639f6aedf85d59ea91b19b604650ab4c56108d9"
+      "sha256": "4f60d19a08c30b34aed4a3e43200a6c451d07561245080fa52005c4fb809f49f"
     },
     {
       "id": "rmt-02-resolvents-deterministic-equivalents",
       "path": "30_mathematics/random-matrix-theory/modules/02-resolvents-deterministic-equivalents.md",
-      "sha256": "153c94bdb435e7678b94aa60b97540e3972696bab21d2b1a80bd065d84a13cbe"
+      "sha256": "e2b7cba33311ecee5de7e66738fc3dece9af8a419e7be7a7c61ce60fc6bfa22a"
     },
     {
       "id": "rmt-03-covariance-inference-linear-models",
       "path": "30_mathematics/random-matrix-theory/modules/03-covariance-inference-linear-models.md",
-      "sha256": "2f73fc5b867f302009f1611d421104f135dd40c677e1ef21dca205d659681033"
+      "sha256": "89a8d573d6badc1df769c5629ac51bd44232ca54cf1a9cdbd336510bde1285d5"
     },
     {
       "id": "rmt-04-random-kernel-matrices",
       "path": "30_mathematics/random-matrix-theory/modules/04-random-kernel-matrices.md",
-      "sha256": "5c84ebaa40bc8ebb1b8571afca7872265bb03df39b596fa4e02ed9472f0a0155"
+      "sha256": "ea7bb5b036bb48f7edcdba8650bb466f3d6a8bb108c4fa748d5d6a5a764df191"
     },
     {
       "id": "rmt-05-random-neural-networks",
       "path": "30_mathematics/random-matrix-theory/modules/05-random-neural-networks.md",
-      "sha256": "e2e34205f105d7ac8ff6b7e2e085cc63bf0af957054a6393e7e70570424c5ac2"
+      "sha256": "3bb8f3793c6fba56a41a76beb794806118ddce560a4fbb45dbfbfe6a3e6092ec"
     },
     {
       "id": "rmt-06-high-dimensional-convex-classifiers",
       "path": "30_mathematics/random-matrix-theory/modules/06-high-dimensional-convex-classifiers.md",
-      "sha256": "bc7af5fdb0b6226522c296011f104cff07c5686437f7b0c264fd55ec16c7e7f4"
+      "sha256": "bd777ae148f0b5fbf600c89f859a3b5d36f2d09889f9b9aa7ec84a697106b168"
     },
     {
       "id": "rmt-07-graph-spectra-community-detection",
       "path": "30_mathematics/random-matrix-theory/modules/07-graph-spectra-community-detection.md",
-      "sha256": "22beb1c5b76ee2143d207dceefc1f47d626cb366b8b6f01478d9626450f56a9c"
+      "sha256": "965046fc472bce2dda4b6e38b4c0856512aa5b30ff4dee81d493260fbc2d2a29"
     },
     {
       "id": "rmt-08-universality-real-data",
       "path": "30_mathematics/random-matrix-theory/modules/08-universality-real-data.md",
-      "sha256": "e435424671acd671281fc8d64c377ee4880a76a30f28c390cee560c38901be6f"
+      "sha256": "91759138f1691e89546ff360a9cc792b0ed9c2ed97167bca1efa2b2f16e9652f"
     },
     {
       "id": "rmt-09-random-tensors",
@@ -1370,7 +1370,7 @@
     {
       "id": "rmt-source-map",
       "path": "30_mathematics/random-matrix-theory/rmt-source-map.md",
-      "sha256": "eee6b5910a4246d6608bc16821774467a34881da60518db3af0307d51197a50e"
+      "sha256": "e50ad6d9fab6507e9e769e9c40ef62fcfecc4c730e6a31647f70b4119a38cf0e"
     },
     {
       "id": "sample-covariance-deterministic-equivalent",
@@ -1450,7 +1450,7 @@
     {
       "id": "spiked-covariance-transition",
       "path": "30_mathematics/random-matrix-theory/theorems/spiked-covariance-transition.md",
-      "sha256": "086bed097a24846656843bac2fff228d277989fbae1e3b4d2b5def9ac8156dd2"
+      "sha256": "7d503dbeafcd23ff4ad51e79fed232d6a19d5983d531502d0c3e5a77a193368c"
     },
     {
       "id": "stokes-theorem-vector-fields",
@@ -2441,6 +2441,54 @@
       "sha256": "4281976637b96018f3ddc86af64aadd2c7f2f885c1b6f0dd89c8ce076c7a4d33"
     },
     {
+      "path": "80_assets/numerical-analysis/gpt-image-v6/cg-a-norm-optimality-v6.png",
+      "sha256": "09a6288230f6a93bc228811470c780a53493e4a2011e3a200bdd7132dffc93d9"
+    },
+    {
+      "path": "80_assets/numerical-analysis/gpt-image-v6/cg-chebyshev-convergence-v6.png",
+      "sha256": "b0c7d049929a02bbd8578c4d1ec1109763c3d8494fecd7316d8cda8752af7547"
+    },
+    {
+      "path": "80_assets/numerical-analysis/gpt-image-v6/coercive-form-existence-v6.png",
+      "sha256": "84bc3c968c90cc3b9e81a2d2893c58dcb8be717749715199b45f58efcaaecda9"
+    },
+    {
+      "path": "80_assets/numerical-analysis/gpt-image-v6/conjugate-gradient-energy-geometry-v6.png",
+      "sha256": "99140402802f7d471623bbbf21048571ea9e4f9256c90089ca45f0a00357dad4"
+    },
+    {
+      "path": "80_assets/numerical-analysis/gpt-image-v6/galerkin-finite-elements-residual-v6.png",
+      "sha256": "72e3268366d648e6addbe99edf303c434327307ae109b646b8dcd402f112c814"
+    },
+    {
+      "path": "80_assets/numerical-analysis/gpt-image-v6/galerkin-projection-stability-v6.png",
+      "sha256": "df88eb5ee01936f66ca597e6e7eab3ea9b15b13409c2e2e8168fb99d81047e58"
+    },
+    {
+      "path": "80_assets/numerical-analysis/gpt-image-v6/gmres-minimal-residual-projection-v6.png",
+      "sha256": "2abc8ddb85b0d3aba3ad660e7762d083a230d5bc5129748ad282f8dd1426af4c"
+    },
+    {
+      "path": "80_assets/numerical-analysis/gpt-image-v6/hierarchical-matrix-compressibility-v6.png",
+      "sha256": "95d0c7b33490257c6aa3264adbd463e5884390056021efd8604b1266671d3b29"
+    },
+    {
+      "path": "80_assets/numerical-analysis/gpt-image-v6/multigrid-v-cycle-convergence-v6.png",
+      "sha256": "f82b51c3bf32e1dcc8e9d4354d3733f52f08c4c8315c27191759a0a6eb7e8bb3"
+    },
+    {
+      "path": "80_assets/numerical-analysis/gpt-image-v6/newton-quadratic-convergence-v6.png",
+      "sha256": "4132ce0545e32057fbbffff6b12021269e12464f9a8b7b248f8cf27fbf5ad544"
+    },
+    {
+      "path": "80_assets/numerical-analysis/gpt-image-v6/nla-module-17-newton-geometry-v6.png",
+      "sha256": "e3df43f420883ebc9564f4c0de91272626e8a4d2bd9dcb429cb70e9a8cc5d1ea"
+    },
+    {
+      "path": "80_assets/numerical-analysis/gpt-image-v6/nla-module-23-multigrid-frequency-v6.png",
+      "sha256": "e56105f56ef6688037d780a72d8f8db0ec7e234c896396ab4479d02fd9b6fb9d"
+    },
+    {
       "path": "80_assets/numerical-analysis/interactive-cg-preconditioning.svg",
       "sha256": "01fd5813f2e8ca69534b193726db9db2b636d452bf91ea24c0d4d8817d2274b8"
     },
@@ -2493,26 +2541,6 @@
       "sha256": "4278b225c9a4e7adab391f3396413ef74ff77861cfb9cb910788fe87c5ca52dd"
     },
     {
-      "path": "80_assets/random-matrix-theory/gpt-image-v1/marchenko-pastur-insight.png",
-      "sha256": "6654a3f8782366ff535b6a767c7aaf2cd79c82e8ba38cf0337c2db930534c8d3"
-    },
-    {
-      "path": "80_assets/random-matrix-theory/gpt-image-v1/resolvent-stieltjes-insight.png",
-      "sha256": "916a6f20b3ebf7d29ed879fddfbbe30007355eab01df0a40e9127e92a9b3e207"
-    },
-    {
-      "path": "80_assets/random-matrix-theory/gpt-image-v1/rmt-module-01-insight.png",
-      "sha256": "1d0fb1d07891b19a646dd2edc72870670f19941ff19ddce9d2a8a71bd8e04deb"
-    },
-    {
-      "path": "80_assets/random-matrix-theory/gpt-image-v1/rmt-spectral-diagnostics-insight.png",
-      "sha256": "21cda6bdb334756142dee0075a8c940b8ac2f5161a7e4105528e7d33d34d0699"
-    },
-    {
-      "path": "80_assets/random-matrix-theory/gpt-image-v1/spiked-transition-insight.png",
-      "sha256": "0cecb70b2298b5295a1902016509bffeae77f19e3a75f03c4f2dd34c26d13338"
-    },
-    {
       "path": "80_assets/random-matrix-theory/gpt-image-v2/random-feature-network-insight-v2.png",
       "sha256": "df57ccdd74ff3fecc61e2ea4cc5f8ab2055ab8dbd483b12bb328e4b0237f514b"
     },
@@ -2547,6 +2575,58 @@
     {
       "path": "80_assets/random-matrix-theory/gpt-image-v3/random-kernel-scaling-insight-v3.png",
       "sha256": "2412a420a5ad440952e8b101d2807ccd91508b52d91617847748e84aca05cd75"
+    },
+    {
+      "path": "80_assets/random-matrix-theory/gpt-image-v5/empirical-spectral-distribution-v5.png",
+      "sha256": "5b37632764a5a6b5882ddeea2dc0dd85885cc4d556594564149b82fb55835984"
+    },
+    {
+      "path": "80_assets/random-matrix-theory/gpt-image-v5/marchenko-pastur-law-v5.png",
+      "sha256": "e6f0a538b6e09476ee1f5fa632c2f719f2d692a73cf263942b68bf0d308aeb44"
+    },
+    {
+      "path": "80_assets/random-matrix-theory/gpt-image-v5/resolvent-stieltjes-v5.png",
+      "sha256": "934a869df81573a72cded34d4c37605e26ee88ccbc370ef50b10b13f756460d5"
+    },
+    {
+      "path": "80_assets/random-matrix-theory/gpt-image-v5/rmt-module-01-high-dimensional-spectra-v5.png",
+      "sha256": "4fcae64883e49c1d91e437df44ee409286785ea06ad2b7ded2113e06479fbab3"
+    },
+    {
+      "path": "80_assets/random-matrix-theory/gpt-image-v5/rmt-module-02-resolvents-v5.png",
+      "sha256": "b7619be7910ff9baebd3afab7a7638a688a0a9cb5ad5f55de41dbb4c4b116f80"
+    },
+    {
+      "path": "80_assets/random-matrix-theory/gpt-image-v5/rmt-module-03-covariance-inference-v5.png",
+      "sha256": "9a0f0387df41ec0ffb155fe76a4632bc305cfc9712b3e1797458663878b5ddac"
+    },
+    {
+      "path": "80_assets/random-matrix-theory/gpt-image-v5/rmt-module-04-random-kernels-v5.png",
+      "sha256": "cfa4b11a78f47ce346eddfff549c25fb40e5b78886e4103c6cd9258bef6e62ae"
+    },
+    {
+      "path": "80_assets/random-matrix-theory/gpt-image-v5/rmt-module-05-random-networks-v5.png",
+      "sha256": "a1be09a562be2bbf689b4850dc7b17c563e5a28dc5505b81a9324eb2e572a05f"
+    },
+    {
+      "path": "80_assets/random-matrix-theory/gpt-image-v5/rmt-module-06-convex-classifiers-v5.png",
+      "sha256": "43cdfef38209b8ad4e4f8065173265e121210e5dc4b144f168bdeae28f77dc9b"
+    },
+    {
+      "path": "80_assets/random-matrix-theory/gpt-image-v5/rmt-module-07-graph-spectra-v5.png",
+      "sha256": "98c0c71c49208fa4003278c36b56b2defcf1b9ae510d2961f348e15b120509df"
+    },
+    {
+      "path": "80_assets/random-matrix-theory/gpt-image-v5/rmt-module-08-universality-v5.png",
+      "sha256": "297f0aaa2c3ab326e0c4cdc0cfb8d81bd853132d744ccc30e6a2493880c25680"
+    },
+    {
+      "path": "80_assets/random-matrix-theory/gpt-image-v5/rmt-spectral-diagnostics-v5.png",
+      "sha256": "5f7e77bca70668234dc429ac273fa862aa7de13f5dc1202863eaa9e8ae072bdf"
+    },
+    {
+      "path": "80_assets/random-matrix-theory/gpt-image-v5/spiked-covariance-transition-v5.png",
+      "sha256": "d0811ac020bd8bcf9dcd687248edbeb0e5d0495ad0e5513b3e5f2f973f156e71"
     },
     {
       "path": "80_assets/tensor-analysis/gpt-image-v1/covariant-derivative-tensoriality-insight.png",
@@ -2601,5 +2681,5 @@
       "sha256": "cc09f3c892cd62aae783732facb1fc6e07cc30fc4596862e17c035b652c9ade6"
     }
   ],
-  "asset_count": 229
+  "asset_count": 249
 }

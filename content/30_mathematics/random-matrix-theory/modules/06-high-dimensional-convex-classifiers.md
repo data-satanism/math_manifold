@@ -15,7 +15,7 @@ source_refs:
     role: primary
 level: advanced
 created: 2026-07-27
-updated: 2026-07-27
+updated: 2026-07-30
 ---
 
 # Модуль RMT 06. Выпуклые классификаторы большой размерности
@@ -71,7 +71,7 @@ $$
 Для нового объекта из гауссовой смеси проекция $\widehat\beta^Tx$ асимптотически нормальна, поэтому ошибка выражается через гауссов хвост:
 
 $$
-\mathcal E_{\rm test}
+\mathcal E_{\star}
 \approx \Phi\!\left(-\frac M\sigma\right).
 $$
 
@@ -107,7 +107,7 @@ $$
 
 ## Визуализация
 
-![Исключение одного объекта, проксимальное отображение и образ упругого разделителя](80_assets/random-matrix-theory/gpt-image-v3/high-dimensional-convex-classifier-insight-v3.png)
+![Геометрия выпуклого классификатора: единственная долина целевой функции, траектория к минимуму, согласование с учительским направлением и разделяющий зазор](80_assets/random-matrix-theory/gpt-image-v5/rmt-module-06-convex-classifiers-v5.png)
 
 ## Упражнения
 
