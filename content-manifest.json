@@ -170,7 +170,7 @@
     {
       "id": "bridge-galerkin-neural-operators",
       "path": "50_bridges/galerkin-neural-operators.md",
-      "sha256": "1c02ce465a695788c6410c304e4ee92915dfc61258d47cb753bb96aab65e5bfc"
+      "sha256": "91fea5634c33a3fc49fc876dd8014ba6820996f3415cd28410d79f12a0854d76"
     },
     {
       "id": "bridge-gaussian-quadrature-expectations",
@@ -195,7 +195,7 @@
     {
       "id": "bridge-hierarchical-matrices-kernel-attention",
       "path": "50_bridges/hierarchical-matrices-kernel-attention.md",
-      "sha256": "62ee19d5396bf0a1174e9b52009b5feff1690005d956146289c18f6e5b1693a6"
+      "sha256": "dac0b9461fd421ad8dc0213e2517a45b947af8c71571a89b1f220fe6083e05ba"
     },
     {
       "id": "bridge-hilbert-rkhs",
@@ -215,7 +215,7 @@
     {
       "id": "bridge-iterative-solvers-gaussian-processes",
       "path": "50_bridges/iterative-solvers-gaussian-processes.md",
-      "sha256": "c69ad33dfbc6a3e1cdfc48749c4ac86fa48e3f1d430b4835c7a1a766714f1dd3"
+      "sha256": "10902212c56d090b787c46e8f6af69d2f8c85265cc7708d617d250d12aebaf00"
     },
     {
       "id": "bridge-kernel-independence-representation-learning",
@@ -265,12 +265,12 @@
     {
       "id": "bridge-multigrid-multiscale-learning",
       "path": "50_bridges/multigrid-multiscale-learning.md",
-      "sha256": "bc586d518fda2f9e8b008318c5e342b94a557f6df6f60c7ca8c3f1adda4e9c6d"
+      "sha256": "060d64a88c896b12ec4c4c56ed304e76f156f539fa6294b1437a523e0146a7e9"
     },
     {
       "id": "bridge-newton-implicit-equilibrium",
       "path": "50_bridges/newton-implicit-equilibrium.md",
-      "sha256": "916ee08a39d43b6c2ac17320a577b4faa9e11a41ca164c6a1eec811d60f76891"
+      "sha256": "9a5c1a4c6b67058e667c23df54da8fe7ec13586a202ee58f6258c6ff905df165"
     },
     {
       "id": "bridge-operator-equations",
@@ -290,7 +290,7 @@
     {
       "id": "bridge-preconditioning-ml-optimization",
       "path": "50_bridges/preconditioning-ml-optimization.md",
-      "sha256": "4a5aec6bbc57754f4c94f0bbbb17b58397b9b05f083f8d7deb193c0510b04933"
+      "sha256": "d692b3ac49b23c2d4527392ef38e10a7a758e7f524b4a44fb64f043e9ee68083"
     },
     {
       "id": "bridge-principal-angles-representation-drift",
@@ -1918,15 +1918,15 @@
     },
     {
       "path": "80_assets/interactive/compactness.html",
-      "sha256": "c7552e2a31581c8dd0dc7ff8ebd6f05f9ee1bae7b8e912fc6c3aac7bc5b60d90"
+      "sha256": "cfa3640b529582499c31c53ce8270cc865c18d3cf39adb8c0deec35f1dc0ceb8"
     },
     {
       "path": "80_assets/interactive/contraction-map.html",
-      "sha256": "818f725df790d5efd8a251dceba35e73034eadd1883bac1bf0e62e8db39a1005"
+      "sha256": "5d6acf5a64e1c95229bfd3b47ea5b617da1750328974f40e482e0f8078925ed1"
     },
     {
       "path": "80_assets/interactive/convergence-modes.html",
-      "sha256": "e2eb6f94bd638b6e9de38e6e59deacb53a8def888edecc93098ecbf876b9cf3e"
+      "sha256": "7e99e0a44f6f1c968f30659dbe2dc8c26aaf2c65492130ff1ae6fd7f2dce4a3c"
     },
     {
       "path": "80_assets/interactive/galerkin-weak-form.html",
@@ -1946,7 +1946,7 @@
     },
     {
       "path": "80_assets/interactive/hilbert-projection.html",
-      "sha256": "7c7f432ffff546fc74f6cbcab401ef12d0229155ea8e25e2fe5237e61ee2f237"
+      "sha256": "c6ee06eded411240afb9183af46bd780f91a67280f7b08f555c9919835a3d703"
     },
     {
       "path": "80_assets/interactive/krylov-polynomial-filter.html",
@@ -1966,7 +1966,7 @@
     },
     {
       "path": "80_assets/interactive/norm-geometry.html",
-      "sha256": "012345b2056868d091b5eff2317a77bb62c6a156e64a5c990873ebaaed3a1fce"
+      "sha256": "b238d3bc04b0ceedba5c3ab3efc6015b00664fdc62bbc03ecd2cb5c252ef48d3"
     },
     {
       "path": "80_assets/interactive/remez-alternation.html",
@@ -1978,7 +1978,7 @@
     },
     {
       "path": "80_assets/interactive/spectrum-low-rank.html",
-      "sha256": "7776974949fb71cb764f4043f25e94a0ada2c9bd0ad9bbf6bd37b7d269ebda37"
+      "sha256": "498bfc5d60be8df649e94e8fb9bc3fe0e69bdd9277c224a79b18d855f2ceae21"
     },
     {
       "path": "80_assets/interactive/spline-boundaries.html",
@@ -2489,6 +2489,30 @@
       "sha256": "e56105f56ef6688037d780a72d8f8db0ec7e234c896396ab4479d02fd9b6fb9d"
     },
     {
+      "path": "80_assets/numerical-analysis/gpt-image-v7/bridge-galerkin-neural-operators-v7.png",
+      "sha256": "e1030db431c632e2453a22a171f5844b627a7b5586657ac5b62518456abb0bd3"
+    },
+    {
+      "path": "80_assets/numerical-analysis/gpt-image-v7/bridge-hierarchical-kernel-attention-v7.png",
+      "sha256": "2e96ef2311ea1cdb39570a72a4f804685aa91f6a06e9b9579dea13a731288613"
+    },
+    {
+      "path": "80_assets/numerical-analysis/gpt-image-v7/bridge-krylov-gaussian-processes-v7.png",
+      "sha256": "9eac0eb8d60abd31e28aac0195adcb55c4d0ba198cddfb6822ef6fd88bb49952"
+    },
+    {
+      "path": "80_assets/numerical-analysis/gpt-image-v7/bridge-multigrid-multiscale-learning-v7.png",
+      "sha256": "6d1a8534e8f2c648ca39b659153ba0474f8c7b8dc3f23d574956d77ec535c5b2"
+    },
+    {
+      "path": "80_assets/numerical-analysis/gpt-image-v7/bridge-newton-implicit-equilibrium-v7.png",
+      "sha256": "d3b78ae61429d820550ee78613773da997e3111c8c24fef63ed4dfaa6cd6d898"
+    },
+    {
+      "path": "80_assets/numerical-analysis/gpt-image-v7/bridge-preconditioning-optimization-v7.png",
+      "sha256": "a7ca068d313d9705daa684fc5409b703a97c2ba6b53e76cb912f6d384c88ecc7"
+    },
+    {
       "path": "80_assets/numerical-analysis/interactive-cg-preconditioning.svg",
       "sha256": "01fd5813f2e8ca69534b193726db9db2b636d452bf91ea24c0d4d8817d2274b8"
     },
@@ -2681,5 +2705,5 @@
       "sha256": "cc09f3c892cd62aae783732facb1fc6e07cc30fc4596862e17c035b652c9ade6"
     }
   ],
-  "asset_count": 249
+  "asset_count": 255
 }

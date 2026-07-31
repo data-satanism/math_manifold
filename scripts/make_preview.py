@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import argparse
 import os
+import re
 import shutil
 import subprocess
 from pathlib import Path
@@ -11,11 +12,29 @@ import yaml
 
 EXCLUDED = {".git", "node_modules", "public", "content", "_private", "90_admin", "00_inbox", ".obsidian"}
 ALLOWED_CONTENT = {".md", ".png", ".svg", ".webp", ".jpg", ".jpeg", ".gif", ".html"}
+HTML_RESOURCE_RE = re.compile(
+    r"(?P<prefix>\b(?:src|href)=[\"'])"
+    r"(?P<target>(?![a-z]+:|//|/|#)[^\"']+)"
+    r"(?P<suffix>[\"'])",
+    re.I,
+)
 
 
 def ignored(path: Path, root: Path) -> bool:
     rel = path.relative_to(root)
     return any(part in EXCLUDED for part in rel.parts)
+
+
+def rebase_html_asset(text: str) -> str:
+    """Account for Quartz emitting file.html as file/index.html."""
+
+    def replace(match: re.Match[str]) -> str:
+        return (
+            f"{match.group('prefix')}../{match.group('target')}"
+            f"{match.group('suffix')}"
+        )
+
+    return HTML_RESOURCE_RE.sub(replace, text)
 
 
 def link_dependencies(repo: Path, preview: Path) -> Path:
@@ -63,7 +82,14 @@ def main() -> int:
             continue
         destination = content / source.relative_to(vault)
         destination.parent.mkdir(parents=True, exist_ok=True)
-        shutil.copy2(source, destination)
+        if source.suffix.lower() == ".html":
+            destination.write_text(
+                rebase_html_asset(source.read_text(encoding="utf-8")),
+                encoding="utf-8",
+                newline="\n",
+            )
+        else:
+            shutil.copy2(source, destination)
     bib = vault / "60_sources" / "bibliography.bib"
     if bib.exists():
         shutil.copy2(bib, preview / "bibliography.bib")

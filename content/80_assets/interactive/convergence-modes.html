@@ -5,4 +5,3 @@
 <noscript><img src="../../functional-analysis/interactive-convergence.svg" alt="Сужающийся и растущий всплеск"></noscript></main><script>
 const c=document.querySelector('#c'),g=c.getContext('2d'),r=document.querySelector('#n'),nv=document.querySelector('#nv'),l2=document.querySelector('#l2');function draw(){const n=+r.value;nv.value=n;l2.textContent=Math.sqrt(n).toFixed(2);g.clearRect(0,0,c.width,c.height);g.strokeStyle='#94a3b8';g.lineWidth=2;g.beginPath();g.moveTo(60,410);g.lineTo(800,410);g.moveTo(60,410);g.lineTo(60,40);g.stroke();const w=700/n,h=Math.min(330,45+285*Math.log1p(n)/Math.log(51));g.fillStyle='#2563eb33';g.strokeStyle='#2563eb';g.lineWidth=5;g.beginPath();g.moveTo(60,410);g.lineTo(60,410-h);g.lineTo(60+w,410-h);g.lineTo(60+w,410);g.closePath();g.fill();g.stroke();g.fillStyle='#172033';g.font='18px system-ui';g.fillText('ширина 1/n',75+w,400);g.fillText('высота n',75,65)}r.addEventListener('input',draw);draw();
 </script></body></html>
-
