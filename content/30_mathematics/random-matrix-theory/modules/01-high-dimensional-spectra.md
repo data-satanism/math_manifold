@@ -21,7 +21,7 @@ source_refs:
     role: secondary
 level: advanced
 created: 2026-07-10
-updated: 2026-07-27
+updated: 2026-07-30
 ---
 
 # Модуль RMT 01. Спектральное мышление в высокой размерности
@@ -169,7 +169,7 @@ edge_right = (1 + np.sqrt(c)) ** 2
 
 ## Визуализация
 
-![Спектральное мышление RMT: шумовой массив, образ хора и перенос в диагностику ML](80_assets/random-matrix-theory/gpt-image-v1/rmt-module-01-insight.png)
+![Спектральное мышление RMT: тонкая оболочка данных, поверхность шумового спектра, его край и устойчивое сигнальное направление](80_assets/random-matrix-theory/gpt-image-v5/rmt-module-01-high-dimensional-spectra-v5.png)
 
 ## Упражнения
 

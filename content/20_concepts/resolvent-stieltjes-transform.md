@@ -18,7 +18,7 @@ source_refs:
     role: secondary
 level: advanced
 created: 2026-07-10
-updated: 2026-07-27
+updated: 2026-07-30
 ---
 
 # Резольвента и преобразование Штильтьеса
@@ -84,7 +84,7 @@ $$
 
 ## Визуализация
 
-![Резольвента как спектральный сканер: атомы, сглаживание и диагностический перенос в ML](80_assets/random-matrix-theory/gpt-image-v1/resolvent-stieltjes-insight.png)
+![Преобразование Стилтьеса как геометрическое поле: параметр η управляет шириной спектральных пиков, а граничное значение восстанавливает плотность](80_assets/random-matrix-theory/gpt-image-v5/resolvent-stieltjes-v5.png)
 
 ## Источники
 

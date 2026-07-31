@@ -18,7 +18,7 @@ source_refs:
     role: secondary
 level: advanced
 created: 2026-07-27
-updated: 2026-07-27
+updated: 2026-07-30
 ---
 
 # Модуль RMT 02. Резольвентный метод и детерминированные эквиваленты
@@ -141,7 +141,7 @@ for _ in range(max_iter):
 
 ## Визуализация
 
-![Резольвента, настраиваемый спектрометр и смысл детерминированного эквивалента](80_assets/random-matrix-theory/gpt-image-v3/deterministic-equivalent-resolvent-insight-v3.png)
+![Резольвента как поле над комплексной плоскостью: сглаживание спектра, уменьшение параметра η и конечновыборочные пики](80_assets/random-matrix-theory/gpt-image-v5/rmt-module-02-resolvents-v5.png)
 
 ## Упражнения
 

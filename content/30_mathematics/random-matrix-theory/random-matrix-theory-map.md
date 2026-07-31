@@ -27,7 +27,7 @@ source_refs:
     role: primary
 level: advanced
 created: 2026-07-10
-updated: 2026-07-27
+updated: 2026-07-30
 ---
 
 # Теория случайных матриц для машинного обучения
@@ -59,7 +59,7 @@ updated: 2026-07-27
 - [[30_mathematics/random-matrix-theory/theorems/generalized-linear-classifier-asymptotics|Асимптотика обобщённого линейного классификатора]] описывает направление и ошибку в пропорциональном режиме.
 - [[30_mathematics/random-matrix-theory/theorems/dense-sbm-spectral-transition|Спектральный переход в плотной блочной модели]] задаёт порог обнаружения сообщества.
 - [[30_mathematics/random-matrix-theory/theorems/lipschitz-image-concentration|Сохранение концентрации липшицевым отображением]] формулирует границу универсальности.
-- [[50_bridges/rmt-spectral-diagnostics|RMT-диагностика в ML]] переводит результаты в проверяемый исследовательский протокол.
+- [[50_bridges/rmt-spectral-diagnostics|RMT-диагностика в машинном обучении]] переводит результаты в проверяемый исследовательский протокол.
 - [[50_bridges/rmt-random-feature-networks|RMT для однослойных сетей случайных признаков]] отделяет доказанный результат от переноса на глубокие сети.
 - [[30_mathematics/random-matrix-theory/modules/09-random-tensors|Случайные тензоры]] показывают, как матричные развёртки и свёртки открывают разные стороны тензорного сигнала.
 

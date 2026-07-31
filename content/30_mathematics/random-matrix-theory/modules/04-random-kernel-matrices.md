@@ -18,7 +18,7 @@ source_refs:
     role: intuition
 level: advanced
 created: 2026-07-27
-updated: 2026-07-27
+updated: 2026-07-30
 ---
 
 # Модуль RMT 04. Случайные ядровые матрицы
@@ -115,7 +115,7 @@ $$
 
 ## Визуализация
 
-![Концентрация расстояний, ядро-усилитель и прикладная аналогия настройки микрофона](80_assets/random-matrix-theory/gpt-image-v3/random-kernel-scaling-insight-v3.png)
+![Концентрация расстояний: точки заполняют тонкую сферическую оболочку, попарные расстояния почти выравниваются, а ядровая матрица теряет контраст без локального масштаба](80_assets/random-matrix-theory/gpt-image-v5/rmt-module-04-random-kernels-v5.png)
 
 ## Упражнения
 

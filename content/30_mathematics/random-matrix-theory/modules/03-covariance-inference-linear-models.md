@@ -18,7 +18,7 @@ source_refs:
     role: intuition
 level: advanced
 created: 2026-07-27
-updated: 2026-07-27
+updated: 2026-07-30
 ---
 
 # Модуль RMT 03. Ковариационный вывод и линейные модели
@@ -105,7 +105,7 @@ $$
 
 ## Визуализация
 
-![Наивная подстановка, RMT-поправка и образ калибровки искажённого сканера](80_assets/random-matrix-theory/gpt-image-v3/covariance-distance-correction-insight-v3.png)
+![Ковариационный вывод как геометрия эллипсоидов: истинная форма, высокоразмерное выборочное искажение и спектральная поправка](80_assets/random-matrix-theory/gpt-image-v5/rmt-module-03-covariance-inference-v5.png)
 
 ## Упражнения
 

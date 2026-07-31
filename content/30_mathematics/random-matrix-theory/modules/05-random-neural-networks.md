@@ -18,7 +18,7 @@ source_refs:
     role: primary
 level: advanced
 created: 2026-07-27
-updated: 2026-07-27
+updated: 2026-07-30
 ---
 
 # Модуль RMT 05. Большие случайные нейронные сети
@@ -133,7 +133,7 @@ $$
 
 ## Визуализация
 
-![Случайные признаки, спектральная призма и образ вместимости модели при двойном спуске](80_assets/random-matrix-theory/gpt-image-v3/random-feature-gram-insight-v3.png)
+![Случайные признаки и двойной спуск: поверхность ошибки обобщения, хребет интерполяции, спектральный зазор и обход неустойчивого режима регуляризацией](80_assets/random-matrix-theory/gpt-image-v5/rmt-module-05-random-networks-v5.png)
 
 ## Упражнения
 

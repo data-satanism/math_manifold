@@ -1,6 +1,6 @@
 ---
 id: rmt-source-map
-title: "Source map курса по теории случайных матриц"
+title: "Карта источников курса по теории случайных матриц"
 aliases: ["RMT source map", "Карта источников RMT"]
 type: map
 status: canonical
@@ -33,10 +33,10 @@ source_refs:
     role: primary
 level: advanced
 created: 2026-07-10
-updated: 2026-07-27
+updated: 2026-07-30
 ---
 
-# Source map курса по теории случайных матриц
+# Карта источников курса по теории случайных матриц
 
 ## Основная монография
 
