@@ -99,7 +99,7 @@ $$
 - [[30_mathematics/numerical-analysis/theorems/monic-chebyshev-minimax|Минимаксное свойство многочлена Чебышёва]];
 - [[30_mathematics/numerical-analysis/theorems/orthogonal-polynomial-interlacing|Перемежаемость корней ортогональных многочленов]];
 - [[30_mathematics/numerical-analysis/theorems/gaussian-quadrature-optimality|Оптимальность квадратуры Гаусса]].
-- [[30_mathematics/numerical-analysis/theorems/fixed-point-contraction|Теорема о сжимающем отображении]].
+- [[30_mathematics/functional-analysis/theorems/banach-fixed-point|Принцип сжимающих отображений Банаха]].
 - [[30_mathematics/numerical-analysis/theorems/newton-local-quadratic-convergence|Локальная квадратичная сходимость Ньютона]].
 - [[30_mathematics/numerical-analysis/theorems/strong-convexity-unique-minimizer|Сильная выпуклость и единственный минимум]].
 - [[30_mathematics/numerical-analysis/theorems/global-line-search-gradient-convergence|Сходимость поиска шага]].

@@ -85,7 +85,7 @@
     {
       "id": "banded-inverse-quasiseparable-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/banded-inverse-quasiseparable.md",
-      "sha256": "1bea122324ae7ac628f339309c59fe80bf97785d929a39c1d80da53deefa4197"
+      "sha256": "c1038c54ed4930b1fd7bb28c5695e12637930dffd6db9d493c07cef3ca9bf2b2"
     },
     {
       "id": "barycentric-and-newton-interpolation",
@@ -400,7 +400,7 @@
     {
       "id": "circulant-fourier-diagonalization-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/circulant-fourier-diagonalization.md",
-      "sha256": "172f80edeb32a9ee54b11969b34110173ef5c6d4a45396d7d4037921a997a566"
+      "sha256": "d9f6aa0c620003306d031b7cac08afeb51e78350f898a6790a516ee2bf1c3b60"
     },
     {
       "id": "circulant-preconditioning-toeplitz-method",
@@ -450,7 +450,7 @@
     {
       "id": "cross-approximation-max-volume-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/cross-approximation-max-volume.md",
-      "sha256": "1d1e46067942ab22804bcfe3ac84ab2c21cbc73952061afd34facf1c12f5b829"
+      "sha256": "0bd6c37a30ef60d315dd9ab149e41fe17d5f3b4122c2320595a749a4a7499f74"
     },
     {
       "id": "cross-approximation-method",
@@ -578,14 +578,9 @@
       "sha256": "e7d43983ed83b70f792c75c9298ea38daa7222a5e13932c0909de9d746517c75"
     },
     {
-      "id": "fixed-point-contraction-theorem",
-      "path": "30_mathematics/numerical-analysis/theorems/fixed-point-contraction.md",
-      "sha256": "f60bb98bbcdb637bea06c21b61577c7345a7e6ce835dc430b48385a21e5a915f"
-    },
-    {
       "id": "fixed-point-relaxation-method",
       "path": "30_mathematics/numerical-analysis/methods/fixed-point-relaxation.md",
-      "sha256": "c77ae8f26c53731f148f527dcda7c9d22f849e2230e6a1d12efd28fec522baf4"
+      "sha256": "35c7e61224cf196845530bcc0cfae111b0d6e7b968b23d3a36a8f6ab02fa3645"
     },
     {
       "id": "floquet-multipliers-periodic-orbit",
@@ -600,7 +595,7 @@
     {
       "id": "fredholm-alternative-compact-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/fredholm-alternative-compact.md",
-      "sha256": "f935b979fa191927056f76c16d375c4d6d250cfc85049230ea5c3ef9f31f53ea"
+      "sha256": "69358cc10c7a91b33a7b27bd6326822d5f6aa4178f571f53849af2b344a43203"
     },
     {
       "id": "functional-analysis-map",
@@ -635,7 +630,7 @@
     {
       "id": "global-line-search-gradient-convergence-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/global-line-search-gradient-convergence.md",
-      "sha256": "223ccd36382ebc9e2c3e9cf5235be199830d8e0a0171eb2e517d0850f6f84789"
+      "sha256": "650300dd806250a247057844a1c4263b6d3df11c4f0197942124452ad45db442"
     },
     {
       "id": "gmres-method",
@@ -650,7 +645,7 @@
     {
       "id": "gmres-polynomial-residual-bound-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/gmres-polynomial-residual-bound.md",
-      "sha256": "57cd67d619e224d107b9c7052e6100b127551bf8fbf50d509d2b475ffa200ac1"
+      "sha256": "f5d8c511c96554b994289df8a0d3fd4a8bdeeda3a90e0f861b2852098e72aae8"
     },
     {
       "id": "gordan-alternative-theorem",
@@ -745,7 +740,7 @@
     {
       "id": "krylov-near-optimality-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/krylov-near-optimality.md",
-      "sha256": "32a88ea775de39c918a8ddb0a5b3adaab00cc8ed3e209e762c5dcc737eea5710"
+      "sha256": "b911b0f8faebfe176013ca32eda844bdd394d087e203ce1380fd163171c67e74"
     },
     {
       "id": "lab-exponential-rkhs-statistical-models-figures",
@@ -1150,7 +1145,7 @@
     {
       "id": "nla-18-nonlinear-equations-newton-secant",
       "path": "30_mathematics/numerical-analysis/modules/18-nonlinear-equations-newton-secant.md",
-      "sha256": "36aaa5adc67e56256250da56bea90df25b20312c94fed48ce37bb1dbb4ffa1a3"
+      "sha256": "06f95ba55174d0fdcde386bfb2c2f5412aabe30d25f5906c78bce7bbf2837995"
     },
     {
       "id": "nla-19-unconstrained-optimization",
@@ -1215,7 +1210,7 @@
     {
       "id": "numerical-linear-algebra-map",
       "path": "30_mathematics/numerical-analysis/numerical-linear-algebra-map.md",
-      "sha256": "77364ff13f9fa5b80942d46455c99c886a92f92dad2dcc839f5334dcf14c1805"
+      "sha256": "cb4f57ece7d7ae241c9165e6b4cd6689fdab8fe45818f7b65c35a21be719a45a"
     },
     {
       "id": "operator-equation",
@@ -1315,7 +1310,7 @@
     {
       "id": "ritz-superlinear-convergence-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/ritz-superlinear-convergence.md",
-      "sha256": "4e5a824490bb4ec02a5effe7327b08385eb820a653ad7f147b1f4cf84a37b696"
+      "sha256": "df081a4ba0497d777fa04d2c5e026a0011ffb63f95694da473c4e154a483f151"
     },
     {
       "id": "rmt-01-high-dimensional-spectra",
@@ -1460,7 +1455,7 @@
     {
       "id": "strong-convexity-unique-minimizer-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/strong-convexity-unique-minimizer.md",
-      "sha256": "8aedc53caf4fdd44e7c4f5a932b6fa40b9333932a222438c39e866208e9836bd"
+      "sha256": "f8f71a98638c0595b53d7f9b55790ad2690ee7afcf746a63248287e70cf11f5d"
     },
     {
       "id": "subspace-correction-bpx-method",
@@ -1470,7 +1465,7 @@
     {
       "id": "subspace-correction-condition-bound-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/subspace-correction-condition-bound.md",
-      "sha256": "2ebfb74f76be35c0b1c72f6640f8dfa0c14bf309a6515f95845ae41af120565b"
+      "sha256": "74c2834cf0bd2efe22fc7fdb28ca33094a3ce9bb58c5dc4cbd827aec1dd779a2"
     },
     {
       "id": "subspace-iteration-convergence-theorem",
@@ -1500,7 +1495,7 @@
     {
       "id": "thm-banach-fixed-point",
       "path": "30_mathematics/functional-analysis/theorems/banach-fixed-point.md",
-      "sha256": "1744bd2eb0f47f2acce9bf16b177409756e3adc745bc38625d1977783e41b6b4"
+      "sha256": "68982e58412197c573fac3fc4de60da3ab591e9e8fe7e073ea5ee8ab10d4b51f"
     },
     {
       "id": "thm-clique-representer-sparse-expansion",
@@ -1630,7 +1625,7 @@
     {
       "id": "toeplitz-circulant-spectral-clustering-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/toeplitz-circulant-spectral-clustering.md",
-      "sha256": "60a64d27ed0d21a364e3b35a6f6c9af64eb4d9d4c109699470f7c0867fc173cb"
+      "sha256": "0db86401558dc47f170ad9033a5a248805046f3e02e1d610fe6a38cafc3d1d23"
     },
     {
       "id": "topology",
@@ -1655,7 +1650,7 @@
     {
       "id": "tyrtyshnikov-source-map",
       "path": "30_mathematics/numerical-analysis/tyrtyshnikov-source-map.md",
-      "sha256": "365455f05acad3165390f8f0e5865eaa17f4459c707692ef99d874a7f4a3da4a"
+      "sha256": "9a652d0ed9526ea1761a0b63f6b08bf9a1713c99e1df67a35b99a545f0661b07"
     },
     {
       "id": "vandermonde-conditioning-lower-bound-theorem",
@@ -2513,6 +2508,54 @@
       "sha256": "a7ca068d313d9705daa684fc5409b703a97c2ba6b53e76cb912f6d384c88ecc7"
     },
     {
+      "path": "80_assets/numerical-analysis/gpt-image-v8/banach-contraction-metric-geometry-v8.png",
+      "sha256": "7d4a13b17aa62127710a6f5fe8456c09b5e5c2eff96d35460a14d0c9840ec50b"
+    },
+    {
+      "path": "80_assets/numerical-analysis/gpt-image-v8/banded-inverse-quasiseparable-v8.png",
+      "sha256": "b1efae52076d88d9953ae5a59e84cc908f7d44440c2fa43fd1212c4fe204f905"
+    },
+    {
+      "path": "80_assets/numerical-analysis/gpt-image-v8/circulant-fourier-modes-v8.png",
+      "sha256": "eba9602ae5186b34da763b4afdb544056e2c55d088ed4bf84f1b016ba3ff932a"
+    },
+    {
+      "path": "80_assets/numerical-analysis/gpt-image-v8/cross-approximation-max-volume-v8.png",
+      "sha256": "c3505fc1b13b8154249d8f059629f5cc93d96931bfbb9de112c3725921e27d80"
+    },
+    {
+      "path": "80_assets/numerical-analysis/gpt-image-v8/fredholm-solvability-geometry-v8.png",
+      "sha256": "355c2864771b1336a6389885970c6372ae2cb68318a97ed528555c7c7c334e5a"
+    },
+    {
+      "path": "80_assets/numerical-analysis/gpt-image-v8/global-line-search-descent-v8.png",
+      "sha256": "95db43d39059f3f06627934a22ca82bbd37d7c872c7aeff9c127d2ad1eec6c76"
+    },
+    {
+      "path": "80_assets/numerical-analysis/gpt-image-v8/gmres-residual-polynomial-v8.png",
+      "sha256": "ac731a122c898e382f3a39b27b0139ceb030a659ccbeee253ab0286b0e4e1e79"
+    },
+    {
+      "path": "80_assets/numerical-analysis/gpt-image-v8/krylov-information-near-optimality-v8.png",
+      "sha256": "58cdcf0c64bb0bf8fe283fc9287a45876d26485e6e31c6b56f41ba60c5757434"
+    },
+    {
+      "path": "80_assets/numerical-analysis/gpt-image-v8/ritz-deflation-acceleration-v8.png",
+      "sha256": "c62410e6698144b0cbf8b20bed7fc09b825db69650a886c4fade27d751cbab90"
+    },
+    {
+      "path": "80_assets/numerical-analysis/gpt-image-v8/strong-convexity-unique-minimum-v8.png",
+      "sha256": "3543bb41854b607f5f6987557eff97927d68b341460ce79e179f7a7ab2a2c911"
+    },
+    {
+      "path": "80_assets/numerical-analysis/gpt-image-v8/subspace-correction-conditioning-v8.png",
+      "sha256": "fa4cc78d805607f22eaf96b5fb84f3bc4236666868ca0cbe66042dc4dbe09c41"
+    },
+    {
+      "path": "80_assets/numerical-analysis/gpt-image-v8/toeplitz-circulant-spectral-cluster-v8.png",
+      "sha256": "2b820998b8220060e810de474d6a1dae8bbf2e146ec04bd48cb52e7be4b81239"
+    },
+    {
       "path": "80_assets/numerical-analysis/interactive-cg-preconditioning.svg",
       "sha256": "01fd5813f2e8ca69534b193726db9db2b636d452bf91ea24c0d4d8817d2274b8"
     },
@@ -2669,10 +2712,6 @@
       "sha256": "86806d58d2c649beed179688b117a12dad62e384e34ffb4127eb29f8eaa97041"
     },
     {
-      "path": "80_assets/theorems/gpt-image-v2/banach-fixed-point-insight.png",
-      "sha256": "90c6ff10a2f5d33f1df3db138d1fe48f317b50ae5fffb56db1e3db0cb34d8bf7"
-    },
-    {
       "path": "80_assets/theorems/gpt-image-v2/closed-graph-insight.png",
       "sha256": "0bc26cdc00347af31b7d7ccbd5663344865fbbf49b55a5a5eb3552b712d18cce"
     },
@@ -2705,5 +2744,5 @@
       "sha256": "cc09f3c892cd62aae783732facb1fc6e07cc30fc4596862e17c035b652c9ade6"
     }
   ],
-  "asset_count": 255
+  "asset_count": 266
 }

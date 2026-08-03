@@ -264,7 +264,7 @@ updated: 2026-07-27
 |---|---|---:|---|---|
 | 17.1 | Нелинейные уравнения | 169 | [[30_mathematics/numerical-analysis/modules/18-nonlinear-equations-newton-secant]] | покрыт |
 | 17.2 | Метод простой итерации | 170 | [[30_mathematics/numerical-analysis/methods/fixed-point-relaxation]] | покрыт |
-| 17.3 | Сходимость и расходимость метода простой итерации | 170 | [[30_mathematics/numerical-analysis/theorems/fixed-point-contraction]] | покрыт |
+| 17.3 | Сходимость и расходимость метода простой итерации | 170 | [[30_mathematics/functional-analysis/theorems/banach-fixed-point|Принцип сжимающих отображений Банаха]] | покрыт; объединён без дублирования |
 | 17.4 | Оптимизация метода простой итерации | 172 | [[30_mathematics/numerical-analysis/methods/fixed-point-relaxation]] | покрыт |
 | 17.5 | Метод Ньютона и эрмитова интерполяция | 172 | [[30_mathematics/numerical-analysis/methods/newton-secant]] | покрыт |
 | 17.6 | Сходимость метода Ньютона | 173 | [[30_mathematics/numerical-analysis/theorems/newton-local-quadratic-convergence]] | покрыт |

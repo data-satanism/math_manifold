@@ -26,7 +26,7 @@ updated: 2026-07-31
 
 ## Карта зависимостей
 
-[[30_mathematics/numerical-analysis/methods/fixed-point-relaxation|простая итерация]] → [[30_mathematics/numerical-analysis/theorems/fixed-point-contraction|сжимающее отображение]] → [[30_mathematics/numerical-analysis/methods/newton-secant|Ньютон и секущие]] → [[30_mathematics/numerical-analysis/theorems/newton-local-quadratic-convergence|локальная квадратичная сходимость]].
+[[30_mathematics/numerical-analysis/methods/fixed-point-relaxation|простая итерация]] → [[30_mathematics/functional-analysis/theorems/banach-fixed-point|сжимающее отображение]] → [[30_mathematics/numerical-analysis/methods/newton-secant|Ньютон и секущие]] → [[30_mathematics/numerical-analysis/theorems/newton-local-quadratic-convergence|локальная квадратичная сходимость]].
 
 ## 1. От корня к неподвижной точке
 
