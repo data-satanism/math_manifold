@@ -166,4 +166,3 @@ $$
 - Обзор ссылается на Steinwart (2002); перед `canonical` требуется проверка первичного утверждения, особенно случая плотностей с нулями.
 - [[30_mathematics/kernel-methods/theorems/log-partition-moment-geometry|Геометрия нормировки]].
 - [[50_bridges/log-partition-kernels-energy-models|Мост к энергетическим моделям]].
-

@@ -121,4 +121,3 @@ $$
 - [[30_mathematics/applied-mathematics/theorems/covariant-derivative-tensoriality|Тензорность ковариантной производной]].
 - [[30_mathematics/random-matrix-theory/modules/09-random-tensors|Случайные тензоры через матричные окна]] — вероятностная спектральная задача, а не замена геометрической ковариантности.
 - [[50_bridges/field-invariants-physics-informed-models|Интегральные инварианты и физически информированные модели]].
-

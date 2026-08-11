@@ -48,4 +48,3 @@ updated: 2026-07-27
 - `80_assets/applied-mathematics/gpt-image-v1/field-invariants-ai-insight.png`.
 
 Два ранних варианта не подключены: в них присутствовала английская проза внутри русских панелей.
-

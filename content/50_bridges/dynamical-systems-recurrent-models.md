@@ -177,4 +177,3 @@ $$
 - [[30_mathematics/applied-mathematics/methods/averaging-slow-amplitude-phase|Медленная амплитуда и фаза]].
 - [[50_bridges/matrix-equations-control-learning|Матричные сертификаты устойчивости]].
 - [[50_bridges/frechet-fixed-points|Неявные и равновесные модели]].
-

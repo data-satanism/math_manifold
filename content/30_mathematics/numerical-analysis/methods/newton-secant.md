@@ -70,4 +70,3 @@ $$
 ## Источник
 
 [[60_sources/tyrtyshnikov-numerical-analysis|Тыртышников]], §17.5–17.11, стр. 172–176.
-

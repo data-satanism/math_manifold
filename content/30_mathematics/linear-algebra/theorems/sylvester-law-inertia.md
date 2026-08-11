@@ -118,4 +118,3 @@ $$
 - [[60_sources/myshkis-applied-mathematics-engineers|Мышкис]], с. 195–199: квадратичные формы и одновременное приведение пары форм.
 - [[30_mathematics/linear-algebra/modules/04-quadratic-forms-canonical-structure|Квадратичные формы и каноническая структура]].
 - [[50_bridges/hessian-geometry-optimization|Гессиан и геометрия обучения]].
-

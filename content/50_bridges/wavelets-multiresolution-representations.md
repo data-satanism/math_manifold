@@ -46,4 +46,3 @@ updated: 2026-07-27
 
 - [[60_sources/tyrtyshnikov-numerical-analysis|Тыртышников]], §25.7–25.9, стр. 273–278.
 - [[30_mathematics/numerical-analysis/modules/26-hierarchical-low-rank-wavelets]].
-

@@ -42,10 +42,9 @@ $$
 x_n\rightharpoonup x\quad\Rightarrow\quad \|x\|\le\liminf_n\|x_n\|.
 $$
 
-## Связь с AI
+## Связь с ИИ
 
 > [!info] established mathematical tool
 > В вариационных задачах слабая компактность позволяет доказать существование решения. Интерпретировать слабую сходимость параметров нейросети как сходимость модели можно только после отдельного анализа отображения «параметры → функция».
 
 См. [[20_concepts/compactness]], [[20_concepts/linear-functional-duality]].
-

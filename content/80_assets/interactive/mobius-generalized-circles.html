@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Преобразование Мёбиуса и обобщённые окружности</title>
+  <style>
+    :root{--ink:#17324d;--blue:#527da3;--pale:#edf3f7;--accent:#d97732;--line:#b7c7d4}
+    *{box-sizing:border-box}body{margin:0;background:#fff;color:var(--ink);font:16px/1.45 system-ui,-apple-system,"Segoe UI",sans-serif}
+    main{max-width:1120px;margin:auto;padding:20px}h1{font-size:clamp(1.35rem,3vw,2rem);margin:0 0 6px}.grid{display:grid;grid-template-columns:minmax(0,2.2fr) minmax(260px,1fr);gap:18px}
+    canvas{width:100%;height:auto;border:1px solid var(--line);border-radius:12px}.controls{padding:16px;border:1px solid var(--line);border-radius:12px;background:var(--pale)}
+    label{display:block;font-weight:650;margin:0 0 16px}output{float:right;color:var(--accent)}input[type=range]{width:100%;accent-color:var(--accent)}
+    fieldset{border:0;padding:0;margin:0 0 16px}legend{font-weight:700;margin-bottom:7px}.row{display:flex;gap:12px}.row label{font-weight:500;margin:0}
+    button{border:1px solid var(--blue);border-radius:8px;background:#fff;padding:8px 12px;color:var(--ink);font-weight:650}button:focus-visible,input:focus-visible{outline:3px solid #efb184;outline-offset:2px}
+    .note{background:#fff;border-left:4px solid var(--accent);padding:10px;margin-top:14px}@media(max-width:780px){.grid{grid-template-columns:1fr}main{padding:12px}}
+  </style>
+</head>
+<body>
+<main>
+  <h1>Обобщённые окружности под действием преобразования Мёбиуса</h1>
+  <p>Карта $M(z)=1/(z-p)$ переводит выбранную окружность или прямую в другой объект того же обобщённого класса.</p>
+  <div class="grid">
+    <canvas id="plot" width="820" height="620" role="img" aria-label="Исходная обобщённая окружность и её образ"></canvas>
+    <section class="controls" aria-label="Параметры">
+      <fieldset>
+        <legend>Исходный объект</legend>
+        <div class="row">
+          <label><input type="radio" name="kind" value="circle" checked> окружность</label>
+          <label><input type="radio" name="kind" value="line"> прямая</label>
+        </div>
+      </fieldset>
+      <label>Положение полюса p <output id="pOut">1.60</output>
+        <input id="pole" type="range" min="-2.5" max="2.5" value="1.6" step="0.05">
+      </label>
+      <label>Смещение объекта <output id="dOut">0.30</output>
+        <input id="offset" type="range" min="-1.5" max="1.5" value="0.3" step="0.05">
+      </label>
+      <button id="reset" type="button">Сбросить</button>
+      <div class="note" id="status" aria-live="polite"></div>
+      <p><strong>Идея.</strong> Прямая — это окружность, проходящая через точку бесконечности.</p>
+      <p><strong>Граница.</strong> Точки рядом с полюсом отображаются очень далеко; для них рисунок обрезается.</p>
+    </section>
+  </div>
+  <noscript><p>Интерактив требует JavaScript. <a href="../../complex-analysis/interactive-mobius-generalized-circles.svg">Открыть статическую схему</a>.</p></noscript>
+</main>
+<script>
+(() => {
+  const c=document.getElementById("plot"),g=c.getContext("2d"),pole=document.getElementById("pole"),off=document.getElementById("offset"),pOut=document.getElementById("pOut"),dOut=document.getElementById("dOut"),status=document.getElementById("status");
+  const ink="#17324d",blue="#527da3",accent="#d97732",grid="#d8e2e9";
+  const radios=[...document.querySelectorAll("input[name=kind]")];
+  const toXY=(z,cx,cy,s)=>[cx+s*z.re,cy-s*z.im];
+  function axes(cx,cy,s,title){
+    g.strokeStyle=grid;g.lineWidth=1;for(let q=-2;q<=2;q+=.5){g.beginPath();g.moveTo(cx-2.5*s,cy-q*s);g.lineTo(cx+2.5*s,cy-q*s);g.moveTo(cx+q*s,cy-2.2*s);g.lineTo(cx+q*s,cy+2.2*s);g.stroke()}
+    g.strokeStyle=ink;g.lineWidth=2;g.beginPath();g.moveTo(cx-2.5*s,cy);g.lineTo(cx+2.5*s,cy);g.moveTo(cx,cy-2.2*s);g.lineTo(cx,cy+2.2*s);g.stroke();g.fillStyle=ink;g.font="650 19px system-ui";g.fillText(title,cx-80,35);
+  }
+  function M(z,p){const den=(z.re-p)*(z.re-p)+z.im*z.im;if(den<1e-5)return null;return{re:(z.re-p)/den,im:-z.im/den}}
+  function drawCurve(points,cx,cy,s,color){
+    g.strokeStyle=color;g.lineWidth=4;g.beginPath();let started=false;
+    for(const z of points){if(!z||Math.abs(z.re)>4||Math.abs(z.im)>4){started=false;continue}const [x,y]=toXY(z,cx,cy,s);if(!started){g.moveTo(x,y);started=true}else g.lineTo(x,y)}
+    g.stroke();
+  }
+  function draw(){
+    const p=+pole.value,d=+off.value,kind=radios.find(r=>r.checked).value;pOut.value=p.toFixed(2);dOut.value=d.toFixed(2);
+    g.clearRect(0,0,c.width,c.height);const s=105,c1=205,c2=615,cy=320;axes(c1,cy,s,"z-плоскость");axes(c2,cy,s,"w-плоскость");
+    const pts=[];if(kind==="circle"){for(let i=0;i<=720;i++){const t=2*Math.PI*i/720;pts.push({re:d+Math.cos(t),im:.85*Math.sin(t)})}}else{for(let i=0;i<=720;i++){const t=-3+6*i/720;pts.push({re:t,im:d})}}
+    drawCurve(pts,c1,cy,s,blue);drawCurve(pts.map(z=>M(z,p)),c2,cy,s,accent);
+    const [px,py]=toXY({re:p,im:0},c1,cy,s);g.strokeStyle=accent;g.lineWidth=3;g.beginPath();g.moveTo(px-8,py-8);g.lineTo(px+8,py+8);g.moveTo(px-8,py+8);g.lineTo(px+8,py-8);g.stroke();g.fillStyle=accent;g.font="18px system-ui";g.fillText("полюс",px+10,py-10);
+    g.fillStyle=ink;g.font="22px serif";g.fillText("M(z) = 1/(z − p)",330,585);
+    const near=pts.some(z=>Math.hypot(z.re-p,z.im)<.08);status.innerHTML=near?"Объект проходит почти через полюс: образ выглядит как прямая и численно чувствителен.":"Образ остаётся обобщённой окружностью; расстояния и радиусы при этом не сохраняются.";
+  }
+  function keyboardRange(el){
+    el.addEventListener("keydown",e=>{
+      const direction={ArrowRight:1,ArrowUp:1,ArrowLeft:-1,ArrowDown:-1}[e.key];
+      if(!direction)return;
+      e.preventDefault();
+      const step=Number(el.step)||1;
+      el.value=Math.max(Number(el.min),Math.min(Number(el.max),Number(el.value)+direction*step));
+      el.dispatchEvent(new Event("input",{bubbles:true}));
+    });
+  }
+  [pole,off].forEach(el=>keyboardRange(el));
+  [pole,off,...radios].forEach(el=>el.addEventListener("input",draw));
+  document.getElementById("reset").addEventListener("click",()=>{pole.value=1.6;off.value=.3;radios[0].checked=true;draw();pole.focus()});draw();
+})();
+</script>
+</body>
+</html>

@@ -102,4 +102,3 @@ $$
 - [[60_sources/louart-liao-couillet-random-neural-networks|Louart, Liao, Couillet]], стр. 1–19 PDF для модели и результатов; стр. 20–53 для доказательств.
 - [[60_sources/rmt4ml-couillet-liao|RMT4ML]], главы о случайных ядровых матрицах и нейронных сетях.
 - [[50_bridges/rmt-spectral-diagnostics|Спектральная диагностика моделей]] — общий протокол нулевой модели и проверки выбросов.
-

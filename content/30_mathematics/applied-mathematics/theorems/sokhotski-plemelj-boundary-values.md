@@ -146,4 +146,3 @@ $$
 - [[30_mathematics/applied-mathematics/theorems/cauchy-integral-formula|Интегральная формула Коши]].
 - [[30_mathematics/applied-mathematics/modules/07-integral-equations|Обзорный модуль]].
 - [[50_bridges/integral-equations-attention-neural-operators|Мост к операторным моделям ИИ]].
-

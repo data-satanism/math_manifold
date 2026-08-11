@@ -11,7 +11,18 @@ import yaml
 
 WIKILINK_RE = re.compile(r"!?\[\[([^\]|#]+)(?:#[^\]|]+)?(?:\|[^\]]+)?\]\]")
 ASSET_SUFFIXES = {".png", ".svg", ".webp", ".jpg", ".jpeg", ".gif", ".html"}
-FORBIDDEN = {".pdf", ".ipynb", ".docx", ".pptx", ".tif", ".tiff"}
+FORBIDDEN = {
+    ".pdf",
+    ".ipynb",
+    ".doc",
+    ".docx",
+    ".pptx",
+    ".tif",
+    ".tiff",
+    ".txt",
+    ".csv",
+    ".py",
+}
 
 
 def sha256(path: Path) -> str:
@@ -63,7 +74,10 @@ def main() -> int:
             continue
 
         text = path.read_text(encoding="utf-8")
-        if re.search(r"[A-Za-z]:\\", text):
+        # Match drive-qualified paths only in a context where a path can
+        # actually begin.  This avoids false positives for LaTeX fragments
+        # such as ``x:\sup`` and ``p:\widetilde``.
+        if re.search(r"(?:^|(?<=[\s`'\"(]))[A-Za-z]:\\", text, re.MULTILINE):
             errors.append(f"абсолютный Windows-путь: {relative}")
         try:
             _, frontmatter, body = text.split("---", 2)

@@ -151,4 +151,3 @@ $$
 - Hofmann, Schölkopf, Smola, PDF-с. 38 (печатная с. 37), следствие 24 и его доказательство.
 - [[30_mathematics/kernel-methods/theorems/representer-theorem-kernel-expansion|Общая теорема о представителе]].
 - [[30_mathematics/kernel-methods/methods/graphical-kernel-probabilistic-inference|Вероятностный вывод в графической модели]].
-

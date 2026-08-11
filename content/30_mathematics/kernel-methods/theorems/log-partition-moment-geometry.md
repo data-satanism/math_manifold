@@ -196,4 +196,3 @@ $$
 - Hofmann, Schölkopf, Smola, PDF-с. 29–30, формулы (92)–(94).
 - [[30_mathematics/kernel-methods/methods/conditional-exponential-rkhs-model|Функциональное продолжение в RKHS]].
 - [[50_bridges/log-partition-kernels-energy-models|Мост к вероятностным и энергетическим моделям]].
-

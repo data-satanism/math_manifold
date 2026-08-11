@@ -144,4 +144,3 @@ $$
 - [[30_mathematics/applied-mathematics/modules/08-dynamical-systems|Обзорный модуль]].
 - [[30_mathematics/applied-mathematics/theorems/floquet-multipliers-periodic-orbit|Устойчивость периодического режима]].
 - [[50_bridges/dynamical-systems-recurrent-models|Мост к многомасштабным моделям ИИ]].
-

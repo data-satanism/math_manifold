@@ -150,4 +150,3 @@ $$
 - [[60_sources/myshkis-applied-mathematics-engineers|Мышкис]], с. 200–213: цепочки обобщённых собственных векторов, клетки Жордана и функции отображений.
 - [[30_mathematics/functional-analysis/modules/10-spectral-theory|Спектральная теория]].
 - [[50_bridges/operators-spectrum|Спектральная диагностика моделей]].
-

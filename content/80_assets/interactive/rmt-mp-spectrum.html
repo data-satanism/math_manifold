@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Интерактив: спектр Марченко—Пастура</title>
+  <style>
+    :root { color-scheme: light dark; --blue:#406580; --pale:#b9cbd8; --accent:#d9772f; --ink:#20313d; --grid:#d9e1e6; }
+    * { box-sizing: border-box; }
+    body { margin:0; padding:1rem; font:16px/1.45 system-ui, sans-serif; background:#fff; color:var(--ink); }
+    main { max-width:980px; margin:auto; border:1px solid #aebdc7; border-radius:14px; padding:1rem; background:#fff; }
+    h1 { margin:.1rem 0 .4rem; font-size:clamp(1.25rem,4vw,2rem); }
+    p { margin:.35rem 0 .8rem; }
+    .controls { display:grid; grid-template-columns:minmax(12rem,1fr) auto; gap:.75rem; align-items:center; margin:.8rem 0; }
+    input[type=range] { width:100%; min-height:2.5rem; accent-color:var(--accent); }
+    output { min-width:7rem; font-variant-numeric:tabular-nums; font-weight:700; }
+    canvas { width:100%; height:auto; border:1px solid var(--grid); border-radius:10px; background:white; }
+    .readout { margin-top:.75rem; padding:.75rem; border-left:4px solid var(--accent); background:#f4f7f9; }
+    .legend { display:flex; flex-wrap:wrap; gap:1rem; font-size:.92rem; color:#52616b; }
+    .swatch { display:inline-block; width:1.4rem; height:.28rem; vertical-align:middle; margin-right:.35rem; }
+    @media (max-width:600px) { body{padding:.4rem} main{padding:.65rem}.controls{grid-template-columns:1fr}.legend{gap:.5rem} }
+  </style>
+</head>
+<body>
+<main>
+  <h1>Спектральный массив Марченко—Пастура</h1>
+  <p>Изменяйте отношение <em>c = p/n</em>. Ширина шумового спектра и масса в нуле меняются даже при истинной ковариации, равной единичной.</p>
+  <label for="ratio">Отношение размерности к числу наблюдений</label>
+  <div class="controls">
+    <input id="ratio" type="range" min="0.15" max="2.40" step="0.05" value="0.60" aria-describedby="summary">
+    <output id="ratioValue" for="ratio">c = 0.60</output>
+  </div>
+  <canvas id="plot" width="960" height="470" role="img" aria-label="Плотность Марченко—Пастура и её спектральные края"></canvas>
+  <div class="legend">
+    <span><i class="swatch" style="background:var(--pale)"></i>шумовой спектральный массив</span>
+    <span><i class="swatch" style="background:var(--accent)"></i>теоретические края</span>
+  </div>
+  <div class="readout" id="summary" aria-live="polite"></div>
+  <noscript><img src="../../random-matrix-theory/interactive-rmt-mp-spectrum.svg" alt="Статическая схема закона Марченко—Пастура"></noscript>
+</main>
+<script>
+  const slider = document.getElementById("ratio");
+  const value = document.getElementById("ratioValue");
+  const summary = document.getElementById("summary");
+  const canvas = document.getElementById("plot");
+  const ctx = canvas.getContext("2d");
+  const colors = {blue:"#406580", pale:"#b9cbd8", accent:"#d9772f", ink:"#20313d", grid:"#d9e1e6"};
+
+  function density(x,c,left,right){
+    if(x<=left || x>=right || x<=0) return 0;
+    return Math.sqrt((right-x)*(x-left))/(2*Math.PI*c*x);
+  }
+  function draw(){
+    const c=Number(slider.value), left=(1-Math.sqrt(c))**2, right=(1+Math.sqrt(c))**2;
+    value.textContent=`c = ${c.toFixed(2)}`;
+    const atom=c>1 ? 1-1/c : 0;
+    summary.textContent=`Края: E₋ = ${left.toFixed(3)}, E₊ = ${right.toFixed(3)}. `+
+      (atom>0 ? `Доля нулевых собственных значений стремится к ${atom.toFixed(3)}.` : "Атома в нуле нет.");
+    ctx.clearRect(0,0,canvas.width,canvas.height);
+    const m={l:75,r:32,t:35,b:62}, w=canvas.width-m.l-m.r, h=canvas.height-m.t-m.b;
+    const xmax=Math.max(5.0,right*1.12), samples=520;
+    let ymax=0, pts=[];
+    for(let i=0;i<=samples;i++){const x=xmax*i/samples,y=density(x,c,left,right);pts.push([x,y]);ymax=Math.max(ymax,y);}
+    ymax=Math.max(ymax*1.18,.35);
+    const sx=x=>m.l+w*x/xmax, sy=y=>m.t+h-h*y/ymax;
+    ctx.strokeStyle=colors.grid;ctx.lineWidth=1;
+    for(let i=0;i<=5;i++){const x=xmax*i/5;ctx.beginPath();ctx.moveTo(sx(x),m.t);ctx.lineTo(sx(x),m.t+h);ctx.stroke();}
+    for(let i=0;i<=4;i++){const y=ymax*i/4;ctx.beginPath();ctx.moveTo(m.l,sy(y));ctx.lineTo(m.l+w,sy(y));ctx.stroke();}
+    ctx.beginPath();ctx.moveTo(sx(left),sy(0));
+    pts.filter(p=>p[0]>=left&&p[0]<=right).forEach(p=>ctx.lineTo(sx(p[0]),sy(p[1])));
+    ctx.lineTo(sx(right),sy(0));ctx.closePath();ctx.fillStyle=colors.pale;ctx.fill();
+    ctx.beginPath();pts.forEach((p,i)=>i?ctx.lineTo(sx(p[0]),sy(p[1])):ctx.moveTo(sx(p[0]),sy(p[1])));
+    ctx.strokeStyle=colors.blue;ctx.lineWidth=4;ctx.stroke();
+    [left,right].forEach(edge=>{ctx.beginPath();ctx.moveTo(sx(edge),m.t);ctx.lineTo(sx(edge),m.t+h);ctx.strokeStyle=colors.accent;ctx.lineWidth=3;ctx.setLineDash([8,7]);ctx.stroke();ctx.setLineDash([]);});
+    ctx.strokeStyle=colors.ink;ctx.lineWidth=2;ctx.beginPath();ctx.moveTo(m.l,m.t);ctx.lineTo(m.l,m.t+h);ctx.lineTo(m.l+w,m.t+h);ctx.stroke();
+    ctx.fillStyle=colors.ink;ctx.font="20px system-ui";ctx.fillText("плотность",10,32);ctx.fillText("собственное значение",canvas.width/2-95,canvas.height-15);
+    ctx.font="18px system-ui";ctx.fillStyle=colors.accent;ctx.fillText("E₋",sx(left)-12,m.t+h+30);ctx.fillText("E₊",sx(right)-12,m.t+h+30);
+    if(atom>0){ctx.beginPath();ctx.arc(sx(0),sy(Math.min(ymax*.85,atom)),9,0,2*Math.PI);ctx.fillStyle=colors.accent;ctx.fill();ctx.fillText("атом в нуле",sx(0)+14,sy(Math.min(ymax*.85,atom))+6);}
+  }
+  slider.addEventListener("input",draw);
+  slider.addEventListener("keydown",event=>{
+    const step=Number(slider.step), delta=event.key==="ArrowRight"||event.key==="ArrowUp"?step:event.key==="ArrowLeft"||event.key==="ArrowDown"?-step:0;
+    if(delta){event.preventDefault();slider.value=String(Math.min(Number(slider.max),Math.max(Number(slider.min),Number(slider.value)+delta)));draw();}
+  });
+  draw();
+</script>
+</body>
+</html>

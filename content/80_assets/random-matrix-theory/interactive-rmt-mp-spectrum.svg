@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+  <title id="title">Спектральный массив Марченко—Пастура</title>
+  <desc id="desc">Статическая схема зависимости спектральных краёв и атома в нуле от отношения размерности к числу наблюдений.</desc>
+  <rect width="1200" height="620" fill="#ffffff"/>
+  <text x="55" y="62" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#20313d">Спектральный массив Марченко—Пастура</text>
+  <text x="55" y="102" font-family="Arial,sans-serif" font-size="21" fill="#52616b">Пример: c = p/n = 0,60</text>
+  <line x1="90" y1="485" x2="1120" y2="485" stroke="#20313d" stroke-width="3"/>
+  <line x1="90" y1="145" x2="90" y2="485" stroke="#20313d" stroke-width="3"/>
+  <path d="M125 485 C155 210, 265 180, 420 270 C610 375, 780 435, 915 485 Z" fill="#b9cbd8" stroke="#406580" stroke-width="5"/>
+  <line x1="125" y1="145" x2="125" y2="505" stroke="#d9772f" stroke-width="4" stroke-dasharray="12 9"/>
+  <line x1="915" y1="145" x2="915" y2="505" stroke="#d9772f" stroke-width="4" stroke-dasharray="12 9"/>
+  <text x="104" y="535" font-family="Arial,sans-serif" font-size="25" fill="#d9772f">E₋</text>
+  <text x="894" y="535" font-family="Arial,sans-serif" font-size="25" fill="#d9772f">E₊</text>
+  <text x="430" y="565" font-family="Arial,sans-serif" font-size="25" fill="#20313d">собственное значение</text>
+  <rect x="755" y="120" width="365" height="105" rx="12" fill="#f4f7f9" stroke="#aebdc7"/>
+  <text x="780" y="157" font-family="Arial,sans-serif" font-size="22" fill="#20313d">При c &gt; 1 появляется атом в нуле:</text>
+  <text x="780" y="197" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#d9772f">масса 1 - 1/c</text>
+  <text x="90" y="590" font-family="Arial,sans-serif" font-size="20" fill="#52616b">Края меняются даже при истинной ковариации I: ширина спектра создаётся конечной выборкой.</text>
+</svg>

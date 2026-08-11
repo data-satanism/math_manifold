@@ -127,4 +127,3 @@ $$
 - [[30_mathematics/kernel-methods/modules/04-exponential-rkhs-statistical-models|Модуль статистических моделей RKHS]].
 - [[50_bridges/hilbert-rkhs|Гильбертовы пространства, ядра и гауссовские процессы]].
 - [[50_bridges/iterative-solvers-gaussian-processes|Численные решатели для ковариационных систем]].
-

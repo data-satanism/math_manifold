@@ -185,4 +185,3 @@ $$
 - Hofmann, Schölkopf, Smola, PDF-с. 31–35, разделы 5.1.3–5.1.5 и 5.1.7, формулы (96)–(109), следствие 15.
 - [[30_mathematics/kernel-methods/theorems/log-partition-moment-geometry|Производные нормировки]].
 - [[30_mathematics/kernel-methods/theorems/constraint-generation-epsilon-guarantee|Добавление ограничений для большого пространства ответов]].
-

@@ -74,7 +74,7 @@ updated: 2026-07-30
 | 7.2 Переход к разреженным графам | 384–390 | [[30_mathematics/random-matrix-theory/modules/07-graph-spectra-community-detection]] | canonical |
 | 7.3–7.4 Итоги и практикум | 391–394 | [[30_mathematics/random-matrix-theory/modules/07-graph-spectra-community-detection]], [[70_labs/figures/rmt-chapters-02-08-v3]] | canonical |
 | 8.1 От гауссовых смесей к концентрированным векторам и GAN | 395–404 | [[30_mathematics/random-matrix-theory/modules/08-universality-real-data]], [[30_mathematics/random-matrix-theory/theorems/lipschitz-image-concentration]] | canonical |
-| 8.2 Универсальность в широком смысле для ML | 405–407 | [[30_mathematics/random-matrix-theory/modules/08-universality-real-data]] | canonical |
+| 8.2 Универсальность в широком смысле для машинного обучения | 405–407 | [[30_mathematics/random-matrix-theory/modules/08-universality-real-data]] | canonical |
 | 8.3 Обсуждение и выводы | 408–410 | [[30_mathematics/random-matrix-theory/random-matrix-theory-map]] | canonical |
 
 ## Дополнительные источники

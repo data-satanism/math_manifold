@@ -56,4 +56,3 @@ updated: 2026-07-27
 
 - [[70_labs/interactive/nonlinear-optimization-krylov-widgets|Интерактивы глав 17–21]].
 - [[30_mathematics/numerical-analysis/tyrtyshnikov-source-map|Карта источника]].
-

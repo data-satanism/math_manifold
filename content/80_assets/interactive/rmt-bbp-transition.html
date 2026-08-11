@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Интерактив: спайковый переход</title>
+  <style>
+    :root { --blue:#406580; --pale:#b9cbd8; --accent:#d9772f; --ink:#20313d; --grid:#d9e1e6; }
+    * { box-sizing:border-box; }
+    body { margin:0; padding:1rem; font:16px/1.45 system-ui,sans-serif; background:#fff; color:var(--ink); }
+    main { max-width:980px; margin:auto; border:1px solid #aebdc7; border-radius:14px; padding:1rem; }
+    h1 { margin:.1rem 0 .4rem; font-size:clamp(1.25rem,4vw,2rem); }
+    .grid { display:grid; grid-template-columns:1fr 1fr; gap:1rem; }
+    .control { padding:.7rem; background:#f4f7f9; border-radius:10px; }
+    input[type=range] { width:100%; min-height:2.5rem; accent-color:var(--accent); }
+    output { font-weight:700; font-variant-numeric:tabular-nums; }
+    canvas { width:100%; height:auto; border:1px solid var(--grid); border-radius:10px; margin-top:1rem; background:#fff; }
+    .readout { margin-top:.8rem; padding:.8rem; border-left:4px solid var(--accent); background:#f4f7f9; }
+    @media(max-width:620px){body{padding:.4rem}main{padding:.65rem}.grid{grid-template-columns:1fr}}
+  </style>
+</head>
+<body>
+<main>
+  <h1>Спайковый переход: когда сигнал становится видимым</h1>
+  <p>Управляйте отношением <em>c=p/n</em> и силой спайка <em>ℓ</em>. Отделение собственного значения начинается только после порога <em>ℓ=√c</em>.</p>
+  <div class="grid">
+    <div class="control">
+      <label for="ratio">Отношение размерности к числу наблюдений</label>
+      <input id="ratio" type="range" min="0.10" max="1.80" step="0.05" value="0.60">
+      <output id="ratioValue">c = 0.60</output>
+    </div>
+    <div class="control">
+      <label for="spike">Сила низкорангового сигнала</label>
+      <input id="spike" type="range" min="0.00" max="3.00" step="0.05" value="1.20">
+      <output id="spikeValue">ℓ = 1.20</output>
+    </div>
+  </div>
+  <canvas id="plot" width="960" height="470" role="img" aria-label="Шумовой спектральный массив, спайк и согласование направления"></canvas>
+  <div class="readout" id="summary" aria-live="polite"></div>
+  <noscript><img src="../../random-matrix-theory/interactive-rmt-bbp-transition.svg" alt="Статическая схема спайкового перехода"></noscript>
+</main>
+<script>
+  const ratio=document.getElementById("ratio"), spike=document.getElementById("spike");
+  const ratioValue=document.getElementById("ratioValue"), spikeValue=document.getElementById("spikeValue");
+  const summary=document.getElementById("summary"), canvas=document.getElementById("plot"), ctx=canvas.getContext("2d");
+  const colors={blue:"#406580",pale:"#b9cbd8",accent:"#d9772f",ink:"#20313d",grid:"#d9e1e6"};
+  function bindKeys(control){
+    control.addEventListener("keydown",event=>{
+      const step=Number(control.step), delta=event.key==="ArrowRight"||event.key==="ArrowUp"?step:event.key==="ArrowLeft"||event.key==="ArrowDown"?-step:0;
+      if(delta){event.preventDefault();control.value=String(Math.min(Number(control.max),Math.max(Number(control.min),Number(control.value)+delta)));draw();}
+    });
+  }
+  function draw(){
+    const c=Number(ratio.value), ell=Number(spike.value), threshold=Math.sqrt(c);
+    const left=(1-threshold)**2, right=(1+threshold)**2, visible=ell>threshold;
+    const outlier=visible?(1+ell)*(1+c/ell):right;
+    const overlap=visible?(1-c/(ell*ell))/(1+c/ell):0;
+    ratioValue.textContent=`c = ${c.toFixed(2)}`; spikeValue.textContent=`ℓ = ${ell.toFixed(2)}`;
+    summary.textContent=visible
+      ? `Сигнал выше порога ${threshold.toFixed(2)}: выброс расположен около ${outlier.toFixed(2)}, квадрат согласования ≈ ${overlap.toFixed(2)}.`
+      : `Сигнал не превышает порог ${threshold.toFixed(2)}: значение остаётся у шумового края ${right.toFixed(2)}, согласование исчезает.`;
+    ctx.clearRect(0,0,canvas.width,canvas.height);
+    const y=235, x0=75, x1=885, xmax=Math.max(6,outlier*1.15), sx=x=>x0+(x1-x0)*x/xmax;
+    ctx.strokeStyle=colors.grid;ctx.lineWidth=1;
+    for(let i=0;i<=6;i++){const x=xmax*i/6;ctx.beginPath();ctx.moveTo(sx(x),55);ctx.lineTo(sx(x),390);ctx.stroke();}
+    ctx.beginPath();ctx.moveTo(sx(left),y);ctx.quadraticCurveTo(sx((left+right)/2),75,sx(right),y);ctx.closePath();ctx.fillStyle=colors.pale;ctx.fill();ctx.strokeStyle=colors.blue;ctx.lineWidth=3;ctx.stroke();
+    ctx.strokeStyle=colors.ink;ctx.lineWidth=2;ctx.beginPath();ctx.moveTo(x0,y);ctx.lineTo(x1,y);ctx.stroke();
+    ctx.fillStyle=colors.ink;ctx.font="20px system-ui";ctx.fillText("шумовой спектральный массив",sx((left+right)/2)-125,62);
+    ctx.fillStyle=colors.accent;ctx.beginPath();ctx.arc(sx(outlier),y,11,0,2*Math.PI);ctx.fill();
+    ctx.font="19px system-ui";ctx.fillText(visible?"отделившийся сигнал":"сигнал скрыт у края",Math.min(sx(outlier)+16,x1-190),y-14);
+    ctx.setLineDash([7,6]);ctx.strokeStyle=colors.accent;ctx.beginPath();ctx.moveTo(sx(right),90);ctx.lineTo(sx(right),330);ctx.stroke();ctx.setLineDash([]);
+    ctx.fillText("E₊",sx(right)-12,355);
+    ctx.fillStyle=colors.blue;ctx.fillRect(75,405,(x1-x0)*overlap,18);
+    ctx.strokeStyle=colors.grid;ctx.strokeRect(75,405,x1-x0,18);
+    ctx.fillStyle=colors.ink;ctx.font="18px system-ui";ctx.fillText(`согласование направления: ${overlap.toFixed(2)}`,75,390);
+    ctx.fillStyle=colors.accent;ctx.fillText(`порог ℓ = √c = ${threshold.toFixed(2)}`,640,38);
+  }
+  ratio.addEventListener("input",draw);spike.addEventListener("input",draw);bindKeys(ratio);bindKeys(spike);draw();
+</script>
+</body>
+</html>

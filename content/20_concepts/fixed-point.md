@@ -37,10 +37,9 @@ updated: 2026-07-27
 - локальную/глобальную сходимость;
 - скорость и численную устойчивость.
 
-## Связь с AI
+## Связь с ИИ
 
 > [!info] established
 > Модель глубокого равновесия задаёт скрытое состояние как $z^*=F_\theta(z^*,x)$. Контроль константы Липшица помогает существованию и решению, но слишком сильное сжатие может ограничить выразительность.
 
 См. [[30_mathematics/functional-analysis/theorems/banach-fixed-point]], [[30_mathematics/functional-analysis/theorems/schauder-fixed-point]], [[50_bridges/frechet-fixed-points]].
-

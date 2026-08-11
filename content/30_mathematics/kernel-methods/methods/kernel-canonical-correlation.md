@@ -118,4 +118,3 @@ $$
 - Hofmann, Schölkopf, Smola, PDF-с. 40, раздел 6.2, формулы (113)–(114).
 - [[30_mathematics/kernel-methods/theorems/rkhs-cross-covariance-independence|Норма всей перекрёстной зависимости]].
 - [[50_bridges/kernel-independence-representation-learning|Мост к согласованию представлений]].
-

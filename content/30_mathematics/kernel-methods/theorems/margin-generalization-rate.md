@@ -161,4 +161,3 @@ $$
 
 - Hofmann, Schölkopf, Smola, PDF-с. 28, раздел 4.4 и формула (89).
 - [[20_concepts/tsybakov-noise-localization|Локализация и быстрые скорости]].
-

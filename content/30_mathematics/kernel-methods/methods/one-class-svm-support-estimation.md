@@ -50,7 +50,7 @@ $$
 
 $$
 \langle w,\Phi(x_i)\rangle\ge\rho-\xi_i,
-\qquad \xi_i\ge0,quad \nu\in(0,1].
+\qquad \xi_i\ge0,\quad \nu\in(0,1].
 $$
 
 Решающая функция
@@ -69,7 +69,7 @@ $$
 $$
 \min_{\alpha}\frac12\alpha^\top K\alpha,
 \qquad
-\mathbf1^\top\alpha=n\nu,quad 0\le\alpha_i\le1.
+\mathbf 1^\top\alpha=n\nu,\quad 0\le\alpha_i\le1.
 $$
 
 При другой распространённой нормировке верхняя граница равна $1/(\nu n)$, а сумма коэффициентов — единице. Содержательно это одна и та же задача после масштабирования.

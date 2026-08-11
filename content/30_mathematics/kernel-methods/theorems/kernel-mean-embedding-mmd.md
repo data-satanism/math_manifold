@@ -163,4 +163,3 @@ $$
 - Hofmann, Schölkopf, Smola, PDF-с. 41, раздел 6.3.
 - [[30_mathematics/kernel-methods/theorems/rkhs-cross-covariance-independence|HSIC как MMD между совместным распределением и произведением маргинальных]].
 - [[50_bridges/kernel-independence-representation-learning|Мониторинг распределений и представлений]].
-

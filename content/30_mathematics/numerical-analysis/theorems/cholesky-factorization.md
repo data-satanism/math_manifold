@@ -85,7 +85,8 @@ l_{jj}=\sqrt{a_{jj}-\sum_{k<j}l_{jk}^2},
 $$
 
 $$
-l_{ij}=rac{a_{ij}-\sum_{k<j}l_{ik}l_{jk}}{l_{jj}},
+l_{ij}=
+rac{a_{ij}-\sum_{k<j}l_{ik}l_{jk}}{l_{jj}},
 \qquad i>j.
 $$
 

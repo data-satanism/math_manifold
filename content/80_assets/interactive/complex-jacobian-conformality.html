@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Комплексный якобиан и конформность</title>
+  <style>
+    :root{--ink:#17324d;--blue:#527da3;--pale:#edf3f7;--accent:#d97732;--line:#b7c7d4}
+    *{box-sizing:border-box}body{margin:0;background:#fff;color:var(--ink);font:16px/1.45 system-ui,-apple-system,"Segoe UI",sans-serif}
+    main{max-width:1100px;margin:auto;padding:20px}h1{font-size:clamp(1.35rem,3vw,2rem);margin:0 0 6px}.grid{display:grid;grid-template-columns:minmax(0,2.1fr) minmax(260px,1fr);gap:18px}
+    canvas{width:100%;height:auto;border:1px solid var(--line);border-radius:12px}.controls{padding:16px;border:1px solid var(--line);border-radius:12px;background:var(--pale)}
+    label{display:block;font-weight:650;margin:0 0 16px}output{float:right;color:var(--accent);font-variant-numeric:tabular-nums}input[type=range]{width:100%;accent-color:var(--accent)}
+    button{border:1px solid var(--blue);border-radius:8px;background:#fff;padding:8px 12px;color:var(--ink);font-weight:650}button:focus-visible,input:focus-visible{outline:3px solid #efb184;outline-offset:2px}
+    .readout{background:#fff;border-left:4px solid var(--accent);padding:10px;margin-top:14px}.ok{color:#2f6e62}.bad{color:#a24d29}@media(max-width:780px){.grid{grid-template-columns:1fr}main{padding:12px}}
+  </style>
+</head>
+<body>
+<main>
+  <h1>Окружность как диагностический зонд якобиана</h1>
+  <p>Нулевая анизотропия даёт комплексно-линейный якобиан: окружность остаётся окружностью. Ползунки работают с клавиатуры.</p>
+  <div class="grid">
+    <canvas id="plot" width="820" height="620" role="img" aria-label="Окружность и её образ под действием якобиана"></canvas>
+    <section class="controls" aria-label="Параметры якобиана">
+      <label>Общий масштаб s <output id="sOut">1.20</output>
+        <input id="scale" type="range" min="0" max="2.2" value="1.2" step="0.05">
+      </label>
+      <label>Поворот θ <output id="tOut">30°</output>
+        <input id="angle" type="range" min="-180" max="180" value="30" step="1">
+      </label>
+      <label>Анизотропия δ <output id="dOut">0.00</output>
+        <input id="delta" type="range" min="0" max="0.9" value="0" step="0.02">
+      </label>
+      <button id="reset" type="button">Сбросить</button>
+      <div class="readout" id="readout" aria-live="polite"></div>
+      <p><strong>Идея.</strong> При δ = 0 оба сингулярных числа равны: первый порядок сохраняет углы.</p>
+      <p><strong>Граница.</strong> При s = 0 окружность схлопывается в точку; равенство масштабов тогда не означает сохранения информации.</p>
+    </section>
+  </div>
+  <noscript><p>Интерактив требует JavaScript. <a href="../../complex-analysis/interactive-complex-jacobian-conformality.svg">Открыть статическую схему</a>.</p></noscript>
+</main>
+<script>
+(() => {
+  const c=document.getElementById("plot"),g=c.getContext("2d"),scale=document.getElementById("scale"),angle=document.getElementById("angle"),delta=document.getElementById("delta");
+  const sOut=document.getElementById("sOut"),tOut=document.getElementById("tOut"),dOut=document.getElementById("dOut"),readout=document.getElementById("readout");
+  const ink="#17324d",blue="#527da3",accent="#d97732",grid="#d8e2e9";
+  function axes(cx,cy,title){g.strokeStyle=grid;g.lineWidth=1;for(let q=-2;q<=2;q+=.5){g.beginPath();g.moveTo(cx-170,cy-q*70);g.lineTo(cx+170,cy-q*70);g.moveTo(cx+q*70,cy-170);g.lineTo(cx+q*70,cy+170);g.stroke()}g.strokeStyle=ink;g.lineWidth=2;g.beginPath();g.moveTo(cx-180,cy);g.lineTo(cx+180,cy);g.moveTo(cx,cy-180);g.lineTo(cx,cy+180);g.stroke();g.fillStyle=ink;g.font="650 19px system-ui";g.fillText(title,cx-85,45)}
+  function draw(){
+    const s=+scale.value,t=+angle.value*Math.PI/180,d=+delta.value;sOut.value=s.toFixed(2);tOut.value=`${angle.value}°`;dOut.value=d.toFixed(2);
+    const s1=s*(1+d),s2=s*(1-d),ct=Math.cos(t),st=Math.sin(t);
+    const J=[[ct*s1,-st*s2],[st*s1,ct*s2]];
+    g.clearRect(0,0,c.width,c.height);const c1=205,c2=615,cy=315;axes(c1,cy,"исходный круг");axes(c2,cy,"образ под J");
+    function curve(transform,cx,color){g.strokeStyle=color;g.lineWidth=5;g.beginPath();for(let i=0;i<=360;i++){const q=2*Math.PI*i/360,v=transform(Math.cos(q),Math.sin(q)),x=cx+100*v[0],y=cy-100*v[1];i?g.lineTo(x,y):g.moveTo(x,y)}g.closePath();g.stroke()}
+    curve((x,y)=>[x,y],c1,blue);curve((x,y)=>[J[0][0]*x+J[0][1]*y,J[1][0]*x+J[1][1]*y],c2,accent);
+    for(let q=0;q<12;q++){const a=2*Math.PI*q/12,src=[Math.cos(a),Math.sin(a)],v=[J[0][0]*src[0]+J[0][1]*src[1],J[1][0]*src[0]+J[1][1]*src[1]];g.strokeStyle=q%3===0?ink:"#94adbf";g.lineWidth=1.4;g.beginPath();g.moveTo(c1,cy);g.lineTo(c1+100*src[0],cy-100*src[1]);g.moveTo(c2,cy);g.lineTo(c2+100*v[0],cy-100*v[1]);g.stroke()}
+    g.fillStyle=ink;g.font="22px serif";g.fillText(`J = R(θ) · diag(${s1.toFixed(2)}, ${s2.toFixed(2)})`,225,570);
+    const defect=Math.abs(s1-s2),collapsed=s<.08;
+    readout.innerHTML=collapsed?`<span class="bad">Коллапс:</span> J почти нулевой, геометрическая информация исчезает.`:defect<.02?`<span class="ok">Конформный режим:</span> σ₁ = σ₂ = ${s.toFixed(2)}.`:`<span class="bad">Анизотропный режим:</span> σ₁ = ${s1.toFixed(2)}, σ₂ = ${s2.toFixed(2)}; круг становится эллипсом.`;
+  }
+  function keyboardRange(el){
+    el.addEventListener("keydown",e=>{
+      const direction={ArrowRight:1,ArrowUp:1,ArrowLeft:-1,ArrowDown:-1}[e.key];
+      if(!direction)return;
+      e.preventDefault();
+      const step=Number(el.step)||1;
+      el.value=Math.max(Number(el.min),Math.min(Number(el.max),Number(el.value)+direction*step));
+      el.dispatchEvent(new Event("input",{bubbles:true}));
+    });
+  }
+  [scale,angle,delta].forEach(el=>{el.addEventListener("input",draw);keyboardRange(el)});document.getElementById("reset").addEventListener("click",()=>{scale.value=1.2;angle.value=30;delta.value=0;draw();scale.focus()});draw();
+})();
+</script>
+</body>
+</html>

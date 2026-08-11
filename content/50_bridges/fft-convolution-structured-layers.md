@@ -46,4 +46,3 @@ updated: 2026-07-27
 
 - [[60_sources/tyrtyshnikov-numerical-analysis|Тыртышников]], глава 24, стр. 253–263.
 - [[30_mathematics/numerical-analysis/modules/25-structured-toeplitz-circulant]].
-

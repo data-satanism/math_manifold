@@ -55,8 +55,8 @@ updated: 2026-07-27
 - глава 8 объединена с материалом Мышкиса в [[30_mathematics/linear-algebra/modules/08-linear-programming-duality-games|модуле линейного программирования]];
 - сертификат несовместности: [[30_mathematics/linear-algebra/theorems/gordan-alternative-theorem|теорема Гордана]];
 - критерий оптимальности: [[30_mathematics/linear-algebra/theorems/linear-programming-complementary-slackness|дополняющая нежёсткость]];
-- AI-перенос: [[50_bridges/linear-programming-structured-prediction|двойственные сертификаты и робастные смеси]];
+- перенос в ИИ: [[50_bridges/linear-programming-structured-prediction|двойственные сертификаты и устойчивые к возмущениям смеси]];
 - глава 7: [[30_mathematics/linear-algebra/modules/07-matrix-equations|кронекеровы произведения, уравнения Сильвестра и Ляпунова]];
 - спектральный критерий: [[30_mathematics/linear-algebra/theorems/sylvester-equation-uniqueness|единственность решения уравнения Сильвестра]];
-- AI-перенос: [[50_bridges/matrix-equations-control-learning|устойчивость, стационарные ковариации и неявное обучение]];
+- перенос в ИИ: [[50_bridges/matrix-equations-control-learning|устойчивость, стационарные ковариации и неявное обучение]];
 - глава 9: [[30_mathematics/linear-algebra/modules/09-positive-stochastic-matrices|положительная и марковская динамика]], [[30_mathematics/linear-algebra/theorems/perron-frobenius-theorem|теорема Перрона—Фробениуса]].

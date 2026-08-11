@@ -98,4 +98,3 @@ $$
 ## Источник
 
 [[60_sources/tyrtyshnikov-numerical-analysis|Тыртышников]], теорема 12.3.1, стр. 114–115.
-

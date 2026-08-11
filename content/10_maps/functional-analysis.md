@@ -16,7 +16,7 @@ source_refs:
 level: intermediate
 created: 2026-07-10
 updated: 2026-07-27
-description: "Полный маршрут по функциональному анализу с доказательствами и AI-мостами."
+description: "Полный маршрут по функциональному анализу с доказательствами и связями с ИИ."
 tags: [functional-analysis, course, map]
 ---
 
@@ -73,4 +73,3 @@ flowchart LR
 ## Источник и покрытие
 
 Полное соответствие подразделов и страниц находится в [[30_mathematics/functional-analysis/source-map|карте источника]]. Библиографическая карточка: [[60_sources/boss-functional-analysis|В. Босс — Функциональный анализ]].
-

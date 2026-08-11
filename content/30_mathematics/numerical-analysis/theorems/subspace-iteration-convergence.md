@@ -107,4 +107,3 @@ $$
 ## Источник
 
 [[60_sources/tyrtyshnikov-numerical-analysis|Тыртышников]], §§9.9–9.10, стр. 87–91.
-

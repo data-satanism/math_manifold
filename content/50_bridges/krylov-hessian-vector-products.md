@@ -74,4 +74,3 @@ $$
 - [[60_sources/tyrtyshnikov-numerical-analysis|Тыртышников]], глава 19, стр. 191–200.
 - [[50_bridges/newton-implicit-equilibrium|Ньютон и неявные модели]].
 - [[50_bridges/hessian-geometry-optimization|Геометрия кривизны]].
-

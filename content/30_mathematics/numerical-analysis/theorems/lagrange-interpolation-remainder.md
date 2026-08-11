@@ -112,4 +112,3 @@ $$
 ## Источник
 
 [[60_sources/tyrtyshnikov-numerical-analysis|Тыртышников]], теорема 12.5.1, стр. 116.
-

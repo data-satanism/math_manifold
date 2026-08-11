@@ -100,4 +100,3 @@ $$
 - [[30_mathematics/applied-mathematics/modules/08-dynamical-systems|Обзорный модуль]].
 - [[30_mathematics/applied-mathematics/theorems/floquet-multipliers-periodic-orbit|Устойчивость найденного цикла]].
 - [[50_bridges/dynamical-systems-recurrent-models|Мост к моделям скрытого состояния]].
-

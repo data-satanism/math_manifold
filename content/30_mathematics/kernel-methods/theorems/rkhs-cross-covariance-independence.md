@@ -160,4 +160,3 @@ $$
 - Hofmann, Schölkopf, Smola, PDF-с. 40–41, раздел 6.3, формула (115) и следовой критерий.
 - [[30_mathematics/kernel-methods/theorems/kernel-mean-embedding-mmd|Средние вложения и MMD]].
 - [[30_mathematics/kernel-methods/methods/kernel-canonical-correlation|Максимальная корреляция двух представлений]].
-

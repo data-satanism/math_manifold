@@ -159,4 +159,3 @@ $$
 
 - Hofmann, Schölkopf, Smola, PDF-с. 29, раздел 4.5 и формулы (90)–(91).
 - [[30_mathematics/kernel-methods/modules/03-margin-uniform-convergence|Модуль обобщения]].
-

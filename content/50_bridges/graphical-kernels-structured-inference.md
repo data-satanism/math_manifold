@@ -118,4 +118,3 @@ $$
 - [[30_mathematics/kernel-methods/theorems/clique-representer-sparse-expansion|Кликовое представление]].
 - [[30_mathematics/kernel-methods/methods/graphical-kernel-probabilistic-inference|Вероятностный вывод]].
 - [[50_bridges/linear-programming-structured-prediction|Линейное программирование и структурное предсказание]].
-

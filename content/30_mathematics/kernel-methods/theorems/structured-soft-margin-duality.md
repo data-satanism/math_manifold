@@ -215,4 +215,3 @@ $$
 - Hofmann, Schölkopf, Smola, PDF-с. 32–33, предложение 16 и формулы (103)–(104).
 - Обзор ссылается на Tsochantaridis et al. (2005); перед `canonical` требуется сверка масштабов и предпосылок с первичной работой.
 - [[30_mathematics/kernel-methods/methods/conditional-exponential-rkhs-model|Условная модель и функции риска]].
-

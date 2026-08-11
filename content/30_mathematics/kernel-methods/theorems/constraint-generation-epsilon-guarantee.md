@@ -185,4 +185,3 @@ $$
 - Hofmann, Schölkopf, Smola, PDF-с. 33–34, формула (105), теорема 17 и следствие 18.
 - Первичный источник, требующий сверки перед `canonical`: Tsochantaridis et al. (2005).
 - [[30_mathematics/kernel-methods/theorems/structured-soft-margin-duality|Двойственная задача и опорные пары]].
-

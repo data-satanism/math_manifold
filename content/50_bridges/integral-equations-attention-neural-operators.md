@@ -182,4 +182,3 @@ $$
 - [[30_mathematics/applied-mathematics/theorems/sokhotski-plemelj-boundary-values|Сингулярные граничные операторы]].
 - [[50_bridges/operator-equations|Обратные задачи и регуляризация]].
 - [[50_bridges/frechet-fixed-points|Неявные слои и неподвижные точки]].
-

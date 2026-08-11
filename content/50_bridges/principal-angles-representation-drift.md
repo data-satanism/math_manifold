@@ -88,4 +88,3 @@ $$
 
 - [[60_sources/tyrtyshnikov-numerical-analysis|Тыртышников]], §§9.4–9.10, стр. 83–91.
 - [[50_bridges/qr-subspace-low-rank|QR и устойчивые подпространственные методы]].
-

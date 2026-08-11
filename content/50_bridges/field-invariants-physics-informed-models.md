@@ -1,7 +1,7 @@
 ---
 id: bridge-field-invariants-physics-informed-models
 title: "Интегральные инварианты поля → физически информированные модели"
-aliases: ["Field invariants to physics-informed models", "Интегральные законы в neural operators"]
+aliases: ["Field invariants to physics-informed models", "Интегральные законы в нейронные операторы"]
 type: application
 status: canonical
 publish: true
@@ -107,4 +107,3 @@ $$
 - [[30_mathematics/applied-mathematics/modules/01-field-theory|Теория поля]].
 - [[50_bridges/galerkin-neural-operators|Галёркинские пространства и нейронные операторы]].
 - [[50_bridges/operator-equations|Операторные уравнения и обратные задачи]].
-

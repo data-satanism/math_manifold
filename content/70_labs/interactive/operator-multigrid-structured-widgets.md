@@ -62,4 +62,3 @@ updated: 2026-07-27
 
 - [[30_mathematics/numerical-analysis/tyrtyshnikov-source-map]].
 - [[70_labs/figures/tyrtyshnikov-chapters-22-25]].
-

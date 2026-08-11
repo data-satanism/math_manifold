@@ -112,4 +112,3 @@ $$
 - [[30_mathematics/linear-algebra/theorems/linear-programming-complementary-slackness|Критерий дополняющей нежёсткости]].
 - [[30_mathematics/functional-analysis/modules/12-positive-operators|Конусы и положительные операторы]].
 - [[50_bridges/hessian-geometry-optimization|Геометрия оптимизации]].
-

@@ -156,4 +156,3 @@ $$
 - [[30_mathematics/applied-mathematics/modules/07-integral-equations|Обзорный модуль]].
 - [[30_mathematics/applied-mathematics/theorems/hilbert-schmidt-symmetric-kernel-expansion|Спектральное разложение симметричного ядра]].
 - [[50_bridges/integral-equations-attention-neural-operators|Мост к операторным слоям ИИ]].
-

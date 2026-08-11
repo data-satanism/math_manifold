@@ -7,4 +7,3 @@
 <text class="ttl" x="42" y="330">В. Секущая</text><path class="i" d="M55 490C140 330 280 350 450 490"/><path class="i" d="M55 495H455"/><circle class="dot" cx="135" cy="390" r="6"/><circle class="dot" cx="245" cy="385" r="6"/><path class="m" d="M135 390L330 495"/><circle class="dot" cx="330" cy="495" r="6"/><text class="small" x="95" y="522">две точки заменяют производную</text>
 <text class="ttl" x="537" y="330">Г. Неявный слой</text><rect x="590" y="365" width="210" height="70" rx="10" fill="#edf3f7" stroke="#6e879b"/><text class="txt" x="635" y="407">преобразование</text><circle cx="875" cy="400" r="32" fill="#fff" stroke="#17324d" stroke-width="2"/><text class="txt" x="864" y="407">z</text><path class="i" d="M800 400H840"/><path class="a" marker-end="url(#arr)" d="M875 432V485H610V438"/><text class="small" x="700" y="510">поиск равновесия</text>
 </svg>
-

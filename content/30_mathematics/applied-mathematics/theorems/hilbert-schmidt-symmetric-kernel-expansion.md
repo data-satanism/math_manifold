@@ -149,4 +149,3 @@ $$
 - [[30_mathematics/functional-analysis/modules/10-spectral-theory|Спектральная теория операторов]].
 - [[30_mathematics/applied-mathematics/theorems/degenerate-kernel-finite-rank-reduction|Конечномерная редукция]].
 - [[50_bridges/integral-equations-attention-neural-operators|Мост к операторным моделям ИИ]].
-

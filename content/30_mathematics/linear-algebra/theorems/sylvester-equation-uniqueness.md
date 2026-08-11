@@ -151,4 +151,3 @@ $$
 - [[30_mathematics/linear-algebra/modules/07-matrix-equations|Кронекеровы произведения и матричные уравнения]].
 - [[50_bridges/matrix-equations-control-learning|Матричные уравнения в контроле и обучении]].
 - [[50_bridges/operators-spectrum|Операторы и спектральная диагностика]].
-

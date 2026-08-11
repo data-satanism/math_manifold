@@ -50,7 +50,7 @@ $$
 \min_{\alpha}
 \frac12\alpha^\top Q\alpha-\mathbf1^\top\alpha,
 \qquad
-\alpha^\top y=0,quad 0\le\alpha_i\le C,
+\alpha^\top y=0,\quad 0\le\alpha_i\le C,
 $$
 
 где $Q_{ij}=y_i y_j k(x_i,x_j)$. В оптимуме
@@ -156,4 +156,3 @@ $$
 - Hofmann, Schölkopf, Smola, с. 20–22, формулы (71)–(76).
 - [[30_mathematics/kernel-methods/modules/02-support-vector-estimation|Модуль методов опорных векторов]].
 - [[20_concepts/positive-definite-kernel|Положительно определённое ядро]].
-

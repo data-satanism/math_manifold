@@ -54,4 +54,3 @@ updated: 2026-07-27
 ## Источник
 
 [[60_sources/tyrtyshnikov-numerical-analysis|Тыртышников]], §§11.1–11.8, стр. 103–110.
-

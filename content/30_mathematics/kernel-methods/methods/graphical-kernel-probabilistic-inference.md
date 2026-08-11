@@ -109,4 +109,3 @@ $w$ называется древесной шириной. Малое числ�
 - Источники, указанные обзором: Jensen et al. (1990), Dawid (1992), Baum (1972), Wainwright and Jordan (2003).
 - [[30_mathematics/kernel-methods/methods/conditional-exponential-rkhs-model|Условная экспоненциальная модель RKHS]].
 - [[30_mathematics/kernel-methods/theorems/constraint-generation-epsilon-guarantee|Оракул наиболее нарушающего ответа]].
-

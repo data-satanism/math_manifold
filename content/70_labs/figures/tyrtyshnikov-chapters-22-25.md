@@ -54,4 +54,3 @@ updated: 2026-07-27
 
 - [[70_labs/interactive/operator-multigrid-structured-widgets]].
 - [[30_mathematics/numerical-analysis/tyrtyshnikov-source-map]].
-

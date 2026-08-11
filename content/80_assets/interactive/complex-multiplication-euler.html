@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Комплексное умножение и формула Эйлера</title>
+  <style>
+    :root{color-scheme:light;--ink:#17324d;--blue:#527da3;--pale:#edf3f7;--accent:#d97732;--line:#b7c7d4}
+    *{box-sizing:border-box} body{margin:0;background:#fff;color:var(--ink);font:16px/1.45 system-ui,-apple-system,"Segoe UI",sans-serif}
+    main{max-width:1060px;margin:auto;padding:20px} h1{font-size:clamp(1.35rem,3vw,2rem);margin:0 0 6px} p{margin:6px 0 16px}
+    .grid{display:grid;grid-template-columns:minmax(0,2fr) minmax(250px,1fr);gap:18px}
+    canvas{width:100%;height:auto;border:1px solid var(--line);border-radius:12px;background:#fff}
+    .controls{border:1px solid var(--line);border-radius:12px;background:var(--pale);padding:16px}
+    label{display:block;font-weight:650;margin:0 0 16px} output{float:right;color:var(--accent);font-variant-numeric:tabular-nums}
+    input[type=range]{width:100%;accent-color:var(--accent)} button{border:1px solid var(--blue);border-radius:8px;background:#fff;color:var(--ink);padding:8px 12px;font-weight:650;cursor:pointer}
+    button:focus-visible,input:focus-visible{outline:3px solid #efb184;outline-offset:2px}
+    .formula{margin-top:16px;padding:12px;border-left:4px solid var(--accent);background:#fff}
+    .legend{display:flex;gap:16px;flex-wrap:wrap;font-size:.92rem;margin-top:10px}.dot{display:inline-block;width:12px;height:3px;vertical-align:middle;margin-right:5px;background:var(--blue)}.dot.a{background:var(--accent)}
+    @media(max-width:760px){.grid{grid-template-columns:1fr}main{padding:12px}}
+  </style>
+</head>
+<body>
+<main>
+  <h1>Комплексное умножение как поворот и масштабирование</h1>
+  <p>Меняйте исходный угол, масштаб и дополнительный поворот. Ползунки доступны с клавиатуры стрелками.</p>
+  <div class="grid">
+    <section aria-label="Диаграмма комплексного умножения">
+      <canvas id="plot" width="720" height="600" role="img" aria-label="Исходный комплексный вектор и результат умножения"></canvas>
+      <div class="legend"><span><i class="dot"></i>исходный $z$</span><span><i class="dot a"></i>образ $wz$</span></div>
+    </section>
+    <section class="controls" aria-label="Параметры">
+      <label>Угол исходного вектора <output id="thetaOut">30°</output>
+        <input id="theta" type="range" min="-180" max="180" value="30" step="1">
+      </label>
+      <label>Масштаб ρ <output id="rhoOut">1.40</output>
+        <input id="rho" type="range" min="0.2" max="2.4" value="1.4" step="0.05">
+      </label>
+      <label>Поворот φ <output id="phiOut">45°</output>
+        <input id="phi" type="range" min="-180" max="180" value="45" step="1">
+      </label>
+      <button id="reset" type="button">Сбросить</button>
+      <div class="formula" id="formula" aria-live="polite"></div>
+      <p><strong>Идея.</strong> Модули перемножаются, углы складываются. При ρ = 1 множитель $e^{iφ}$ задаёт чистое вращение.</p>
+      <p><strong>Граница.</strong> Показанный угол определяется по модулю 360°; обратный аргумент требует выбора ветви.</p>
+    </section>
+  </div>
+  <noscript><p>Интерактив требует JavaScript. <a href="../../complex-analysis/interactive-complex-multiplication-euler.svg">Открыть статическую схему</a>.</p></noscript>
+</main>
+<script>
+(() => {
+  const c=document.getElementById("plot"),x=c.getContext("2d");
+  const theta=document.getElementById("theta"),rho=document.getElementById("rho"),phi=document.getElementById("phi");
+  const thetaOut=document.getElementById("thetaOut"),rhoOut=document.getElementById("rhoOut"),phiOut=document.getElementById("phiOut"),formula=document.getElementById("formula");
+  const ink="#17324d",blue="#527da3",accent="#d97732",line="#d6e0e7";
+  function arrow(cx,cy,ang,len,color,label){
+    const ex=cx+len*Math.cos(ang),ey=cy-len*Math.sin(ang);
+    x.strokeStyle=color;x.fillStyle=color;x.lineWidth=5;x.beginPath();x.moveTo(cx,cy);x.lineTo(ex,ey);x.stroke();
+    const a=Math.atan2(cy-ey,ex-cx);x.beginPath();x.moveTo(ex,ey);x.lineTo(ex-15*Math.cos(a-.45),ey+15*Math.sin(a-.45));x.lineTo(ex-15*Math.cos(a+.45),ey+15*Math.sin(a+.45));x.closePath();x.fill();
+    x.font="600 22px system-ui";x.fillText(label,ex+10,ey-10);
+  }
+  function draw(){
+    const t=+theta.value*Math.PI/180,p=+phi.value*Math.PI/180,r=+rho.value;
+    thetaOut.value=`${theta.value}°`;rhoOut.value=r.toFixed(2);phiOut.value=`${phi.value}°`;
+    formula.innerHTML=`z = e<sup>i·${theta.value}°</sup><br>w = ${r.toFixed(2)}e<sup>i·${phi.value}°</sup><br>wz = ${r.toFixed(2)}e<sup>i·${(+theta.value + +phi.value)}°</sup>`;
+    x.clearRect(0,0,c.width,c.height);const cx=360,cy=300,scale=155;
+    x.strokeStyle=line;x.lineWidth=1;
+    for(let q=.5;q<=2.5;q+=.5){x.beginPath();x.arc(cx,cy,scale*q/1.5,0,Math.PI*2);x.stroke()}
+    x.strokeStyle=ink;x.lineWidth=2;x.beginPath();x.moveTo(40,cy);x.lineTo(680,cy);x.moveTo(cx,40);x.lineTo(cx,560);x.stroke();
+    x.fillStyle=ink;x.font="18px system-ui";x.fillText("Re",650,290);x.fillText("Im",370,55);x.fillText("0",342,323);
+    arrow(cx,cy,t,scale,blue,"z");arrow(cx,cy,t+p,scale*r,accent,"wz");
+    x.strokeStyle=accent;x.lineWidth=3;x.beginPath();x.arc(cx,cy,80,-t-p,-t,t+p<0);x.stroke();
+    x.fillStyle=accent;x.font="600 20px system-ui";x.fillText("φ",cx+86*Math.cos(t+p/2),cy-86*Math.sin(t+p/2));
+  }
+  function keyboardRange(el){
+    el.addEventListener("keydown",e=>{
+      const direction={ArrowRight:1,ArrowUp:1,ArrowLeft:-1,ArrowDown:-1}[e.key];
+      if(!direction)return;
+      e.preventDefault();
+      const step=Number(el.step)||1;
+      el.value=Math.max(Number(el.min),Math.min(Number(el.max),Number(el.value)+direction*step));
+      el.dispatchEvent(new Event("input",{bubbles:true}));
+    });
+  }
+  [theta,rho,phi].forEach(el=>{el.addEventListener("input",draw);keyboardRange(el)});
+  document.getElementById("reset").addEventListener("click",()=>{theta.value=30;rho.value=1.4;phi.value=45;draw();theta.focus()});
+  draw();
+})();
+</script>
+</body>
+</html>

@@ -146,4 +146,3 @@ $$
 - [[60_sources/myshkis-applied-mathematics-engineers|Мышкис]], с. 269–274: символы Кристоффеля, связность и ковариантное дифференцирование.
 - [[30_mathematics/applied-mathematics/modules/05-tensor-calculus|Тензоры, ковариантность и геометрия]].
 - [[50_bridges/tensors-geometric-deep-learning|Тензоры и геометрическое глубокое обучение]].
-

@@ -141,4 +141,3 @@ $$
 - [[30_mathematics/linear-algebra/modules/07-matrix-equations|Уравнение Ляпунова для линейной системы]].
 - [[30_mathematics/applied-mathematics/modules/08-dynamical-systems|Обзорный модуль]].
 - [[50_bridges/dynamical-systems-recurrent-models|Мост к устойчивым моделям ИИ]].
-

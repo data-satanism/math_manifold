@@ -144,4 +144,3 @@ $$
 - [[60_sources/myshkis-applied-mathematics-engineers|Мышкис]], с. 234–246: многогранная геометрия и последовательное улучшение решения.
 - [[30_mathematics/linear-algebra/modules/08-linear-programming-duality-games|Линейное программирование, двойственность и матричные игры]].
 - [[50_bridges/linear-programming-structured-prediction|Перенос к структурному предсказанию]].
-

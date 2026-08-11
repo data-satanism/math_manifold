@@ -32,7 +32,7 @@ updated: 2026-07-27
 | 3.2 | Estimating the Support of a Density | 22 | интегрировано: [[30_mathematics/kernel-methods/methods/one-class-svm-support-estimation]] |
 | 3.3 | Regression Estimation | 23 | интегрировано: [[30_mathematics/kernel-methods/methods/epsilon-insensitive-kernel-regression]] |
 | 3.4 | Multicategory Classification, Ranking and Ordinal Regression | 24 | интегрировано: [[30_mathematics/kernel-methods/theorems/structured-margin-loss-bound]] |
-| 3.5 | Applications of SVM Algorithms | 25 | интегрировано: примеры и диагностика в [[50_bridges/support-vector-margins-robust-ai|AI-мосте]] |
+| 3.5 | Applications of SVM Algorithms | 25 | интегрировано: примеры и диагностика в [[50_bridges/support-vector-margins-robust-ai|связь с ИИе]] |
 | 4.1 | Margins and Empirical Risk | 26–27 | интегрировано: [[30_mathematics/kernel-methods/modules/03-margin-uniform-convergence]] |
 | 4.2 | Uniform Convergence and Rademacher Averages | 27–28 | интегрировано: [[30_mathematics/kernel-methods/theorems/rademacher-uniform-convergence]], [[30_mathematics/kernel-methods/theorems/rkhs-rademacher-complexity]] |
 | 4.3 | Upper Bounds and Convex Functions | 28 | интегрировано: [[30_mathematics/kernel-methods/theorems/surrogate-excess-risk-transfer]] |

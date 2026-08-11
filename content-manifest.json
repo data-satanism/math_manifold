@@ -10,47 +10,82 @@
     {
       "id": "adjoint-operator",
       "path": "20_concepts/adjoint-operator.md",
-      "sha256": "94692b54bb55dcbd5520edf2da54dc914621e7a4ec2a13301e69170003ed841e"
+      "sha256": "261bb93ef11279ad817907e841bdacdfe8b3151c5d524c2c41598b69ef3f0e4b"
+    },
+    {
+      "id": "ai-domain-computer-vision",
+      "path": "40_ai_domains/computer-vision.md",
+      "sha256": "d1724d30742e82aeb23453030167fbc1a6f59caece510a6e824d09d7eb192822"
+    },
+    {
+      "id": "ai-domain-graph-machine-learning",
+      "path": "40_ai_domains/graph-machine-learning.md",
+      "sha256": "be8b0432547724d3dde3ebd0d019af9604a5dfb2e4566adace77b8692deca4d8"
+    },
+    {
+      "id": "ai-domain-large-language-models",
+      "path": "40_ai_domains/large-language-models.md",
+      "sha256": "9cec3ada67ac9c9b1163aed12fa17deb2e3f14b65e89dc8d810a3ec6271770d6"
+    },
+    {
+      "id": "ai-domain-model-compression",
+      "path": "40_ai_domains/model-compression.md",
+      "sha256": "4a53df0989b960c1f52cebfddc21f2c649849ed6ade9709780165d828662405f"
+    },
+    {
+      "id": "ai-domain-navigation-map",
+      "path": "10_maps/ai-domain-navigation.md",
+      "sha256": "1390f3df1e596a1c9a318c65627af5975cd193e4ebcfe52c554321c9a0667aa4"
+    },
+    {
+      "id": "ai-domain-scientific-industrial-ai",
+      "path": "40_ai_domains/scientific-industrial-ai.md",
+      "sha256": "875d995f2d27e9898aecdea09b839dce80e78c392afc52c7cdcddbd07620d119"
+    },
+    {
+      "id": "ai-domain-time-series",
+      "path": "40_ai_domains/time-series.md",
+      "sha256": "9a673ee1f3a8a1bae5e6e7ff546f7f81e6365a0d286e03c338e3ee399befd9a6"
     },
     {
       "id": "apm-01-field-theory",
       "path": "30_mathematics/applied-mathematics/modules/01-field-theory.md",
-      "sha256": "0312daa3c7aa6fb76836bb6cd371f0efd18ff0355ac80c3861b62a1151b75d73"
+      "sha256": "8894992d4dd3fd56d1de739b13bb671a9b5ae6c08ea1e693f2d1d241a6c4d4be"
     },
     {
       "id": "apm-02-complex-analysis",
       "path": "30_mathematics/applied-mathematics/modules/02-complex-analysis.md",
-      "sha256": "02265e683b330ae476142f2b11eb680bd945e1b67555e46345f2d57635ef41f0"
+      "sha256": "15cf46b2204e57d4035ac1f0945f8fdb108b8d5b5b111bca2cd3a1d34900c8dc"
     },
     {
       "id": "apm-03-operational-calculus",
       "path": "30_mathematics/applied-mathematics/modules/03-operational-calculus.md",
-      "sha256": "d354c5102651776f32c21142ecd2776d893d716d90b67411da35bf14686dcf07"
+      "sha256": "e4dc4511e6ed45f4b99fb3d319659004de1644f684448072034edda2ef119db6"
     },
     {
       "id": "apm-05-tensor-calculus",
       "path": "30_mathematics/applied-mathematics/modules/05-tensor-calculus.md",
-      "sha256": "c8fe327151b5d32ff2ac0b93b41f2a1a6a68eed29b4d93f81d31e7b710bc8a2e"
+      "sha256": "7265868a286167199b70eb90117fe3b152316a5831d68fe1d085cb74408a67dc"
     },
     {
       "id": "apm-06-calculus-of-variations",
       "path": "30_mathematics/applied-mathematics/modules/06-calculus-of-variations.md",
-      "sha256": "80edc9766deffd8e12f28c89631b5a0d1710857f49f1f3548bf082595a644a97"
+      "sha256": "313762a65eef41c5627b2309768170c9bfb17c1dd8142be825fda157ec58e646"
     },
     {
       "id": "apm-07-integral-equations",
       "path": "30_mathematics/applied-mathematics/modules/07-integral-equations.md",
-      "sha256": "789c90896431301a7c98bc96c0d29729b1fb5f1ade7db32e6c35ebdd7d8c2702"
+      "sha256": "18396f2567a04417bc51f2f3c2c41e6b5c8aa12e17e1edd792650f0936fb3bf1"
     },
     {
       "id": "apm-08-dynamical-systems",
       "path": "30_mathematics/applied-mathematics/modules/08-dynamical-systems.md",
-      "sha256": "c411f4c4fc5ed8720e97bc49fb65e6007a30740a59b977d4175318727be8b7c5"
+      "sha256": "89f33cf64f6c17909d8d745ff6f4ca4ef1f3ff4aa9e2b9dbbf89e87cf7eec621"
     },
     {
       "id": "apm-linear-programming",
       "path": "30_mathematics/linear-algebra/modules/08-linear-programming-duality-games.md",
-      "sha256": "ab4c4572477362d207cbfbfcaacbbac73fb6443524ecec4c579d8bdc54b1bcaf"
+      "sha256": "a6fbb05eb4d46e548a1a62b920e51359c46974e0b0d9d3afbff1cde32508c8a3"
     },
     {
       "id": "applied-mathematics-map",
@@ -60,22 +95,22 @@
     {
       "id": "arnoldi-lanczos-method",
       "path": "30_mathematics/numerical-analysis/methods/arnoldi-lanczos.md",
-      "sha256": "a8148b63b25161e07d422a30727e7c862af0ab826b64a20c6802b65db89c62ea"
+      "sha256": "711682f01aa369d5fef50cf195a3bfda0f3f48524f9f4b2e9a57cf4574fed33e"
     },
     {
       "id": "averaging-slow-amplitude-phase",
       "path": "30_mathematics/applied-mathematics/methods/averaging-slow-amplitude-phase.md",
-      "sha256": "aacca43c725c7045905642e555d90f3ab24e223bf165da1ca0f514e7737abe04"
+      "sha256": "ba2b89c6496cca968d8949d8bbf67513a835136a0122fbd5a8ae2334423b20ea"
     },
     {
       "id": "backward-stability",
       "path": "20_concepts/backward-stability.md",
-      "sha256": "21fb9c39929432113f8352494c092fc6ed43e7a6b321c3803790892483f46758"
+      "sha256": "3983fcbaaff95a7abfd4f97093be20bff8e9a038888f9762a204513684bd0bbe"
     },
     {
       "id": "banach-space",
       "path": "20_concepts/banach-space.md",
-      "sha256": "ab17a5e62c96305a73493bcdc92ae3b3293df07c18f00847af4e8dc5fa5ca7fd"
+      "sha256": "b2c4565cde6e3600bc1172c52ff8758c388b83a729f4007f0404ffad1f3848e8"
     },
     {
       "id": "banded-inverse-decay-theorem",
@@ -95,7 +130,12 @@
     {
       "id": "bernstein-ellipse-interpolation-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/bernstein-ellipse-interpolation.md",
-      "sha256": "65b7e9a3d520c896fbec81ac29f733766ee671a077bc72ea67a7f3fa8c36de1c"
+      "sha256": "e8bcd69b7ac45ded9252daf9d56c595e793ba11dc7c92c08811874cd69503c16"
+    },
+    {
+      "id": "bernstein-inequality",
+      "path": "30_mathematics/probability/theorems/bernstein-inequality.md",
+      "sha256": "3d886ba9c51ebf17eb63faea350b56a770cc2b4adad559ea701c837a81356884"
     },
     {
       "id": "bidiagonal-svd-iteration",
@@ -105,12 +145,12 @@
     {
       "id": "boss-fa-source-map",
       "path": "30_mathematics/functional-analysis/source-map.md",
-      "sha256": "cea2abbebea06eb5d94819e57e2abd1363b7483f380afebebec9fd75ed0ee5bb"
+      "sha256": "58fd45cc63974751147c28ce3a2e25e80d442ee10a87afb1566e5d407bb56464"
     },
     {
       "id": "boss-linear-algebra-map",
       "path": "30_mathematics/linear-algebra/boss-linear-algebra-map.md",
-      "sha256": "dda18ea2917d83b8e5ddff2ecc05be659770d1f1a32950f07558f99e4933814f"
+      "sha256": "05c5c3d15b7b3720a77cf5b0ead67d9b6f72f96eff68eaa87cf272451e364de2"
     },
     {
       "id": "boss-linear-algebra-source-map",
@@ -120,7 +160,12 @@
     {
       "id": "bounded-operator",
       "path": "20_concepts/bounded-operator.md",
-      "sha256": "d3575a5c11bc063c8fc2c04d0182ed3bf000f6145683e3f276fbebabc018909a"
+      "sha256": "c75054ccec2a67a1322eb612d97a443eff8ecad290e685f3e2f00f5b3ce4b6b7"
+    },
+    {
+      "id": "bridge-analytic-continuation-inverse-problems",
+      "path": "50_bridges/analytic-continuation-inverse-problems.md",
+      "sha256": "0c7bb68e4a04a59494f329a74c1f535b4b207607e13574a3316a0d913f22e8c8"
     },
     {
       "id": "bridge-backward-stability-mixed-precision",
@@ -138,34 +183,49 @@
       "sha256": "97d2de918e7c5db1f3d1f110919dbce4599b9a737cb7228435cc697d37720bee"
     },
     {
+      "id": "bridge-concentration-generalization-auditing",
+      "path": "50_bridges/concentration-generalization-auditing.md",
+      "sha256": "d002ae42aff29b70d0c81d88e74a5a3df95c4d49e2433b8ec5a57fe3e59e1803"
+    },
+    {
       "id": "bridge-conditioning-optimization-geometry",
       "path": "50_bridges/conditioning-optimization-geometry.md",
       "sha256": "b2c0f7ddb8e25cb0e82844a3620428041689e93ccd02225cddcb6fd3dee46895"
     },
     {
+      "id": "bridge-conformal-regularization-complex-representations",
+      "path": "50_bridges/conformal-regularization-complex-representations.md",
+      "sha256": "3ef40e3705a3a0280ebd5d4fc74b10c96151ee71cec01ea427e025d5e554a7e1"
+    },
+    {
       "id": "bridge-distributions-convolution",
       "path": "50_bridges/distributions-convolution.md",
-      "sha256": "6dfaf6948f2910969d092d6fcae041be4ad7def6a5405f0aeec11efdc1f45234"
+      "sha256": "b1a6a56b9334a4c43faf7659fa4e5212ec5bb545ee48de1a7b12b4a13addde20"
     },
     {
       "id": "bridge-dynamical-systems-recurrent-models",
       "path": "50_bridges/dynamical-systems-recurrent-models.md",
-      "sha256": "12e5bb16d0c4d5a5f0f34737c4413070886f6530596def45c43b896dfc5994c8"
+      "sha256": "6987dae55f3657ab69823ca3ad5ac1899aab2bfc2654833c3722ce13412607e1"
+    },
+    {
+      "id": "bridge-empirical-processes-adaptive-generalization",
+      "path": "50_bridges/empirical-processes-adaptive-generalization.md",
+      "sha256": "a26eb728aa1f831225e08bc83d88b10410b2f75c845f5ea279da9bab8d426c76"
     },
     {
       "id": "bridge-fft-convolution-structured-layers",
       "path": "50_bridges/fft-convolution-structured-layers.md",
-      "sha256": "3e95c5752e6b05a4d02c3fe8a052b06d2db136efdbeff43b1ebc67e0561cea51"
+      "sha256": "dc6c7d81971e52af827cad204eed7ab64add2ca06d14332f9500209f6600ddbc"
     },
     {
       "id": "bridge-field-invariants-physics-informed-models",
       "path": "50_bridges/field-invariants-physics-informed-models.md",
-      "sha256": "c332a95d1546ca556c1155dbcbb08719bf74d6e9163fc7651b0ed7833272d4d6"
+      "sha256": "60ad14ce9425166d054774ee1d92e7f77fc453b8a23006ba11a7d5fe53379132"
     },
     {
       "id": "bridge-frechet-fixed-points",
       "path": "50_bridges/frechet-fixed-points.md",
-      "sha256": "c370159915d16aea7c0179439665db81e8cb24be5bbab9fdf77b60797c071810"
+      "sha256": "ee2715208bb6245c881e179719aff87f3d5375aed54f3a9aaad5d23f077a4ec8"
     },
     {
       "id": "bridge-galerkin-neural-operators",
@@ -178,14 +238,19 @@
       "sha256": "77240c6954c7df746a9cc930f2938be38d3f7aa0459cf841992105f0c7edee47"
     },
     {
+      "id": "bridge-gaussian-width-sample-complexity",
+      "path": "50_bridges/gaussian-width-sample-complexity.md",
+      "sha256": "6b0af07cca5e2d6092623dff8ccc44ca053de46e6cd20769a1d215dc38b2b514"
+    },
+    {
       "id": "bridge-generalization-complexity-ai",
       "path": "50_bridges/generalization-complexity-ai.md",
-      "sha256": "bfc73d9b4354a08b17945868338f05bb5e135ad907864723982a3eaa10e33282"
+      "sha256": "1f9f122c898908838e62fe5742088a075b793ac578f7e8eadf19bf7a7ce613b6"
     },
     {
       "id": "bridge-graphical-kernels-structured-inference",
       "path": "50_bridges/graphical-kernels-structured-inference.md",
-      "sha256": "85f731d4e71f68a92b41762b03f372f9a03835943241974ac89689337574ce5c"
+      "sha256": "d89ad911da0591d2d5be4c15ef9ca495a8ee368fee90c76e97f032f7a0c48152"
     },
     {
       "id": "bridge-hessian-geometry-optimization",
@@ -200,12 +265,12 @@
     {
       "id": "bridge-hilbert-rkhs",
       "path": "50_bridges/hilbert-rkhs.md",
-      "sha256": "67bc05984803b860b1fe699328011d12b8a14eb51c354628ccad967f5c13d14a"
+      "sha256": "8bde6a6d4999b5045e8482dee19fcfef17996d9ba867104d0199bb9e94e261d6"
     },
     {
       "id": "bridge-integral-equations-attention-neural-operators",
       "path": "50_bridges/integral-equations-attention-neural-operators.md",
-      "sha256": "f9ce92fbbd61da3d47edd8733b72a83df2952a6d863f870a3c7c60366691d60e"
+      "sha256": "3b1fd4358bd7c080daf0f0de92daf5469d9b68ac3f4624b79b58e49adc14004b"
     },
     {
       "id": "bridge-interpolation-conditioning-surrogates",
@@ -225,7 +290,7 @@
     {
       "id": "bridge-krylov-hessian-vector-products",
       "path": "50_bridges/krylov-hessian-vector-products.md",
-      "sha256": "aeadfb6c264925491bcbf26d1f7c30f03fc22203a28b451478120d99ecbf856a"
+      "sha256": "2e8f26b9a9a6997ed5c75a9206a63d3137d92d2770ccbc8e4fdd87a24103e1db"
     },
     {
       "id": "bridge-krylov-preconditioning-ml",
@@ -240,17 +305,17 @@
     {
       "id": "bridge-linear-programming-structured-prediction",
       "path": "50_bridges/linear-programming-structured-prediction.md",
-      "sha256": "e1c96f89ad2192cd8b6a7472f2e690405537577f4f4bea061eaa455473105c28"
+      "sha256": "01d7578cc86892800eb7b993f7395839066e6f73f8fda83fec3a2abbb7f4b4de"
     },
     {
       "id": "bridge-log-partition-kernels-energy-models",
       "path": "50_bridges/log-partition-kernels-energy-models.md",
-      "sha256": "5b94fa2d2758ec4228871c16e89ab1e52adca6262f59b4a227fcf1b488f30783"
+      "sha256": "411350f228d4114cd4d792b95659348cc43dfa2ae6c6a3b68789dbce0826d219"
     },
     {
       "id": "bridge-lp-risk",
       "path": "50_bridges/lp-risk.md",
-      "sha256": "53c7a5a9a6b44ed83edd94cc82bbf8aa20610b203d3d05f5dc640dd98b39b7d5"
+      "sha256": "72e5799d87d03a938f847476997fb6bc73895ed5f9ed275c71e6404bb6c16241"
     },
     {
       "id": "bridge-matrix-equations-control-learning",
@@ -260,7 +325,12 @@
     {
       "id": "bridge-metrics-losses",
       "path": "50_bridges/metrics-losses.md",
-      "sha256": "6025c4a6ba655ad3369087514aa934e44192492c3311cc19aa5b39d68aff56c8"
+      "sha256": "564febc71d8c1d5e26332f3d50c3c72d71f027650f3701da33c5c1913defe378"
+    },
+    {
+      "id": "bridge-mobius-hyperbolic-representations",
+      "path": "50_bridges/mobius-hyperbolic-representations.md",
+      "sha256": "8e7e27d5dfc57ceccb58cd1879b0425bd21839245b4eac2d0023bf6762ddf1ad"
     },
     {
       "id": "bridge-multigrid-multiscale-learning",
@@ -275,17 +345,17 @@
     {
       "id": "bridge-operator-equations",
       "path": "50_bridges/operator-equations.md",
-      "sha256": "500ab6f776c7ce05e4202492d6ec6f9302976b8a4e33c76ceb04d0f2277efe01"
+      "sha256": "a2ebe50ddf494e7fd61a5b474c4bf8999a2ec4b70a1ff3057b8453b306c67f1e"
     },
     {
       "id": "bridge-operators-spectrum",
       "path": "50_bridges/operators-spectrum.md",
-      "sha256": "59b2f18fda6bf2efa440761592c53450905c3ad64aac2b2ab32f2b77d524b00d"
+      "sha256": "0e29251c6cd4a8de7fb75284fbd2cc970c2b0abc6120444262ae4ffda68232aa"
     },
     {
       "id": "bridge-positive-operators",
       "path": "50_bridges/positive-operators.md",
-      "sha256": "13271e6483c1d5a51456e9516c37a31a5987577a39a9b767c589599e17af161a"
+      "sha256": "ca23ad5c165a61fe38da71b00da7bafa8dcd072011cb254a8e07d319f4545138"
     },
     {
       "id": "bridge-preconditioning-ml-optimization",
@@ -295,7 +365,7 @@
     {
       "id": "bridge-principal-angles-representation-drift",
       "path": "50_bridges/principal-angles-representation-drift.md",
-      "sha256": "49dde779766e05b5f7ae72b1b0a21dff207f6343b45a84b88400503d375f6af1"
+      "sha256": "82435105017874b171b656f57dd28cc9c6146d48aba9363d08c7cbcd21f658fa"
     },
     {
       "id": "bridge-qr-subspace-low-rank",
@@ -303,14 +373,29 @@
       "sha256": "cb3286f19f48fde32d491c4b0708095709d5c20cebe796c61cef6fafcde826fb"
     },
     {
+      "id": "bridge-quadratic-forms-covariance-anomaly",
+      "path": "50_bridges/quadratic-forms-covariance-anomaly.md",
+      "sha256": "fe688de3e3146cf536683986b1ff7da8d775cf5b37007ce5765dd1666e72fa88"
+    },
+    {
+      "id": "bridge-random-projections-retrieval",
+      "path": "50_bridges/random-projections-retrieval.md",
+      "sha256": "9643c9dfcca3be217350280f2082a4b60dbb8e7c5e29dd177983abd12b447423"
+    },
+    {
+      "id": "bridge-rmt-moe-inference-acceleration",
+      "path": "50_bridges/rmt-moe-inference-acceleration.md",
+      "sha256": "cd4260ecab67a0e897a54ab0269f293fb35a4cbb94d87546de05baa0639b79e3"
+    },
+    {
       "id": "bridge-rmt-random-feature-networks",
       "path": "50_bridges/rmt-random-feature-networks.md",
-      "sha256": "c5dd976967fd32bdb7c43ed41f1b0950d4ad9abec27b254d6564998d9e2e7374"
+      "sha256": "2235665d7e5440b7798be7b2c68b0670ed3ccbdd4965c4183cb5de6a1e226e05"
     },
     {
       "id": "bridge-rmt-spectral-diagnostics",
       "path": "50_bridges/rmt-spectral-diagnostics.md",
-      "sha256": "c63148a28402cf14afa56ad772a89b8f61a210c37153aba10a0567b6f8699f1f"
+      "sha256": "48135df0b9e1bbd9dc614df4575ae099af481432bf8b2835dca94304f68ae873"
     },
     {
       "id": "bridge-shifted-qr-spectral-diagnostics",
@@ -328,6 +413,11 @@
       "sha256": "836c05fea6a0babc515df4cab5d8b71b383415f627e23d9acee2c8d03e813753"
     },
     {
+      "id": "bridge-structured-recovery-low-rank-adaptation",
+      "path": "50_bridges/structured-recovery-low-rank-adaptation.md",
+      "sha256": "3c941e72c731a47af647ed5fa02eb5221f61bb81ab001f81f2fb6aabab0cf786"
+    },
+    {
       "id": "bridge-support-vector-margins-robust-ai",
       "path": "50_bridges/support-vector-margins-robust-ai.md",
       "sha256": "484b6d22f26f914638f4a084294343d2ea787587c043c08ba7a4149266ca928f"
@@ -340,7 +430,12 @@
     {
       "id": "bridge-tensors-geometric-deep-learning",
       "path": "50_bridges/tensors-geometric-deep-learning.md",
-      "sha256": "c1510cae28ce264f083618125b524c3f881b58de25d03807c6756ed765984c29"
+      "sha256": "67361be20aedb491079f72544b49119e84b30b496cc449080dfc7c43471111e7"
+    },
+    {
+      "id": "bridge-thin-shell-embedding-geometry",
+      "path": "50_bridges/thin-shell-embedding-geometry.md",
+      "sha256": "bf78a6d39426034a405e7c112c69c97a567539d09d7d1bf73c6d427da01405a8"
     },
     {
       "id": "bridge-variational-principles-energy-models",
@@ -350,7 +445,7 @@
     {
       "id": "bridge-wavelets-multiresolution-representations",
       "path": "50_bridges/wavelets-multiresolution-representations.md",
-      "sha256": "bbeb08518d79293e3c87490b20ddbb72ab3ad6ce35111c3a481e638547a9f136"
+      "sha256": "77f6a15f68ba2eb4994d9df4116f5b191e09ef6759f4723bc73fed835c0681c0"
     },
     {
       "id": "cauchy-integral-formula-theorem",
@@ -385,7 +480,7 @@
     {
       "id": "chebyshev-interpolation-stability-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/chebyshev-interpolation-stability.md",
-      "sha256": "509314e9e2368f0c71a42f05e3ba05273326fd0e811e0e6d26837e9492b1bddd"
+      "sha256": "e92c22d580eea30166134cf4b946f889aabfc8c21cc1140e2067b2663b58f0f2"
     },
     {
       "id": "chebyshev-node-interpolation",
@@ -395,7 +490,7 @@
     {
       "id": "cholesky-factorization-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/cholesky-factorization.md",
-      "sha256": "62e03071b65c25f32fc484c39f52b16fe3d19d3db61e8d6f488608c9bc124309"
+      "sha256": "c31cb8219b77436143fd41ae6b3ce738352e1a255031e57d14ac94af5b297a71"
     },
     {
       "id": "circulant-fourier-diagonalization-theorem",
@@ -405,7 +500,7 @@
     {
       "id": "circulant-preconditioning-toeplitz-method",
       "path": "30_mathematics/numerical-analysis/methods/circulant-preconditioning-toeplitz.md",
-      "sha256": "092997d5636621345968a87bfddb666e51ed3587d7a083bbda12cafacb1400f7"
+      "sha256": "f0a88839a1d3e19ff608abbd1a0496a2a235fd8dad3bd2b21c6cc4155ef792ab"
     },
     {
       "id": "coercive-form-existence-theorem",
@@ -415,17 +510,22 @@
     {
       "id": "compactness",
       "path": "20_concepts/compactness.md",
-      "sha256": "0800fc57ebeab53ebfb2bc39a5836f0fd79af85d881f7f1c4300e9cf2d5910aa"
+      "sha256": "26ffbfef3528adfcb7249952ce3709b5b4caa3d68c3d01b2f42db13b73690b88"
     },
     {
       "id": "completeness",
       "path": "20_concepts/completeness.md",
-      "sha256": "c9d7fd8363bdf377df752d4213c977189b1bcac2790ec384c9081a1b3a849a98"
+      "sha256": "d01b82e353eef371bea7fc97269759a8168e776f0061c78f74b2841b0f244478"
+    },
+    {
+      "id": "complex-analytic-map",
+      "path": "20_concepts/complex-analytic-map.md",
+      "sha256": "cb3ec6f768263123439a6e0510abf9fb559dd2d81a07cfb2e1e82747cba7d2da"
     },
     {
       "id": "cones-positive-operators",
       "path": "20_concepts/cones-positive-operators.md",
-      "sha256": "3a3b65973ffd2eca94291d2534e4377809a0cbdfec0ecea578797c2bb9b96220"
+      "sha256": "f0c2fc7f800cdcb59b56d50f3e2a843751131ef715816655b7b80aa8d74f1a49"
     },
     {
       "id": "conjugate-gradient-method",
@@ -435,17 +535,22 @@
     {
       "id": "convergence-modes",
       "path": "20_concepts/convergence-modes.md",
-      "sha256": "9db38e10676420b3984161180a60bfa7c5fcff36ec6b0111e62660b172f0ed79"
+      "sha256": "6fdf6e1c81d3ae456f37a1e80cd2f255f2c0457551304668bee26d79c8f8b821"
     },
     {
       "id": "convolution",
       "path": "20_concepts/convolution.md",
-      "sha256": "cafc11a8fa2c66a1ff077bccc669b19aa91b049750f7a47968838338b308c947"
+      "sha256": "eff20cf16a6dbef3d19b58197ae0058fb979b73e65af67e2882d23fe2194e9a0"
+    },
+    {
+      "id": "course-publication-roadmap-2026-2027",
+      "path": "10_maps/course-publication-roadmap-2026-2027.md",
+      "sha256": "7ec60dc6430bd6d7dea9d75229a9e996a2f6917e3f99dfec508582504d6555e3"
     },
     {
       "id": "covariant-derivative-tensoriality-theorem",
       "path": "30_mathematics/applied-mathematics/theorems/covariant-derivative-tensoriality.md",
-      "sha256": "b4a54ba2a122eef4178b81ab69cbb3c79f49fa37118047cfd75fd271e58e525a"
+      "sha256": "0a43044ccfd75cb2edf6ed0b53fcfdac75f7637b5ede16fc6e8a728fa03d76a8"
     },
     {
       "id": "cross-approximation-max-volume-theorem",
@@ -455,22 +560,27 @@
     {
       "id": "cross-approximation-method",
       "path": "30_mathematics/numerical-analysis/methods/cross-approximation.md",
-      "sha256": "d3b7795befd80ac806d0d76e9d949a7a71ff1b910b5fe47962010e23633549ad"
+      "sha256": "d691128a1fbf8ccf884b4b5ddfb3c533dab74da6a483688bbd566125cd7f8902"
     },
     {
       "id": "cs-decomposition-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/cs-decomposition.md",
-      "sha256": "bc508e51178d1fa019b9bcf93cb70465e53f79fe32a4ac668fda5e40df915439"
+      "sha256": "47ff21ad30b196baa535691423ec9618b85e7dddfc28ffe464c20841e7992a80"
     },
     {
       "id": "degenerate-kernel-finite-rank-reduction",
       "path": "30_mathematics/applied-mathematics/theorems/degenerate-kernel-finite-rank-reduction.md",
-      "sha256": "cda01e07f8fcae0093747a8a80386ab79338a6378d2196840199f9d2fa4ecb99"
+      "sha256": "2d1a31f0b576be1b002f0163f1688eaa98bfbd85c41c7cb0f718cf46c094cf7d"
     },
     {
       "id": "dense-sbm-spectral-transition",
       "path": "30_mathematics/random-matrix-theory/theorems/dense-sbm-spectral-transition.md",
       "sha256": "b4c3b93f0745b24d0d8840995c74742a3aa8ac9082f7f33db595b373aa562481"
+    },
+    {
+      "id": "deterministic-equivalent",
+      "path": "20_concepts/deterministic-equivalent.md",
+      "sha256": "c675d2cbb5a1e01fb98d060e77e76bd59ea0d00b80f2cd8b66d70c4569d78728"
     },
     {
       "id": "distance-kernel-low-rank-equivalent",
@@ -480,7 +590,12 @@
     {
       "id": "distribution",
       "path": "20_concepts/distribution.md",
-      "sha256": "ebbbdee8f7f79814d6cf54fe96754e7bb486fa094738ee505a042b61e5254607"
+      "sha256": "a19984a51af5f582a3875951261515cdfc4ad789e8e8531095a2ad1c06a81dd1"
+    },
+    {
+      "id": "dudley-integral-inequality",
+      "path": "30_mathematics/probability/theorems/dudley-integral-inequality.md",
+      "sha256": "85da76d1a67911c14778503af872300116e1dd2d2c865462987de8f432fa3299"
     },
     {
       "id": "eckart-young-theorem",
@@ -500,67 +615,67 @@
     {
       "id": "fa-01-sets-spaces-maps",
       "path": "30_mathematics/functional-analysis/modules/01-sets-spaces-maps.md",
-      "sha256": "ea2c05d9b8f95e456f78e016bcca6510048facf8191768acda450186768e5927"
+      "sha256": "da15787ab30b985df453c3d3d4e566c29b188df382a9f369972fedeb7ee64641"
     },
     {
       "id": "fa-02-metric-normed-spaces",
       "path": "30_mathematics/functional-analysis/modules/02-metric-normed-spaces.md",
-      "sha256": "6dd218358102b00ad2c544b89f9be7e0cb45fa676e28aa44a70a9d2ee87ed93e"
+      "sha256": "197b1e36081f8aa98d4548bac2f1daa9ed37cedafa0d817d65686246539865ee"
     },
     {
       "id": "fa-03-measure-lebesgue-lp",
       "path": "30_mathematics/functional-analysis/modules/03-measure-lebesgue-lp.md",
-      "sha256": "a0f4811bb44865b451cb235ededdafaf6d6838584debe632e50743b867cf8618"
+      "sha256": "1aec5fe4f583790e55420e5ad5d481e86aafd36c9058405adf5243f5c9577891"
     },
     {
       "id": "fa-04-compactness",
       "path": "30_mathematics/functional-analysis/modules/04-compactness.md",
-      "sha256": "10a46e30cb2650d2aaceb74ce978e84f4ce53b8711165689d7f3e4618e8cdd8b"
+      "sha256": "e9cde8d9db7efd1e5bcc11b454c302fb0b6701707969806db3c89da12a5d75bb"
     },
     {
       "id": "fa-05-topological-weak-view",
       "path": "30_mathematics/functional-analysis/modules/05-topological-weak-view.md",
-      "sha256": "3dd202ac183ccd49d96f54c12a607a72b5f93293991c00f8c5103456890f0e89"
+      "sha256": "e4db329f049d43f9d5a770a7df05ca993397433f2144c13a6c86b69cf4c5d3b0"
     },
     {
       "id": "fa-06-linear-operators",
       "path": "30_mathematics/functional-analysis/modules/06-linear-operators.md",
-      "sha256": "46f08e7e4ffb81a429e7cfa954cb2c208d41acc5b7bbc26212d7e0621d9b8f90"
+      "sha256": "f156b37b1dbdd10bc1d48b40bc0c66e99718b7973f5f4fe06ed126cfbceaed3b"
     },
     {
       "id": "fa-07-hilbert-operators",
       "path": "30_mathematics/functional-analysis/modules/07-hilbert-operators.md",
-      "sha256": "f9e105fdd957dc6e184aa41fa23a98cc71ea3cd93e502d2f304239f163d2e4f4"
+      "sha256": "550b7f6acfcfcf25eac304cca02cb46c52d72f1758a86f1978b0dd74a871a4ab"
     },
     {
       "id": "fa-08-distributions-convolution",
       "path": "30_mathematics/functional-analysis/modules/08-distributions-convolution.md",
-      "sha256": "c72babf34f56cfbdb4efda2b0f768f1b9881a49c375316f00fd78fe6aa45c2a7"
+      "sha256": "3024ebb16ccc7314782e19c84ba03a5c54f91447c11c40b309581a668e2fe9bb"
     },
     {
       "id": "fa-09-operator-equations",
       "path": "30_mathematics/functional-analysis/modules/09-operator-equations.md",
-      "sha256": "873b228bddca5fbba73d975c3864ec64e203caa0047c7b26d925bd1c13f19050"
+      "sha256": "e0c3e140b8f9454c5969bb9110c4e73872fa3b7a580225ca4ea1e11c6db7ffb1"
     },
     {
       "id": "fa-10-spectral-theory",
       "path": "30_mathematics/functional-analysis/modules/10-spectral-theory.md",
-      "sha256": "e1ed3dc60b21ff0a47adfc945159d53ae58b819d133025e1648ed63b971e4553"
+      "sha256": "c6456ea968f3f4dac57733086e1ee54722a9ec211e72474f0eaac07fdd4bef2f"
     },
     {
       "id": "fa-11-nonlinear-frechet",
       "path": "30_mathematics/functional-analysis/modules/11-nonlinear-frechet.md",
-      "sha256": "1b367927b8535a2af1b513979421c992f4a1a0a2fc0cae64a6bc95850cc2aae2"
+      "sha256": "8dd9d2fff0bce92b6550b837be5cfc3fdc3c66423f8476b8b063ec41a2052202"
     },
     {
       "id": "fa-12-positive-operators",
       "path": "30_mathematics/functional-analysis/modules/12-positive-operators.md",
-      "sha256": "26454033006246a881b5eface6807f24b19135478b0afe9ea29be8df37ec6030"
+      "sha256": "08c3cf0d0a44b99240f5076fa5d593aef60a9e006df20f3d58b05487fcf1c691"
     },
     {
       "id": "fa-13-dependency-map",
       "path": "30_mathematics/functional-analysis/modules/13-dependency-map.md",
-      "sha256": "651374c0b208dbc5e17f9ad6a691a8ddca634abc71459576562f2996bf8a470c"
+      "sha256": "276392fe99b6b216e793bb66abb01e78f6ff34a1d19f58dcc80cabd97f93fb3e"
     },
     {
       "id": "faber-bernstein-divergence-theorem",
@@ -570,12 +685,12 @@
     {
       "id": "fft-circulant-matvec-method",
       "path": "30_mathematics/numerical-analysis/methods/fft-circulant-matvec.md",
-      "sha256": "38fa79a3abfdd0bb9ac074b43e74a853fbd9d17f68c228a506eb65d159553346"
+      "sha256": "18210e523a5b85db83f725af385d59287eca7d20248de4ba1ecf9f0ae58afbdd"
     },
     {
       "id": "fixed-point",
       "path": "20_concepts/fixed-point.md",
-      "sha256": "e7d43983ed83b70f792c75c9298ea38daa7222a5e13932c0909de9d746517c75"
+      "sha256": "f63ec48842ce1d8fc9a2f3302ea33b85436adbd86897bd5d5252599d8ddf9858"
     },
     {
       "id": "fixed-point-relaxation-method",
@@ -590,7 +705,7 @@
     {
       "id": "frechet-derivative",
       "path": "20_concepts/frechet-derivative.md",
-      "sha256": "824b1690adeb8a0545dbef583e7ad58163ba5f072fc19abd10dd1e3e347946b5"
+      "sha256": "1289be43edd7067e0c2ab54e05fcebeb32b43c75bfcceb526654c8c2eeab71ac"
     },
     {
       "id": "fredholm-alternative-compact-theorem",
@@ -598,9 +713,19 @@
       "sha256": "69358cc10c7a91b33a7b27bd6326822d5f6aa4178f571f53849af2b344a43203"
     },
     {
+      "id": "functional-analysis-bridges-gpt-image-v3",
+      "path": "70_labs/figures/functional-analysis-bridges-gpt-image-v3.md",
+      "sha256": "762b4855d163f9bff59dbf3a81a0310e1928efba78b714b9759b76722706509e"
+    },
+    {
       "id": "functional-analysis-map",
       "path": "10_maps/functional-analysis.md",
-      "sha256": "1a783466456bfc5998bab57d5985f6dea06f0d73feefa8515ed86f755f6abf18"
+      "sha256": "17f845fb26d9dbfef3c8c93d579da83e375f1f925265bfae74711ef093c652b1"
+    },
+    {
+      "id": "functional-analysis-theorems-gpt-image-v3",
+      "path": "70_labs/figures/functional-analysis-theorems-gpt-image-v3.md",
+      "sha256": "b80cabf03409e0d810e195803f4358af5a8378564e3b9daf096630d12cbca4f0"
     },
     {
       "id": "galerkin-finite-elements-method",
@@ -610,12 +735,17 @@
     {
       "id": "gauss-ostrogradsky-theorem",
       "path": "30_mathematics/applied-mathematics/theorems/gauss-ostrogradsky.md",
-      "sha256": "5e05acf984b554b65e157b8b45f3a86a2607266bef77d809bc4ec24e5a21ec4b"
+      "sha256": "44a24f99df7f746e0b8f820dee4b09db409cc2de31638e5be4671181422e6988"
     },
     {
       "id": "gaussian-quadrature-optimality-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/gaussian-quadrature-optimality.md",
       "sha256": "bf0de9a5402b6a68ede6d18cb3c71d4e75a803d0c1f02b4b68aba6491ecbd5a9"
+    },
+    {
+      "id": "gaussian-width-complexity",
+      "path": "20_concepts/gaussian-width-complexity.md",
+      "sha256": "6e0989b5a9e2e13845b0ba86bc2b130f9e4831c6d4e6039e128965160bed443a"
     },
     {
       "id": "generalized-linear-classifier-asymptotics",
@@ -635,7 +765,7 @@
     {
       "id": "gmres-method",
       "path": "30_mathematics/numerical-analysis/methods/gmres.md",
-      "sha256": "e2096580881d65f5fcad82458e6ea126480e09885b703315103fc436449c0f6e"
+      "sha256": "b66305b0931c61a9afcd5b7900bca0443a0fd939032e455284050837a75fc83d"
     },
     {
       "id": "gmres-minimal-residual-theorem",
@@ -653,14 +783,19 @@
       "sha256": "f147a710b1241edf59e728bf2cb79ffd50eb301f59511ebc6c2fc6f716c85822"
     },
     {
+      "id": "hanson-wright-inequality",
+      "path": "30_mathematics/probability/theorems/hanson-wright-inequality.md",
+      "sha256": "7fe40f24df89f80e765aec4d3c6dcbae30984144ecb95e87f2d61669a8fc74fa"
+    },
+    {
       "id": "hermitian-qr-cubic-convergence-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/hermitian-qr-cubic-convergence.md",
-      "sha256": "82d00dac85a656bdd8b6e120483759a2b0443b4a9aaea8d210370f6f61c3db8c"
+      "sha256": "c17c0731043dae0dfc40539d2a64a7d9ea9a7189f7276368487a27edc6f543b6"
     },
     {
       "id": "hierarchical-low-rank-matrix-method",
       "path": "30_mathematics/numerical-analysis/methods/hierarchical-low-rank-matrix.md",
-      "sha256": "547c81b36778f259fb99d25981c42afae873549551adef5bda7c823d817c89d7"
+      "sha256": "c12dd7dd20be641b2a2b18938a46841b32762896abc9c9ecb679ebde07a14a65"
     },
     {
       "id": "hierarchical-matrix-compressibility-theorem",
@@ -670,17 +805,22 @@
     {
       "id": "hilbert-schmidt-symmetric-kernel-expansion",
       "path": "30_mathematics/applied-mathematics/theorems/hilbert-schmidt-symmetric-kernel-expansion.md",
-      "sha256": "a556b8b51353f239eef3075d71c19944d4aeb74890565729412cdb586c78a34b"
+      "sha256": "ef0858c26dcccd1a662f8211b97f762793ffaedc2f066212b9a79f35eab65aa8"
     },
     {
       "id": "hilbert-space",
       "path": "20_concepts/hilbert-space.md",
-      "sha256": "86f52b0fa506fa6f437e541bf234fce3287078148cc9a5ba4112eaa3b2bffb0f"
+      "sha256": "c8cfed23b240874e53f417b65916785619f79b16e9c6ce3b9b29b4fc9d07c35f"
+    },
+    {
+      "id": "hoeffding-inequality",
+      "path": "30_mathematics/probability/theorems/hoeffding-inequality.md",
+      "sha256": "c5902beb0c14a1758cb73daaeb3b84076a5edc098d3d62326088cd262c774c68"
     },
     {
       "id": "householder-and-givens",
       "path": "30_mathematics/numerical-analysis/methods/householder-and-givens.md",
-      "sha256": "79381ac040902876ecbdbad330062cb5153e518083a1f50db324d4578f86068c"
+      "sha256": "703befc7f8429dff456abd0b29f2c5377523cbcea7044e925cc6c973bb5184c7"
     },
     {
       "id": "implicit-qr-uniqueness-lemma",
@@ -688,14 +828,39 @@
       "sha256": "efe0a5064022eb8e26080538c28209eafa4047e3743f3a83644ef1c66256529e"
     },
     {
+      "id": "inequalities-01-cauchy-amgm-squares",
+      "path": "30_mathematics/inequalities/modules/01-cauchy-amgm-squares.md",
+      "sha256": "dc49eb1871e769006f47f90f3a69e526855cfe21c3def4d792b96e9799f83da1"
+    },
+    {
+      "id": "inequalities-02-order-convexity-power-means",
+      "path": "30_mathematics/inequalities/modules/02-order-convexity-power-means.md",
+      "sha256": "77718d22a7186ae09fd9c847749b55447faeafc17604e9f3513eab8587528a79"
+    },
+    {
+      "id": "inequalities-03-holder-hilbert-hardy",
+      "path": "30_mathematics/inequalities/modules/03-holder-hilbert-hardy.md",
+      "sha256": "9bfa279572c7f3866f6801c27a23eb9f57a08bb5c134053e0727edf445b4030c"
+    },
+    {
+      "id": "inequalities-04-majorization-cancellation",
+      "path": "30_mathematics/inequalities/modules/04-majorization-cancellation.md",
+      "sha256": "837f7396a5e3cf1023e4868d5f41f0a7da4ef24f90c61c3c22483fc57866983c"
+    },
+    {
+      "id": "inequalities-course-map",
+      "path": "30_mathematics/inequalities/inequalities-map.md",
+      "sha256": "926af03daacd64ee81d123060295b7daf920a5fc58cda3d4edd603415dea3a32"
+    },
+    {
       "id": "iterative-refinement",
       "path": "30_mathematics/numerical-analysis/methods/iterative-refinement.md",
-      "sha256": "4f75d854e4f00eb0a83d167af7b4d50606d215ab5a3d482e6b1042d461464c0e"
+      "sha256": "683b643ea27b156026e30519be107e40ae7b8890e56b47bb0b5f1058934471d5"
     },
     {
       "id": "jordan-canonical-form-theorem",
       "path": "30_mathematics/linear-algebra/theorems/jordan-canonical-form.md",
-      "sha256": "70878d605fff7d56146e5c8e1da8e76b5616e8d29bb065e527d988d5c7e8f396"
+      "sha256": "ae19538f9f7e387a01b0406e6cba47e326a97ef4f6cfd20410e6983ec79e24d6"
     },
     {
       "id": "kernel-methods-map",
@@ -705,37 +870,37 @@
     {
       "id": "kernel-methods-source-map",
       "path": "30_mathematics/kernel-methods/kernel-methods-source-map.md",
-      "sha256": "19c5bb6631fb616b5140686d88484d3e6de1378a8879177eb9b4f2ab2e3ce870"
+      "sha256": "d56c7b297f866e31a146d4cb8c47ba3526b1357f6eee6c5a37855ed2f9738b84"
     },
     {
       "id": "km-01-positive-definite-kernels-rkhs",
       "path": "30_mathematics/kernel-methods/modules/01-positive-definite-kernels-rkhs.md",
-      "sha256": "554d57e7e154da71ff068bc03bad476c043adcad9bfd5e748740576c0ae5657f"
+      "sha256": "d390f1a972c6e04d5dbb81699d6c30c0143c87e1fa0ca04b60e20b8e5193e43e"
     },
     {
       "id": "km-02-support-vector-estimation",
       "path": "30_mathematics/kernel-methods/modules/02-support-vector-estimation.md",
-      "sha256": "d8aa8bfb4cce9851dcba8de1befab2aac23ad6feecf7e1b4b527fc9926a703f5"
+      "sha256": "f3ec856a41c14294f756134977fc5d24f1373c8dd92b05801eb7706fef626ac2"
     },
     {
       "id": "km-03-margin-uniform-convergence",
       "path": "30_mathematics/kernel-methods/modules/03-margin-uniform-convergence.md",
-      "sha256": "eaaea18aa7d5281f89761ba7ef3d0a1f07c96aa847aef686e99efadbdf35eb8f"
+      "sha256": "151c2e3e06d8a060dfec13d2f48690bff6ab29a4e83009f1f0d9dbad7dec25c1"
     },
     {
       "id": "km-04-exponential-rkhs-statistical-models",
       "path": "30_mathematics/kernel-methods/modules/04-exponential-rkhs-statistical-models.md",
-      "sha256": "4157f6e2cfb4955720c730bf7bbc61c6b40d42ebab65a54c14ebf1acd6ad7523"
+      "sha256": "5e2fe6c47bdcc1a6c10aef035048ab58f0aa2e51530c04edf48e3c7f84b18cb8"
     },
     {
       "id": "km-05-markov-networks-graph-compatible-kernels",
       "path": "30_mathematics/kernel-methods/modules/05-markov-networks-graph-compatible-kernels.md",
-      "sha256": "3f1803d30a2f1f8105a926f24722d019a27d40b00d8f9a7f1827ce454daeacc5"
+      "sha256": "6f9d58329a54fb887e6f3ed27ef2e81b17d9c90970fb4e46b026fa35f7c8c44e"
     },
     {
       "id": "km-06-unsupervised-kernel-methods",
       "path": "30_mathematics/kernel-methods/modules/06-unsupervised-kernel-methods.md",
-      "sha256": "137da95733ded35ff7f47738c186a13308a078cd52135bf65472d7bdb82b3bd1"
+      "sha256": "382158e7064d44e0de863d896661ee8ed941c0884e3ebe1828430cb6ffe380ec"
     },
     {
       "id": "krylov-near-optimality-theorem",
@@ -750,7 +915,7 @@
     {
       "id": "lab-functional-analysis-widgets",
       "path": "70_labs/interactive/functional-analysis-widgets.md",
-      "sha256": "78116ce554965ec0fb1ff0fe0cc7e0271a84b6d22b4b41ae14c5faadc36d2d07"
+      "sha256": "b8bb59739cd659552a4aa2837a826550b678868ad6a7a2f14c208008e2b445aa"
     },
     {
       "id": "lab-gpt-image-insight-prompts-v2",
@@ -785,17 +950,17 @@
     {
       "id": "lab-myshkis-applied-mathematics-ch01-figures",
       "path": "70_labs/figures/myshkis-applied-mathematics-ch01.md",
-      "sha256": "07b858a775754d5bfbf1bedeb67b64ccca9838bbce443b9dfbd7eda08b947c64"
+      "sha256": "2387b6e1ba982a76162416c4b8284b47adf7227e5774ab1031f8098d11ede92a"
     },
     {
       "id": "lab-myshkis-applied-mathematics-ch02-03-figures",
       "path": "70_labs/figures/myshkis-applied-mathematics-ch02-03.md",
-      "sha256": "9dabe6aef6bc894965be229b1881560567b14ee8765d185836fc7a40b4c3c432"
+      "sha256": "57f969e70abdcc0e2dc0afdcbb41a59252978aa09b04c2d98ffd42459b3781fe"
     },
     {
       "id": "lab-myshkis-calculus-variations-figures",
       "path": "70_labs/figures/myshkis-calculus-variations-figures.md",
-      "sha256": "fdc94a210e320f88e062c6d5c05509b97f7f3ea7c6e597693cd05b21dbf3bdfd"
+      "sha256": "bebb252f924bbaad7dc311a649052592bf6b0063a69da1311297c0ec5c9c9441"
     },
     {
       "id": "lab-myshkis-dynamical-systems-figures",
@@ -808,9 +973,44 @@
       "sha256": "3845394585421f56e7db08c9835a28925582352a99a56778188fe0e138015d4b"
     },
     {
+      "id": "lab-needham-release-1a-gpt-image-v1",
+      "path": "70_labs/figures/needham-release-1a-gpt-image-v1.md",
+      "sha256": "c17ae82287fff8a117b1c4be906853724e3f283e7ef08eecd554cb52a3dc8b2e"
+    },
+    {
+      "id": "lab-needham-release-1a-widgets",
+      "path": "70_labs/interactive/needham-release-1a-widgets.md",
+      "sha256": "cdad6e2accac08ebc1af837639c843ab4d781c1523de9eec6d6a5f52860e6100"
+    },
+    {
+      "id": "lab-needham-visual-reference-protocol",
+      "path": "70_labs/figures/needham-visual-reference-protocol.md",
+      "sha256": "7099fc440f898ac0a9945f3b2051b4465f36b995726478f3d46aa1dbcd781567"
+    },
+    {
       "id": "lab-nonlinear-optimization-krylov-widgets",
       "path": "70_labs/interactive/nonlinear-optimization-krylov-widgets.md",
-      "sha256": "7dc86f4e3a9aad874538f1a24a89bb7ab1ebe6676d614939b934f465ef646dc9"
+      "sha256": "378e2982838ba9acdde06f7193a92e972e8b92171d242f7a6313137090b7b2ed"
+    },
+    {
+      "id": "lab-numerical-analysis-bridges-gpt-image-v7",
+      "path": "70_labs/figures/numerical-analysis-bridges-gpt-image-v7.md",
+      "sha256": "44fdaed59ded001d036bbca65eb04801372e9fc4e39abbd618b2ab4df2d05da6"
+    },
+    {
+      "id": "lab-numerical-analysis-wave-1-pilot-gpt-image-v6",
+      "path": "70_labs/figures/numerical-analysis-wave-1-pilot-gpt-image-v6.md",
+      "sha256": "f56383481f82b852f5b1381d9a9370d87f9961a76e4941e17186deb8d26adf89"
+    },
+    {
+      "id": "lab-numerical-analysis-wave-1-remaining-theorems-gpt-image-v8",
+      "path": "70_labs/figures/numerical-analysis-wave-1-remaining-theorems-gpt-image-v8.md",
+      "sha256": "e0cf58ac9401d3867a245c97ae1720a3434dbc7b83a201bad0746fc82ecf5655"
+    },
+    {
+      "id": "lab-numerical-analysis-wave-1-theorems-gpt-image-v6",
+      "path": "70_labs/figures/numerical-analysis-wave-1-theorems-gpt-image-v6.md",
+      "sha256": "f4779c4dd8982b5e182dce1f94caed7ebb1436437279a0bfb9f465823abb4bcc"
     },
     {
       "id": "lab-numerical-approximation-widgets",
@@ -820,12 +1020,72 @@
     {
       "id": "lab-operator-multigrid-structured-widgets",
       "path": "70_labs/interactive/operator-multigrid-structured-widgets.md",
-      "sha256": "970be815f797a533b467c9619b084d736ccead5e3b8d4827bceb358db5923696"
+      "sha256": "43f91856d84160d7954c58337e8570c5f57c638bafc3f0d028b8a5f09b7a7ee1"
+    },
+    {
+      "id": "lab-probability-final-block-gpt-image-v3",
+      "path": "70_labs/figures/probability-final-block-gpt-image-v3.md",
+      "sha256": "5dfcbb7d8bdc6b4f1e09a6de59df7d69b3af60c99a6809dc334eaf9fe73ed8d2"
+    },
+    {
+      "id": "lab-probability-foundations-gpt-image-v1",
+      "path": "70_labs/figures/probability-foundations-gpt-image-v1.md",
+      "sha256": "5ee13555e65a2a0b12951955b98f6556af52d00b506e9848806758474bbc8fd7"
+    },
+    {
+      "id": "lab-probability-middle-block-gpt-image-v2",
+      "path": "70_labs/figures/probability-middle-block-gpt-image-v2.md",
+      "sha256": "02a4b026dc721468d2e7073cf74d6d4651db7a7ff6b939cba4c119c9fc779d6a"
+    },
+    {
+      "id": "lab-rmt-bbp-spiked-transition",
+      "path": "70_labs/rmt/02-bbp-spiked-transition.md",
+      "sha256": "2ed2cb7771566052c181197d036d7c5fdc13c9187594dd2ccb88e2a8b7ecf2da"
     },
     {
       "id": "lab-rmt-gpt-image-prompts-v1",
       "path": "70_labs/figures/rmt-gpt-image-prompts-v1.md",
       "sha256": "b5db042450e9fc0f2f503186e8d8ae5c0a1861cbdbb2c125f17ed30e4645cd8e"
+    },
+    {
+      "id": "lab-rmt-marchenko-pastur-finite-size",
+      "path": "70_labs/rmt/01-marchenko-pastur-finite-size.md",
+      "sha256": "a6f09b832d296a80bc7aef6c3d7f1827bc89b8d409f70b6f27eebe5a496258a5"
+    },
+    {
+      "id": "lab-rmt-moe-inference-acceleration-gpt-image-v1",
+      "path": "70_labs/figures/rmt-moe-inference-acceleration-gpt-image-v1.md",
+      "sha256": "e163e411bcd36531935dbe6eee82dc1a503af063ad73e8cabae4d543e3f26578"
+    },
+    {
+      "id": "lab-rmt-random-features-capacity",
+      "path": "70_labs/rmt/04-random-features-capacity.md",
+      "sha256": "773a43307ac2da85b2169eead8e44a425a7d28066650ce9c7ede434915759cc1"
+    },
+    {
+      "id": "lab-rmt-release-interactives",
+      "path": "70_labs/rmt/06-rmt-interactives.md",
+      "sha256": "5fff881143ca131b50b0557cf9057654bb3f9d305488d07de7f4c72fb2bf4f60"
+    },
+    {
+      "id": "lab-rmt-release-v4-gpt-image",
+      "path": "70_labs/figures/rmt-release-v4-gpt-image.md",
+      "sha256": "0e60ef552a9b49a6c60f6dd750bb26da2e1dc6bd531fdf71e0f5092de5d9a7d4"
+    },
+    {
+      "id": "lab-rmt-release-v5-geometric-visuals",
+      "path": "70_labs/figures/rmt-release-v5-geometric-visuals.md",
+      "sha256": "bee7970755c28601fb0a9370bbfef5029c0609a3b63c4f4acc534f877b584eea"
+    },
+    {
+      "id": "lab-rmt-resolvent-density-recovery",
+      "path": "70_labs/rmt/03-resolvent-density-recovery.md",
+      "sha256": "fe4f66fe75b28c5e2bcf107137d7b5c9cdbac76d1ed50d40bfd9372be6ac2bcd"
+    },
+    {
+      "id": "lab-rmt-sbm-dense-sparse",
+      "path": "70_labs/rmt/05-sbm-dense-sparse.md",
+      "sha256": "e50e3d57d225242158a044a0fec96714ff4135a111d4c03f8a0fd7e7c52b9893"
     },
     {
       "id": "lab-support-vector-estimation-figures",
@@ -845,17 +1105,17 @@
     {
       "id": "lab-tyrtyshnikov-chapters-17-21-figures",
       "path": "70_labs/figures/tyrtyshnikov-chapters-17-21.md",
-      "sha256": "f63d7dc4d27575365970046255174a5d8fbc78e5dd2fe24fa3ae0c1431571123"
+      "sha256": "b5b3528976050c8af5f9f65e4f7dd5b30ba8f3ad8ddb022b0a564c209952c040"
     },
     {
       "id": "lab-tyrtyshnikov-chapters-22-25-figures",
       "path": "70_labs/figures/tyrtyshnikov-chapters-22-25.md",
-      "sha256": "a64d09f58249b411bb4ad3d63a92fe48f2724aeed733ab2751d866292569b9be"
+      "sha256": "2e1c56a660db96569bd79c5330633ae70bca60b03b3923d0e28f083f356c1c7f"
     },
     {
       "id": "lagrange-interpolation-remainder-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/lagrange-interpolation-remainder.md",
-      "sha256": "ec0f5ebc7d211661d5e17c976de82719feff5d4cf8669d1c9a7747e5e383a3d2"
+      "sha256": "f518edf97ec9e0c0414090c16a265ec09ba364c0740186e186c45a32d4fa35e4"
     },
     {
       "id": "laplace-transform-operational-method",
@@ -870,42 +1130,42 @@
     {
       "id": "line-search-gradient-method",
       "path": "30_mathematics/numerical-analysis/methods/line-search-gradient.md",
-      "sha256": "e2a23dcf7faa10f9b79955b6ef9370c26920bcc6b479f39d077f385c185ec81a"
+      "sha256": "3544dc3b1a2d0ae0f6b46c08ebbca61d3f1526ff60afc8a6fe97253d3bffc1f8"
     },
     {
       "id": "linear-algebra-01-coordinate-geometry-invariants",
       "path": "30_mathematics/linear-algebra/modules/01-coordinate-geometry-invariants.md",
-      "sha256": "d125f381d8f18b535c8dd9cbda1fcc05c23833dc98f0648e2495fff9181b1659"
+      "sha256": "cd55fba90f662c1abab944f58b00135a2b081d7a9c3bb54a1ad1b9876789c8bf"
     },
     {
       "id": "linear-algebra-02-linear-representations-recognition",
       "path": "30_mathematics/linear-algebra/modules/02-linear-representations-recognition.md",
-      "sha256": "8fd2d9b3d777626f20b2e4d2b794a4076efd402d5c9f990f2eeee7c757600b4c"
+      "sha256": "0a8b7bbd8233114abd4b8757a8240445b4a98f481e8bf1348e9a291a67df80de"
     },
     {
       "id": "linear-algebra-04-quadratic-canonical-structure",
       "path": "30_mathematics/linear-algebra/modules/04-quadratic-forms-canonical-structure.md",
-      "sha256": "3a33b48c99176f1854162ea4f37abad70e981ec38d82c89160808ee87f2e664a"
+      "sha256": "32cf98dd9d7fdd23f5cb17ad71d872b60678c3f881022f43abb26ff5f64529c9"
     },
     {
       "id": "linear-algebra-05-annihilating-polynomials-root-spaces",
       "path": "30_mathematics/linear-algebra/modules/05-annihilating-polynomials-root-spaces.md",
-      "sha256": "570f89587a5cd78e12574e5fcfe80d1f71b07757f06959a023c8bd121e853135"
+      "sha256": "75308b3a86896f93a7f1b36626752c5a5b625789a4a3a608c4937dff84be84b8"
     },
     {
       "id": "linear-algebra-06-matrix-functions-linear-dynamics",
       "path": "30_mathematics/linear-algebra/modules/06-matrix-functions-linear-dynamics.md",
-      "sha256": "99db6c62b67ff6da1568ca548622aa9de93712f66b712a47e954b380a3fe900d"
+      "sha256": "20060407bd8c063fcc7a4a0c74fd2f4b916184b03b5ab19ea4b88642f18608ff"
     },
     {
       "id": "linear-algebra-07-matrix-equations",
       "path": "30_mathematics/linear-algebra/modules/07-matrix-equations.md",
-      "sha256": "6d76a21a9ed02096291debd6da7470391d8f6466d0388ab35c3f9fcdabbcaf4b"
+      "sha256": "8a79d93b5eafcf3c919c6e4dc77cd0807252794cd8b6fcff4ccfba75898cb484"
     },
     {
       "id": "linear-algebra-09-positive-stochastic-matrices",
       "path": "30_mathematics/linear-algebra/modules/09-positive-stochastic-matrices.md",
-      "sha256": "a36a326245b7020a3a4097ac0c92f8692c718e01301042f861fd30b6b3d1eb9f"
+      "sha256": "988820591def159cd158069aa37bca007cd4ca8f5dac9451864e97b23c3d76ed"
     },
     {
       "id": "linear-algebra-gaps-figures-v3",
@@ -920,12 +1180,12 @@
     {
       "id": "linear-functional-duality",
       "path": "20_concepts/linear-functional-duality.md",
-      "sha256": "5f035872fd75b851a2208930d92aa525c8e8e4d6f0671f0428e88c80757252ec"
+      "sha256": "25b57acdbd98ab309e2b0a97edac4838aef1593f7781a0d070ef5cb92e85038e"
     },
     {
       "id": "linear-programming-complementary-slackness-theorem",
       "path": "30_mathematics/linear-algebra/theorems/linear-programming-complementary-slackness.md",
-      "sha256": "f96395de359e1d913a86ce6acb8e8d6e6bbaff3d56c8ce7f73aa1e971edaaf85"
+      "sha256": "ffcf14938d65f3632beb3b149a85f7ef7c7bd64c9d0524ed02ebb0d57d0d4ebd"
     },
     {
       "id": "lipschitz-image-concentration",
@@ -935,17 +1195,17 @@
     {
       "id": "lp-spaces",
       "path": "20_concepts/lp-spaces.md",
-      "sha256": "1d632bdd6b913592d88beb148d2b6c49a3c3d0abda0c76ef75786dbb0f552a7f"
+      "sha256": "6bdf5babf8df2b83b33827e75252c75aaa08ddbec2dc28131f926a8819a34d78"
     },
     {
       "id": "lu-factorization-with-pivoting",
       "path": "30_mathematics/numerical-analysis/methods/lu-factorization-with-pivoting.md",
-      "sha256": "f5e502c03095a1710361b35bd6ce6b02ca15168d35862f26e9b1daff86e43ef3"
+      "sha256": "d4be20cec3e592291d8c1e8e148b85c4caad8dc9ab66ef2c43fd2379234577f0"
     },
     {
       "id": "lyapunov-direct-stability-method",
       "path": "30_mathematics/applied-mathematics/theorems/lyapunov-direct-stability-method.md",
-      "sha256": "a556645eb120b76d56e538ebe4a54c918cd9cfc307374451b6bf4c5a33b16dfc"
+      "sha256": "28c677c127d353af7e989ee5ad02f2bde8bbf140d885966f2185e6838cf50e1b"
     },
     {
       "id": "marchenko-pastur-law",
@@ -960,12 +1220,17 @@
     {
       "id": "mathematics-integration-map",
       "path": "10_maps/mathematics-integration-map.md",
-      "sha256": "6c6c6140db22e3c5db8a313f1d49bee9e13cf38c92f6f7b66db53ce7bd9f76c3"
+      "sha256": "c115c992ef7b4d21de07b19d84599fa521332b7faccd5e31613fa4112ee68bf2"
+    },
+    {
+      "id": "matrix-deviation-inequality",
+      "path": "30_mathematics/probability/theorems/matrix-deviation-inequality.md",
+      "sha256": "d0eec99808c2bde902f93a704b85563bda5470bf824605b4fd6570d346ded2b5"
     },
     {
       "id": "method-conditional-exponential-rkhs-model",
       "path": "30_mathematics/kernel-methods/methods/conditional-exponential-rkhs-model.md",
-      "sha256": "b29359db3c982bffb3527189183d460b58795c5f46513b964015c2a26d0e6fb6"
+      "sha256": "4e7503dfa447b6e6820b6e3a1fb6ec1ab225662088c927f466c0c301cf9d84b9"
     },
     {
       "id": "method-epsilon-insensitive-kernel-regression",
@@ -975,12 +1240,12 @@
     {
       "id": "method-graphical-kernel-probabilistic-inference",
       "path": "30_mathematics/kernel-methods/methods/graphical-kernel-probabilistic-inference.md",
-      "sha256": "3c4242cb694fb0e4dee4ac10d2d6f55193155183179d4f5a284c57ed22ae46f7"
+      "sha256": "9eebf0bdef5f5442b59949ac40dc22c679ebb7e8b49e3a44c613906241e7c7b7"
     },
     {
       "id": "method-kernel-canonical-correlation",
       "path": "30_mathematics/kernel-methods/methods/kernel-canonical-correlation.md",
-      "sha256": "0b54419cdeb49fa2fc552bd0d50cae2048199e55c0ccafee48de35be4c086f88"
+      "sha256": "f0d799ec2adf55e495617ef75e556136dd6d68d74581310c89ce2f6bda9ab940"
     },
     {
       "id": "method-kernel-construction-closure-rules",
@@ -1000,17 +1265,32 @@
     {
       "id": "method-one-class-svm-support-estimation",
       "path": "30_mathematics/kernel-methods/methods/one-class-svm-support-estimation.md",
-      "sha256": "ef4ece5584b9a6ba51517d414fc4db1ab8b7c9afb3c17911f9ac383530ea4fbd"
+      "sha256": "24c432c4c0efda197bf44cdf9d9a59378922de26ce3118affa40ae03e0b86f81"
     },
     {
       "id": "metric",
       "path": "20_concepts/metric.md",
-      "sha256": "7c7c5b25f022dff4adca1257076ba0e4b9e1739a5af473d3760f3ce875a48d73"
+      "sha256": "a498e71f03b0072b0d03a408c70772eff2aa5d5ff553a532c85a67da26550ede"
+    },
+    {
+      "id": "mipt-optimization-course",
+      "path": "60_sources/mipt-optimization-course.md",
+      "sha256": "a3508b6532ba49dec46256003dff9e108c288ce8f11dc990b1238ba7932f8877"
+    },
+    {
+      "id": "mipt-optimization-source-map",
+      "path": "30_mathematics/optimization/mipt-optimization-source-map.md",
+      "sha256": "9703d959a881ea00b9d9ade29354a14bca95a3e6230d5dcac974d6d20c33db50"
+    },
+    {
+      "id": "mobius-transformation",
+      "path": "20_concepts/mobius-transformation.md",
+      "sha256": "21d588e81f0cbf2932c90662e3ae3479509203c701fe8c1f7bb914829affb3a6"
     },
     {
       "id": "modified-gram-schmidt",
       "path": "30_mathematics/numerical-analysis/methods/modified-gram-schmidt.md",
-      "sha256": "10ee4e49a812a60692293ea368c82993ed09846e0a22c1c5af4bfc4c226068e2"
+      "sha256": "4c9274d062f009ab984cf0ed66d5d9a96a2ff5738a65d4f0750c117010fe604c"
     },
     {
       "id": "monic-chebyshev-minimax-theorem",
@@ -1025,7 +1305,12 @@
     {
       "id": "multigrid-v-w-cycle-method",
       "path": "30_mathematics/numerical-analysis/methods/multigrid-v-w-cycle.md",
-      "sha256": "feeaf9c8655ede400a885f9c7898195d70d02b3450ff585a63c7b4bdb7e1c8a6"
+      "sha256": "6eb1da0b2a7edf4e96d09238962caf535170ee536370eb9ec3cfa13a7c8dfcc3"
+    },
+    {
+      "id": "munkres-topology-source-map",
+      "path": "30_mathematics/topology/munkres-source-map.md",
+      "sha256": "5566c489485c70ad3b553b08412eddbce66386f18237a7b260e3acf971a4a951"
     },
     {
       "id": "myshkis-applied-mathematics-source-map",
@@ -1055,137 +1340,137 @@
     {
       "id": "newton-secant-method",
       "path": "30_mathematics/numerical-analysis/methods/newton-secant.md",
-      "sha256": "44e5f724d47e8bba6d4d58db6860df6fef86adb00d53fb4ea4d8f6b7445dc31a"
+      "sha256": "62aa607dcbc92119d631e852b9e423cb4d3bb70134215df2271c967e5fd3d24e"
     },
     {
       "id": "nla-01-spaces-and-norms",
       "path": "30_mathematics/numerical-analysis/modules/01-spaces-and-norms.md",
-      "sha256": "8218aac0efa8c9d0e31069935af786992fe49ddde7af9b7276ad50fcd2df82a7"
+      "sha256": "101e9ee1aa85d272af6710c034f9c7d8b5995c370219d9c2241936776c8f11df"
     },
     {
       "id": "nla-02-unitary-matrices-and-svd",
       "path": "30_mathematics/numerical-analysis/modules/02-unitary-matrices-and-svd.md",
-      "sha256": "e886fa1ba88c8d1c11093696e70aaf4fc2f0629bb0c304357afa3162099d7394"
+      "sha256": "77db131e835876c14e0dbf4a2b20c3d0764badd87ec913017274294c6a7fea30"
     },
     {
       "id": "nla-03-conditioning-and-matrix-series",
       "path": "30_mathematics/numerical-analysis/modules/03-conditioning-and-matrix-series.md",
-      "sha256": "628b47c8cc24fa5dada1e454ebf8d3f94efdfd0917b280cbd398357284e4f2dc"
+      "sha256": "4633dce1c58c8ccdaff1f4e84fb409ac2bd66f633fdfa2e12921013e87252aaa"
     },
     {
       "id": "nla-04-spectral-localization-and-perturbation",
       "path": "30_mathematics/numerical-analysis/modules/04-spectral-localization-and-perturbation.md",
-      "sha256": "773ddeb0867cac0a83e4fb679b4664afb3cd8706d3eb9ad1b9095cf236dd593b"
+      "sha256": "6c7afad757b7dfd9afd95cecaab80dcc4e9e6c11c9ec6d706df97c06fa81e892"
     },
     {
       "id": "nla-05-spectral-distances-and-clusters",
       "path": "30_mathematics/numerical-analysis/modules/05-spectral-distances-and-clusters.md",
-      "sha256": "3a56d292315cc3aa2790698f59529398cf1655e67805848247e4876b722ea822"
+      "sha256": "779ea8d9fc233190c80e643146d2bcb76c2fce82f24c79ff3902253c2cf79b45"
     },
     {
       "id": "nla-06-floating-point-and-rounding-errors",
       "path": "30_mathematics/numerical-analysis/modules/06-floating-point-and-rounding-errors.md",
-      "sha256": "2da7397ae6bf91cc25f00952da8a9ba322f5034d35564d5205de3628fa1ed125"
+      "sha256": "452888c1ca21a287c6c10077acd6d4874c1f4c968c7209588256719a9459c20a"
     },
     {
       "id": "nla-07-lu-cholesky-and-refinement",
       "path": "30_mathematics/numerical-analysis/modules/07-lu-cholesky-and-refinement.md",
-      "sha256": "e3e73f35e8dbd8995ff43d11d4f4aa8e2e3a8d9c773857d98c91704694b23cc4"
+      "sha256": "4010eaec8f7e9406f12f9ae726ba76b2d678b3d174f749030c4595e467486d45"
     },
     {
       "id": "nla-08-qr-and-orthogonalization",
       "path": "30_mathematics/numerical-analysis/modules/08-qr-and-orthogonalization.md",
-      "sha256": "2517bd81d2eb83c1567beb8c15d275abd3ad353bd69251dd391c64c23e1450e2"
+      "sha256": "6bbe9fbd9f6ffa3c735e7f3a4351b278a482005881f2d7a18fca65fe9a27c660"
     },
     {
       "id": "nla-09-iterative-solvers-and-preconditioning",
       "path": "30_mathematics/numerical-analysis/modules/09-iterative-solvers-and-preconditioning.md",
-      "sha256": "289b8fec4daf70a61211e620ec38a1990fd5137b7da82ed29fc4ebfcea198f74"
+      "sha256": "2fe41dd85f2bed9320c34351cff67b468daafacead2c8bdef9c64d580ac5c450"
     },
     {
       "id": "nla-10-power-and-subspace-iteration",
       "path": "30_mathematics/numerical-analysis/modules/10-power-and-subspace-iteration.md",
-      "sha256": "b7089ac18ab61e4d2a160cbd1e551462389797b55b4c11641fccd3f57e87e504"
+      "sha256": "429ed97aad3e01310da99552a571adee91a7ea995e206ed4bef65c2484bf3433"
     },
     {
       "id": "nla-11-qr-eigenvalue-algorithm",
       "path": "30_mathematics/numerical-analysis/modules/11-qr-eigenvalue-algorithm.md",
-      "sha256": "cde6e8f5efd01f1da57dcd65c7e13e0bd45ca7de0d00b9a18caf09cdc25221e1"
+      "sha256": "415dbd502487f045ae8a3d39fa8171a589c47a57fe043f3a50d9f3b9a5363ff4"
     },
     {
       "id": "nla-12-shifted-qr-and-svd",
       "path": "30_mathematics/numerical-analysis/modules/12-shifted-qr-and-svd.md",
-      "sha256": "922410cd3fc9884dac3751c8897fa1a091e3b8bdd700f305809da96cfa1fc5b5"
+      "sha256": "3bb42bdddef43cea435f3d371077fbfa690a3654057d9ec63bbea585e14843d4"
     },
     {
       "id": "nla-13-interpolation-and-vandermonde",
       "path": "30_mathematics/numerical-analysis/modules/13-interpolation-and-vandermonde.md",
-      "sha256": "d7f2adae0f0e6d963a434cb5cdfafe1a77710fe586286d67a9c659d8030d583a"
+      "sha256": "2463ef0e1728e3466cb3c2dd6cd2cedc48ef7322093549789ebfe3879679f401"
     },
     {
       "id": "nla-14-chebyshev-convergence",
       "path": "30_mathematics/numerical-analysis/modules/14-chebyshev-convergence.md",
-      "sha256": "7ae34013c7fa2180997d3a2416450179e67cfe4c75d2994d2f4856bce94400f9"
+      "sha256": "b03f1034c417c30a4e4933843433a4c2f426e5365eb54b471771c3b9c65f8dba"
     },
     {
       "id": "nla-15-splines",
       "path": "30_mathematics/numerical-analysis/modules/15-splines.md",
-      "sha256": "83a49b85da4b6fe6f71425a4ae4eb4e37d5bbf9215e9d567544d2e5b4ff5a689"
+      "sha256": "2b5f04f945d748c501415cc983c9cd1cc755b4edde88c2c00a0f9d54e4f116e9"
     },
     {
       "id": "nla-16-best-approximation-orthogonal-polynomials",
       "path": "30_mathematics/numerical-analysis/modules/16-best-approximation-and-orthogonal-polynomials.md",
-      "sha256": "e69eeb433920c012fba433c07bc7992e81be2f12b27e42ae45a6cc7f20224227"
+      "sha256": "469917e7fd37801cd5799d12e434a7278c911eeb83b5c5334f8537f2e88847f7"
     },
     {
       "id": "nla-17-numerical-integration",
       "path": "30_mathematics/numerical-analysis/modules/17-numerical-integration.md",
-      "sha256": "ef458738ae5a8c26041d739a7222d0e97b8b4f8a126a1267c2bcd4ae03941bab"
+      "sha256": "7970a7592d96ee0b7a1dd6fef0451bcfd9e160fce3b7a7439fa8bb17c7bf5d17"
     },
     {
       "id": "nla-18-nonlinear-equations-newton-secant",
       "path": "30_mathematics/numerical-analysis/modules/18-nonlinear-equations-newton-secant.md",
-      "sha256": "06f95ba55174d0fdcde386bfb2c2f5412aabe30d25f5906c78bce7bbf2837995"
+      "sha256": "fcf785e3034542ac799186509c378b8fdbd5dc6ab4004bb4fadb073770be53a1"
     },
     {
       "id": "nla-19-unconstrained-optimization",
       "path": "30_mathematics/numerical-analysis/modules/19-unconstrained-optimization.md",
-      "sha256": "5aa0de5613b079fb72cb0b6e40e6451968bc6db5503316b52ab460a541e158af"
+      "sha256": "0f0dccbfb7d55804fb3bacf982264708a187d2a63cca6f160a2ea0810233582a"
     },
     {
       "id": "nla-20-krylov-projection-methods",
       "path": "30_mathematics/numerical-analysis/modules/20-krylov-projection-methods.md",
-      "sha256": "fcbe141743914008e2310545692f3a8396717555e807e6ccad5f618b091480f6"
+      "sha256": "7def5f80933548951dc0601ecc5c03b8a8cdecb89e62261f7860e157b8a77aa4"
     },
     {
       "id": "nla-21-gmres-convergence",
       "path": "30_mathematics/numerical-analysis/modules/21-gmres-convergence.md",
-      "sha256": "341b175cf93d35966f905f5e783a22d17246391f3cc3926271cf59e405b3fa4c"
+      "sha256": "27726a9d408999ee5e34a448b610a3c88119d41015fe8fbb08f16552019abb1e"
     },
     {
       "id": "nla-22-cg-ritz-preconditioning",
       "path": "30_mathematics/numerical-analysis/modules/22-cg-ritz-preconditioning.md",
-      "sha256": "a7e5944637dc178a714e8d581c756b77f22a0e9b11fe59eb7233b917528889b9"
+      "sha256": "12f29fdeab25c3e6784a6ba594f675d5892753f3035acf6e98118e9ed18c4371"
     },
     {
       "id": "nla-23-operator-equations-fem-galerkin",
       "path": "30_mathematics/numerical-analysis/modules/23-operator-equations-fem-galerkin.md",
-      "sha256": "56768c8cb408ffcc3e4706763b568ff27b93cd325af9e0d9e366cf1f34c7d5f9"
+      "sha256": "6e6174c106a7fb02ce726d4d8802a0c2d5956097cd8fed5601434d4136b1fbbc"
     },
     {
       "id": "nla-24-multigrid-subspace-corrections",
       "path": "30_mathematics/numerical-analysis/modules/24-multigrid-subspace-corrections.md",
-      "sha256": "1ff1f9e94281629c4bf4362a51bca0918c45aab74bc7ae1a8923dda997598d5f"
+      "sha256": "9185adc057afa81dbb9a6fb61b630c09e0262a4d1c831d04172da5684b537e7a"
     },
     {
       "id": "nla-25-structured-toeplitz-circulant",
       "path": "30_mathematics/numerical-analysis/modules/25-structured-toeplitz-circulant.md",
-      "sha256": "1807e50422e23e6a51bba31674b42f9f372d16f340cdba0973d5235093521942"
+      "sha256": "9dec0749aa0b77aaad74a4da0c080b95989526406c6be923713a43cebbbdfea9"
     },
     {
       "id": "nla-26-hierarchical-low-rank-wavelets",
       "path": "30_mathematics/numerical-analysis/modules/26-hierarchical-low-rank-wavelets.md",
-      "sha256": "8f65cbdee16a99b6f49966c4646ce352dfca9bb1fe323db3ff3351b8462010f2"
+      "sha256": "575e8f0be3b522ad5b2e81b0fb3c1ba38cc11cec14d81d8a4f65c5503979f8e1"
     },
     {
       "id": "nla-figure-prompt-registry",
@@ -1200,12 +1485,12 @@
     {
       "id": "norm",
       "path": "20_concepts/norm.md",
-      "sha256": "28e50b18d2412c2bf16f0acb2438114d6507ed9a00a2494b8936e608a8f621e5"
+      "sha256": "00b46f04f07f90990fb84f846ba67fa4d902706c05ed237b02695c6e273a45da"
     },
     {
       "id": "numerical-conditioning",
       "path": "20_concepts/numerical-conditioning.md",
-      "sha256": "41b63d3c425e1fbb2f8af2d02eaa9884e45cce37cf91a074fd183dd5fb42fa97"
+      "sha256": "d622da93293d1b625caa72b502c49328f860840483b1870560fd38abdb02871f"
     },
     {
       "id": "numerical-linear-algebra-map",
@@ -1215,7 +1500,77 @@
     {
       "id": "operator-equation",
       "path": "20_concepts/operator-equation.md",
-      "sha256": "cb5ae7c658b70e7b0d5e05f07e1d5dd15e46cc995686f3f7a53132e63922bef1"
+      "sha256": "daefa4fcd67cb786438bc286938004b017b4e375095b63dcd5109a78f1645228"
+    },
+    {
+      "id": "optimization-01-problem-geometry",
+      "path": "30_mathematics/optimization/modules/01-problem-geometry.md",
+      "sha256": "8f2dd26842be534df4763861f73d71f57eb8ff6f0776d45803b92a03a67b954c"
+    },
+    {
+      "id": "optimization-02-gradient-methods-ml",
+      "path": "30_mathematics/optimization/modules/02-gradient-methods-ml.md",
+      "sha256": "50a7c01c69aa5fdf192701e1a15f1bfaf3cc62e3ff1534dea027df0b65736934"
+    },
+    {
+      "id": "optimization-03-constraints-structure-splitting",
+      "path": "30_mathematics/optimization/modules/03-constraints-structure-splitting.md",
+      "sha256": "75280b6d6ca3e04a90d2b0f1e56d661f7ecea7b3831c7d0457623f655e4259e6"
+    },
+    {
+      "id": "optimization-04-duality-regularization-kkt",
+      "path": "30_mathematics/optimization/modules/04-duality-regularization-kkt.md",
+      "sha256": "6ac5e72e50c3dc7e0c9587bb10a695d596ebf7eff8e176225e99ced4bc006b21"
+    },
+    {
+      "id": "optimization-05-stochastic-online-time-series",
+      "path": "30_mathematics/optimization/modules/05-stochastic-online-time-series.md",
+      "sha256": "659cb04dd168538ba62416de8b25b253f968f548efd7d9a1ca901b7f86701939"
+    },
+    {
+      "id": "optimization-06-conic-sdp-kernel",
+      "path": "30_mathematics/optimization/modules/06-conic-sdp-kernel.md",
+      "sha256": "225228029407fdd16103dde9bb3d07f47f80a84cfd3eaee9e95d625102465fa5"
+    },
+    {
+      "id": "optimization-07-derivative-free-bayesian-automl",
+      "path": "30_mathematics/optimization/modules/07-derivative-free-bayesian-automl.md",
+      "sha256": "e1e5d36361f0c2dcb3c7e12a0c40f138422ad377c30f6b3acc8eca5215070ce6"
+    },
+    {
+      "id": "optimization-08-linear-programming-discrete-relaxations",
+      "path": "30_mathematics/optimization/modules/08-linear-programming-discrete-relaxations.md",
+      "sha256": "08e36efcdb059525649f864d122e34ba92f1f338567b1fe3fd11339e012f70a9"
+    },
+    {
+      "id": "optimization-09-second-order-curvature",
+      "path": "30_mathematics/optimization/modules/09-second-order-curvature.md",
+      "sha256": "be5248af404b3ec73a1d1ac3021367744a6836c2ca7eb3dbbbec656bac519924"
+    },
+    {
+      "id": "optimization-10-nonsmooth-proximal",
+      "path": "30_mathematics/optimization/modules/10-nonsmooth-proximal.md",
+      "sha256": "8518e1288e83f1ded683fd44f71dc1002c4fa6d00310414512f226f1482e171c"
+    },
+    {
+      "id": "optimization-11-variance-reduction-finite-sums",
+      "path": "30_mathematics/optimization/modules/11-variance-reduction-finite-sums.md",
+      "sha256": "a21aa235838d65f598b485702150b930295906e1d9b028649c3c10796123a07f"
+    },
+    {
+      "id": "optimization-12-primal-dual-minimax-robust",
+      "path": "30_mathematics/optimization/modules/12-primal-dual-minimax-robust.md",
+      "sha256": "0557712b86d6e92606f6f02a7b7a45acef149866bfe6f86a6af9650b5d1aba84"
+    },
+    {
+      "id": "optimization-13-experiment-protocol",
+      "path": "30_mathematics/optimization/modules/13-optimization-experiment-protocol.md",
+      "sha256": "ecff78bc8cb6acb6d7caeeb7357ad6c9042dc3a7ea8fbcf8ed4471972fc085de"
+    },
+    {
+      "id": "optimization-course",
+      "path": "10_maps/optimization.md",
+      "sha256": "9ba21452dd8788d82d96a607e7393f2a4e251209704b339d49c2f7b77c9b770d"
     },
     {
       "id": "orthogonal-polynomial-interlacing-theorem",
@@ -1235,7 +1590,7 @@
     {
       "id": "poincare-bendixson-trapping-region",
       "path": "30_mathematics/applied-mathematics/theorems/poincare-bendixson-trapping-region.md",
-      "sha256": "e9997582076ee82c82cbf12e912cf3c04e6f5297e47b45eddb976ed5e0c67e58"
+      "sha256": "e25fccbe5194a02a6bc22a34120f323d35536fc843985b91a462668565fedd58"
     },
     {
       "id": "positive-definite-kernel",
@@ -1245,12 +1600,72 @@
     {
       "id": "power-and-subspace-iteration",
       "path": "30_mathematics/numerical-analysis/methods/power-and-subspace-iteration.md",
-      "sha256": "97c815b1c40607190deb3585ed81107d3fb5e1b9470b13e8c8eb16cd445d9702"
+      "sha256": "62127b35860e9ef8df93a192f815380507d836a1d429601d58accf418bfacc8c"
     },
     {
       "id": "preconditioning-linear-systems-method",
       "path": "30_mathematics/numerical-analysis/methods/preconditioning-linear-systems.md",
-      "sha256": "284f51054fb9f8b9a4a09cb3f80235c0cb4808765000f4c0b7254fd172abe1ca"
+      "sha256": "e1d9bbbfc1eae215f53e4d11e7cf1a1eb768d2139b84feb78b7b884e14db4d03"
+    },
+    {
+      "id": "probability-01-refresher",
+      "path": "30_mathematics/probability/modules/01-probability-refresher.md",
+      "sha256": "737d3021e73582802d738d5f2a11c3b9fbd502b5445a2724ab40f7db5c34246b"
+    },
+    {
+      "id": "probability-02-concentration-independent-sums",
+      "path": "30_mathematics/probability/modules/02-concentration-independent-sums.md",
+      "sha256": "1d28170a493c3b949c0d39a3c87e9ef2159e297bde10c4ec5a3e6d96aa1c98ce"
+    },
+    {
+      "id": "probability-03-random-vectors-high-dimensions",
+      "path": "30_mathematics/probability/modules/03-random-vectors-high-dimensions.md",
+      "sha256": "b2162f511b205fd9bee151a7c73ff6d8e51e2eb9cfc28b3185eacc6353bc3589"
+    },
+    {
+      "id": "probability-04-random-matrices",
+      "path": "30_mathematics/probability/modules/04-random-matrices.md",
+      "sha256": "632c400a229e72b40fa82de57c81ad444c9ba3f9ad01954db210169f1c3c216e"
+    },
+    {
+      "id": "probability-05-concentration-without-independence",
+      "path": "30_mathematics/probability/modules/05-concentration-without-independence.md",
+      "sha256": "a935d7c4440735450da909c6eaf17541b9754f629a8efde11bc055f5433d4638"
+    },
+    {
+      "id": "probability-06-quadratic-forms-symmetrization",
+      "path": "30_mathematics/probability/modules/06-quadratic-forms-symmetrization.md",
+      "sha256": "ae7c51ee153a109471c0b5d543014957a0c9156442c9f625c4ba00a8d11816f4"
+    },
+    {
+      "id": "probability-07-random-processes-gaussian-width",
+      "path": "30_mathematics/probability/modules/07-random-processes-gaussian-width.md",
+      "sha256": "476d51539814e82efaae26f9fddb6c522dec75b8900669477c9b5ff7f1beb44b"
+    },
+    {
+      "id": "probability-08-chaining-empirical-processes",
+      "path": "30_mathematics/probability/modules/08-chaining-empirical-processes.md",
+      "sha256": "0ba297df31c8db13e4dff55f33bc84ac19d3dc6139ba4f2bd3835ba4bfa902c3"
+    },
+    {
+      "id": "probability-09-matrix-deviations-sparse-recovery",
+      "path": "30_mathematics/probability/modules/09-matrix-deviations-sparse-recovery.md",
+      "sha256": "2e941ab7c83a0df93b27c363e99d7b3a203fc1c4b341bced002f61978ae9a1a7"
+    },
+    {
+      "id": "probability-10-martingales-adaptive-concentration",
+      "path": "30_mathematics/probability/modules/10-martingales-adaptive-concentration.md",
+      "sha256": "05d289ca4b7c316eee06aefcd30741a9f54ede505696d9eecc9dd5cc0c40d233"
+    },
+    {
+      "id": "probability-concentration-map",
+      "path": "30_mathematics/probability/probability-concentration-map.md",
+      "sha256": "e91da2d3506d606db50ffc581bf06a574f5be79dcd4126f9ca4277b032aab6d7"
+    },
+    {
+      "id": "probability-source-map",
+      "path": "30_mathematics/probability/probability-source-map.md",
+      "sha256": "0aafa9f9278de018c5ea8aca4e310083799360b9163da7e8d7e95d19d06a1a66"
     },
     {
       "id": "projection-stability-convergence-theorem",
@@ -1260,12 +1675,12 @@
     {
       "id": "qr-algorithm-convergence-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/qr-algorithm-convergence.md",
-      "sha256": "15bf3414b13fee8b0e39586a5d7aac5b21072984ca36d2870d40c041d86fad2d"
+      "sha256": "a80b7a51fac06e5ed5012b47b53540c8ff9019b2fda6f53e8f1779b61df3b592"
     },
     {
       "id": "qr-eigenvalue-iteration",
       "path": "30_mathematics/numerical-analysis/methods/qr-eigenvalue-iteration.md",
-      "sha256": "eb7d41e0d760ba6084727b40fef3bb1f731b4912fd1c45a2e06b2fec784d1e8f"
+      "sha256": "c00acb3c947840f120923661d5176c25864f62e494689592c5917a227d04e2ca"
     },
     {
       "id": "qr-factorization-theorem",
@@ -1275,7 +1690,7 @@
     {
       "id": "quasi-newton-bfgs-method",
       "path": "30_mathematics/numerical-analysis/methods/quasi-newton-bfgs.md",
-      "sha256": "27ddb5525ab76d801767d71aa79799f5a85ecafa4c4b11796045271c2d361cae"
+      "sha256": "9b3fd44498b09bbb675111be73ac7267166a2e9a4da6d009108806738a0abe47"
     },
     {
       "id": "random-feature-gram-deterministic-equivalent",
@@ -1283,14 +1698,59 @@
       "sha256": "492b8edac68a5f6c4852eabe55d2d8f0cf59f288a6ad0bc588813fc9f4e05864"
     },
     {
+      "id": "random-feature-gram-matrix",
+      "path": "20_concepts/random-feature-gram-matrix.md",
+      "sha256": "634ed9bf6c4bdb2d4518b2602f217ee809ea4e1173f7e3696e0be6fbd4c1e750"
+    },
+    {
       "id": "random-matrix-theory-map",
       "path": "30_mathematics/random-matrix-theory/random-matrix-theory-map.md",
-      "sha256": "2f0afd857d2962eee6e16ce7f48608f0cf7ca40291bb3df03ba2fb66a38b8f08"
+      "sha256": "bf0751830bcf2109ca3941fae3afd92d7c8086f3114839018d0fcbcf9cade82e"
     },
     {
       "id": "rayleigh-shift-quadratic-convergence-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/rayleigh-shift-quadratic-convergence.md",
-      "sha256": "f8b3ab37751700f33e28af308d104e8207dba8059dede92290a64d2247a07c84"
+      "sha256": "c97da957f6f95f770b3c8261ba86224e2f7b5884c84d70423f88f4d9466ca78c"
+    },
+    {
+      "id": "real-analysis-01-measures-radon-nikodym",
+      "path": "30_mathematics/real-analysis/modules/01-measures-radon-nikodym.md",
+      "sha256": "655fe82bd843c4d3a369acb9274b2472bbaa33157e7886adc6008d81ebc5a798"
+    },
+    {
+      "id": "real-analysis-02-lp-hilbert-duality",
+      "path": "30_mathematics/real-analysis/modules/02-lp-hilbert-duality.md",
+      "sha256": "16db2f5e9f0c75a678fabdf52dc0aa6006939325a408d753d4c8878d66232082"
+    },
+    {
+      "id": "real-analysis-03-topology-baire-weak",
+      "path": "30_mathematics/real-analysis/modules/03-topology-baire-weak-compactness.md",
+      "sha256": "f2cae8c7da8331e59e0ebaa7333b19a51f684630521493c6e984a841b95eaa7f"
+    },
+    {
+      "id": "real-analysis-04-locally-compact-interpolation",
+      "path": "30_mathematics/real-analysis/modules/04-locally-compact-interpolation.md",
+      "sha256": "66354aba973cf8d6e1121f93c327f0b8270f4994b0693e47e845d6b83d36942d"
+    },
+    {
+      "id": "real-analysis-05-fourier-distributions",
+      "path": "30_mathematics/real-analysis/modules/05-fourier-distributions.md",
+      "sha256": "50eed591290ebfba33eb746476735be4405b43222b3b892f57afb47af096fc9b"
+    },
+    {
+      "id": "real-analysis-06-sobolev-hausdorff",
+      "path": "30_mathematics/real-analysis/modules/06-sobolev-hausdorff-dimension.md",
+      "sha256": "58cfb2e659b611c89a9d0a0ef37af62a762e66fc018fa6750ea5d8889f8c73c0"
+    },
+    {
+      "id": "real-analysis-course-map",
+      "path": "30_mathematics/real-analysis/real-analysis-map.md",
+      "sha256": "67bfe314e93ea7bf50597b5b523978316ac4211c7dff841ea1e8f1bc3a5deea1"
+    },
+    {
+      "id": "release-visual-prompts-2026-08-12",
+      "path": "70_labs/figures/release-visual-prompts-2026-08-12.md",
+      "sha256": "7355c334b07d0315b3725d6d1aacd6d850c1ad94a4ef3836ba26e9a63febddd2"
     },
     {
       "id": "remez-minimax-approximation",
@@ -1308,6 +1768,11 @@
       "sha256": "19f5cdf7622253c95d05d590541d1e14d7facf002f1a81327410fb1655a2ff00"
     },
     {
+      "id": "riemann-sphere",
+      "path": "20_concepts/riemann-sphere.md",
+      "sha256": "ec93656c2123434f66f0e3a164233a10817884c7500272016221c4edab281efc"
+    },
+    {
       "id": "ritz-superlinear-convergence-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/ritz-superlinear-convergence.md",
       "sha256": "df081a4ba0497d777fa04d2c5e026a0011ffb63f95694da473c4e154a483f151"
@@ -1315,47 +1780,47 @@
     {
       "id": "rmt-01-high-dimensional-spectra",
       "path": "30_mathematics/random-matrix-theory/modules/01-high-dimensional-spectra.md",
-      "sha256": "4f60d19a08c30b34aed4a3e43200a6c451d07561245080fa52005c4fb809f49f"
+      "sha256": "e0f6cf9e010319a124e9f5c146df36042ee4f3e69495212bc817ebf1a0259b61"
     },
     {
       "id": "rmt-02-resolvents-deterministic-equivalents",
       "path": "30_mathematics/random-matrix-theory/modules/02-resolvents-deterministic-equivalents.md",
-      "sha256": "e2b7cba33311ecee5de7e66738fc3dece9af8a419e7be7a7c61ce60fc6bfa22a"
+      "sha256": "c9e5264a59ec40fd064d31c4c7e9ebbacdf20052cf0870ce3ea5135aee9448ad"
     },
     {
       "id": "rmt-03-covariance-inference-linear-models",
       "path": "30_mathematics/random-matrix-theory/modules/03-covariance-inference-linear-models.md",
-      "sha256": "89a8d573d6badc1df769c5629ac51bd44232ca54cf1a9cdbd336510bde1285d5"
+      "sha256": "052d34a150a2f650b94c6bb74cef94f65697cd1115e038bb1d86949d9782c5df"
     },
     {
       "id": "rmt-04-random-kernel-matrices",
       "path": "30_mathematics/random-matrix-theory/modules/04-random-kernel-matrices.md",
-      "sha256": "ea7bb5b036bb48f7edcdba8650bb466f3d6a8bb108c4fa748d5d6a5a764df191"
+      "sha256": "f5b63487982b0fe5a9691d3c8bdae797ff3d826909c89b0c269443a4b343db78"
     },
     {
       "id": "rmt-05-random-neural-networks",
       "path": "30_mathematics/random-matrix-theory/modules/05-random-neural-networks.md",
-      "sha256": "3bb8f3793c6fba56a41a76beb794806118ddce560a4fbb45dbfbfe6a3e6092ec"
+      "sha256": "18d2f5721eaf04d779985d4aa9de18dc827a31b77bcde55748609784e35bb244"
     },
     {
       "id": "rmt-06-high-dimensional-convex-classifiers",
       "path": "30_mathematics/random-matrix-theory/modules/06-high-dimensional-convex-classifiers.md",
-      "sha256": "bd777ae148f0b5fbf600c89f859a3b5d36f2d09889f9b9aa7ec84a697106b168"
+      "sha256": "3a25569667587af5f002b0d8debc9c73d1c20923184549ab46363cd129bd59c3"
     },
     {
       "id": "rmt-07-graph-spectra-community-detection",
       "path": "30_mathematics/random-matrix-theory/modules/07-graph-spectra-community-detection.md",
-      "sha256": "965046fc472bce2dda4b6e38b4c0856512aa5b30ff4dee81d493260fbc2d2a29"
+      "sha256": "ab77d716c38d83b45701785890934b6e7c58f300b29f84f964ca732aae870718"
     },
     {
       "id": "rmt-08-universality-real-data",
       "path": "30_mathematics/random-matrix-theory/modules/08-universality-real-data.md",
-      "sha256": "91759138f1691e89546ff360a9cc792b0ed9c2ed97167bca1efa2b2f16e9652f"
+      "sha256": "607afacbfe51cbf59dfeae5e15ec3322a586ce3f807003b1eb9d659916b364f6"
     },
     {
       "id": "rmt-09-random-tensors",
       "path": "30_mathematics/random-matrix-theory/modules/09-random-tensors.md",
-      "sha256": "c6b29befc85abdb4a14a4fcf69753f185ce7667459076aab03a2a0d89adf19e8"
+      "sha256": "a60d40957055e715d88af9ebbf4a2b1f6e20b707c7978c33a3c9df72d8fe2156"
     },
     {
       "id": "rmt-chapters-02-08-v3-figures",
@@ -1363,9 +1828,19 @@
       "sha256": "01cb2dd858e0c9565630739fa9409179fc622402593ac02283f597a9d3a91ab7"
     },
     {
+      "id": "rmt-release-2-map",
+      "path": "30_mathematics/random-matrix-theory/rmt-release-2-map.md",
+      "sha256": "0bb74ed0dd7edfd390843d37fea6f33a0311273e3f224ef434017df4356b3dce"
+    },
+    {
       "id": "rmt-source-map",
       "path": "30_mathematics/random-matrix-theory/rmt-source-map.md",
-      "sha256": "e50ad6d9fab6507e9e769e9c40ef62fcfecc4c730e6a31647f70b4119a38cf0e"
+      "sha256": "605dabdb84ef0af526804a57109f768558606dff4241573b3b707d8893167f43"
+    },
+    {
+      "id": "rmt-universality",
+      "path": "20_concepts/rmt-universality.md",
+      "sha256": "6b753053402e729f496d6de5109b96f9f1d7a41ea1ba355e249dc0e7a375c522"
     },
     {
       "id": "sample-covariance-deterministic-equivalent",
@@ -1375,32 +1850,32 @@
     {
       "id": "shifted-implicit-qr",
       "path": "30_mathematics/numerical-analysis/methods/shifted-implicit-qr.md",
-      "sha256": "3da1bfc19462acb3d035d169a19ab4957556b114d3546ebea5a597746aa1f764"
+      "sha256": "9b3d2b7926c7a2fd338e487e39ad28ee76755a64328e5a7e2622cdfca019e32b"
     },
     {
       "id": "sokhotski-plemelj-boundary-values",
       "path": "30_mathematics/applied-mathematics/theorems/sokhotski-plemelj-boundary-values.md",
-      "sha256": "faa091aee08349437352ae2dae6b34ccd0cd656596d4c3b3217470f0a7474a31"
+      "sha256": "dea05f7198888320c82fc0efb1df8205a6a9f63053b96fa60be3bf16c1c3bd3c"
     },
     {
       "id": "source-boss-functional-analysis",
       "path": "60_sources/boss-functional-analysis.md",
-      "sha256": "a5fe268d8c3fe5b83bdb4d73a28219a6a71300f6f137ad3693bff9d4659ab306"
+      "sha256": "ad45f5590cf4d539b3d21c6c297b44e79b08530ad8c7642a72cb321efaa13c0e"
     },
     {
       "id": "source-boss-linear-algebra",
       "path": "60_sources/boss-linear-algebra.md",
-      "sha256": "d23771d6e913dfb6c0203405f4f5290fe791490b462f49baf28be2f6115d6889"
+      "sha256": "b80b58f078bf5ddd2bf5d074e6a3558b5782cab771fb203388019b05bfaa2e04"
     },
     {
       "id": "source-couillet-debbah-2011-wireless-rmt",
       "path": "60_sources/couillet-debbah-wireless-rmt.md",
-      "sha256": "9ce8d3eb7359ff3e237b5b697dba2c544bcbbad4e2b181de61424faf44e41d7a"
+      "sha256": "2b8d5311d0c2173fc6f0dad5a150c2de7909c8584cfd0152faf225ce27f95c3a"
     },
     {
       "id": "source-goulart-couillet-comon-2022-random-tensors",
       "path": "60_sources/goulart-couillet-comon-random-tensors.md",
-      "sha256": "5bcf25339ff4ef5d76c39d6ec2fa1896ecd2c4fdbdfdad9c62be92fafdeb7dcd"
+      "sha256": "3045d282e87507c241bf5bce3d21811238224e84fbbc14581b10114c2748c025"
     },
     {
       "id": "source-hofmann-scholkopf-smola-kernel-methods",
@@ -1410,17 +1885,27 @@
     {
       "id": "source-lebeau-chatelain-couillet-2025-tensor-approximation",
       "path": "60_sources/lebeau-chatelain-couillet-tensor-approximation.md",
-      "sha256": "9ee89b9f532b1c4caff1a473ad81b531396529b0935125e27902a3796b952e30"
+      "sha256": "08f822fcef34bbc40d1336baba012570c38ecb8a90570a7f98496a30755a076f"
     },
     {
       "id": "source-louart-liao-couillet-2018-random-neural-networks",
       "path": "60_sources/louart-liao-couillet-random-neural-networks.md",
-      "sha256": "8f136887d502f8b79872808364fb05be65f2cb7034d3a902bcbac2591ea04de3"
+      "sha256": "37258676561c7eb4b193a0e4ddc70d35674de7404f147cf1d87de8dc08451399"
+    },
+    {
+      "id": "source-munkres-topology",
+      "path": "60_sources/munkres-topology.md",
+      "sha256": "b00c6149b68161d3a8d33319e026bbd00fed0d7e2a4917f62928f78fed04aba1"
     },
     {
       "id": "source-myshkis-applied-mathematics-engineers",
       "path": "60_sources/myshkis-applied-mathematics-engineers.md",
-      "sha256": "8be10a9a2e68628066a634528a1c7fc67a794104cc2edf0856f29c131f6a525d"
+      "sha256": "5ce0f1830a935f9b1a146845844af06633388bbfb735ad8b13e9fa63834b3b7a"
+    },
+    {
+      "id": "source-needham-visual-complex-analysis",
+      "path": "60_sources/needham-visual-complex-analysis.md",
+      "sha256": "fb96739db681d863bec6f323d6fbb2c6ef39f73342ead6f1c7b1a68b7d3a3563"
     },
     {
       "id": "source-rmt4ml-2022",
@@ -1430,7 +1915,17 @@
     {
       "id": "source-seddik-guillaud-couillet-2022-random-tensors",
       "path": "60_sources/seddik-guillaud-couillet-random-tensors.md",
-      "sha256": "d6f2cb8327512098350f158f2e5ce40659f2faac91ed5072a8a1aa47b9c8b9be"
+      "sha256": "11f8a8f136b0b83a49aba7766b8681a535126faa459fdd7582cb605a7211a283"
+    },
+    {
+      "id": "source-steele-cauchy-schwarz-master-class",
+      "path": "60_sources/steele-cauchy-schwarz-master-class.md",
+      "sha256": "c94dad77909d6a24e7e8dee9d3725fd16742864c5b885c62d00809fbbd6b39dc"
+    },
+    {
+      "id": "source-tao-epsilon-of-room",
+      "path": "60_sources/tao-epsilon-of-room.md",
+      "sha256": "040a6b56a1645cd8ced068ae75dd854ab53eb54fafc2e270de9a95848bcc67c7"
     },
     {
       "id": "source-tyrtyshnikov-numerical-analysis",
@@ -1438,14 +1933,39 @@
       "sha256": "830572e9acfe1d422d9aadbe398cb43a4adb512c77de98dab1a823da2aee5dec"
     },
     {
+      "id": "source-vershynin-hdp-2026",
+      "path": "60_sources/vershynin-high-dimensional-probability.md",
+      "sha256": "62dcfc97fb9b175402b6620fbee3a875155af2bcb236e66341a75a45035be7f7"
+    },
+    {
+      "id": "spectral-edge-outlier",
+      "path": "20_concepts/spectral-edge-outlier.md",
+      "sha256": "542a33dd732635299588011c225a987c3f4dc9f673ed952f520f16fb0394d2a1"
+    },
+    {
       "id": "spectrum",
       "path": "20_concepts/spectrum.md",
-      "sha256": "57a9088af8ffa142166a5188f713d8f9471ac81e4e6ac08122dc506723997d1f"
+      "sha256": "a7da4f5e2e18f4a2167dd18ba60d7154caaf5db8f7d8fc678a1e3955f2a43a48"
+    },
+    {
+      "id": "sphere-lipschitz-concentration",
+      "path": "30_mathematics/probability/theorems/sphere-lipschitz-concentration.md",
+      "sha256": "848edd2e6f396b74ba4fbf4635f3573db6e7bf51f834daf258e270ba23d6691a"
     },
     {
       "id": "spiked-covariance-transition",
       "path": "30_mathematics/random-matrix-theory/theorems/spiked-covariance-transition.md",
       "sha256": "7d503dbeafcd23ff4ad51e79fed232d6a19d5983d531502d0c3e5a77a193368c"
+    },
+    {
+      "id": "spiked-random-matrix-model",
+      "path": "20_concepts/spiked-random-matrix-model.md",
+      "sha256": "11e800ed6e26ea21855c22d645bdf996338b802f96fe2643e3770282eb941af1"
+    },
+    {
+      "id": "steele-inequalities-source-map",
+      "path": "30_mathematics/inequalities/steele-source-map.md",
+      "sha256": "a5618091f767efd8e167858b57aa5f12d9b9b14d30723e29b2bc27c37d141bf3"
     },
     {
       "id": "stokes-theorem-vector-fields",
@@ -1458,9 +1978,24 @@
       "sha256": "f8f71a98638c0595b53d7f9b55790ad2690ee7afcf746a63248287e70cf11f5d"
     },
     {
+      "id": "subgaussian-matrix-operator-norm",
+      "path": "30_mathematics/probability/theorems/subgaussian-matrix-operator-norm.md",
+      "sha256": "aa2f1a2fb3040665051b405025725da83f47a677c2fd9e2df0e30c823a4729de"
+    },
+    {
+      "id": "subgaussian-norm-concentration",
+      "path": "30_mathematics/probability/theorems/subgaussian-norm-concentration.md",
+      "sha256": "7fe30c3531ac6a8a91a73b2c0d7f35d7f1dc5926ac8743db9cb52679b6ae3265"
+    },
+    {
+      "id": "subgaussian-subexponential",
+      "path": "20_concepts/subgaussian-subexponential.md",
+      "sha256": "c2d37d8decc5960a412874b76d9449bd9cb94a2b64f01f87f5b53f33fb2d1f1b"
+    },
+    {
       "id": "subspace-correction-bpx-method",
       "path": "30_mathematics/numerical-analysis/methods/subspace-correction-bpx.md",
-      "sha256": "3bb4cc3dbd44eec5c597f1261e6fb5086377d4749c5065e276fa6d821bea775f"
+      "sha256": "5f31a6b4a7f5c8968ccdc4d6e3cb2f11ba7c793b42f51bacf011b0460f90cd8f"
     },
     {
       "id": "subspace-correction-condition-bound-theorem",
@@ -1470,57 +2005,87 @@
     {
       "id": "subspace-iteration-convergence-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/subspace-iteration-convergence.md",
-      "sha256": "ab10ba767ee294ecd53244f8e7b5225057565ca20e7086874fc7e023a871ed32"
+      "sha256": "4451558797e9c852a58cfff0be8b2292c10c32f731aff9d20f64ffd8fc2faa18"
     },
     {
       "id": "subspace-projector-distance-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/subspace-projector-distance.md",
-      "sha256": "25db65fafafc44a6dfd097faeab459faffdc4adf121b3e7a7b02ed2052fbe939"
+      "sha256": "7c0462245baf2d0f33b643101a21381309afc738b64c7fa9277114370250e9ba"
     },
     {
       "id": "sylvester-equation-uniqueness-theorem",
       "path": "30_mathematics/linear-algebra/theorems/sylvester-equation-uniqueness.md",
-      "sha256": "907124b7ecd24707774f7fad0aa9f04af483f14d28e6e6771fa6998c540eac2c"
+      "sha256": "ac25cf8d0b9c7849298cb769b8e924af27c4f852f54923fd382fead57d885d42"
     },
     {
       "id": "sylvester-law-inertia-theorem",
       "path": "30_mathematics/linear-algebra/theorems/sylvester-law-inertia.md",
-      "sha256": "96cb53f01eb2f6c957f4e224256d464a81c566c6ac03cb96bfa4d23a0caf9c3e"
+      "sha256": "340c4058254806d9d732f4a95c131c2728b58e092584cf84772a80616e446669"
+    },
+    {
+      "id": "tao-real-analysis-source-map",
+      "path": "30_mathematics/real-analysis/tao-source-map.md",
+      "sha256": "34e484269b7be14114d16cbf04e7a507f146e4d490f5d51aa39b481b5ca50be6"
+    },
+    {
+      "id": "thm-arzela-ascoli",
+      "path": "30_mathematics/functional-analysis/theorems/arzela-ascoli.md",
+      "sha256": "d62841e5a108e5e697165831875515126486ff9f5fc8929fdff7af128f601c75"
+    },
+    {
+      "id": "thm-azuma-hoeffding",
+      "path": "30_mathematics/probability/theorems/azuma-hoeffding.md",
+      "sha256": "ffce00919c987b6354479831eb92adfcc425dbbb7ed137aca35443f65b568519"
     },
     {
       "id": "thm-baire-category",
       "path": "30_mathematics/functional-analysis/theorems/baire-category.md",
-      "sha256": "5e750def9501f4d772eade3395a2800e9b24c9399201732a1a8d1f7ff86ac7e4"
+      "sha256": "dd88906277f7f15f52d9c9e5173b7b0e200829de7e73865b713a517829dc08a3"
+    },
+    {
+      "id": "thm-banach-alaoglu",
+      "path": "30_mathematics/functional-analysis/theorems/banach-alaoglu.md",
+      "sha256": "ee6810db5e006584d0b9ac4dfefc20b03702041a80f657ac4f3b0c03d902d047"
     },
     {
       "id": "thm-banach-fixed-point",
       "path": "30_mathematics/functional-analysis/theorems/banach-fixed-point.md",
-      "sha256": "68982e58412197c573fac3fc4de60da3ab591e9e8fe7e073ea5ee8ab10d4b51f"
+      "sha256": "076cda9a941a7f25a5aca584dc6fa2a300839777cb096abec6b627a95af8d8f3"
     },
     {
       "id": "thm-clique-representer-sparse-expansion",
       "path": "30_mathematics/kernel-methods/theorems/clique-representer-sparse-expansion.md",
-      "sha256": "906f332807af93d4a38cd569e35ea3649db522175c2d3b7750c73ae430b7c42f"
+      "sha256": "45b6e8fc86fdfa9ebaed8fd1651df94edfa2da16dece3942099ee40b64d34b14"
     },
     {
       "id": "thm-closed-graph",
       "path": "30_mathematics/functional-analysis/theorems/closed-graph.md",
-      "sha256": "43886ad6ed25dece79dfb2b030ce51ed8a3c63ede25fd1e3bd6c534338b368f8"
+      "sha256": "4e0f3a926b5d8343c99a2704bdfb455242585c7cad98e7fa5aeb93b7663ce54a"
     },
     {
       "id": "thm-constraint-generation-epsilon-guarantee",
       "path": "30_mathematics/kernel-methods/theorems/constraint-generation-epsilon-guarantee.md",
-      "sha256": "b0cbaffbbb102da3308ddd440b2716831beeaf00ec3f518110a29da6258dcb92"
+      "sha256": "67586e53f1e01e38f4e1de31504ef1a4237dc4934c9973c1fa98f47a424e13c6"
     },
     {
       "id": "thm-dominated-convergence",
       "path": "30_mathematics/functional-analysis/theorems/dominated-convergence.md",
-      "sha256": "241bdb9618685e40026fca57b22926bdda79be41038c5c9b25471fa26ca5c133"
+      "sha256": "92e877300ec71259cff4ff89d358b36f220c8b7849af82858e25ab9af54514c9"
+    },
+    {
+      "id": "thm-euler-formula-geometric",
+      "path": "30_mathematics/complex-analysis/theorems/euler-formula-geometric.md",
+      "sha256": "c070c8612cbd35e784803dc7fd455a19caa37418ca36975ad8a1aa0ef2b34ba9"
     },
     {
       "id": "thm-exponential-rkhs-density-universality",
       "path": "30_mathematics/kernel-methods/theorems/exponential-rkhs-density-universality.md",
-      "sha256": "0f29ede3b86ab08098f312205ce7193852f2844c8f6d5bc682cbb650b9b74d6a"
+      "sha256": "92e3e029ea56cae9af1a8b7f45bdbbac5b05b0a6f64d10790e29f429087373f8"
+    },
+    {
+      "id": "thm-fubini-theorem",
+      "path": "30_mathematics/functional-analysis/theorems/fubini-theorem.md",
+      "sha256": "1cd736c166a5548abbd07f51a6943ae261cee77fbee5cafd905babc918d92683"
     },
     {
       "id": "thm-graph-compatible-kernel-decomposition",
@@ -1530,7 +2095,7 @@
     {
       "id": "thm-hahn-banach",
       "path": "30_mathematics/functional-analysis/theorems/hahn-banach.md",
-      "sha256": "a7585e4f36e9607cd0184ed5e2d9be0d4e912696f36756c8624a8078e4219701"
+      "sha256": "00210e0a493519caca7a5e2216ef71f6fc1b60c0147386b03d249603d39d20f9"
     },
     {
       "id": "thm-hammersley-clifford-factorization",
@@ -1538,19 +2103,59 @@
       "sha256": "cce5b6174b1715af3fcd2a194c29b0f11ed6d3457ef7f965063049b78dffc709"
     },
     {
+      "id": "thm-holder-inequality",
+      "path": "30_mathematics/functional-analysis/theorems/holder-inequality.md",
+      "sha256": "bc22a4c29188157b63425e76a909ced9e7af6dc63bbd9881cd692c9e8292170b"
+    },
+    {
+      "id": "thm-identity-theorem-analytic-functions",
+      "path": "30_mathematics/complex-analysis/theorems/identity-theorem-analytic-functions.md",
+      "sha256": "ae906575b279bc83c081227168423520133070f41b27f59eb02327dcced7506b"
+    },
+    {
+      "id": "thm-implicit-function-banach",
+      "path": "30_mathematics/functional-analysis/theorems/implicit-function-banach.md",
+      "sha256": "1283427ab7c96a0aef939791903cc5f56207e0f15200e6003cb18390cb355548"
+    },
+    {
       "id": "thm-kernel-mean-embedding-mmd",
       "path": "30_mathematics/kernel-methods/theorems/kernel-mean-embedding-mmd.md",
-      "sha256": "1a550edd71b1b6c1ddd5431d92b8736035b7d8202d1fc2b234fb6306d8564259"
+      "sha256": "c938bbe20349374ce622754b0aa3f8c581a762ec8476d952583c708cb4fa71db"
     },
     {
       "id": "thm-log-partition-moment-geometry",
       "path": "30_mathematics/kernel-methods/theorems/log-partition-moment-geometry.md",
-      "sha256": "9681cc42c4afbe44ee4f7f34d3fac44eb84b4c46301036e7fe8bd9514d369d36"
+      "sha256": "ff44ddf97c20bce21d698d49336d922121edf7cc99205a57f98ada707f8aa965"
     },
     {
       "id": "thm-margin-generalization-rate",
       "path": "30_mathematics/kernel-methods/theorems/margin-generalization-rate.md",
-      "sha256": "7a32aa05c2aa1d3fab1729f02f0acc27a3cb1b596b321e5e5c462bc2d6f3503e"
+      "sha256": "115c80a34ad721756fe4abedc0542a2c53f3a40d7005fada37cd633f8dd53013"
+    },
+    {
+      "id": "thm-minkowski-inequality",
+      "path": "30_mathematics/functional-analysis/theorems/minkowski-inequality.md",
+      "sha256": "61de68a30ed12ad6cd7259b34e62d8b0da3acb1d638bcfe574bf632602073e31"
+    },
+    {
+      "id": "thm-mobius-generalized-circle-preservation",
+      "path": "30_mathematics/complex-analysis/theorems/mobius-generalized-circle-preservation.md",
+      "sha256": "0e67b4f441aee3b486c2eae8b66678384ffea1141c6ae3f376d3d6dfe48d2199"
+    },
+    {
+      "id": "thm-mobius-three-point-determination",
+      "path": "30_mathematics/complex-analysis/theorems/mobius-three-point-determination.md",
+      "sha256": "f9b7c6b44910a0de287123f54dca3ac881674f47047fb06753d6f83e21e31b1b"
+    },
+    {
+      "id": "thm-monotone-compact-fixed-point",
+      "path": "30_mathematics/functional-analysis/theorems/monotone-compact-fixed-point.md",
+      "sha256": "297f4eb65fd7b6c0a35d95a9154d5ce65ee29f81b1c402be143d743980d99314"
+    },
+    {
+      "id": "thm-monotone-convergence-fatou",
+      "path": "30_mathematics/functional-analysis/theorems/monotone-convergence-fatou.md",
+      "sha256": "59748483d41b6222f8a61d690b18af35d6633ffab9faa4f10ae601083d09a8ed"
     },
     {
       "id": "thm-moore-aronszajn-rkhs-correspondence",
@@ -1560,7 +2165,7 @@
     {
       "id": "thm-open-mapping",
       "path": "30_mathematics/functional-analysis/theorems/open-mapping.md",
-      "sha256": "fc4fa24689900791e425ac2f430bff0a59e73e7413083986dfe1e354284393cf"
+      "sha256": "62bb087cb5617de8f529948e29fbe00c11ea93a610b3813ae56ce733df9464fb"
     },
     {
       "id": "thm-rademacher-uniform-convergence",
@@ -1575,12 +2180,12 @@
     {
       "id": "thm-riesz-representation",
       "path": "30_mathematics/functional-analysis/theorems/riesz-representation.md",
-      "sha256": "4d8b8068d1a7175df105796cdda91abfccb88900f5285ed0236e0d652465bc9e"
+      "sha256": "5b99c28ec8fcbd564c125572f09b687e1d6073309fda2e5c5a46448182ba4523"
     },
     {
       "id": "thm-rkhs-cross-covariance-independence",
       "path": "30_mathematics/kernel-methods/theorems/rkhs-cross-covariance-independence.md",
-      "sha256": "76e61f49f227eed9059fab372d7d4c3a02f33fb0b38e34ce6fc6ea0d3d03af8d"
+      "sha256": "b291664410405f51b09ae72d7708e9e27be511fbe25aa45776fc42afb88c89ab"
     },
     {
       "id": "thm-rkhs-rademacher-complexity",
@@ -1590,12 +2195,12 @@
     {
       "id": "thm-schauder-fixed-point",
       "path": "30_mathematics/functional-analysis/theorems/schauder-fixed-point.md",
-      "sha256": "a4806e9561f2774bac8fa72a4e97393d79f7e59b26aa14813cef57810902dfee"
+      "sha256": "c8b12f368c18fb4d6cfa6ad7586a7f56d11cb554b01b44e706dc8c9a8c95fabb"
     },
     {
       "id": "thm-spectral-compact-selfadjoint",
       "path": "30_mathematics/functional-analysis/theorems/spectral-compact-selfadjoint.md",
-      "sha256": "2911562272b7787bd50bb43eeb6c614b91dea4fbf1e9c0e213628afc62f31b3c"
+      "sha256": "5aebca2e162b7306fa127fedbadc3793d17f5aea43940160a09210230276e998"
     },
     {
       "id": "thm-structured-margin-loss-bound",
@@ -1605,7 +2210,7 @@
     {
       "id": "thm-structured-soft-margin-duality",
       "path": "30_mathematics/kernel-methods/theorems/structured-soft-margin-duality.md",
-      "sha256": "15824f20418668b8f2182265df1ccf5e500a47c34f21278d858e2afdd03caf30"
+      "sha256": "10940fe2c9b2bc421ffff6a8b0e85e0a602fc56dce07d9d2d683be4d7eb6c7c2"
     },
     {
       "id": "thm-surrogate-excess-risk-transfer",
@@ -1615,12 +2220,12 @@
     {
       "id": "thm-svm-duality-nu-bounds",
       "path": "30_mathematics/kernel-methods/theorems/svm-duality-nu-bounds.md",
-      "sha256": "07796f5ff7eb32da6b08527d2b89e8738cf3f5b1edc228c24faf8fd9b2ac37ee"
+      "sha256": "3d7e96029353245ff083fb1460282819aa771f5bd005d982cb37905b95384c06"
     },
     {
       "id": "thm-uniform-boundedness",
       "path": "30_mathematics/functional-analysis/theorems/uniform-boundedness.md",
-      "sha256": "4863123af181620bb916c4e10df5a1b8bfe272f8fae8443f1fcacdc75fe51cc3"
+      "sha256": "179a9e2bf0ebb250fc16747df96334e6a031af0f06821018ac8eb0440a118812"
     },
     {
       "id": "toeplitz-circulant-spectral-clustering-theorem",
@@ -1630,7 +2235,77 @@
     {
       "id": "topology",
       "path": "20_concepts/topology.md",
-      "sha256": "fc83674c928e2136e8bfe8e77d1c5c35a3bf8b1857a5e8e873bead02bf6c50f2"
+      "sha256": "a1caf62a8bcbc5a89863cf2560ee572bfab0ebd02bec0b172a143ad12ded86ee"
+    },
+    {
+      "id": "topology-01-sets-logic-orders",
+      "path": "30_mathematics/topology/modules/01-sets-logic-orders.md",
+      "sha256": "ca1275fd5305a6660b80d25f013e30298083e7d8466e97bd0ad0c8dc4d70196f"
+    },
+    {
+      "id": "topology-02-spaces-continuity",
+      "path": "30_mathematics/topology/modules/02-topological-spaces-continuity.md",
+      "sha256": "80078647e22f9fd7f4b7d380de6836c6697b333c5a07def7341d7c6a619a5566"
+    },
+    {
+      "id": "topology-03-connectedness-compactness",
+      "path": "30_mathematics/topology/modules/03-connectedness-compactness.md",
+      "sha256": "4364d976692f6a44d4d1a22d23273f343ed6a2a1508261c830fe101bdabf54aa"
+    },
+    {
+      "id": "topology-04-countability-separation",
+      "path": "30_mathematics/topology/modules/04-countability-separation.md",
+      "sha256": "45511f7a4ba40727b82040005a4eb63f9994df56edc50d8bbdcf2fdf7270e216"
+    },
+    {
+      "id": "topology-05-tychonoff-product",
+      "path": "30_mathematics/topology/modules/05-tychonoff-product-compactness.md",
+      "sha256": "05f6fd91bba42c19494961e11686793d527aed0c282de66d81c5fc50a6e6801c"
+    },
+    {
+      "id": "topology-06-metrization-paracompactness",
+      "path": "30_mathematics/topology/modules/06-metrization-paracompactness.md",
+      "sha256": "74edddc6e8c137ec9e6b00ce56af7cdaeef93636969d77cebc55d5e56e9e7164"
+    },
+    {
+      "id": "topology-07-complete-function-spaces",
+      "path": "30_mathematics/topology/modules/07-complete-metric-function-spaces.md",
+      "sha256": "0410ccba4453030accc8ac49fe5c2a8bd8acccfdcae097f0fd56416bbcd88a2f"
+    },
+    {
+      "id": "topology-08-baire-dimension",
+      "path": "30_mathematics/topology/modules/08-baire-dimension.md",
+      "sha256": "649c453c0d12443bdf776d4d2061bd443206017085bb0ebdae43fce24a562112"
+    },
+    {
+      "id": "topology-09-fundamental-group",
+      "path": "30_mathematics/topology/modules/09-fundamental-group.md",
+      "sha256": "390a0c26aa615bb46f733c77bdb9fe6fc500882088b79c521e65862f4d8844ae"
+    },
+    {
+      "id": "topology-10-separation-plane",
+      "path": "30_mathematics/topology/modules/10-separation-plane.md",
+      "sha256": "be08bb43eb667690dace2e6e06415915c761747a7cb0e074ab568206a3ce3dc2"
+    },
+    {
+      "id": "topology-11-seifert-van-kampen",
+      "path": "30_mathematics/topology/modules/11-seifert-van-kampen.md",
+      "sha256": "f0e0753265cb8c168c3ec82ab9883c43a0d2c39d5829d60d37f11e4694e54bf3"
+    },
+    {
+      "id": "topology-12-classification-surfaces",
+      "path": "30_mathematics/topology/modules/12-classification-surfaces.md",
+      "sha256": "02151a09360c53f2591d0c4870847168b05f1c06c7bd2e9b5fe573e1db2cf409"
+    },
+    {
+      "id": "topology-13-covering-spaces",
+      "path": "30_mathematics/topology/modules/13-covering-spaces.md",
+      "sha256": "5b6ff96a4e5aaff21bb54681b048ed0e6da90e98850a7f616ca1a0f8df22dd7c"
+    },
+    {
+      "id": "topology-course-map",
+      "path": "30_mathematics/topology/topology-map.md",
+      "sha256": "e80d620a57c4bf55ad54ae0cfa29fe885c7d74036b028ad0ed7bb63901a63e81"
     },
     {
       "id": "trace-covariance-distance-correction",
@@ -1640,12 +2315,12 @@
     {
       "id": "tsybakov-noise-localization",
       "path": "20_concepts/tsybakov-noise-localization.md",
-      "sha256": "219e99b05a551972f106b41fcd08efff7bea8c76aa1ba18549eed6185595dfc5"
+      "sha256": "f4ed1809fbcc34628c1f09f05d37abcb67148f99b7ec8316fc4fa33876456a59"
     },
     {
       "id": "tyrtyshnikov-chapters-09-11-figure-registry",
       "path": "70_labs/figures/tyrtyshnikov-chapters-09-11.md",
-      "sha256": "ba6aa535a20ea2e86d3d90af328e5c8232f9396c0c1bc48e30b282a8aed6e343"
+      "sha256": "e19e8099ced4dbabd9e6bb39aa5551492d038f662ffc7ef976c8a6f9b9164126"
     },
     {
       "id": "tyrtyshnikov-source-map",
@@ -1655,17 +2330,92 @@
     {
       "id": "vandermonde-conditioning-lower-bound-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/vandermonde-conditioning-lower-bound.md",
-      "sha256": "37f2eb87b3c19d079094ca8580e279ac67d78b7a8caf8cbf39c86439c96338ad"
+      "sha256": "2b2a2b30be5cf0434c5a484d3a0319aade41f503a22619a813c47d03e7ad0d81"
+    },
+    {
+      "id": "vc-uniform-law-large-numbers",
+      "path": "30_mathematics/probability/theorems/vc-uniform-law-large-numbers.md",
+      "sha256": "92806f095fb54e4c4d7e04289df109e1d65caaf310d69581ce79980efbf76ecb"
+    },
+    {
+      "id": "vca-01-complex-geometry",
+      "path": "30_mathematics/complex-analysis/modules/01-complex-geometry.md",
+      "sha256": "526373c939c27f7ff430bcce141156b0e172a7a17c1256b0387055eb6af8984e"
+    },
+    {
+      "id": "vca-02-functions-transformations",
+      "path": "30_mathematics/complex-analysis/modules/02-functions-transformations.md",
+      "sha256": "0fa8b707f2bac6cb7097b1876e9a98cc738d3121948394a7abf11a194b0fcf7e"
+    },
+    {
+      "id": "vca-03-mobius-inversion",
+      "path": "30_mathematics/complex-analysis/modules/03-mobius-inversion.md",
+      "sha256": "3105d1125dccbbfa59a6f7f26e3323ca33c3968a1879cc7cbd0c5207d4bc58e2"
+    },
+    {
+      "id": "vca-04-amplitwist-derivative",
+      "path": "30_mathematics/complex-analysis/modules/04-amplitwist-derivative.md",
+      "sha256": "f63db122c53b22b43f68860ad307421338d6bd21a43c7def0f47e89ad44ff53a"
+    },
+    {
+      "id": "vca-05-differentiation-geometry",
+      "path": "30_mathematics/complex-analysis/modules/05-differentiation-geometry.md",
+      "sha256": "e91292cf91cfc4be9282fe19960cbde79b92f4ce666ed78afe8cf76a5aa77039"
+    },
+    {
+      "id": "vca-06-hyperbolic-geometry",
+      "path": "30_mathematics/complex-analysis/modules/06-hyperbolic-geometry.md",
+      "sha256": "868bdd4fcdfd3a0acf4da5536348a3c2f33779f28d2cf0260cb8a43a72c04ef8"
+    },
+    {
+      "id": "vca-07-winding-number-topology",
+      "path": "30_mathematics/complex-analysis/modules/07-winding-number-topology.md",
+      "sha256": "3e407501dbbac9f3d5ac907f8be644734bf4cf1924085b900fced03fa8abfb21"
+    },
+    {
+      "id": "vca-08-complex-integration-cauchy",
+      "path": "30_mathematics/complex-analysis/modules/08-complex-integration-cauchy.md",
+      "sha256": "a00f6123a6df6c4356e8724c697d79064d496c7101a5d7abe77611c869385ca9"
+    },
+    {
+      "id": "vca-09-cauchy-formula-applications",
+      "path": "30_mathematics/complex-analysis/modules/09-cauchy-formula-applications.md",
+      "sha256": "8473437a5a03b15c8140bb7c3c255bfa4d3ac3592eac66e2cb5187569ba29bc3"
+    },
+    {
+      "id": "vca-10-vector-fields-physics-topology",
+      "path": "30_mathematics/complex-analysis/modules/10-vector-fields-physics-topology.md",
+      "sha256": "9c13d482392bbc9d0f451d4e8bd42d439116da3b22d6a3c556e95eb47f1142bd"
+    },
+    {
+      "id": "vca-11-vector-fields-complex-integrals",
+      "path": "30_mathematics/complex-analysis/modules/11-vector-fields-complex-integrals.md",
+      "sha256": "6a26c19904b248cdc039182c56d157d8bd044f31aad8c1181d2f718ae9289002"
+    },
+    {
+      "id": "vca-12-flows-harmonic-functions",
+      "path": "30_mathematics/complex-analysis/modules/12-flows-harmonic-functions.md",
+      "sha256": "2717f37c68666fba91926b5c6c865456035edf6505af5b19332ccb197e611513"
+    },
+    {
+      "id": "visual-complex-analysis-map",
+      "path": "30_mathematics/complex-analysis/visual-complex-analysis-map.md",
+      "sha256": "dab45c6763b223780bb3675326a4197cd3b7d4e41c96665abbb8fc0cac55eb2f"
+    },
+    {
+      "id": "visual-complex-analysis-source-map",
+      "path": "30_mathematics/complex-analysis/visual-complex-analysis-source-map.md",
+      "sha256": "dae64cbf4b8fa203b332cfe8fa3299c6056333ac2596b1dfaadda685ac84cb57"
     },
     {
       "id": "wavelet-multiresolution-transform-method",
       "path": "30_mathematics/numerical-analysis/methods/wavelet-multiresolution-transform.md",
-      "sha256": "3458c175f05290a2bee0870a2ab27a8805d786918832007411e8535b1abdb6e4"
+      "sha256": "46db1a15963a937a080ba16199be66a1dc53a2f4cc34a9c994d9f0418bc0c0ac"
     },
     {
       "id": "weak-topology",
       "path": "20_concepts/weak-topology.md",
-      "sha256": "ce5de5e38dd980b0b569ded8ea95cd1ce5960ebc94d98a5cfe05fca24a6e8d4b"
+      "sha256": "88b1d8edcfe7dba8cc1f5ef220a13194f4ae31ad9fa81ae586816fa376edc1fa"
     },
     {
       "id": "weyl-eigenvalue-perturbation",
@@ -1676,6 +2426,11 @@
       "id": "wielandt-hoffman-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/wielandt-hoffman-theorem.md",
       "sha256": "c656660269ebe9b8a934f8e0cc7b4a4724fc5ec26d053d50ae7c7ca6245b6c64"
+    },
+    {
+      "id": "wigner-semicircle-law",
+      "path": "30_mathematics/random-matrix-theory/theorems/wigner-semicircle-law.md",
+      "sha256": "25da35456f15090518e136d5a84e83136f2d0bb2fb89bbf33fde625952aa6d80"
     }
   ],
   "assets": [
@@ -1732,36 +2487,36 @@
       "sha256": "8e0f14a2b271ab7f8df2ed35dfa6de2463cbc7a67b75a7c3c248556e73815a25"
     },
     {
-      "path": "80_assets/bridges/gpt-image-v2/distributions-convolution-insight.png",
-      "sha256": "6cf92f1c0ecccf349157bc43c269a27b50d4b9c0b5ebb535f4c0a002e2c1b4b5"
+      "path": "80_assets/bridges/gpt-image-v3/distributions-convolution-equivariance-v3.png",
+      "sha256": "176bacbee4698effe2cec509a28535fb334bff3ccfe4604be081e5dfd5a65e4b"
     },
     {
-      "path": "80_assets/bridges/gpt-image-v2/frechet-fixed-points-insight.png",
-      "sha256": "1579166f956473dfaa10caaea166d9772e7129f8257130a22db73a38b664b3c8"
+      "path": "80_assets/bridges/gpt-image-v3/frechet-fixed-points-equilibrium-v3.png",
+      "sha256": "b54e0a1de835ae28ac681bcf90c0c82bf025390ebdb2d59cc30ea865be45dfd6"
     },
     {
-      "path": "80_assets/bridges/gpt-image-v2/hilbert-rkhs-insight.png",
-      "sha256": "482dced2c63822300a967121ce108f6e2e0052e649459da3852041a2680e911f"
+      "path": "80_assets/bridges/gpt-image-v3/hilbert-rkhs-representer-v3.png",
+      "sha256": "968d1be6bcb5618ac9def7459067e5916c9d9ed523a3cdee085b3d04bb713752"
     },
     {
-      "path": "80_assets/bridges/gpt-image-v2/lp-risk-insight.png",
-      "sha256": "5d91373551435205630b95f6a01c0c9862da4d1d952f64d328d2bd95ad0d56c4"
+      "path": "80_assets/bridges/gpt-image-v3/lp-risk-tail-v3.png",
+      "sha256": "11506a87bd08b34acf81f90262f9abfdf40c6fdbcee60de925b96f8aa735eda4"
     },
     {
-      "path": "80_assets/bridges/gpt-image-v2/metrics-losses-insight.png",
-      "sha256": "8ac9465588db256b4eab63408df0d0751f6082bd2ebbb5dc88959eaba15b3e47"
+      "path": "80_assets/bridges/gpt-image-v3/metrics-losses-geometry-v3.png",
+      "sha256": "eeb1e4cb01d28fb29aa560ad82ff279259d3b6ed7f529f93ed8ddd70c6be4e3e"
     },
     {
-      "path": "80_assets/bridges/gpt-image-v2/operator-equations-insight.png",
-      "sha256": "c2057f09e14efe40427512c7440a0c4282f51f55de3ed9210667ae27e9c78ed1"
+      "path": "80_assets/bridges/gpt-image-v3/operator-equations-regularization-v3.png",
+      "sha256": "927ef8a1becd0edfb5767a997f1a6a2e3bc25c31aab2c258cc13ac9ec6026742"
     },
     {
-      "path": "80_assets/bridges/gpt-image-v2/operators-spectrum-insight.png",
-      "sha256": "2519b8fbf3dc9c84c9bfd6d3aec9628800f538c33cf4c463705107efc8261ae1"
+      "path": "80_assets/bridges/gpt-image-v3/operators-spectrum-low-rank-v3.png",
+      "sha256": "7381285110bbd407e65e1a0d0543ae0b10b438246d1168bdb92d19305cba4992"
     },
     {
-      "path": "80_assets/bridges/gpt-image-v2/positive-operators-insight.png",
-      "sha256": "f9cc806b8d23c760615d8d64fde5db6b11fb9cef9c8229c3fe71db3214ede0ed"
+      "path": "80_assets/bridges/gpt-image-v3/positive-operators-cone-v3.png",
+      "sha256": "68a4acdeef3b4dfa7d6f2c5f67e507dc374492b5074e8790fe8d00314657619f"
     },
     {
       "path": "80_assets/calculus-of-variations/gpt-image-v1/calculus-of-variations-module-insight-v1.png",
@@ -1782,6 +2537,94 @@
     {
       "path": "80_assets/calculus-of-variations/gpt-image-v1/variational-principles-ai-bridge-v1.png",
       "sha256": "109eada7eb5e1f6e141a85cacd11672781f07d868ee97d86d4041855a5fa4659"
+    },
+    {
+      "path": "80_assets/complex-analysis/gpt-image-v1/bridge-analytic-continuation-inverse-problems.png",
+      "sha256": "7aa23a5d780cc4a11ffdbabb3fcc33238d43907eeb437217cf7f43458fc6239e"
+    },
+    {
+      "path": "80_assets/complex-analysis/gpt-image-v1/bridge-conformal-regularization-complex-representations.png",
+      "sha256": "168300903dce522f9521a2c652c785762026d48680b157172c43db33f0675743"
+    },
+    {
+      "path": "80_assets/complex-analysis/gpt-image-v1/bridge-mobius-hyperbolic-representations.png",
+      "sha256": "784115bbaf3d824da6699c5951133f33e22b2b9a6f82584eb248a23c928f87dd"
+    },
+    {
+      "path": "80_assets/complex-analysis/gpt-image-v1/thm-euler-formula-geometric.png",
+      "sha256": "ff708bd254ffeaf573e9f3390f1f1d8997792adf43ef9e52411afafb47554900"
+    },
+    {
+      "path": "80_assets/complex-analysis/gpt-image-v1/thm-identity-theorem-analytic-functions.png",
+      "sha256": "e0a6f5313ab538da623afc5fffa5dc329427bd876a1127e5cc3fcefb82b0a4c0"
+    },
+    {
+      "path": "80_assets/complex-analysis/gpt-image-v1/thm-mobius-generalized-circle-preservation.png",
+      "sha256": "be0cf3ab27c9194e498a778f4daf75188a650af16bcab2679af89c9e0912c628"
+    },
+    {
+      "path": "80_assets/complex-analysis/gpt-image-v1/thm-mobius-three-point-determination.png",
+      "sha256": "d30a9c7db2dd0ef63ff6623de96ea59af26860b522d810b4f202c3613ae4539d"
+    },
+    {
+      "path": "80_assets/complex-analysis/gpt-image-v1/vca-01-complex-geometry.png",
+      "sha256": "2f6394fcf1a4e5bd34390e78a5c07ca6b7e95f11dca13e74bdef4bc79c4d7535"
+    },
+    {
+      "path": "80_assets/complex-analysis/gpt-image-v1/vca-02-functions-transformations.png",
+      "sha256": "3787a594900e741ad24380f6fb2571fa99761817937baede5aed85fa3396a092"
+    },
+    {
+      "path": "80_assets/complex-analysis/gpt-image-v1/vca-03-mobius-inversion.png",
+      "sha256": "931abeb345658d8487d10714b0d1d5205b7fcf86e139e95aa5c74b4f3eee00ce"
+    },
+    {
+      "path": "80_assets/complex-analysis/gpt-image-v1/vca-04-amplitwist-derivative.png",
+      "sha256": "e0fdd047aadcf0f8121e20020024b23c93b7c1f3b85898f7cbf3f8efe59722de"
+    },
+    {
+      "path": "80_assets/complex-analysis/gpt-image-v1/vca-05-differentiation-geometry.png",
+      "sha256": "1acd059e4a23a2e65102427a8b9b1fecc942344ad392d51962033a044c8dca9b"
+    },
+    {
+      "path": "80_assets/complex-analysis/gpt-image-v2/vca-06-hyperbolic-geometry-v2.png",
+      "sha256": "20d1707631aadf66fd823fbc8fc3d9c5769494d38d0939a3aaf9bd27327e222f"
+    },
+    {
+      "path": "80_assets/complex-analysis/gpt-image-v2/vca-07-winding-number-topology-v2.png",
+      "sha256": "c91405da37afc145f77b85f58db9da1d2b831cc2c20b4ada766ed81fe9da0eab"
+    },
+    {
+      "path": "80_assets/complex-analysis/gpt-image-v2/vca-08-complex-integration-cauchy-v2.png",
+      "sha256": "d7dac95758a37489e09237c8844b5bde29b8acfc895f219dca786044ce0f82c7"
+    },
+    {
+      "path": "80_assets/complex-analysis/gpt-image-v2/vca-09-cauchy-formula-applications-v2.png",
+      "sha256": "f52ebdcecb0c50f9e85bcc1888c696ac8ed028a14ea0172a8743527af2e36f15"
+    },
+    {
+      "path": "80_assets/complex-analysis/gpt-image-v2/vca-10-vector-fields-physics-topology-v2.png",
+      "sha256": "2dca30653e4d9d97f356245ed9616e4007235715d19244446625b356c0e6802e"
+    },
+    {
+      "path": "80_assets/complex-analysis/gpt-image-v2/vca-11-vector-fields-complex-integrals-v2.png",
+      "sha256": "356ed27bbf026ac4ac29988f2f3debd7875628ead2a0cbf6ae4661bf98ad2848"
+    },
+    {
+      "path": "80_assets/complex-analysis/gpt-image-v2/vca-12-flows-harmonic-functions-v2.png",
+      "sha256": "64d52996ae060c92c9927cecf7b405ef4a6ccb343af182b399f37a98ea693da3"
+    },
+    {
+      "path": "80_assets/complex-analysis/interactive-complex-jacobian-conformality.svg",
+      "sha256": "51a0796b9289d832ac3daaf2c213c7ecacc2a78537e8cc3f1265f9dcc0f90510"
+    },
+    {
+      "path": "80_assets/complex-analysis/interactive-complex-multiplication-euler.svg",
+      "sha256": "031c49463ab8b2e5c433f46f053b61664e84744799d428e9123704a3c37e05c1"
+    },
+    {
+      "path": "80_assets/complex-analysis/interactive-mobius-generalized-circles.svg",
+      "sha256": "4be1277d23bf8ebdc9e929e18a8faaefaf7065f980a89bfe69021eca463a8ad0"
     },
     {
       "path": "80_assets/dynamical-systems/gpt-image-v1/averaging-slow-envelope-v1.png",
@@ -1808,80 +2651,128 @@
       "sha256": "e826f95513853d15590281a7776568fb5afac94a9253222ce0f9430f9a4c21e0"
     },
     {
-      "path": "80_assets/functional-analysis/gpt-image-v2/module-01-insight.png",
-      "sha256": "394f391b48691a39ca9de27f2f2ea22a55b899e1c5369a785a9b81aa3f35e003"
-    },
-    {
-      "path": "80_assets/functional-analysis/gpt-image-v2/module-02-insight.png",
-      "sha256": "e4959481bf1d3ef1b94aada39015c0b82f2a3e95b84bb2e21802fa2ac517ebbc"
-    },
-    {
-      "path": "80_assets/functional-analysis/gpt-image-v2/module-03-insight.png",
-      "sha256": "25093e4d4ceef23bd40e0298e89a9812ef5d623e1bbda70a25422f6351ca951c"
-    },
-    {
-      "path": "80_assets/functional-analysis/gpt-image-v2/module-04-insight.png",
-      "sha256": "0d93faf198283ab554b92038e68b63f54d613db68ffff5afbeaa0d225c09eb54"
-    },
-    {
-      "path": "80_assets/functional-analysis/gpt-image-v2/module-05-insight.png",
-      "sha256": "0708145b0ba828fa619d4bc692d9344bab94f7efa7e04cea1334e51d6dedd315"
-    },
-    {
-      "path": "80_assets/functional-analysis/gpt-image-v2/module-06-insight.png",
-      "sha256": "e6e569a1cd41467afce0c38f374eef1790cd9cd610f77de5e1662fd730ac6784"
-    },
-    {
-      "path": "80_assets/functional-analysis/gpt-image-v2/module-07-insight.png",
-      "sha256": "463958b9b0cef6865de5772efe9042f703b335d7d05f7838405550632c34928d"
-    },
-    {
-      "path": "80_assets/functional-analysis/gpt-image-v2/module-08-insight.png",
-      "sha256": "80ebd995c0623fcfe8e730ab7ac89b6c419aba57763f1775a2fa9a78092d092a"
-    },
-    {
-      "path": "80_assets/functional-analysis/gpt-image-v2/module-09-insight.png",
-      "sha256": "2dabad79d0f94df736e18ea2b0742a388206440fb86ea22c1098e26d920f6510"
-    },
-    {
-      "path": "80_assets/functional-analysis/gpt-image-v2/module-10-insight.png",
-      "sha256": "b80ecadf278bd87aa035f3b474252609e486896aa90f3b41abc0980a572c8cb2"
-    },
-    {
-      "path": "80_assets/functional-analysis/gpt-image-v2/module-11-insight.png",
-      "sha256": "f51e7173836424efc0b72f35a6d5724e856c3d3f4ac1372e2ba69158b18feed7"
-    },
-    {
-      "path": "80_assets/functional-analysis/gpt-image-v2/module-12-insight.png",
-      "sha256": "b62f5b02b1148c33c06e0eef26062b21628f53dc005aebc59f55077e21fd1616"
-    },
-    {
-      "path": "80_assets/functional-analysis/gpt-image-v2/module-13-insight.png",
-      "sha256": "b5a2d005087e76d376afbbb0fe7167d0647c392bc371e9db1df11ecbff63cae7"
-    },
-    {
       "path": "80_assets/functional-analysis/interactive-compactness.svg",
-      "sha256": "0712afd099d02cf8e7b142658ff230e6bde62e9a4bcb68756776116e0e235b07"
+      "sha256": "fa8b0811f098d66b3c40438ae39c51b2c83cc25d280727020da5e683961f9622"
     },
     {
       "path": "80_assets/functional-analysis/interactive-convergence.svg",
-      "sha256": "885f33191f1ac6fb380f5097bb1da2f318dfb462c2877e21864c5ae4a4ea4f88"
+      "sha256": "819802f478f26daa8b2e1466175cc29cc8a220993d3225fcddee58b72bcea28e"
     },
     {
       "path": "80_assets/functional-analysis/interactive-fixed-point.svg",
-      "sha256": "699da65d83f62c80edaf2f641bf705e403d9c886e6e127c191aaad61d55bfc8a"
+      "sha256": "afb0dd958bef07897d265e042d66dc9f72037df90f5c34ca6cbc3b2deea1f010"
     },
     {
       "path": "80_assets/functional-analysis/interactive-norms.svg",
-      "sha256": "cef5d5794a6eee2ec055d924e78071ff7f9ec75fd72b7815921b2b3738f1e9d3"
+      "sha256": "0b4c92d05a644ce98fbfe19b0ef0a63c6cbebedd24e7157469f6ed432bd547e7"
     },
     {
       "path": "80_assets/functional-analysis/interactive-projection.svg",
-      "sha256": "f4d0421f8484fd1ea410fbbf087e6906a10f9aa9341b51add107c98739f29a0f"
+      "sha256": "7ad47643c86a269c8b1f5f070433ff4be0161680c59d843b50ed9dbb5076a454"
     },
     {
       "path": "80_assets/functional-analysis/interactive-spectrum.svg",
-      "sha256": "5ad2a204c18679ed77f6de1ce101a5a0cc1824437b04b3e9c451aeab5f11c2ab"
+      "sha256": "c378a4fe116c8f25f26afb26b53cf7cee0b71ae4fbe2d63627fe41d32ca83d93"
+    },
+    {
+      "path": "80_assets/functional-analysis/modules/gpt-image-v3/module-01-structures-v3.png",
+      "sha256": "8683afdf3c93eb6ee9b65b65f0d6f4423137cd3cf2de6c68caeed4501c034ffb"
+    },
+    {
+      "path": "80_assets/functional-analysis/modules/gpt-image-v3/module-02-norms-completeness-v3.png",
+      "sha256": "87233f9c269685a6632aab7246377d46b3c5be71baaf3b74d5a90c6038b5e080"
+    },
+    {
+      "path": "80_assets/functional-analysis/modules/gpt-image-v3/module-03-measure-lp-v3.png",
+      "sha256": "21de8eb33f9ed5893a2b12351eb0660450d639f39cf9deb66ad76ca57cc30a79"
+    },
+    {
+      "path": "80_assets/functional-analysis/modules/gpt-image-v3/module-04-compactness-v3.png",
+      "sha256": "9464b81faf6724b3f090cdf57c6019b9fe810b6ae2e06f6c87c95e02f57e1c2f"
+    },
+    {
+      "path": "80_assets/functional-analysis/modules/gpt-image-v3/module-05-topology-weak-v3.png",
+      "sha256": "a32900d7dea85efd6a67d73b36f2d2f5dc3bfe6e2a8b4d35f7ceb4786604f067"
+    },
+    {
+      "path": "80_assets/functional-analysis/modules/gpt-image-v3/module-06-linear-operators-v3.png",
+      "sha256": "e319cc53966c42a73d75825c7aa7ae4c02036b11a0812a7bb2ffbb190b7cae8f"
+    },
+    {
+      "path": "80_assets/functional-analysis/modules/gpt-image-v3/module-07-hilbert-operators-v3.png",
+      "sha256": "43a45d5e6abc92d6c885259afbee2f769e68bb7e7410446080d0bb5fad353ae5"
+    },
+    {
+      "path": "80_assets/functional-analysis/modules/gpt-image-v3/module-08-distributions-convolution-v3.png",
+      "sha256": "981dcfab3cda211fdd094da1683f17a292fab43c8dd110651193f4916ddd5e2b"
+    },
+    {
+      "path": "80_assets/functional-analysis/modules/gpt-image-v3/module-09-operator-equations-v3.png",
+      "sha256": "91ff11ebabd2d38798dc3b0d36d4916208bb59790254f0281f6f05aa958adc0f"
+    },
+    {
+      "path": "80_assets/functional-analysis/modules/gpt-image-v3/module-10-spectral-theory-v3.png",
+      "sha256": "6fafacd28af7e8b541b8b99f0ffd3012729098bbc155e04ba6be03cbbeaed614"
+    },
+    {
+      "path": "80_assets/functional-analysis/modules/gpt-image-v3/module-11-nonlinear-frechet-v3.png",
+      "sha256": "d61b058bffd3e89cc9c8c2cfe51ddf6868dc35202af65d058b4e1f21109d4627"
+    },
+    {
+      "path": "80_assets/functional-analysis/modules/gpt-image-v3/module-12-positive-operators-v3.png",
+      "sha256": "c98057067ccfaa43c24f26de99eda02c156642df00d31f41591d7582b9e11814"
+    },
+    {
+      "path": "80_assets/functional-analysis/modules/gpt-image-v3/module-13-dependency-map-v3.png",
+      "sha256": "5e34fd151dfb2088eac32e3a814be2e98f91fe7f37448a30d1bef7e8b1e54ebb"
+    },
+    {
+      "path": "80_assets/functional-analysis/theorems/gpt-image-v4/arzela-ascoli-grid-v4.png",
+      "sha256": "89144bc45ea851fa76b8e2482da2667ee2bd62e54fcc02de6b77e3d08706b869"
+    },
+    {
+      "path": "80_assets/functional-analysis/theorems/gpt-image-v4/banach-alaoglu-probes-v4.png",
+      "sha256": "d0152d75627abbb73fe2572583b3d0a5cd354a8041f313587539a338a2eeaeeb"
+    },
+    {
+      "path": "80_assets/functional-analysis/theorems/gpt-image-v4/fubini-slicing-v4.png",
+      "sha256": "0398f4dddc5652eb73bb9e9c4c683421867deb9991bad8c36074aaa990d75dd9"
+    },
+    {
+      "path": "80_assets/functional-analysis/theorems/gpt-image-v4/holder-duality-v4.png",
+      "sha256": "88055748546898a363d1458ffe0cfcbdd22490570503144ad8190e93d30c2033"
+    },
+    {
+      "path": "80_assets/functional-analysis/theorems/gpt-image-v4/implicit-manifold-v4.png",
+      "sha256": "1328cad8df179e62ddb65e45a3978c8435f477552c046751399400cde63b9e70"
+    },
+    {
+      "path": "80_assets/functional-analysis/theorems/gpt-image-v4/minkowski-convexity-v4.png",
+      "sha256": "fe95ced7d72b4f3fc880b8f7804b7edfe9ee21b89c10c6b5313792965c2a8bb1"
+    },
+    {
+      "path": "80_assets/functional-analysis/theorems/gpt-image-v4/monotone-compact-fixed-point-v4.png",
+      "sha256": "4df247f990e3073fac6dd33bc3ad5595d8d5a337da0bb33027aca43ee2319038"
+    },
+    {
+      "path": "80_assets/functional-analysis/theorems/gpt-image-v4/monotone-fatou-layers-v4.png",
+      "sha256": "f20bbbdabda840a206f316ed5c9af759063ceb9d5ce050efe18f7c088ffaa229"
+    },
+    {
+      "path": "80_assets/inequalities/gpt-image-v1/inequalities-module-01-cauchy-amgm-squares-v1.png",
+      "sha256": "2cb242a224b3e95eb4dfaa4332dd6e0eb057bc5591632efe92c01647bbc0df10"
+    },
+    {
+      "path": "80_assets/inequalities/gpt-image-v1/inequalities-module-02-order-convexity-power-means-v1.png",
+      "sha256": "71169e025bb0db781e6633536ff601890a2e71d06c5102115078d06bf61e81d0"
+    },
+    {
+      "path": "80_assets/inequalities/gpt-image-v1/inequalities-module-03-holder-hilbert-hardy-v1.png",
+      "sha256": "4d025e029f454f1c57341ddcd20a7283ccc75483f991b5cff9372c08daf112df"
+    },
+    {
+      "path": "80_assets/inequalities/gpt-image-v1/inequalities-module-04-majorization-cancellation-v1.png",
+      "sha256": "6ca4aeae95a4c7cef74f1496193edc9549b49a1bf2dee88c92292a636c5f9fa3"
     },
     {
       "path": "80_assets/integral-equations/gpt-image-v1/degenerate-kernel-reduction-v1.png",
@@ -1905,7 +2796,7 @@
     },
     {
       "path": "80_assets/interactive/cg-preconditioning-spectrum.html",
-      "sha256": "425c83f39f875d1f79c25da80d3d089e4840933545ea2b6ff09524d02b7de167"
+      "sha256": "bf9d539afd98f0cab098de9972a4e42e8351231805c363983b57052c8e1ef069"
     },
     {
       "path": "80_assets/interactive/circulant-fourier-modes.html",
@@ -1913,11 +2804,19 @@
     },
     {
       "path": "80_assets/interactive/compactness.html",
-      "sha256": "cfa3640b529582499c31c53ce8270cc865c18d3cf39adb8c0deec35f1dc0ceb8"
+      "sha256": "2231034b26511443580fd3bb72d2f3fa6a22ce6b925887cbaa6781ab044d504f"
+    },
+    {
+      "path": "80_assets/interactive/complex-jacobian-conformality.html",
+      "sha256": "c4af45f76640b6c5905c63594407dc784d922629b8fb415ab488d7d0b80adf9e"
+    },
+    {
+      "path": "80_assets/interactive/complex-multiplication-euler.html",
+      "sha256": "c0e8ae171616879953c814b6f9c471f9d82f691444f861e978a67c4b2e5691e5"
     },
     {
       "path": "80_assets/interactive/contraction-map.html",
-      "sha256": "5d6acf5a64e1c95229bfd3b47ea5b617da1750328974f40e482e0f8078925ed1"
+      "sha256": "49d25e9c20d7134dc0307f35406362c8a09ff2f441c6bb716a57851afd3dc514"
     },
     {
       "path": "80_assets/interactive/convergence-modes.html",
@@ -1933,7 +2832,7 @@
     },
     {
       "path": "80_assets/interactive/gmres-residual-geometry.html",
-      "sha256": "946ce4e721c094873229db65002a7e39ddfdef9ea103d38ef3d081543ccea3a8"
+      "sha256": "244e8298567b852f0e47b8f013d269c0c51d4d43980cace9c08e2a0027845b80"
     },
     {
       "path": "80_assets/interactive/hierarchical-low-rank-compression.html",
@@ -1941,7 +2840,7 @@
     },
     {
       "path": "80_assets/interactive/hilbert-projection.html",
-      "sha256": "c6ee06eded411240afb9183af46bd780f91a67280f7b08f555c9919835a3d703"
+      "sha256": "16551f772fa58eaac10cb0e300926abfea1d184fd302b2ea028b58135f7ab7aa"
     },
     {
       "path": "80_assets/interactive/krylov-polynomial-filter.html",
@@ -1949,7 +2848,11 @@
     },
     {
       "path": "80_assets/interactive/line-search-geometry.html",
-      "sha256": "378f7a62ed0d87d43328a5afc8d687fe9337782a9fb0c698c16653cbc3840e2a"
+      "sha256": "07b849ac000c7bb925dfba54d64c29acdeb5b62b96974d565b414f0f8f8bd4e0"
+    },
+    {
+      "path": "80_assets/interactive/mobius-generalized-circles.html",
+      "sha256": "16ab8b51e3a94764ac455d251a59af3f2edfeebe58505edcd46cbd8a8342abed"
     },
     {
       "path": "80_assets/interactive/multigrid-error-modes.html",
@@ -1957,7 +2860,7 @@
     },
     {
       "path": "80_assets/interactive/newton-secant-convergence.html",
-      "sha256": "e7791208503cca4d87bed1b7232554b16666e7fb78c67406bed052e89c58a0bc"
+      "sha256": "97f171b79e921b9c9b15468833e8cb4733f6307994369c7c19a83b116e86a3e7"
     },
     {
       "path": "80_assets/interactive/norm-geometry.html",
@@ -1968,12 +2871,20 @@
       "sha256": "98e99c2d39c677e0a6dbb41c8cc589834fbabb76abf3a161309f3d0a4b9ff24c"
     },
     {
+      "path": "80_assets/interactive/rmt-bbp-transition.html",
+      "sha256": "c2ab8228e8782a5f763246177756475e2f5e7432a85e52f3a7e6edcfb341a968"
+    },
+    {
+      "path": "80_assets/interactive/rmt-mp-spectrum.html",
+      "sha256": "76431a4e6cb3a5b20d40ea1d5471c6e3e1e7bd16af1ceee64681a91544abdbb6"
+    },
+    {
       "path": "80_assets/interactive/runge-chebyshev.html",
       "sha256": "6b9f3864b26e933dcc4505321e6aa51f3548189316621fcc74aee53ff9e8772c"
     },
     {
       "path": "80_assets/interactive/spectrum-low-rank.html",
-      "sha256": "498bfc5d60be8df649e94e8fb9bc3fe0e69bdd9277c224a79b18d855f2ceae21"
+      "sha256": "51a4fb20f4c4ac773085b117164cc64294ec292d9744bc7fc5f192b62aeb2535"
     },
     {
       "path": "80_assets/interactive/spline-boundaries.html",
@@ -2557,15 +3468,15 @@
     },
     {
       "path": "80_assets/numerical-analysis/interactive-cg-preconditioning.svg",
-      "sha256": "01fd5813f2e8ca69534b193726db9db2b636d452bf91ea24c0d4d8817d2274b8"
+      "sha256": "fd599f2f08a2765067724e025a3f0cc34568c071cd390a058fb7fee8445556fd"
     },
     {
       "path": "80_assets/numerical-analysis/interactive-circulant-fourier-modes.svg",
-      "sha256": "1052094526a28cf34846ae673e9670c73870fc2e458fa24183da292c3e6b860c"
+      "sha256": "223e64be70c7c3fbb58d36cebf01e9a586113ffc1dd442924b8e1796b954fa32"
     },
     {
       "path": "80_assets/numerical-analysis/interactive-galerkin-weak-form.svg",
-      "sha256": "9beb0c26e3c344251d01504e9266f995d65e2d3c6d91295d56cf8e7696cea82b"
+      "sha256": "2a310e9d1453101c9d6226c755eff968d1c9b6957b0bd3d6df38b19415be87c0"
     },
     {
       "path": "80_assets/numerical-analysis/interactive-gauss-quadrature.svg",
@@ -2573,27 +3484,27 @@
     },
     {
       "path": "80_assets/numerical-analysis/interactive-gmres-residual.svg",
-      "sha256": "b542670dcc77c2035bba59fef9149283bb56f82c95f82e6b89f5a79866bf7e63"
+      "sha256": "190d93d200d8d7e0f0976edbb63a97ba9f04a00a99d1c7f2f11836e822b1d272"
     },
     {
       "path": "80_assets/numerical-analysis/interactive-hierarchical-compression.svg",
-      "sha256": "f9ed6d8fa4f22a8cb6bc746985c90c7406e09320f08952bcb862709a49f564b8"
+      "sha256": "9923da9deb73329aa4179dccb15c393bd364ff310c2b46c0db0a00edb0b1ba98"
     },
     {
       "path": "80_assets/numerical-analysis/interactive-krylov-filter.svg",
-      "sha256": "ad5998f2c79408509a8095873fb6e30a8680decc5bff6e794a88c9cc1337c829"
+      "sha256": "168b486004556bfd27d7feb2fcdd8f4e1eaf975dc136f53e6168fc8c16f99d41"
     },
     {
       "path": "80_assets/numerical-analysis/interactive-line-search.svg",
-      "sha256": "5a023b3d2d9c51306f6dfb1345cd155c33e6d4053480f0a63539f8ee99a89183"
+      "sha256": "8241c2a74d1fe8b884d485bf1da50c3a75dcd027486d761d249ce09a728c95f0"
     },
     {
       "path": "80_assets/numerical-analysis/interactive-multigrid-error-modes.svg",
-      "sha256": "441a384660763d3cdbf371d35ae3c81fe8755bd8b735683489d0bc3fc8497aee"
+      "sha256": "08a61ef032fe4173d9060ce3f4760885dae22c394e805bf49fc0b3b20b95cc31"
     },
     {
       "path": "80_assets/numerical-analysis/interactive-newton-secant.svg",
-      "sha256": "7973a701556ef7ca6245436fb6688258fe662693212dd3f2eb06ab1f1b0b4ab7"
+      "sha256": "f46eb6fafb6b87f242f96935d603fbc2eb6cc0ffcf94914f0411c9d7b7271a4f"
     },
     {
       "path": "80_assets/numerical-analysis/interactive-remez-alternation.svg",
@@ -2606,6 +3517,166 @@
     {
       "path": "80_assets/numerical-analysis/interactive-spline-boundaries.svg",
       "sha256": "4278b225c9a4e7adab391f3396413ef74ff77861cfb9cb910788fe87c5ca52dd"
+    },
+    {
+      "path": "80_assets/optimization/gpt-image-v1/optimization-module-01-problem-geometry-v1.png",
+      "sha256": "b04afbbc9c8cc7594d2a5fd71119139064af9be6d05e7ce7b20050f2bbe07a80"
+    },
+    {
+      "path": "80_assets/optimization/gpt-image-v1/optimization-module-02-gradient-methods-ml-v1.png",
+      "sha256": "aa703e0f6d03b915a7093d7a7865ae4240ef8055989c12564318674e0fd68ad8"
+    },
+    {
+      "path": "80_assets/optimization/gpt-image-v1/optimization-module-03-constraints-structure-splitting-v1.png",
+      "sha256": "f2798acea44d36d49c56d26f610d0a31197153feb70686e3869a767d03483c04"
+    },
+    {
+      "path": "80_assets/optimization/gpt-image-v1/optimization-module-04-duality-regularization-kkt-v1.png",
+      "sha256": "6b6042d443384a1e8225689b0fb3b44d2e77d055b54c8c124e387b0d664f89d0"
+    },
+    {
+      "path": "80_assets/optimization/gpt-image-v1/optimization-module-05-stochastic-online-time-series-v1.png",
+      "sha256": "e05202e0970dd24defbda3a12103def70402773cb05baf53330f26bf56e6be03"
+    },
+    {
+      "path": "80_assets/optimization/gpt-image-v1/optimization-module-06-conic-sdp-kernel-v1.png",
+      "sha256": "2b427e7793b22f3c6837982eec7c660922749f2537d33123c66c10612f2a2c0a"
+    },
+    {
+      "path": "80_assets/optimization/gpt-image-v1/optimization-module-07-derivative-free-bayesian-automl-v1.png",
+      "sha256": "2c8abc5b1fbcedc7e5e8dc2b370ca445f37fe1f08073c68169528f900232e520"
+    },
+    {
+      "path": "80_assets/optimization/gpt-image-v1/optimization-module-08-linear-programming-discrete-relaxations-v1.png",
+      "sha256": "c290a9709466dcabff3a140c9a4aeda2fe387d34c45e549e99b9c0646e2f5ee3"
+    },
+    {
+      "path": "80_assets/optimization/gpt-image-v1/optimization-module-09-second-order-curvature-v1.png",
+      "sha256": "05afd3d9f373b291119143fbee8986a64cdba7b4cf3960fd5785ea202f6872c6"
+    },
+    {
+      "path": "80_assets/optimization/gpt-image-v1/optimization-module-10-nonsmooth-proximal-v1.png",
+      "sha256": "a275cece27fcf91b754d5e5aa3800c7a518a927972c0f67f15e346f4f353e25d"
+    },
+    {
+      "path": "80_assets/optimization/gpt-image-v1/optimization-module-11-variance-reduction-finite-sums-v1.png",
+      "sha256": "27e9919682fcba0abbc0b2fe4ff40137ef8fb33b2bca1f53e054984d72fe3473"
+    },
+    {
+      "path": "80_assets/optimization/gpt-image-v1/optimization-module-12-primal-dual-minimax-robust-v1.png",
+      "sha256": "e6026eed4c29d7b39a040b87bc7580e749b3b37742838ae92aba056ed11201df"
+    },
+    {
+      "path": "80_assets/optimization/gpt-image-v1/optimization-module-13-optimization-experiment-protocol-v1.png",
+      "sha256": "e8b911750d54be8832721e2ca6f47d65827b9a9a322dcd6f0044e5e92641bba7"
+    },
+    {
+      "path": "80_assets/probability/gpt-image-v1/bernstein-inequality-insight-v1.png",
+      "sha256": "ec655f620dd6ebf27b24c9c69ac8ed963c68ad0b3a111963b3abb4403b33dc12"
+    },
+    {
+      "path": "80_assets/probability/gpt-image-v1/concentration-generalization-auditing-insight-v1.png",
+      "sha256": "fa6cc7ae64dfe8644717536f18fd57c28c3167165c4e43c25485fad215eb169d"
+    },
+    {
+      "path": "80_assets/probability/gpt-image-v1/hoeffding-inequality-insight-v1.png",
+      "sha256": "ed1526a7487f8251f35a39638e92cba7f40f41bea9da35f1ca24b519010d4663"
+    },
+    {
+      "path": "80_assets/probability/gpt-image-v1/probability-module-01-randomness-pipeline-insight-v1.png",
+      "sha256": "73fa57ed0e41248ce61a8b91ebfbcc725dba55199905bda3520018da2bdd8454"
+    },
+    {
+      "path": "80_assets/probability/gpt-image-v1/probability-module-02-concentration-sums-insight-v1.png",
+      "sha256": "dbb6fb1b2ec06f376a9d9bcfa9dc7a5825c959b7d5ce521dc806d86cc8d0e2f2"
+    },
+    {
+      "path": "80_assets/probability/gpt-image-v1/probability-module-03-random-vectors-insight-v1.png",
+      "sha256": "84c6c5a7a7809dc52c7f342a2535e2fb963bdddf2b90ecb559db08990c3c8c9a"
+    },
+    {
+      "path": "80_assets/probability/gpt-image-v1/subgaussian-norm-concentration-insight-v1.png",
+      "sha256": "ad04586f144e9ded72cb8134587f2ce20e8fd5100e87e521a4268bf8eeb80b18"
+    },
+    {
+      "path": "80_assets/probability/gpt-image-v1/thin-shell-embedding-geometry-insight-v1.png",
+      "sha256": "e74065993ed7c30056a4d6b48109d474f3511af84c1a15f475773d03251da674"
+    },
+    {
+      "path": "80_assets/probability/gpt-image-v2/hanson-wright-inequality-insight-v2.png",
+      "sha256": "57b355099d45a332f8b12713f10c35fe4ec58044ce3ca30e93136941e6512477"
+    },
+    {
+      "path": "80_assets/probability/gpt-image-v2/probability-module-04-random-matrices-insight-v2.png",
+      "sha256": "17bf0df5f97ec46a8c7696de71d27f02d7111f6e8fb870c7177760845839dfb3"
+    },
+    {
+      "path": "80_assets/probability/gpt-image-v2/probability-module-05-concentration-without-independence-v2.png",
+      "sha256": "d577a23ea0b77f30dd50a00721500d3c0fca066c48cee1ffe8aac2007176a8cd"
+    },
+    {
+      "path": "80_assets/probability/gpt-image-v2/probability-module-06-quadratic-forms-symmetrization-v2.png",
+      "sha256": "5d6f6f01c3b298ecc24caee7453d384055d8191f91b0857e0255d1a87e5cd0d9"
+    },
+    {
+      "path": "80_assets/probability/gpt-image-v2/quadratic-forms-covariance-anomaly-insight-v2.png",
+      "sha256": "223672e3d92b8c016a9b5161ce7064262c2f1ac5bc4cbfd019551c5773346360"
+    },
+    {
+      "path": "80_assets/probability/gpt-image-v2/random-projections-retrieval-insight-v2.png",
+      "sha256": "655dbfbf6c418c9aeec60caad59d62de9a29e3518b022c82921ea2d24d783c69"
+    },
+    {
+      "path": "80_assets/probability/gpt-image-v2/sphere-lipschitz-concentration-insight-v2.png",
+      "sha256": "9b631002dfbed61d88efc553f63869ad9868401e3685b3964e5f077caca8c3c4"
+    },
+    {
+      "path": "80_assets/probability/gpt-image-v2/subgaussian-matrix-operator-norm-insight-v2.png",
+      "sha256": "33d5f529f2b549deab244ad6d4bada74e373f02e629d7ad44613c07005af77e7"
+    },
+    {
+      "path": "80_assets/probability/gpt-image-v3/dudley-integral-inequality-insight-v3.png",
+      "sha256": "e95ec388cbf2729dd021b1dd017dde51a30fca20c03f95180581925c65ab022f"
+    },
+    {
+      "path": "80_assets/probability/gpt-image-v3/empirical-processes-adaptive-generalization-insight-v3.png",
+      "sha256": "2c75e5bef2af37bf9737338c35c3c787d6262350969aacfc18acbd294b6949d2"
+    },
+    {
+      "path": "80_assets/probability/gpt-image-v3/gaussian-width-sample-complexity-insight-v3.png",
+      "sha256": "884862e2aaf2287f59cba5ec8b5014699db46ac396a7688c1bc0de5539fb3353"
+    },
+    {
+      "path": "80_assets/probability/gpt-image-v3/matrix-deviation-inequality-insight-v3.png",
+      "sha256": "15b2346fd4f8ea022df8a64573d1342511c9fa1edd2299fce9d4d1cf7c3998b7"
+    },
+    {
+      "path": "80_assets/probability/gpt-image-v3/probability-module-07-random-processes-gaussian-width-v3.png",
+      "sha256": "f3f11be32c48c63e988455d6941398c3d7eb5c77ceb5ca3f3851f39cacf90aa3"
+    },
+    {
+      "path": "80_assets/probability/gpt-image-v3/probability-module-08-chaining-empirical-processes-v3.png",
+      "sha256": "aad62163d8c97ea4ee285ae66763acc99cda0fda1e25b77274b50a8815ef94e0"
+    },
+    {
+      "path": "80_assets/probability/gpt-image-v3/probability-module-09-matrix-deviations-sparse-recovery-v3.png",
+      "sha256": "786afde3300bd074dfb05f293fb45256d2f14d3cf651a9b0c76709348d5317dd"
+    },
+    {
+      "path": "80_assets/probability/gpt-image-v3/structured-recovery-low-rank-adaptation-insight-v3.png",
+      "sha256": "41a97382b4345e21f0aba2312a486b6abeeae3d351fd566eb4682d3e7ada9b5d"
+    },
+    {
+      "path": "80_assets/probability/gpt-image-v3/vc-uniform-law-large-numbers-insight-v3.png",
+      "sha256": "5a900ecf3bdd5f33f13bc8405ac885f5bed1cbad72221838f6977c8b1047c318"
+    },
+    {
+      "path": "80_assets/probability/gpt-image-v4/azuma-hoeffding-martingale-v4.png",
+      "sha256": "9f62867857aa08dd3a4e58d0fa1978a4743a10cedbaad0b3bc9aa315f66f7678"
+    },
+    {
+      "path": "80_assets/probability/gpt-image-v4/probability-module-10-martingales-v4.png",
+      "sha256": "3e74007bf234f3e685f731e374f8e81ec2e8e25eaf250b8bd38b9d4af5790fc4"
     },
     {
       "path": "80_assets/random-matrix-theory/gpt-image-v2/random-feature-network-insight-v2.png",
@@ -2696,6 +3767,82 @@
       "sha256": "d0811ac020bd8bcf9dcd687248edbeb0e5d0495ad0e5513b3e5f2f973f156e71"
     },
     {
+      "path": "80_assets/random-matrix-theory/gpt-image-v5/wigner-semicircle-law-insight-v5.png",
+      "sha256": "82ada62bb5f06bb7e0b6af34d896d7bc934ecfdfa55d340c6b3e5bf57ab22003"
+    },
+    {
+      "path": "80_assets/random-matrix-theory/interactive-rmt-bbp-transition.svg",
+      "sha256": "716073a5c0e1fb4009d2842ceb83db4f1ba01d6d4647a3bb7251afc9689d2b61"
+    },
+    {
+      "path": "80_assets/random-matrix-theory/interactive-rmt-mp-spectrum.svg",
+      "sha256": "cdd815a97386b59728323c97f76012fe2b8e0a8dd3abf563bd45ccbbe0b569b7"
+    },
+    {
+      "path": "80_assets/random-matrix-theory/labs-v1/lab-bbp-spiked-transition.png",
+      "sha256": "a0e389a149937901c62de12fb52a2b726b7e2aff34e9a9379c4c128cf98f9528"
+    },
+    {
+      "path": "80_assets/random-matrix-theory/labs-v1/lab-marchenko-pastur-finite-size.png",
+      "sha256": "c58249cfb5f54998a5b95490b73f88b86fd6b3cbf9f73fc8646f3812492b8c45"
+    },
+    {
+      "path": "80_assets/random-matrix-theory/labs-v1/lab-random-features-double-descent.png",
+      "sha256": "3abb64aab4b1b356d84281693c903110011994ff368f11340ec45a607bf55905"
+    },
+    {
+      "path": "80_assets/random-matrix-theory/labs-v1/lab-resolvent-density-recovery.png",
+      "sha256": "e3d3887c6e102b3e49f667115392cfe7320ae80a01647431a4b10a4d746e7408"
+    },
+    {
+      "path": "80_assets/random-matrix-theory/labs-v1/lab-sbm-dense-sparse.png",
+      "sha256": "a5c742b9102189919a15079ba791096194162951cef499b6f2bab730dd69a861"
+    },
+    {
+      "path": "80_assets/random-matrix-theory/rmt-moe-gpt-image-v1/rmt-moe-execution-plan-v1.png",
+      "sha256": "a88f6fbe1c97bfd49e45c91f6a9ffd3b22d50cb3fbe8b8fac40e351e05ead8d1"
+    },
+    {
+      "path": "80_assets/random-matrix-theory/rmt-moe-gpt-image-v1/rmt-moe-layerwise-representations-v1.png",
+      "sha256": "345d6df0bf1ca580b6e8764ecb00c1124a48070ca90ef3bf0301a0aaf86804b0"
+    },
+    {
+      "path": "80_assets/random-matrix-theory/rmt-moe-gpt-image-v1/rmt-moe-remap-for-beginners-v1.png",
+      "sha256": "d822a8277bd567d7fe8e5be266dc775fb6a9027bc679f0b7809bab29cdbdc927"
+    },
+    {
+      "path": "80_assets/random-matrix-theory/rmt-moe-gpt-image-v1/rmt-moe-representation-regimes-v1.png",
+      "sha256": "11019d551be3ea77b57716fa5ed7e72c86db2d6ee454a390646d4478823bede7"
+    },
+    {
+      "path": "80_assets/random-matrix-theory/rmt-moe-gpt-image-v1/rmt-moe-speedup-map-v1.png",
+      "sha256": "e94d1284087af67877baa721264aaed03a0f2c4e4a12582615dc97965b166905"
+    },
+    {
+      "path": "80_assets/real-analysis/gpt-image-v1/real-analysis-module-01-measures-radon-nikodym-v1.png",
+      "sha256": "9f599c7b1bea61649f21d1d2a2b827ea68b32c26844e0ce5e420562d886d6434"
+    },
+    {
+      "path": "80_assets/real-analysis/gpt-image-v1/real-analysis-module-02-lp-hilbert-duality-v1.png",
+      "sha256": "5567f2d5c686f9a523fee0eefb9b83182dd4fc72ac56cc53c5676b2c87dfa5a3"
+    },
+    {
+      "path": "80_assets/real-analysis/gpt-image-v1/real-analysis-module-03-topology-baire-weak-compactness-v1.png",
+      "sha256": "ac7a74a24fb3d70bfeb91dd26327fec87726a915500746f07a6e3645d6fdedd4"
+    },
+    {
+      "path": "80_assets/real-analysis/gpt-image-v1/real-analysis-module-04-locally-compact-interpolation-v1.png",
+      "sha256": "569433a8d08c9e3ae3bf676837d57afdcc2a460de5f75f30880b4058ee3cb9ad"
+    },
+    {
+      "path": "80_assets/real-analysis/gpt-image-v1/real-analysis-module-05-fourier-distributions-v1.png",
+      "sha256": "e78b91f693bf7831581f4a830db454b4ea8bf1fd0c401ced2355f0a8542e751e"
+    },
+    {
+      "path": "80_assets/real-analysis/gpt-image-v1/real-analysis-module-06-sobolev-hausdorff-dimension-v1.png",
+      "sha256": "83bd377c1bc1c1e33939d1e8b8ac009888fc509dbe59952066d18bd94733239c"
+    },
+    {
       "path": "80_assets/tensor-analysis/gpt-image-v1/covariant-derivative-tensoriality-insight.png",
       "sha256": "bf1433f29329af581b58fc22cb3ebea2f4d471d401af9311a984e1946094170f"
     },
@@ -2708,41 +3855,93 @@
       "sha256": "f4bb30768c79575ff744d306ab87ee503bcf52ff41b91505902aaa0795331c50"
     },
     {
-      "path": "80_assets/theorems/gpt-image-v2/baire-category-insight.png",
-      "sha256": "86806d58d2c649beed179688b117a12dad62e384e34ffb4127eb29f8eaa97041"
+      "path": "80_assets/theorems/gpt-image-v3/baire-category-nowhere-dense-v3.png",
+      "sha256": "bea1760a37da498baf94f3951187d6ac7149091e3f3ddfa323dd02d1429e0433"
     },
     {
-      "path": "80_assets/theorems/gpt-image-v2/closed-graph-insight.png",
-      "sha256": "0bc26cdc00347af31b7d7ccbd5663344865fbbf49b55a5a5eb3552b712d18cce"
+      "path": "80_assets/theorems/gpt-image-v3/closed-graph-product-geometry-v3.png",
+      "sha256": "9dba972ab7ec7a00fda9cfaaf3abbe951550e6de19394e201a1926c808a60f03"
     },
     {
-      "path": "80_assets/theorems/gpt-image-v2/dominated-convergence-insight.png",
-      "sha256": "15949e5f3d6d51292afafd5819c452b1566b1a1395641d0b8e253a60821ec917"
+      "path": "80_assets/theorems/gpt-image-v3/dominated-convergence-envelope-v3.png",
+      "sha256": "7a5ae46985a2c562ca19b188a61c7edee5f32abf583e798f6b5e4b01234a2927"
     },
     {
-      "path": "80_assets/theorems/gpt-image-v2/hahn-banach-insight.png",
-      "sha256": "3a0e0f51c3b24ec510d464df752a066eea7fbdc2e11817fdcbe1cc16a19d76db"
+      "path": "80_assets/theorems/gpt-image-v3/hahn-banach-extension-separation-v3.png",
+      "sha256": "ddfe751411e6fddb2cea7d7fa0066e6cc289c6b8ac1943acb6ff2e28e44150a9"
     },
     {
-      "path": "80_assets/theorems/gpt-image-v2/open-mapping-insight.png",
-      "sha256": "2602c94716f824660a92ddf9426bc3364343914f17046078da04b46443153b5e"
+      "path": "80_assets/theorems/gpt-image-v3/open-mapping-inner-ball-v3.png",
+      "sha256": "58b6b532d3a8143ca4bd040bc52054252ea847a3a562c615769796c7bc4bc420"
     },
     {
-      "path": "80_assets/theorems/gpt-image-v2/riesz-representation-insight.png",
-      "sha256": "1af3612f5ed4a48602102148b19365f6d58203a51ed7aa5fc5780dae5197bcf7"
+      "path": "80_assets/theorems/gpt-image-v3/riesz-functional-vector-v3.png",
+      "sha256": "a6c82ded47aa9e59396e466efc257e44111cdc18d7d28c8814f73e06c4f3c546"
     },
     {
-      "path": "80_assets/theorems/gpt-image-v2/schauder-fixed-point-insight.png",
-      "sha256": "50b8a43e0057a0bd1cbaf2f97342484cfd4c1e42643c2f97c44ce83e86332ce2"
+      "path": "80_assets/theorems/gpt-image-v3/schauder-compactness-fixed-point-v3.png",
+      "sha256": "02a5eb0fb8bf38fab267039281814a696c4b0e1df33391b072bbc20f145811f4"
     },
     {
-      "path": "80_assets/theorems/gpt-image-v2/spectral-compact-selfadjoint-insight.png",
-      "sha256": "4366f4c9f20d84618f29c1ecc43b11ebcb83537ac78a3f0bde63af3890067807"
+      "path": "80_assets/theorems/gpt-image-v3/spectral-compact-selfadjoint-v3.png",
+      "sha256": "42436f6526e3931e36728a7b324110697c8e4198fefd4e17fbb9a3ddf2866f18"
     },
     {
-      "path": "80_assets/theorems/gpt-image-v2/uniform-boundedness-insight.png",
-      "sha256": "cc09f3c892cd62aae783732facb1fc6e07cc30fc4596862e17c035b652c9ade6"
+      "path": "80_assets/theorems/gpt-image-v3/uniform-boundedness-local-to-global-v3.png",
+      "sha256": "40021968c13d8fc14d1e84b243384dc0ceddbf812235ad5c08f4258f0f1d0ab8"
+    },
+    {
+      "path": "80_assets/topology/gpt-image-v1/topology-module-01-sets-logic-orders-v1.png",
+      "sha256": "f5c69e60bcddc6c1251ee0ce4fc41be7dee8531d7cb4dbaa2d2fde13fc771e72"
+    },
+    {
+      "path": "80_assets/topology/gpt-image-v1/topology-module-02-topological-spaces-continuity-v1.png",
+      "sha256": "9f40f62b8a07ebcca7eeb210a8c9ac34ab8341053e182369e1f9ce8b8d3c14f2"
+    },
+    {
+      "path": "80_assets/topology/gpt-image-v1/topology-module-03-connectedness-compactness-v1.png",
+      "sha256": "6290429d2131ce9158f74846e9a26b0b41171eb4317d5b58cfafa420ca8ed424"
+    },
+    {
+      "path": "80_assets/topology/gpt-image-v1/topology-module-04-countability-separation-v1.png",
+      "sha256": "a6250b96c62961a4c594253b7e1774a0b651d328943d53b82db51b2215458603"
+    },
+    {
+      "path": "80_assets/topology/gpt-image-v1/topology-module-05-tychonoff-product-compactness-v1.png",
+      "sha256": "a297cb7175b8707842fa692687fb1be3ff13d6322dbe7dd3ac52da5423ffd7ab"
+    },
+    {
+      "path": "80_assets/topology/gpt-image-v1/topology-module-06-metrization-paracompactness-v1.png",
+      "sha256": "e1546d172839c86350951d182d5805cd3814472dd3209a5a919572a18f631c6f"
+    },
+    {
+      "path": "80_assets/topology/gpt-image-v1/topology-module-07-complete-metric-function-spaces-v1.png",
+      "sha256": "44f9df04b9c7ee5f6f6c2bba73ab7e16a133214f5fe08f9ed38e155536196cd2"
+    },
+    {
+      "path": "80_assets/topology/gpt-image-v1/topology-module-08-baire-dimension-v1.png",
+      "sha256": "64c5f599e23890ac82dc1250eecd478ac333c8effc3ebc3caf1788b7d23778bb"
+    },
+    {
+      "path": "80_assets/topology/gpt-image-v1/topology-module-09-fundamental-group-v1.png",
+      "sha256": "4389c27ff9b2456a37139208ebf27badcb9081a8d746c0b8c349a3752e7f2f16"
+    },
+    {
+      "path": "80_assets/topology/gpt-image-v1/topology-module-10-separation-plane-v1.png",
+      "sha256": "23792ba97a61d76617d51c9705d7e43d2f979550062d882761c5319a851ccc5a"
+    },
+    {
+      "path": "80_assets/topology/gpt-image-v1/topology-module-11-seifert-van-kampen-v1.png",
+      "sha256": "f62e1b9bf4da4c062afc1d4a363ce6b38940c2a0e7589a80a95adcb48ea698e7"
+    },
+    {
+      "path": "80_assets/topology/gpt-image-v1/topology-module-12-classification-surfaces-v1.png",
+      "sha256": "2d21b585319f918d422db409be26150528cf94b4907eb8b0b577e800e3eba8c5"
+    },
+    {
+      "path": "80_assets/topology/gpt-image-v1/topology-module-13-covering-spaces-v1.png",
+      "sha256": "9188204d9df7a7f8629122b7e98487c38caa0eea2e6614220eb30f884fe6d7ee"
     }
   ],
-  "asset_count": 266
+  "asset_count": 377
 }

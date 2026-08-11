@@ -115,4 +115,3 @@ $$
 ## Источник
 
 [[60_sources/tyrtyshnikov-numerical-analysis|Тыртышников]], §§11.1–11.4, стр. 103–107.
-

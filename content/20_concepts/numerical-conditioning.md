@@ -60,7 +60,8 @@ $$
 $$
 \frac{\|\delta x\|}{\|x\|}
 \le
-\kappa(A)rac{\|\delta b\|}{\|b\|}.
+\kappa(A)
+rac{\|\delta b\|}{\|b\|}.
 $$
 
 ### Вывод
@@ -118,4 +119,3 @@ $$
 ## Источники
 
 [[60_sources/tyrtyshnikov-numerical-analysis|Тыртышников]], §§3.1–3.7, стр. 23–27.
-
