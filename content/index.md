@@ -12,7 +12,7 @@ ai_domains: [llm, computer-vision, time-series, model-compression, graph-ml, ind
 source_refs: []
 level: foundation
 created: 2026-07-10
-updated: 2026-07-27
+updated: 2026-08-12
 description: "Два входа в единую систему: через математические абстракции и через задачи AI."
 tags: [map, math-for-ai]
 ---
@@ -30,6 +30,13 @@ tags: [map, math-for-ai]
 - [[30_mathematics/linear-algebra/boss-linear-algebra-map|Линейная алгебра: интеграционный маршрут по Боссу]]
 - [[30_mathematics/random-matrix-theory/random-matrix-theory-map|Теория случайных матриц для машинного обучения]]
 - [[30_mathematics/numerical-analysis/modules/19-unconstrained-optimization|Численная оптимизация]]
+- [[30_mathematics/geometric-deep-learning/gdl-map|Геометрическое глубокое обучение]]
+- [[30_mathematics/statistical-learning-information-theory/slt-map|Статистическое обучение и теория информации]]
+- [[30_mathematics/information-geometry/ig-map|Информационная геометрия]]
+- [[30_mathematics/operator-learning/opl-map|Уравнения в частных производных, обратные задачи и операторное обучение]]
+- [[30_mathematics/stochastic-dynamics/dyn-map|Динамические и стохастические системы]]
+- [[30_mathematics/topological-data-analysis/tda-map|Топологический анализ данных и обучение на многообразиях]]
+- [[30_mathematics/tensor-methods/ten-map|Тензорные и малоранговые методы]]
 
 ### От AI-задачи к математике
 
@@ -38,6 +45,13 @@ tags: [map, math-for-ai]
 - PCA, LoRA и спектральное отсечение → [[50_bridges/operators-spectrum|Операторы и спектр]].
 - CNN и нейронные операторы → [[50_bridges/distributions-convolution|Обобщённые функции и свёртка]].
 - Неявные слои и DEQ → [[50_bridges/frechet-fixed-points|Производная Фреше и неподвижные точки]].
+- Эквивариантные сети → [[50_bridges/symmetry-to-geometric-architecture|симметрия данных и геометрическая архитектура]].
+- Гарантии обобщения → [[50_bridges/complexity-information-generalization|сложность, информация и аудит обобщения]].
+- Вероятностная оптимизация → [[50_bridges/information-geometry-optimization-inference|информационная геометрия, оптимизация и вариационный вывод]].
+- Научное машинное обучение → [[50_bridges/pde-inverse-neural-operators|уравнения в частных производных, обратные задачи и нейронные операторы]].
+- Диффузионные модели → [[50_bridges/sde-diffusion-state-space|стохастическая динамика и модели состояния]].
+- Диагностика представлений → [[50_bridges/topology-representation-diagnostics|топология нейронных представлений]].
+- Параметрически эффективная адаптация и сжатие → [[50_bridges/tensor-low-rank-ai|тензорные и малоранговые методы]].
 
 ## Как читать
 
@@ -49,3 +63,4 @@ tags: [map, math-for-ai]
 
 > [!note] Редакционный статус
 > Публичная версия содержит только материалы со статусом `canonical`, явно одобренные владельцем. Расширения RMT и линейной алгебры утверждены 27 июля 2026 года и включены в текущий релиз.
+> Семь курсов от геометрического глубокого обучения до тензорных методов утверждены 12 августа 2026 года и включены в публичный граф.

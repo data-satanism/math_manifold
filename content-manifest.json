@@ -183,6 +183,11 @@
       "sha256": "97d2de918e7c5db1f3d1f110919dbce4599b9a737cb7228435cc697d37720bee"
     },
     {
+      "id": "bridge-complexity-information-generalization",
+      "path": "50_bridges/complexity-information-generalization.md",
+      "sha256": "e8e635d874d65650bed73072f2a8a2710a74f9cd9f36f5d7158cf40a8176cb99"
+    },
+    {
       "id": "bridge-concentration-generalization-auditing",
       "path": "50_bridges/concentration-generalization-auditing.md",
       "sha256": "d002ae42aff29b70d0c81d88e74a5a3df95c4d49e2433b8ec5a57fe3e59e1803"
@@ -266,6 +271,11 @@
       "id": "bridge-hilbert-rkhs",
       "path": "50_bridges/hilbert-rkhs.md",
       "sha256": "8bde6a6d4999b5045e8482dee19fcfef17996d9ba867104d0199bb9e94e261d6"
+    },
+    {
+      "id": "bridge-information-geometry-optimization-inference",
+      "path": "50_bridges/information-geometry-optimization-inference.md",
+      "sha256": "35e2522911559e126d2aee5c349ce46131d43fa414c1e38f142743d259d0da8f"
     },
     {
       "id": "bridge-integral-equations-attention-neural-operators",
@@ -353,6 +363,11 @@
       "sha256": "0e29251c6cd4a8de7fb75284fbd2cc970c2b0abc6120444262ae4ffda68232aa"
     },
     {
+      "id": "bridge-pde-inverse-neural-operators",
+      "path": "50_bridges/pde-inverse-neural-operators.md",
+      "sha256": "eebd6429e5e1548b1734da1961c096a42f844e93dc26abccb17d3b695f5d2c03"
+    },
+    {
       "id": "bridge-positive-operators",
       "path": "50_bridges/positive-operators.md",
       "sha256": "ca23ad5c165a61fe38da71b00da7bafa8dcd072011cb254a8e07d319f4545138"
@@ -398,6 +413,11 @@
       "sha256": "48135df0b9e1bbd9dc614df4575ae099af481432bf8b2835dca94304f68ae873"
     },
     {
+      "id": "bridge-sde-diffusion-state-space",
+      "path": "50_bridges/sde-diffusion-state-space.md",
+      "sha256": "ab193f72c1c77fece186ba038b3bb05a1242e01a885405bbe16765207b9154a3"
+    },
+    {
       "id": "bridge-shifted-qr-spectral-diagnostics",
       "path": "50_bridges/shifted-qr-spectral-diagnostics.md",
       "sha256": "d604c592374cb76fdeff67e9f03d67e9124dc71bd7c12144efafa61d70713f13"
@@ -428,6 +448,16 @@
       "sha256": "8913450cae507425d9605fb8f2a8c47b159dac5935f470cc97ee0025635c8ddc"
     },
     {
+      "id": "bridge-symmetry-to-geometric-architecture",
+      "path": "50_bridges/symmetry-to-geometric-architecture.md",
+      "sha256": "60aa5cc6638ab8408cca654b8542bf0df281bf3ff78a93e773da85d9c4c01fb5"
+    },
+    {
+      "id": "bridge-tensor-low-rank-ai",
+      "path": "50_bridges/tensor-low-rank-ai.md",
+      "sha256": "7259da44a0c3feab7a1e9dcf25492ff3520ca8fda1734f38e30a6a8cbb797084"
+    },
+    {
       "id": "bridge-tensors-geometric-deep-learning",
       "path": "50_bridges/tensors-geometric-deep-learning.md",
       "sha256": "67361be20aedb491079f72544b49119e84b30b496cc449080dfc7c43471111e7"
@@ -436,6 +466,11 @@
       "id": "bridge-thin-shell-embedding-geometry",
       "path": "50_bridges/thin-shell-embedding-geometry.md",
       "sha256": "bf78a6d39426034a405e7c112c69c97a567539d09d7d1bf73c6d427da01405a8"
+    },
+    {
+      "id": "bridge-topology-representation-diagnostics",
+      "path": "50_bridges/topology-representation-diagnostics.md",
+      "sha256": "ff128255ad826c7dfe930812d5ccaea847210e213eb52fbb8390b9c9f8700041"
     },
     {
       "id": "bridge-variational-principles-energy-models",
@@ -545,7 +580,7 @@
     {
       "id": "course-publication-roadmap-2026-2027",
       "path": "10_maps/course-publication-roadmap-2026-2027.md",
-      "sha256": "7ec60dc6430bd6d7dea9d75229a9e996a2f6917e3f99dfec508582504d6555e3"
+      "sha256": "dd8bad61acb682d2a233e15f9e0d60a190784364bd70341d293f80ca6b33434c"
     },
     {
       "id": "covariant-derivative-tensoriality-theorem",
@@ -596,6 +631,56 @@
       "id": "dudley-integral-inequality",
       "path": "30_mathematics/probability/theorems/dudley-integral-inequality.md",
       "sha256": "85da76d1a67911c14778503af872300116e1dd2d2c865462987de8f432fa3299"
+    },
+    {
+      "id": "dyn-01-flows-existence",
+      "path": "30_mathematics/stochastic-dynamics/modules/dyn-01-flows-existence.md",
+      "sha256": "475cac2f4d9b964a1d11f3553dd0c9de5a9f58007f481f54c5028094f72b9a23"
+    },
+    {
+      "id": "dyn-02-stability-lyapunov",
+      "path": "30_mathematics/stochastic-dynamics/modules/dyn-02-stability-lyapunov.md",
+      "sha256": "7894e40061daf1a9991957b95c2b45b0e7963323421298c67eb2f05c144affb6"
+    },
+    {
+      "id": "dyn-03-brownian-motion-sde",
+      "path": "30_mathematics/stochastic-dynamics/modules/dyn-03-brownian-motion-sde.md",
+      "sha256": "0ce599099eea7cb468fca21e8048ea89ae3786b38c6546f572bde23e54e723b6"
+    },
+    {
+      "id": "dyn-04-ito-formula",
+      "path": "30_mathematics/stochastic-dynamics/modules/dyn-04-ito-formula.md",
+      "sha256": "1800d4c688a997a88141cf40709ec47933a9b22c6f50dffe44f7e240bd636d64"
+    },
+    {
+      "id": "dyn-05-generator-fokker-planck",
+      "path": "30_mathematics/stochastic-dynamics/modules/dyn-05-generator-fokker-planck.md",
+      "sha256": "b117d46704760969a18f9eae768f7867818f185a2ba8866453acc57d3d9999e8"
+    },
+    {
+      "id": "dyn-06-numerical-sde",
+      "path": "30_mathematics/stochastic-dynamics/modules/dyn-06-numerical-sde.md",
+      "sha256": "47164712cfe3460e43ace3e03a491c122cbc1c78ff45cc6c41d379279848a494"
+    },
+    {
+      "id": "dyn-07-reverse-sde-diffusion",
+      "path": "30_mathematics/stochastic-dynamics/modules/dyn-07-reverse-sde-diffusion.md",
+      "sha256": "b76c62aeb4e9751539a96c2ddc24930cf457fc9b9202ac0a2feec594530da514"
+    },
+    {
+      "id": "dyn-08-filtering-control-learning",
+      "path": "30_mathematics/stochastic-dynamics/modules/dyn-08-filtering-control-learning.md",
+      "sha256": "c409297ba855e997b806f263f7b13ddd194d38c688930b07c9bcb19ff7610435"
+    },
+    {
+      "id": "dyn-course-map",
+      "path": "30_mathematics/stochastic-dynamics/dyn-map.md",
+      "sha256": "fc74e87a167105c35c7e9f9392d88dea88fd23818596175021e716ed32c3bd6d"
+    },
+    {
+      "id": "dyn-source-map",
+      "path": "30_mathematics/stochastic-dynamics/dyn-source-map.md",
+      "sha256": "0cf905f2cd8dcb280093fd15c7e580aaec088b7b0427aef4c25bf5a1072267bc"
     },
     {
       "id": "eckart-young-theorem",
@@ -748,6 +833,81 @@
       "sha256": "6e0989b5a9e2e13845b0ba86bc2b130f9e4831c6d4e6039e128965160bed443a"
     },
     {
+      "id": "gdl-01-high-dimensional-priors",
+      "path": "30_mathematics/geometric-deep-learning/modules/gdl-01-high-dimensional-priors.md",
+      "sha256": "66e0df369d8a596b116627f5e21d11abca62494fb1fc5343cb5a527abd3f1f2b"
+    },
+    {
+      "id": "gdl-02-groups-actions-symmetry",
+      "path": "30_mathematics/geometric-deep-learning/modules/gdl-02-groups-actions-symmetry.md",
+      "sha256": "e2f7ef7e22c5e0b84863f9a4d398fbabf1fd7f84825ae62abfece7e658ebb288"
+    },
+    {
+      "id": "gdl-03-orbits-stabilizers-quotients",
+      "path": "30_mathematics/geometric-deep-learning/modules/gdl-03-orbits-stabilizers-quotients.md",
+      "sha256": "ad9ec38a45a9c8395e4e9d1bab544183374cf8b08e70fda77373fa9f58fae7e5"
+    },
+    {
+      "id": "gdl-04-representations-invariance-equivariance",
+      "path": "30_mathematics/geometric-deep-learning/modules/gdl-04-representations-invariance-equivariance.md",
+      "sha256": "c624e363065dcf4b77670e53f3c97445eb63d8ffb18f809958dc6807a13e873e"
+    },
+    {
+      "id": "gdl-05-equivariant-operators-convolution",
+      "path": "30_mathematics/geometric-deep-learning/modules/gdl-05-equivariant-operators-convolution.md",
+      "sha256": "258582a5bfc1fb40f38e4df7c9731d916e90fe294969fbbf5cb33a9bcd2ed7fd"
+    },
+    {
+      "id": "gdl-06-smooth-manifolds-tangent-bundles",
+      "path": "30_mathematics/geometric-deep-learning/modules/gdl-06-smooth-manifolds-tangent-bundles.md",
+      "sha256": "d45832217da4f7f3ceb50d8ed439e1c6d21beb15508cc047df966450b98272ac"
+    },
+    {
+      "id": "gdl-07-riemannian-metric-geodesics",
+      "path": "30_mathematics/geometric-deep-learning/modules/gdl-07-riemannian-metric-geodesics.md",
+      "sha256": "6555c7f94fc976f24d7ae8c127387ba11e075583c9c56f15c9a062b53b74ce13"
+    },
+    {
+      "id": "gdl-08-connections-gauges",
+      "path": "30_mathematics/geometric-deep-learning/modules/gdl-08-connections-gauges.md",
+      "sha256": "1474d8ae2d0fb7f779addafa02be860070585d5b3e2611775b54c60e0ae18c62"
+    },
+    {
+      "id": "gdl-09-graphs-laplacian-spectra",
+      "path": "30_mathematics/geometric-deep-learning/modules/gdl-09-graphs-laplacian-spectra.md",
+      "sha256": "a7dbe31df6ecbc4d6692c1dbfe7788653d3c1a0081b97ab5f6bb6549315c3433"
+    },
+    {
+      "id": "gdl-10-message-passing-expressivity",
+      "path": "30_mathematics/geometric-deep-learning/modules/gdl-10-message-passing-expressivity.md",
+      "sha256": "6cd4bb57b9020de69dad38b615008ce4632bb60dc940bf4742594254f3076933"
+    },
+    {
+      "id": "gdl-11-grids-cnn-equivariance",
+      "path": "30_mathematics/geometric-deep-learning/modules/gdl-11-grids-cnn-equivariance.md",
+      "sha256": "9f51c8eee198c0b5f02aaf1a5cef7f68c28f2c4d168de562e57c653e175c7bbc"
+    },
+    {
+      "id": "gdl-12-homogeneous-spaces-geometric-graphs",
+      "path": "30_mathematics/geometric-deep-learning/modules/gdl-12-homogeneous-spaces-geometric-graphs.md",
+      "sha256": "5623d0abe8d7c898592b947871bf7a4cfb57d672d8b7995f63442415762ff529"
+    },
+    {
+      "id": "gdl-13-architecture-design-protocol",
+      "path": "30_mathematics/geometric-deep-learning/modules/gdl-13-architecture-design-protocol.md",
+      "sha256": "398df371fb3e40558847d4f048bdfd1a9da43b81a0e947c7fa22c3b51c8ac53d"
+    },
+    {
+      "id": "gdl-course-map",
+      "path": "30_mathematics/geometric-deep-learning/gdl-map.md",
+      "sha256": "292f11b786a067b10df29887612b8b8dacec8e3b80203e41b9800c49a811cb1c"
+    },
+    {
+      "id": "gdl-source-map",
+      "path": "30_mathematics/geometric-deep-learning/gdl-source-map.md",
+      "sha256": "78bf45340fda9d7686539328b2fd0340dacb567b06b470264b3d3de74159860e"
+    },
+    {
       "id": "generalized-linear-classifier-asymptotics",
       "path": "30_mathematics/random-matrix-theory/theorems/generalized-linear-classifier-asymptotics.md",
       "sha256": "3c342ba6256c4ef55ef46279e105493cb7d778901b6b160b269c8f2da9a42b49"
@@ -821,6 +981,56 @@
       "id": "householder-and-givens",
       "path": "30_mathematics/numerical-analysis/methods/householder-and-givens.md",
       "sha256": "703befc7f8429dff456abd0b29f2c5377523cbcea7044e925cc6c973bb5184c7"
+    },
+    {
+      "id": "ig-01-statistical-manifolds",
+      "path": "30_mathematics/information-geometry/modules/ig-01-statistical-manifolds.md",
+      "sha256": "4b26634317517173aba4186e1bd894940ff9a01fe33ee5c4ef42ea9ed3e4e922"
+    },
+    {
+      "id": "ig-02-fisher-rao-metric",
+      "path": "30_mathematics/information-geometry/modules/ig-02-fisher-rao-metric.md",
+      "sha256": "e794d713530184b231a7130f2b8ef3432b55900f59bda6251d0f10a6e8e39326"
+    },
+    {
+      "id": "ig-03-affine-dual-connections",
+      "path": "30_mathematics/information-geometry/modules/ig-03-affine-dual-connections.md",
+      "sha256": "1e76155c66bda819f69a8ec6c060307aac02e0cdbe7011b1fef94628780c502b"
+    },
+    {
+      "id": "ig-04-divergences-local-geometry",
+      "path": "30_mathematics/information-geometry/modules/ig-04-divergences-local-geometry.md",
+      "sha256": "ad2fa400436caf7cc55b2325f94b26b8f801d1e5e76590968ec3b3a2b76e3207"
+    },
+    {
+      "id": "ig-05-dually-flat-bregman",
+      "path": "30_mathematics/information-geometry/modules/ig-05-dually-flat-bregman.md",
+      "sha256": "1f07ee759c61c8cd04272951c9612da4377556de6ef3eae3b3cd31abb5269399"
+    },
+    {
+      "id": "ig-06-exponential-mixture-families",
+      "path": "30_mathematics/information-geometry/modules/ig-06-exponential-mixture-families.md",
+      "sha256": "0d9a069a3b6a823cc5935dc5f77448c88430a1c598dba6c9681e53d398e00ce6"
+    },
+    {
+      "id": "ig-07-natural-gradient",
+      "path": "30_mathematics/information-geometry/modules/ig-07-natural-gradient.md",
+      "sha256": "694c006ed281ed891e1266b07526de7f545ad2a25b7e7cb810312f15791429cc"
+    },
+    {
+      "id": "ig-08-projections-inference-clustering",
+      "path": "30_mathematics/information-geometry/modules/ig-08-projections-inference-clustering.md",
+      "sha256": "f9b10aa053abcfe9c191475a635231998d79bb8c96d96f335099bc251b02f666"
+    },
+    {
+      "id": "ig-course-map",
+      "path": "30_mathematics/information-geometry/ig-map.md",
+      "sha256": "0e7b21e9f1f4d205344c4e5b7214ca4998f648e947c4b2d86bd4f2f9cb82e757"
+    },
+    {
+      "id": "ig-source-map",
+      "path": "30_mathematics/information-geometry/ig-source-map.md",
+      "sha256": "a223c4aec60c54dc9dcda4e01f4b31253ec41eeb19be17525d6887eecbcad813"
     },
     {
       "id": "implicit-qr-uniqueness-lemma",
@@ -916,6 +1126,11 @@
       "id": "lab-functional-analysis-widgets",
       "path": "70_labs/interactive/functional-analysis-widgets.md",
       "sha256": "b8bb59739cd659552a4aa2837a826550b678868ad6a7a2f14c208008e2b445aa"
+    },
+    {
+      "id": "lab-geometric-deep-learning-widgets",
+      "path": "70_labs/interactive/geometric-deep-learning-widgets.md",
+      "sha256": "58af615a5ac51f4dd1247cbd1afcda93128a444d28f0c0a9606fa9597c93c6bf"
     },
     {
       "id": "lab-gpt-image-insight-prompts-v2",
@@ -1215,7 +1430,7 @@
     {
       "id": "math-ai-home",
       "path": "index.md",
-      "sha256": "77440d3b1b035258ae0964e5df738d3e734d0ab3d1dd6398606a0170f840c6cd"
+      "sha256": "2782b04f355bc08b0df18aabd9696f45411ba3ec9d658eeaadf511327a4dbc7b"
     },
     {
       "id": "mathematics-integration-map",
@@ -1501,6 +1716,56 @@
       "id": "operator-equation",
       "path": "20_concepts/operator-equation.md",
       "sha256": "daefa4fcd67cb786438bc286938004b017b4e375095b63dcd5109a78f1645228"
+    },
+    {
+      "id": "opl-01-pde-solution-operators",
+      "path": "30_mathematics/operator-learning/modules/opl-01-pde-solution-operators.md",
+      "sha256": "12350009cd754422f1e8203b7cda329281a7fc139ebc2e0644cf7bb7ef4ee00f"
+    },
+    {
+      "id": "opl-02-weak-variational-formulations",
+      "path": "30_mathematics/operator-learning/modules/opl-02-weak-variational-formulations.md",
+      "sha256": "58ab1b832ae1ea8e7cb8fd22881fde995b2e3eb86bf881815905d5dc3af1f33e"
+    },
+    {
+      "id": "opl-03-inverse-problems-regularization",
+      "path": "30_mathematics/operator-learning/modules/opl-03-inverse-problems-regularization.md",
+      "sha256": "d34c9541906615202616ac11d88a4c7afd21cb7c31da1bb128ce502116f22e0f"
+    },
+    {
+      "id": "opl-04-deeponet-branch-trunk",
+      "path": "30_mathematics/operator-learning/modules/opl-04-deeponet-branch-trunk.md",
+      "sha256": "148b5ff8f91f96f6c16a4b60db53e0615a88c76279539a57ebab4712c36dc4bf"
+    },
+    {
+      "id": "opl-05-fourier-neural-operator",
+      "path": "30_mathematics/operator-learning/modules/opl-05-fourier-neural-operator.md",
+      "sha256": "b534c0b81da6ea52772901be44d4f9632c108297e4206e359b1e30b870bdea8e"
+    },
+    {
+      "id": "opl-06-discretization-invariance",
+      "path": "30_mathematics/operator-learning/modules/opl-06-discretization-invariance.md",
+      "sha256": "71d497ccd66ab51472e70b933d688698efb2baf632e14c705e3ed4854e957ccd"
+    },
+    {
+      "id": "opl-07-losses-sobolev-physics",
+      "path": "30_mathematics/operator-learning/modules/opl-07-losses-sobolev-physics.md",
+      "sha256": "9a907ae452bbc955c275846c2d0ea3c282345d38b2178e938310d040592f778c"
+    },
+    {
+      "id": "opl-08-validation-generalization",
+      "path": "30_mathematics/operator-learning/modules/opl-08-validation-generalization.md",
+      "sha256": "74f872fe7aecba52506e6460f7d2b235ae1d1fc197c71a9fb6740ead2dd44c75"
+    },
+    {
+      "id": "opl-course-map",
+      "path": "30_mathematics/operator-learning/opl-map.md",
+      "sha256": "db5b3556cf8329c986ab1a1cae24607723c2fa5248beefe01a148ac8ba07ca11"
+    },
+    {
+      "id": "opl-source-map",
+      "path": "30_mathematics/operator-learning/opl-source-map.md",
+      "sha256": "495464c71c177c61422b2e0f85b612a760c5aa019470e146ebe2a83363187354"
     },
     {
       "id": "optimization-01-problem-geometry",
@@ -1853,9 +2118,64 @@
       "sha256": "9b3d2b7926c7a2fd338e487e39ad28ee76755a64328e5a7e2622cdfca019e32b"
     },
     {
+      "id": "slt-01-risk-erm-pac",
+      "path": "30_mathematics/statistical-learning-information-theory/modules/slt-01-risk-erm-pac.md",
+      "sha256": "4c4cd0e007945d5eaa7af732dd6ec4eb5fb0ae30dda363d0dfac1a97689e6862"
+    },
+    {
+      "id": "slt-02-concentration-finite-classes",
+      "path": "30_mathematics/statistical-learning-information-theory/modules/slt-02-concentration-finite-classes.md",
+      "sha256": "b13abc4493b306151899bd4eae6feb2860aff450970a34a29d08985e6e2fce68"
+    },
+    {
+      "id": "slt-03-vc-dimension-sauer",
+      "path": "30_mathematics/statistical-learning-information-theory/modules/slt-03-vc-dimension-sauer.md",
+      "sha256": "3d09cd5fa402f3dac5944af7552637b89e0fbf2e06cd5517bfd000110b11fd52"
+    },
+    {
+      "id": "slt-04-symmetrization-double-sampling",
+      "path": "30_mathematics/statistical-learning-information-theory/modules/slt-04-symmetrization-double-sampling.md",
+      "sha256": "b58cc25f654b94aad566e47c39d022e3a4cac42993eb83ee9ec0e8eb494d95ac"
+    },
+    {
+      "id": "slt-05-relative-entropy-maxent",
+      "path": "30_mathematics/statistical-learning-information-theory/modules/slt-05-relative-entropy-maxent.md",
+      "sha256": "c7bf3b6dc0f3039c67909cc399a596975b0fce0ef71a6a0a41f43e8a0506c9a6"
+    },
+    {
+      "id": "slt-06-entropy-mutual-information",
+      "path": "30_mathematics/statistical-learning-information-theory/modules/slt-06-entropy-mutual-information.md",
+      "sha256": "9e448bd93d27f61a40ae13b48f157aa9b6f4cdaf521ae00217e76612d7908b65"
+    },
+    {
+      "id": "slt-07-coding-channel-capacity",
+      "path": "30_mathematics/statistical-learning-information-theory/modules/slt-07-coding-channel-capacity.md",
+      "sha256": "5b86fbba06b7ffc938cc0f5a040c0b577e07bc82c46f610632fd8616dd37d09b"
+    },
+    {
+      "id": "slt-08-rate-distortion-generalization",
+      "path": "30_mathematics/statistical-learning-information-theory/modules/slt-08-rate-distortion-generalization.md",
+      "sha256": "dd54e3eb70b2e2e9ed44fed593adfba15a84ec7fbf1a575841d9ffcd2c1e874e"
+    },
+    {
+      "id": "slt-course-map",
+      "path": "30_mathematics/statistical-learning-information-theory/slt-map.md",
+      "sha256": "c44d232d2dfaef5294cf341c02c0ccbbfd4e1d506ccab9cd865c7b634b58ce93"
+    },
+    {
+      "id": "slt-source-map",
+      "path": "30_mathematics/statistical-learning-information-theory/slt-source-map.md",
+      "sha256": "2dafd5a798f801303a898731af5fa4fdfc69bea09450764d9f9015ead51bafd0"
+    },
+    {
       "id": "sokhotski-plemelj-boundary-values",
       "path": "30_mathematics/applied-mathematics/theorems/sokhotski-plemelj-boundary-values.md",
       "sha256": "dea05f7198888320c82fc0efb1df8205a6a9f63053b96fa60be3bf16c1c3bd3c"
+    },
+    {
+      "id": "source-borde-bronstein-gdl-foundations",
+      "path": "60_sources/borde-bronstein-gdl-foundations.md",
+      "sha256": "741b8b83b2953c76c3bc0862fdc8c667c00de1d9dffa52af701f5b89d16bf458"
     },
     {
       "id": "source-boss-functional-analysis",
@@ -1868,9 +2188,24 @@
       "sha256": "b80b58f078bf5ddd2bf5d074e6a3558b5782cab771fb203388019b05bfaa2e04"
     },
     {
+      "id": "source-bronstein-gdl-protobook",
+      "path": "60_sources/bronstein-gdl-protobook.md",
+      "sha256": "1a3075690cb55a679632ea4c41e204922af563b2121e145d2603c6b47160ca8b"
+    },
+    {
+      "id": "source-cohen-welling-group-equivariant-cnn",
+      "path": "60_sources/cohen-welling-group-equivariant-cnn.md",
+      "sha256": "30e93575eb99c9894f74dd0369920ec54a2f644419f6c3e11349000cb8013b63"
+    },
+    {
       "id": "source-couillet-debbah-2011-wireless-rmt",
       "path": "60_sources/couillet-debbah-wireless-rmt.md",
       "sha256": "2b8d5311d0c2173fc6f0dad5a150c2de7909c8584cfd0152faf225ce27f95c3a"
+    },
+    {
+      "id": "source-de-haan-gauge-mesh-cnn",
+      "path": "60_sources/de-haan-gauge-mesh-cnn.md",
+      "sha256": "f92e63978d2656e17944d7227821529ba5c0553029d1d14c13866ac6e0b8817e"
     },
     {
       "id": "source-goulart-couillet-comon-2022-random-tensors",
@@ -1878,9 +2213,24 @@
       "sha256": "3045d282e87507c241bf5bce3d21811238224e84fbbc14581b10114c2748c025"
     },
     {
+      "id": "source-halko-randomized-matrices",
+      "path": "60_sources/halko-randomized-matrices.md",
+      "sha256": "efca1dba6dea38f3e1a14403f212aab89c287c877568f7cd1582702173c29dc4"
+    },
+    {
       "id": "source-hofmann-scholkopf-smola-kernel-methods",
       "path": "60_sources/hofmann-scholkopf-smola-kernel-methods.md",
       "sha256": "22fd94a150cc1ddeb92763062f318347bc6e62e74704e8eb477ce9eaf706f72a"
+    },
+    {
+      "id": "source-kolda-bader-tensors",
+      "path": "60_sources/kolda-bader-tensors.md",
+      "sha256": "ddaf62a7b1e072eea4b9b0ba5628892db83c1cd7e96bdea0c022dd2643d27dc0"
+    },
+    {
+      "id": "source-kovachki-neural-operator",
+      "path": "60_sources/kovachki-neural-operator.md",
+      "sha256": "37877ec3db9a3b25b006ade07c0873d036fa64e6d220afb3d53039870e36728d"
     },
     {
       "id": "source-lebeau-chatelain-couillet-2025-tensor-approximation",
@@ -1888,9 +2238,19 @@
       "sha256": "08f822fcef34bbc40d1336baba012570c38ecb8a90570a7f98496a30755a076f"
     },
     {
+      "id": "source-li-fourier-neural-operator",
+      "path": "60_sources/li-fourier-neural-operator.md",
+      "sha256": "4b6f89cac8d254edd08ccaa3241fd72391a102f8f4552cb1f6b26e7f6022b5c0"
+    },
+    {
       "id": "source-louart-liao-couillet-2018-random-neural-networks",
       "path": "60_sources/louart-liao-couillet-random-neural-networks.md",
       "sha256": "37258676561c7eb4b193a0e4ddc70d35674de7404f147cf1d87de8dc08451399"
+    },
+    {
+      "id": "source-lu-deeponet",
+      "path": "60_sources/lu-deeponet.md",
+      "sha256": "c6807a68894f2ed32dd21c6029aaaa83dadfb9a064c7d59d2e33342edfe55c70"
     },
     {
       "id": "source-munkres-topology",
@@ -1908,14 +2268,44 @@
       "sha256": "fb96739db681d863bec6f323d6fbb2c6ef39f73342ead6f1c7b1a68b7d3a3563"
     },
     {
+      "id": "source-nielsen-information-geometry",
+      "path": "60_sources/nielsen-information-geometry.md",
+      "sha256": "d6da972a72b6cfb799ad34c53cd93f491b5add39c4102431b2fd6cda1dba3028"
+    },
+    {
+      "id": "source-otter-persistent-homology-roadmap",
+      "path": "60_sources/otter-persistent-homology-roadmap.md",
+      "sha256": "25a41d48d047d55f7c661fb7864637622672240e6188de199b737e3bb32529d2"
+    },
+    {
       "id": "source-rmt4ml-2022",
       "path": "60_sources/rmt4ml-couillet-liao.md",
       "sha256": "ccde2ac2e0872fab9c25cd7e1f72f7efc0ebe8dfb2689d78974275d455af68e5"
     },
     {
+      "id": "source-sarkka-solin-applied-sde",
+      "path": "60_sources/sarkka-solin-applied-sde.md",
+      "sha256": "8b34fd236ea8c7e6a6352ff3454fe596422cd07cf77047ecd6c96742f8d90d21"
+    },
+    {
       "id": "source-seddik-guillaud-couillet-2022-random-tensors",
       "path": "60_sources/seddik-guillaud-couillet-random-tensors.md",
       "sha256": "11f8a8f136b0b83a49aba7766b8681a535126faa459fdd7582cb605a7211a283"
+    },
+    {
+      "id": "source-shashua-machine-learning-notes",
+      "path": "60_sources/shashua-machine-learning-notes.md",
+      "sha256": "c6350eaf468e526f76d9ad8eab4772e8a08c777af3c816c42af1c235b76a3c08"
+    },
+    {
+      "id": "source-song-score-sde",
+      "path": "60_sources/song-score-sde.md",
+      "sha256": "ecc7086708774274d20ec56f0a1f8cfb3fce14ffb1a5d26f447fbc0d2dec37ca"
+    },
+    {
+      "id": "source-stanford-information-theory-notes",
+      "path": "60_sources/stanford-information-theory-notes.md",
+      "sha256": "660672075f21522cd02a8b9636b988e323d6c4b39bf5b8cb0886f38add3e79d9"
     },
     {
       "id": "source-steele-cauchy-schwarz-master-class",
@@ -1936,6 +2326,21 @@
       "id": "source-vershynin-hdp-2026",
       "path": "60_sources/vershynin-high-dimensional-probability.md",
       "sha256": "62dcfc97fb9b175402b6620fbee3a875155af2bcb236e66341a75a45035be7f7"
+    },
+    {
+      "id": "source-xu-graph-isomorphism-network",
+      "path": "60_sources/xu-graph-isomorphism-network.md",
+      "sha256": "9598e31981826f63cdb294c6f23aaa00d976454b1eb91009f14775aca3cb45e5"
+    },
+    {
+      "id": "source-yarotsky-equivariant-approximation",
+      "path": "60_sources/yarotsky-equivariant-approximation.md",
+      "sha256": "a0045adaa8b5008da07fdbf706583a001a98f15755af0ae2216cc8fecb78190b"
+    },
+    {
+      "id": "source-zaheer-deep-sets",
+      "path": "60_sources/zaheer-deep-sets.md",
+      "sha256": "c8ee9266a4ea3e2305aa2ecba6179fcdc461ec4836d301768c4b272c5677ddbd"
     },
     {
       "id": "spectral-edge-outlier",
@@ -2026,6 +2431,186 @@
       "id": "tao-real-analysis-source-map",
       "path": "30_mathematics/real-analysis/tao-source-map.md",
       "sha256": "34e484269b7be14114d16cbf04e7a507f146e4d490f5d51aa39b481b5ca50be6"
+    },
+    {
+      "id": "tda-01-simplicial-homology",
+      "path": "30_mathematics/topological-data-analysis/modules/tda-01-simplicial-homology.md",
+      "sha256": "e7d2e1b078ebc011ade4fe08bee4a85e6ee91ca492456f0a6a0fc34ddc9624de"
+    },
+    {
+      "id": "tda-02-filtrations-vietoris-rips",
+      "path": "30_mathematics/topological-data-analysis/modules/tda-02-filtrations-vietoris-rips.md",
+      "sha256": "f19a28f1bc3782fd625af2c5d3c883a5ea351c272e78df80fbc30fbee40645f5"
+    },
+    {
+      "id": "tda-03-persistence-modules-barcodes",
+      "path": "30_mathematics/topological-data-analysis/modules/tda-03-persistence-modules-barcodes.md",
+      "sha256": "f99800ffd5f72e6f637cb134650a2ae9b3aaaf4c41ec0f6aea70921151504590"
+    },
+    {
+      "id": "tda-04-boundary-reduction",
+      "path": "30_mathematics/topological-data-analysis/modules/tda-04-boundary-reduction.md",
+      "sha256": "9a819e985fcbd1f70ec94e786787b09084affcb4517bd964686a303ecd01e4a9"
+    },
+    {
+      "id": "tda-05-stability-bottleneck",
+      "path": "30_mathematics/topological-data-analysis/modules/tda-05-stability-bottleneck.md",
+      "sha256": "1771cddafd3ff5afa508d157b1f8d04894fe60a10a4c399f143a47b21da00a92"
+    },
+    {
+      "id": "tda-06-vectorization-statistics",
+      "path": "30_mathematics/topological-data-analysis/modules/tda-06-vectorization-statistics.md",
+      "sha256": "16664fb2b082b6a061c26052a57aa1ec013acef07b864a3589406182b209409c"
+    },
+    {
+      "id": "tda-07-manifold-learning",
+      "path": "30_mathematics/topological-data-analysis/modules/tda-07-manifold-learning.md",
+      "sha256": "9d95b58db2a15bf7a41b47b943855ce4f8dfddbaf2a5b35ef82f104dd80f8517"
+    },
+    {
+      "id": "tda-08-topological-ml-protocol",
+      "path": "30_mathematics/topological-data-analysis/modules/tda-08-topological-ml-protocol.md",
+      "sha256": "43ed193a5379c8194e079ba69d8f226c1110064bc18b42524efda51a4821fb3d"
+    },
+    {
+      "id": "tda-course-map",
+      "path": "30_mathematics/topological-data-analysis/tda-map.md",
+      "sha256": "0779523f7fe81ba9c69955eff8af8e0c52bb3d0cf445659b62d4859176c593ea"
+    },
+    {
+      "id": "tda-source-map",
+      "path": "30_mathematics/topological-data-analysis/tda-source-map.md",
+      "sha256": "d79daea7f515179ad7512d80e250bb8a12badd1f1eff346f77ab85b5d26d6252"
+    },
+    {
+      "id": "ten-01-multilinear-objects",
+      "path": "30_mathematics/tensor-methods/modules/ten-01-multilinear-objects.md",
+      "sha256": "16968ffb2f0d339c68e145f61d61960a6fb168038e80cf80ba1a0c2fe8fe7321"
+    },
+    {
+      "id": "ten-02-cp-rank",
+      "path": "30_mathematics/tensor-methods/modules/ten-02-cp-rank.md",
+      "sha256": "f593e0e9fa5fa55959218d679bdf466f44e1f8c824e52a6f0ec2ad3ab1965f9b"
+    },
+    {
+      "id": "ten-03-tucker-hosvd",
+      "path": "30_mathematics/tensor-methods/modules/ten-03-tucker-hosvd.md",
+      "sha256": "b16660eede8648f6eab2240da33a90b3328deed3e54f79ce7bc4d46661d90d54"
+    },
+    {
+      "id": "ten-04-tensor-networks",
+      "path": "30_mathematics/tensor-methods/modules/ten-04-tensor-networks.md",
+      "sha256": "e636bcfe91861701f22e3d10e9c6ee021fc66eb819456c9f2e6c684e1c75f5e0"
+    },
+    {
+      "id": "ten-05-identifiability-degeneracy",
+      "path": "30_mathematics/tensor-methods/modules/ten-05-identifiability-degeneracy.md",
+      "sha256": "e3d804ad64fd67a0c6e6439864c6f70c7f9b651cb0b421e6d8ca78c90dd67b69"
+    },
+    {
+      "id": "ten-06-randomized-range-finding",
+      "path": "30_mathematics/tensor-methods/modules/ten-06-randomized-range-finding.md",
+      "sha256": "b957ad8a44df457c47eb2ee72e1eafce7004f4e4783ed1eb98326c3feadd83a5"
+    },
+    {
+      "id": "ten-07-completion-cur-sampling",
+      "path": "30_mathematics/tensor-methods/modules/ten-07-completion-cur-sampling.md",
+      "sha256": "6c3a45b9bd8d84544fad700d2569006bad0af4fe93eb29ce15c4b4cefc11a3d7"
+    },
+    {
+      "id": "ten-08-low-rank-ai-protocol",
+      "path": "30_mathematics/tensor-methods/modules/ten-08-low-rank-ai-protocol.md",
+      "sha256": "900ad38278b174796c0b9d4b73f215586eb982951f66db67376c67cbe34e4632"
+    },
+    {
+      "id": "ten-course-map",
+      "path": "30_mathematics/tensor-methods/ten-map.md",
+      "sha256": "b326d8d5314364ba01368d9277a913ea8d82d4eb579b638915ed1c08b41fa56a"
+    },
+    {
+      "id": "ten-source-map",
+      "path": "30_mathematics/tensor-methods/ten-source-map.md",
+      "sha256": "8a436abdd931438b9e8b2508448b9043cc8b6e40c92fb58c774615f2d4333057"
+    },
+    {
+      "id": "theorem-boundary-squared-zero",
+      "path": "30_mathematics/topological-data-analysis/theorems/boundary-squared-zero.md",
+      "sha256": "e72fe8792d85ad9bc925a4a071c39a755287d4a1f7e565800afd804d41eb7063"
+    },
+    {
+      "id": "theorem-bregman-pythagorean",
+      "path": "30_mathematics/information-geometry/theorems/bregman-pythagorean.md",
+      "sha256": "d65a73c8179a72c13ef0700afcbd51c789911fba59de12a18be521edf03ce63f"
+    },
+    {
+      "id": "theorem-deep-sets-representation",
+      "path": "30_mathematics/geometric-deep-learning/theorems/deep-sets-representation.md",
+      "sha256": "eac8b51e149a2154285ddce1dd0ce2558ad4ac4acd1e2b54099e59910ee972e7"
+    },
+    {
+      "id": "theorem-deeponet-universal-operator-approximation",
+      "path": "30_mathematics/operator-learning/theorems/deeponet-universal-operator-approximation.md",
+      "sha256": "67cb2110741ee387a3f8e9b167301c8ddde63b4aea102f861c2bdce1e325faba"
+    },
+    {
+      "id": "theorem-finite-class-uniform-generalization",
+      "path": "30_mathematics/statistical-learning-information-theory/theorems/finite-class-uniform-generalization.md",
+      "sha256": "3fdbb4ea1dc2b421549ec6e0784ab7f9cf7cf2e7653e2192c2a4e05a09bef9f6"
+    },
+    {
+      "id": "theorem-fisher-reparameterization-invariance",
+      "path": "30_mathematics/information-geometry/theorems/fisher-reparameterization-invariance.md",
+      "sha256": "1386bc217efe005e3ff6a4e84698b32e64833200c5c35b32412fecfca7c0fcb0"
+    },
+    {
+      "id": "theorem-gdl-equivariant-composition",
+      "path": "30_mathematics/geometric-deep-learning/theorems/gdl-equivariant-composition.md",
+      "sha256": "55519b56217cf4302218cbd588af186566e4cb767a539da230cd52be647780d4"
+    },
+    {
+      "id": "theorem-hosvd-quasioptimality",
+      "path": "30_mathematics/tensor-methods/theorems/hosvd-quasioptimality.md",
+      "sha256": "801d5333e513b2874c798e305412729310b519fd0bd65a314071ac9a94988e45"
+    },
+    {
+      "id": "theorem-ito-formula",
+      "path": "30_mathematics/stochastic-dynamics/theorems/ito-formula.md",
+      "sha256": "81f250f853a09983dd0a2cffb1a77abcae421fbe0f08c491663c82734fdc13ef"
+    },
+    {
+      "id": "theorem-message-passing-one-wl-bound",
+      "path": "30_mathematics/geometric-deep-learning/theorems/message-passing-one-wl-bound.md",
+      "sha256": "81dccd1b0c958bd68237c002782e1f97a59bec3931ad8c95d12dfba85c638b68"
+    },
+    {
+      "id": "theorem-operator-rollout-error",
+      "path": "30_mathematics/operator-learning/theorems/operator-rollout-error.md",
+      "sha256": "bbc9668e8289cf60bccbd0591261c852d745bd366c57b2273db091a563c267b5"
+    },
+    {
+      "id": "theorem-persistence-stability",
+      "path": "30_mathematics/topological-data-analysis/theorems/persistence-stability.md",
+      "sha256": "4836fb776994acaaa6ffc38b745fda96c563b8cd7607c1811feaacd8223ad1a6"
+    },
+    {
+      "id": "theorem-randomized-power-iteration",
+      "path": "30_mathematics/tensor-methods/theorems/randomized-power-iteration.md",
+      "sha256": "3d1e594ed6d591323dc7724c320e712650e978a5a4d6fea5e47853847de136f7"
+    },
+    {
+      "id": "theorem-reverse-time-sde",
+      "path": "30_mathematics/stochastic-dynamics/theorems/reverse-time-sde.md",
+      "sha256": "3ac727620a65262c2f6b8a38b9fe3aacd5a7aa7ac9492ca5b4a45f7f0f76026b"
+    },
+    {
+      "id": "theorem-reynolds-invariant-projection",
+      "path": "30_mathematics/geometric-deep-learning/theorems/reynolds-invariant-projection.md",
+      "sha256": "a2b45ea2a72fda721adf3f37652e6fea6d0f259e0d1fe8fdf28eaa8b5109ab08"
+    },
+    {
+      "id": "theorem-sauer-shelah-growth",
+      "path": "30_mathematics/statistical-learning-information-theory/theorems/sauer-shelah-growth.md",
+      "sha256": "7c21dcb4d5333f9befa97193b43c3f964d08a622d1e999f931339c3e87a61fb2"
     },
     {
       "id": "thm-arzela-ascoli",
@@ -2759,6 +3344,30 @@
       "sha256": "f20bbbdabda840a206f316ed5c9af759063ceb9d5ce050efe18f7c088ffaa229"
     },
     {
+      "path": "80_assets/geometric-deep-learning/interactive-gdl-equivariance.svg",
+      "sha256": "7c02e727a35e0a371e21204a9d97fe2995b7589367089f60e1acc2f5b35d4f6c"
+    },
+    {
+      "path": "80_assets/geometric-deep-learning/interactive-gdl-gauge.svg",
+      "sha256": "20a8bc95ec55bb065f96e290bcada664a0b08a1a34673f8160333e0d1e94424e"
+    },
+    {
+      "path": "80_assets/geometric-deep-learning/interactive-gdl-geodesics.svg",
+      "sha256": "682273df1603bdf48a950215fba6090fe52c027f246436172557b2d9e82f3a1b"
+    },
+    {
+      "path": "80_assets/geometric-deep-learning/interactive-gdl-group-convolution.svg",
+      "sha256": "76b5e56ae57e6265398dd4d3cb0ae0f60a7eb1b85d8dcf706a0cf3227e196a93"
+    },
+    {
+      "path": "80_assets/geometric-deep-learning/interactive-gdl-message-passing.svg",
+      "sha256": "f43a4c03d26c88a069b149d869d4c7b09fa135e6207dfa1b4d7e217a479306db"
+    },
+    {
+      "path": "80_assets/geometric-deep-learning/interactive-gdl-orbits.svg",
+      "sha256": "82a4a7b684501542ed151fc5185bff23f3fb8208dbd4717cc6af0b460be4b978"
+    },
+    {
       "path": "80_assets/inequalities/gpt-image-v1/inequalities-module-01-cauchy-amgm-squares-v1.png",
       "sha256": "2cb242a224b3e95eb4dfaa4332dd6e0eb057bc5591632efe92c01647bbc0df10"
     },
@@ -2829,6 +3438,30 @@
     {
       "path": "80_assets/interactive/gauss-quadrature.html",
       "sha256": "879c7a69d5925f579b45d32a23d95ab456a4c035e6f7118ca409df4517670570"
+    },
+    {
+      "path": "80_assets/interactive/gdl-equivariance.html",
+      "sha256": "9e5dc96678340c1e09f7ccdfe3604f1051e5b360fe8350f5fc6e66a2493401fb"
+    },
+    {
+      "path": "80_assets/interactive/gdl-gauge.html",
+      "sha256": "77ddf0e19f4b603d0ed2da2aea84563d74158d3bfcc4932dd8a3debaad6871f1"
+    },
+    {
+      "path": "80_assets/interactive/gdl-geodesics.html",
+      "sha256": "e02fdb79e7081cdb032a34a02ad4b2bc8eea4e544c0ea6c1a8be86dbdfb32393"
+    },
+    {
+      "path": "80_assets/interactive/gdl-group-convolution.html",
+      "sha256": "0626cdac2ab5a5d64494f453b6b48642a86302a24583072c98b8a542987bf063"
+    },
+    {
+      "path": "80_assets/interactive/gdl-message-passing.html",
+      "sha256": "5e693acfa076299355853fb623b3320bdcbad9e190352f91ae224db6c5ea98e7"
+    },
+    {
+      "path": "80_assets/interactive/gdl-orbits.html",
+      "sha256": "03ef2686a892730ca9db3587e87d9fd6b15be9ca89d3d6caa1b3496f7072eb53"
     },
     {
       "path": "80_assets/interactive/gmres-residual-geometry.html",
@@ -3101,6 +3734,342 @@
     {
       "path": "80_assets/matrix-equations/gpt-image-v1/sylvester-equation-uniqueness-insight.png",
       "sha256": "eb8ef8a879cffb8cbfe7a63ce36ddf8c964e1955a16e277d15f12a02ac189e54"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/bridge-complexity-information-generalization-v1.webp",
+      "sha256": "84313efff8d3198cabb8a7c43bd87147bdf35c1f252c3607143eaae57a7176d4"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/bridge-information-geometry-optimization-inference-v1.webp",
+      "sha256": "16e8dc4710816b02b63dc21005635a9bb2d68b242d13409c9da892f29d85313a"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/bridge-pde-inverse-neural-operators-v1.webp",
+      "sha256": "4c42cd1c9083434a0aabf786275705c05cd33a4acd129fd7f84cd66128072c00"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/bridge-sde-diffusion-state-space-v1.webp",
+      "sha256": "4b1ad014025a963c2fd19b625053bfaea0bf4c95cf9a6716e66ae7bcf04285d0"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/bridge-symmetry-to-geometric-architecture-v1.webp",
+      "sha256": "dce44f01556b72ddf07c825e1013466ef468d91a44f7499734e3eb7c6bee01fc"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/bridge-tensor-low-rank-ai-v1.webp",
+      "sha256": "38d98e476127b0ff69b00d2d76d22ba587092ca5829cdd0b4c50f910ff7c1440"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/bridge-topology-representation-diagnostics-v1.webp",
+      "sha256": "c5c15b277fc1180150254ef8c2dbf3cc691083314fd16f456a242f80f7a05b9f"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/dyn-01-dyn-01-flows-existence-v1.webp",
+      "sha256": "e76a42813142f06156ef8331c0f3d36e9cf58b2d9e41676470721a08965e6676"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/dyn-02-dyn-02-stability-lyapunov-v1.webp",
+      "sha256": "1751416917d55f5d44956d3cb982f4a3439750117a2e5f21e70c6cbaaed75be0"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/dyn-03-dyn-03-brownian-motion-sde-v1.webp",
+      "sha256": "29cedff51e530a5deea6948c11979e8d7f952e9c51ef9567730464804a7493de"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/dyn-04-dyn-04-ito-formula-v1.webp",
+      "sha256": "84afe5aef547ca11866345d4eee651db541a0fcc7207631970f4904ffbcfd1b4"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/dyn-05-dyn-05-generator-fokker-planck-v1.webp",
+      "sha256": "30220ddaa48272320f7e2c6499e81891e3f0c181c6595dcfc116adca71c244dc"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/dyn-06-dyn-06-numerical-sde-v1.webp",
+      "sha256": "080f31776d06b9cadea96946155035847510d985ea1927f4166983945e3e9741"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/dyn-07-dyn-07-reverse-sde-diffusion-v1.webp",
+      "sha256": "b1117887191deaf259b3ebc7a47351d8e94fc70ee8d1e5f5f92625fb74212d75"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/dyn-08-dyn-08-filtering-control-learning-v1.webp",
+      "sha256": "03a0f59bc32024089f87b17d8ebc43a4f44892324555663699dad98baee91dbf"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/gdl-01-gdl-01-high-dimensional-priors-v1.webp",
+      "sha256": "8c8712554da8d89fbadf59b638ad0ff15862dfc62bec45a7471e2aae86c81759"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/gdl-02-gdl-02-groups-actions-symmetry-v1.webp",
+      "sha256": "a7f03e782a4545921bba8e479a8a245b0567bcc6d9e73a1d28df1810f26db4d7"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/gdl-03-gdl-03-orbits-stabilizers-quotients-v1.webp",
+      "sha256": "1b392e2f487f53b45890516ea252571306dde387bc4ff63248e1b1db8e303038"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/gdl-04-gdl-04-representations-invariance-equivariance-v1.webp",
+      "sha256": "c40496f682cb18a499dfe3f97e39f48e1754d54365825649f0810e7e7238ccf6"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/gdl-05-gdl-05-equivariant-operators-convolution-v1.webp",
+      "sha256": "d27b64a911a947af20d7071e7941f8a0ab92e65a740445b7016c6c53ce3d1d95"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/gdl-06-gdl-06-smooth-manifolds-tangent-bundles-v1.webp",
+      "sha256": "d4af2c91a00343e88616843b1ee532c2e382c462eb632a5f3df8cbceaf735d76"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/gdl-07-gdl-07-riemannian-metric-geodesics-v1.webp",
+      "sha256": "f3e3c962eda66a6f4ccb837ad5caa77c3449c316c9bd4dcb41ea118b0093aaa3"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/gdl-08-gdl-08-connections-gauges-v1.webp",
+      "sha256": "f3342d170dd9221883b61b686b2d63ec8a542df4e6f4a7aadcce27eaef4e627b"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/gdl-09-gdl-09-graphs-laplacian-spectra-v1.webp",
+      "sha256": "30bc37128f008eb359d9607678b5cf9c7446711a95fc4e6263c50323b9045823"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/gdl-10-gdl-10-message-passing-expressivity-v1.webp",
+      "sha256": "54b55d744e7c26000a2c7ba1c47ec1d5ed0828f464382af4fcd290dbf09f9dc9"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/gdl-11-gdl-11-grids-cnn-equivariance-v1.webp",
+      "sha256": "35843a5992f0c6d65fe6811bfb9c235d313855b52e84cabce2209b6151c460f5"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/gdl-12-gdl-12-homogeneous-spaces-geometric-graphs-v1.webp",
+      "sha256": "cb5c09b9bf8a8f9e6e9a54e018caea59d6dc3796d4c3b227b8f0a7408f0009ac"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/gdl-13-gdl-13-architecture-design-protocol-v1.webp",
+      "sha256": "abe770bd0940665121568b9754defaf9f7b7f856a04bcc2630fd84ff116fcfc0"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/ig-01-ig-01-statistical-manifolds-v1.webp",
+      "sha256": "61c05803f0f85df72080e3618840b36a3471a83221d0a60244d657fcd7eee89b"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/ig-02-ig-02-fisher-rao-metric-v1.webp",
+      "sha256": "fabf982742b1f92917909fd3270bcb92bc56502f9d7ad92e90542d59e3b72e8b"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/ig-03-ig-03-affine-dual-connections-v1.webp",
+      "sha256": "7ead919cdedff3d714a1b4b73182da9b9944b404ef9f3eea59bc4a1bc85752a2"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/ig-04-ig-04-divergences-local-geometry-v1.webp",
+      "sha256": "9c286606d4131d18e4638218c77b91eb6863b13bd34690524d7ba760cccf3ce6"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/ig-05-ig-05-dually-flat-bregman-v1.webp",
+      "sha256": "73f506561562eb203159d93ad68077253885785889e75d1cacd34751e942ee14"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/ig-06-ig-06-exponential-mixture-families-v1.webp",
+      "sha256": "b0518712ee1a8e73bb6661ef154c162f90a15b245c1a4519417759f4383d1f69"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/ig-07-ig-07-natural-gradient-v1.webp",
+      "sha256": "bfaa7a28504ed58e1e9e33c246ba7188a1f5c93c1820d1a55a909bd705acaa47"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/ig-08-ig-08-projections-inference-clustering-v1.webp",
+      "sha256": "01bf049da30fc6f2092cd0820900b05299fad363264312ad2c1625ef0caaea70"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/opl-01-opl-01-pde-solution-operators-v1.webp",
+      "sha256": "739233632998a724859c230a7e0d7f588986021f88be2546aa2a184a95184fad"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/opl-02-opl-02-weak-variational-formulations-v1.webp",
+      "sha256": "c76974a2324f4fb03f3e83f1ea4befb0d0d7d617bec84e582fe35a569994df8e"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/opl-03-opl-03-inverse-problems-regularization-v1.webp",
+      "sha256": "35ea62704231c6a39aeef508b0f3e68c14a41a175474572449ffab0277a5bb53"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/opl-04-opl-04-deeponet-branch-trunk-v1.webp",
+      "sha256": "ce13f145e2024eaf5f35a66aacbc09efa2fb19adfa2b26620682a63ee72ddee6"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/opl-05-opl-05-fourier-neural-operator-v1.webp",
+      "sha256": "2d929fb0670626a55d7830b1fea29a3fe49287b0a035c18b06f78235a2754e23"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/opl-06-opl-06-discretization-invariance-v1.webp",
+      "sha256": "10b75808db6fa5b68d1838522874b81ec09e9c14d24a5fa3c24b7b18c4f1d8fa"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/opl-07-opl-07-losses-sobolev-physics-v1.webp",
+      "sha256": "ac4372865ddceba371f7d37099237944a5b6a02e3e3ebd9a13d51bddd695b75b"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/opl-08-opl-08-validation-generalization-v1.webp",
+      "sha256": "1154040507462fd46b29023cf0f0df342517b2ff4f24f3877352170853841c65"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/slt-01-slt-01-risk-erm-pac-v1.webp",
+      "sha256": "45201df12f0d35ee8b8c4d3d207bfd972b59d122f5b766b1e287cf89a2078f21"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/slt-02-slt-02-concentration-finite-classes-v1.webp",
+      "sha256": "e4a0329194fa0f6f7c28349e3a09d904127ce61189c4792a6351bc6fb6ecaeae"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/slt-03-slt-03-vc-dimension-sauer-v1.webp",
+      "sha256": "6aaea5ac4e36afa8451a2418b185c068d79a343b93b4e6433a4c1a3998d476bd"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/slt-04-slt-04-symmetrization-double-sampling-v1.webp",
+      "sha256": "d88f3eae5d11281664ac96cf1e0a590689caa60077ce9897c076f32b1c805ade"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/slt-05-slt-05-relative-entropy-maxent-v1.webp",
+      "sha256": "44f9415beffc3d2b576380a3ca502c216a767f43dc5aac1ce4b25caa09323094"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/slt-06-slt-06-entropy-mutual-information-v1.webp",
+      "sha256": "31a3569e987bf989555da8a5583066e3424d9c5a9076e40b876cf6cae59ae607"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/slt-07-slt-07-coding-channel-capacity-v1.webp",
+      "sha256": "f6d0b48d4b919c20930c132a2016742343aaf1553b5521e1a81282e651cb1cee"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/slt-08-slt-08-rate-distortion-generalization-v1.webp",
+      "sha256": "8d62fcbb5cd5c1cd54812c8dcd2a0b2ffa8843b0f53a49a396ce2693ce186f3c"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/tda-01-tda-01-simplicial-homology-v1.webp",
+      "sha256": "cdc5058b977c4d4d353399b429447b7a133037df0434b45c958728de35990ff2"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/tda-02-tda-02-filtrations-vietoris-rips-v1.webp",
+      "sha256": "eaabba227cef4cd769361d8d062fbda74610a2483aaab55ec7c94688cf5671c9"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/tda-03-tda-03-persistence-modules-barcodes-v1.webp",
+      "sha256": "f00c1179936cddc5432be1adc56f623b99e302097ef3b83a8e2fb146acf49cd9"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/tda-04-tda-04-boundary-reduction-v1.webp",
+      "sha256": "4ca761cc2280f7cfc4e6c3d037b7d3a3b1e5f20efa7695e8ff924b982d29278b"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/tda-05-tda-05-stability-bottleneck-v1.webp",
+      "sha256": "6f880d6233076a59836300780c12f7ef7dee3aba6a17863580f6f100db758b2f"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/tda-06-tda-06-vectorization-statistics-v1.webp",
+      "sha256": "9cdee358b165c1a9a9d134e93981af885797c9b2b103b71fa9960c209621487f"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/tda-07-tda-07-manifold-learning-v1.webp",
+      "sha256": "b3c2dc07b9a26e2555e6b775c8caf6e5b2757b03218227e484b32c97a70f57ce"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/tda-08-tda-08-topological-ml-protocol-v1.webp",
+      "sha256": "75733bd409905cc9add04132aaf6851d1a016627210097c6b457f84d944caa22"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/ten-01-ten-01-multilinear-objects-v1.webp",
+      "sha256": "9c62e3dae7fbbe5bcdb09670af353aa76b64e061367c4fe17f2d02230ed8cf6b"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/ten-02-ten-02-cp-rank-v1.webp",
+      "sha256": "02504ad76afc71d67714e330fb2078aedfe4cd86bce607c1f0fac1bed3af9a14"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/ten-03-ten-03-tucker-hosvd-v1.webp",
+      "sha256": "cbcab1cd1a2490e10f134169155ac5277c37933045448596df6fe6327ffc98f5"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/ten-04-ten-04-tensor-networks-v1.webp",
+      "sha256": "161c868c49544b27bd334de561d6a34006b85c5c16abf4ea9f5a40181593d164"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/ten-05-ten-05-identifiability-degeneracy-v1.webp",
+      "sha256": "cefe6ddaad7335eb1c72ba1b987bccd1521b2c5141e2ca7288215dd230ea8623"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/ten-06-ten-06-randomized-range-finding-v1.webp",
+      "sha256": "7b8bcaf6eda33318cb4e1616031543ab157f0ec271f9314970f51972cb236977"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/ten-07-ten-07-completion-cur-sampling-v1.webp",
+      "sha256": "018dbe2243013819e99a104872317718593c4b029965326565d8abf2b2f4b89d"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/ten-08-ten-08-low-rank-ai-protocol-v1.webp",
+      "sha256": "2d79bb263f3f849923cddcfaeb1f4382b63ae74d381c5c417be2270699a51386"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/theorem-boundary-squared-zero-v1.webp",
+      "sha256": "6c3c703603f791b82f92de1c9b9f8d8c54e9045cf803170c3901d9bdada47719"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/theorem-bregman-pythagorean-v1.webp",
+      "sha256": "872be4826f2ea0d2acd82bf0a344c935fb07f3002ee7d2c1a45b7409a7c2290f"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/theorem-deep-sets-representation-v1.webp",
+      "sha256": "3bc6347dae876c559e00c0650a467680947685975e850f6d8eb6f971233affdc"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/theorem-deeponet-universal-operator-approximation-v1.webp",
+      "sha256": "edcef4acbca0e8cd5c5e766b8bf7698b5f599ebc629aa5763d1ba3adbf9cd778"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/theorem-finite-class-uniform-generalization-v1.webp",
+      "sha256": "64fd5526ce49b028d8591be5802e55f4a316a734f4afc9a4da5c376823f10bbb"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/theorem-fisher-reparameterization-invariance-v1.webp",
+      "sha256": "63e0586b43cc77c494fef3e4b2f1031ab34e0f6c408d9ee2efeab17b37abbab5"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/theorem-gdl-equivariant-composition-v1.webp",
+      "sha256": "55cbb196cabe9b7473e76e2cd439792b8a0c0a74a31f7312f78b60d5e3674166"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/theorem-hosvd-quasioptimality-v1.webp",
+      "sha256": "b5f60a9b09de194bdb52dbfc3e8485f33147f35b11428048b0e513eddc7c359d"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/theorem-ito-formula-v1.webp",
+      "sha256": "3c11ce1561823cd2b03409e12ee423c7ae58e3cd19d2b76e5b77b512af61b6e0"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/theorem-message-passing-one-wl-bound-v1.webp",
+      "sha256": "d601ac8ce81964699b979e79528d141fef6382cdd77611d2f046028b058eacca"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/theorem-operator-rollout-error-v1.webp",
+      "sha256": "a1c0402f389f9140b91857b69a6ec534d9990478e2ca848d737612b379ba8640"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/theorem-persistence-stability-v1.webp",
+      "sha256": "68a759ac3fee37fdb50973b38c46573ad5fddd1859bbdf8d1fef53859a73553a"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/theorem-randomized-power-iteration-v1.webp",
+      "sha256": "6b9b5682a20c303bc8b92b12ea3bfe12ae4abf3cb6921a31a63f5ae8624d729b"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/theorem-reverse-time-sde-v1.webp",
+      "sha256": "cfd19af62ba2f6d3fd667e1691d9c71de5d3b3d1e46f0931b8402ac5250e9725"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/theorem-reynolds-invariant-projection-v1.webp",
+      "sha256": "a4be35bf2fa9a912d5d96c95a54c25db4fa18f04b00755a4ad51c43e12d10ee3"
+    },
+    {
+      "path": "80_assets/next-release/webp-v1/theorem-sauer-shelah-growth-v1.webp",
+      "sha256": "5f119b48d6b60d57f21b97a859a263cc6a6b4b0459fbcf035b13d3e4f4235f26"
     },
     {
       "path": "80_assets/numerical-analysis/gpt-image-v1/bridge-conditioning-optimization-insight.png",
@@ -3943,5 +4912,5 @@
       "sha256": "9188204d9df7a7f8629122b7e98487c38caa0eea2e6614220eb30f884fe6d7ee"
     }
   ],
-  "asset_count": 377
+  "asset_count": 473
 }
