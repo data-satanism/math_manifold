@@ -24,7 +24,6 @@ updated: 2026-09-03
 - автор: Filip Rindler;
 - год: 2015;
 - объём: PDF 1–133;
-- закрытая копия: `_private/sources/pde-variational/rindler-calculus-variations-2015.pdf`;
 - SHA-256: `0A2F215CE31AE7F66A6D6474084FB46754AD657818BA5E32745708E3DF0A6E08`.
 
 ## Роль источника

@@ -27,7 +27,7 @@ Stéphane G. Mallat. *Multiresolution Approximations and Wavelet Orthonormal Bas
 
 ## Проверенный диапазон
 
-PDF 1–34. PDF хранится только в `_private/sources/harmonic-analysis`; публично выводятся библиографическая карточка и собственный конспект.
+PDF 1–34. PDF хранится только в закрытом архиве; публично выводятся библиографическая карточка и собственный конспект.
 
 ## Связанные материалы
 

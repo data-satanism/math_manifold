@@ -500,7 +500,7 @@
     {
       "id": "bruna-mallat-scattering-2012",
       "path": "60_sources/bruna-mallat-scattering-2012.md",
-      "sha256": "9ff39522d8fbcad7e196ae5118b9a52a4bad28f3d497050f44b238a21b0c6a7f"
+      "sha256": "5d27a18fe64542ff78d9282fd9b064aff85ef1348393636aa73bea5d1a5722ad"
     },
     {
       "id": "cauchy-integral-formula-theorem",
@@ -650,7 +650,7 @@
     {
       "id": "daubechies-compact-wavelets-1988",
       "path": "60_sources/daubechies-compact-wavelets-1988.md",
-      "sha256": "fc0999271a5ce61c5a57a642583886da986ce630859abbf11120f7d4193c9abb"
+      "sha256": "d86855845e1e18da8ef0e20a42a4a4469e66681013ef13c1303add0f335bf994"
     },
     {
       "id": "degenerate-kernel-finite-rank-reduction",
@@ -1380,7 +1380,7 @@
     {
       "id": "lab-needham-visual-reference-protocol",
       "path": "70_labs/figures/needham-visual-reference-protocol.md",
-      "sha256": "7099fc440f898ac0a9945f3b2051b4465f36b995726478f3d46aa1dbcd781567"
+      "sha256": "a3753fb57cf7b5d2ef97ee244084dc8010f8d23b5412a9448245b312a5e56f5a"
     },
     {
       "id": "lab-nonlinear-optimization-krylov-widgets",
@@ -1700,12 +1700,12 @@
     {
       "id": "mallat-multiresolution-wavelet-bases-1989",
       "path": "60_sources/mallat-multiresolution-wavelet-bases-1989.md",
-      "sha256": "86103fb69ab9245a6f1fb0c6a83198d86c59e03bc47745b08f591cc37832b842"
+      "sha256": "be2594d30aeb07f16ad2d6aad8c4854a3771827b1963d82906be9d0c35a3f849"
     },
     {
       "id": "mallat-wavelet-representation-1989",
       "path": "60_sources/mallat-wavelet-representation-1989.md",
-      "sha256": "264180ab30b6d2478680608fefe60ad847ac5899c24683703f86e04677d97ec7"
+      "sha256": "257335c28b3a5652ab4c77e1db2afc5bab629cec9bff6fed9fc8a758cf42c057"
     },
     {
       "id": "marchenko-pastur-law",
@@ -2310,7 +2310,7 @@
     {
       "id": "probability-source-map",
       "path": "30_mathematics/probability/probability-source-map.md",
-      "sha256": "0aafa9f9278de018c5ea8aca4e310083799360b9163da7e8d7e95d19d06a1a66"
+      "sha256": "68e65f1124e7726e0284510944ba67c1e413d7cdc254a333efa1f6d3fc9270b7"
     },
     {
       "id": "projection-stability-convergence-theorem",
@@ -2580,7 +2580,7 @@
     {
       "id": "source-borde-bronstein-gdl-foundations",
       "path": "60_sources/borde-bronstein-gdl-foundations.md",
-      "sha256": "741b8b83b2953c76c3bc0862fdc8c667c00de1d9dffa52af701f5b89d16bf458"
+      "sha256": "055c1cb921f1375163fd53d4cf4cadce1d9365a6e7f21bca38460a8c4ca46533"
     },
     {
       "id": "source-boss-functional-analysis",
@@ -2595,42 +2595,42 @@
     {
       "id": "source-bronstein-gdl-protobook",
       "path": "60_sources/bronstein-gdl-protobook.md",
-      "sha256": "1a3075690cb55a679632ea4c41e204922af563b2121e145d2603c6b47160ca8b"
+      "sha256": "def6a78715c41e7f5e84dd68e42461666bce606052567d35ada1d39522f00d40"
     },
     {
       "id": "source-clason-fem-2021",
       "path": "60_sources/clason-finite-element-methods-2021.md",
-      "sha256": "52ea99b751289a543f5cd0a9fba07e049ffe1776a60ad916abaf28222d3e0651"
+      "sha256": "3810a7faf33d84e6848473ea00daa3d124464b8d8763efacbb3175ad16168d63"
     },
     {
       "id": "source-cohen-welling-group-equivariant-cnn",
       "path": "60_sources/cohen-welling-group-equivariant-cnn.md",
-      "sha256": "30e93575eb99c9894f74dd0369920ec54a2f644419f6c3e11349000cb8013b63"
+      "sha256": "f6a3a04f9a33b414ff0eb042950f1c3986ca6c646aa902187f89c1f098a263ac"
     },
     {
       "id": "source-couillet-debbah-2011-wireless-rmt",
       "path": "60_sources/couillet-debbah-wireless-rmt.md",
-      "sha256": "2b8d5311d0c2173fc6f0dad5a150c2de7909c8584cfd0152faf225ce27f95c3a"
+      "sha256": "d8af68dd15314227b2b673ae5cda43d41acce7ce3300cc703db57b98d9c00d1d"
     },
     {
       "id": "source-de-haan-gauge-mesh-cnn",
       "path": "60_sources/de-haan-gauge-mesh-cnn.md",
-      "sha256": "f92e63978d2656e17944d7227821529ba5c0553029d1d14c13866ac6e0b8817e"
+      "sha256": "d9cf042d4abfed7292feb841337fbc0b5325cd3ae9c16b30fccd3ac19cb0b75a"
     },
     {
       "id": "source-gallier-riemannian-manifolds-2011",
       "path": "60_sources/gallier-riemannian-manifolds-2011.md",
-      "sha256": "d0b3735195b13ff6c7da1d63e15dde605dbc4ca0926d582d0a92e30ac5e86c1f"
+      "sha256": "467c5b52874902a45580a2f7ff2dc34c756ff975af0e1b437a913a12b600833a"
     },
     {
       "id": "source-goulart-couillet-comon-2022-random-tensors",
       "path": "60_sources/goulart-couillet-comon-random-tensors.md",
-      "sha256": "3045d282e87507c241bf5bce3d21811238224e84fbbc14581b10114c2748c025"
+      "sha256": "af2c37183e5e669844f830108789211dc3b3b0d012e39acb1d91b16a9e2b4ca1"
     },
     {
       "id": "source-halko-randomized-matrices",
       "path": "60_sources/halko-randomized-matrices.md",
-      "sha256": "efca1dba6dea38f3e1a14403f212aab89c287c877568f7cd1582702173c29dc4"
+      "sha256": "6badb6bd60c0557a87d2212198f99dd8e3cb48648fa633fab107a6a0d3c93785"
     },
     {
       "id": "source-hofmann-scholkopf-smola-kernel-methods",
@@ -2640,52 +2640,52 @@
     {
       "id": "source-hunter-pde-notes-2014",
       "path": "60_sources/hunter-pde-notes-2014.md",
-      "sha256": "62c2654fb5381bf8fb8119f6831411223af369428b50ebda500fa772514c730a"
+      "sha256": "b7d3736dc9bca0a2f5b6f4ea991d05676717e24440872b3b37353dd409b29088"
     },
     {
       "id": "source-kirillov-introduction-lie-groups-2008",
       "path": "60_sources/kirillov-introduction-lie-groups-2008.md",
-      "sha256": "aeba1d572da87b92c9fdca0d63ebab3d61b16fde81b3ec65df166c1c0dabd868"
+      "sha256": "635d2fb5969c28f2a2ed9fd62b5b5b6dea16e690e0819355d0829c0d21c80487"
     },
     {
       "id": "source-knapp-stokes-whitney-2021",
       "path": "60_sources/knapp-stokes-whitney-2021.md",
-      "sha256": "8f87e644d9c755d1f2fc4de1e64e137d057450acc2a644b2595b2e496ef4bd3a"
+      "sha256": "0b27b0a4a682762309c4ed541ecb2f92edb34efd1ce31f00add785d4d8c83905"
     },
     {
       "id": "source-kolda-bader-tensors",
       "path": "60_sources/kolda-bader-tensors.md",
-      "sha256": "ddaf62a7b1e072eea4b9b0ba5628892db83c1cd7e96bdea0c022dd2643d27dc0"
+      "sha256": "af3484c769e17fe9dd4f11fcee5ec84e4170e4eff4a4a3462690bce9d2776d61"
     },
     {
       "id": "source-kovachki-neural-operator",
       "path": "60_sources/kovachki-neural-operator.md",
-      "sha256": "37877ec3db9a3b25b006ade07c0873d036fa64e6d220afb3d53039870e36728d"
+      "sha256": "2316b302c67a90b5540729a30cad1a4820a1c63110eeddcbd9ab7ae7aecf9386"
     },
     {
       "id": "source-lebeau-chatelain-couillet-2025-tensor-approximation",
       "path": "60_sources/lebeau-chatelain-couillet-tensor-approximation.md",
-      "sha256": "08f822fcef34bbc40d1336baba012570c38ecb8a90570a7f98496a30755a076f"
+      "sha256": "a2b48d8ccfc6b6ff3b95bfd3b94d3cc32470080f8febbdbaf5188a5d01024dd7"
     },
     {
       "id": "source-li-fourier-neural-operator",
       "path": "60_sources/li-fourier-neural-operator.md",
-      "sha256": "4b6f89cac8d254edd08ccaa3241fd72391a102f8f4552cb1f6b26e7f6022b5c0"
+      "sha256": "0db73be0fed4d6f1b04caa7bb837f08ed2c9f170655eb36d2593cd11343f3a71"
     },
     {
       "id": "source-louart-liao-couillet-2018-random-neural-networks",
       "path": "60_sources/louart-liao-couillet-random-neural-networks.md",
-      "sha256": "37258676561c7eb4b193a0e4ddc70d35674de7404f147cf1d87de8dc08451399"
+      "sha256": "1fb402c21e66dc1c329e3dbaffb62b1e6ac9de6e94649e292cc571f2624a345e"
     },
     {
       "id": "source-lu-deeponet",
       "path": "60_sources/lu-deeponet.md",
-      "sha256": "c6807a68894f2ed32dd21c6029aaaa83dadfb9a064c7d59d2e33342edfe55c70"
+      "sha256": "bddf5d294df93306f26fb5a3077eb921de44b50e9e8a0ce77e3960d9ad42640b"
     },
     {
       "id": "source-munkres-topology",
       "path": "60_sources/munkres-topology.md",
-      "sha256": "b00c6149b68161d3a8d33319e026bbd00fed0d7e2a4917f62928f78fed04aba1"
+      "sha256": "d3fdda454e4d347699c712f343c7e3eebc8a2be46c3138ededf284edc10ecfb7"
     },
     {
       "id": "source-myshkis-applied-mathematics-engineers",
@@ -2695,92 +2695,92 @@
     {
       "id": "source-needham-visual-complex-analysis",
       "path": "60_sources/needham-visual-complex-analysis.md",
-      "sha256": "fb96739db681d863bec6f323d6fbb2c6ef39f73342ead6f1c7b1a68b7d3a3563"
+      "sha256": "85163888c24ebf692279b65261715290373eb42fb1a3180e5a1dd6b6c88508be"
     },
     {
       "id": "source-nielsen-information-geometry",
       "path": "60_sources/nielsen-information-geometry.md",
-      "sha256": "d6da972a72b6cfb799ad34c53cd93f491b5add39c4102431b2fd6cda1dba3028"
+      "sha256": "e5d48628c0927163c5c76efa4e238affa2a78a967a77bdd2cd2666771d138119"
     },
     {
       "id": "source-otter-persistent-homology-roadmap",
       "path": "60_sources/otter-persistent-homology-roadmap.md",
-      "sha256": "25a41d48d047d55f7c661fb7864637622672240e6188de199b737e3bb32529d2"
+      "sha256": "78b1566740d4f729db1950be95b77ff94c1890fd16039276df9f17dda5aa0d7c"
     },
     {
       "id": "source-rindler-calculus-variations-2015",
       "path": "60_sources/rindler-calculus-variations-2015.md",
-      "sha256": "987b123f425822bb6fe25ff22ee02369d9b29ed82302228792199d5d86f16a2f"
+      "sha256": "20dc845bad0ebf4319546a39cb9b031877175166e15665161f2ff9ab8b2f956f"
     },
     {
       "id": "source-rmt4ml-2022",
       "path": "60_sources/rmt4ml-couillet-liao.md",
-      "sha256": "ccde2ac2e0872fab9c25cd7e1f72f7efc0ebe8dfb2689d78974275d455af68e5"
+      "sha256": "3a998e214b39acbd85a1e57b407f1a6addc7b8d6c49f04622da8d06bab608146"
     },
     {
       "id": "source-sarkka-solin-applied-sde",
       "path": "60_sources/sarkka-solin-applied-sde.md",
-      "sha256": "8b34fd236ea8c7e6a6352ff3454fe596422cd07cf77047ecd6c96742f8d90d21"
+      "sha256": "3dcbe3bc6c0f662d200d7bebb69c41d7e579bd6df432636fa52305e4e4b604a6"
     },
     {
       "id": "source-seddik-guillaud-couillet-2022-random-tensors",
       "path": "60_sources/seddik-guillaud-couillet-random-tensors.md",
-      "sha256": "11f8a8f136b0b83a49aba7766b8681a535126faa459fdd7582cb605a7211a283"
+      "sha256": "70bbbaacfbd46252f200270230d6bef144f9863927db0a6bffe45c9090fa45c3"
     },
     {
       "id": "source-shashua-machine-learning-notes",
       "path": "60_sources/shashua-machine-learning-notes.md",
-      "sha256": "c6350eaf468e526f76d9ad8eab4772e8a08c777af3c816c42af1c235b76a3c08"
+      "sha256": "99280f42608270ccb258493990a1b8269472250160bbedf25122b7ee53099c8a"
     },
     {
       "id": "source-song-score-sde",
       "path": "60_sources/song-score-sde.md",
-      "sha256": "ecc7086708774274d20ec56f0a1f8cfb3fce14ffb1a5d26f447fbc0d2dec37ca"
+      "sha256": "629dc748158558bac4b25205d41625831109df689c4520b59863ebe0b68905d8"
     },
     {
       "id": "source-stanford-information-theory-notes",
       "path": "60_sources/stanford-information-theory-notes.md",
-      "sha256": "660672075f21522cd02a8b9636b988e323d6c4b39bf5b8cb0886f38add3e79d9"
+      "sha256": "84a16ad6441b637221a270c3d1d267322d5f2087b835c6aa9a7dd2c97bc6c175"
     },
     {
       "id": "source-steele-cauchy-schwarz-master-class",
       "path": "60_sources/steele-cauchy-schwarz-master-class.md",
-      "sha256": "c94dad77909d6a24e7e8dee9d3725fd16742864c5b885c62d00809fbbd6b39dc"
+      "sha256": "d01969ee60cb7ea26c6d11a7dec7130c9c58656052e7ef0d51ce3c629a1979e5"
     },
     {
       "id": "source-tao-epsilon-of-room",
       "path": "60_sources/tao-epsilon-of-room.md",
-      "sha256": "9beb9be0eb5815c89a4e5d69998c9b3e1da9d4e2c03476ccc9e62f7cf3f6b675"
+      "sha256": "b4659b0d573e8a7e5ce62535b7060514caa60a33a93e5817218faec34f6783e0"
     },
     {
       "id": "source-tyrtyshnikov-numerical-analysis",
       "path": "60_sources/tyrtyshnikov-numerical-analysis.md",
-      "sha256": "92392a7380502867e1b124831566be20e943f1e8af65f7162898ba71733e6a04"
+      "sha256": "3415ea0bcc65a81ad078c4e1937f95450914b884de29ceabfc0c8b793872b281"
     },
     {
       "id": "source-vershynin-hdp-2026",
       "path": "60_sources/vershynin-high-dimensional-probability.md",
-      "sha256": "62dcfc97fb9b175402b6620fbee3a875155af2bcb236e66341a75a45035be7f7"
+      "sha256": "87a0d8f3005436bd6e339e05b377b3e1492a72c0a107e93c71a37279bee6461d"
     },
     {
       "id": "source-vogan-frobenius-theorem-2020",
       "path": "60_sources/vogan-frobenius-theorem-2020.md",
-      "sha256": "0847231f5749f31f631c6ee51e2fdf79f85295723eb5d0ce215eb7314692b785"
+      "sha256": "b4c3d1b2e0f4367798bec4ac19af87ee981453ab941fc758bcfab0df53ccf796"
     },
     {
       "id": "source-xu-graph-isomorphism-network",
       "path": "60_sources/xu-graph-isomorphism-network.md",
-      "sha256": "9598e31981826f63cdb294c6f23aaa00d976454b1eb91009f14775aca3cb45e5"
+      "sha256": "4d487b9524215ff267629701b8324e734ea790bcb352dbffe32bf8e6e5dcc68c"
     },
     {
       "id": "source-yarotsky-equivariant-approximation",
       "path": "60_sources/yarotsky-equivariant-approximation.md",
-      "sha256": "a0045adaa8b5008da07fdbf706583a001a98f15755af0ae2216cc8fecb78190b"
+      "sha256": "e51e79957e22615cc88fa8f7a7b651e8ecd36aed264d2d8e412432d0db2438e7"
     },
     {
       "id": "source-zaheer-deep-sets",
       "path": "60_sources/zaheer-deep-sets.md",
-      "sha256": "c8ee9266a4ea3e2305aa2ecba6179fcdc461ec4836d301768c4b272c5677ddbd"
+      "sha256": "803d1d2ee881b0f55fd69dadeaf24591fe3fd50c9ef11f80f744f96a94f1aa84"
     },
     {
       "id": "spectral-edge-outlier",

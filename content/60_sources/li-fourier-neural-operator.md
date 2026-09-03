@@ -25,7 +25,6 @@ updated: 2026-08-12
 - авторы: Чжуньи Ли и соавторы;
 - год: 2021;
 - объём: PDF 1–16;
-- закрытая копия: `_private/sources/next-release/operator-learning/fourier-neural-operator.pdf`;
 - размер файла: 2436198 байт;
 - SHA-256: `6CD2645D4A50D1A61A261529B33747C674D78851BDBE6993B0961F81A17DC6F2`;
 - правовой и редакционный режим: ICLR/arXiv.

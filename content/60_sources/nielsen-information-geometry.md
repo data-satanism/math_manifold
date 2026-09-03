@@ -25,7 +25,6 @@ updated: 2026-08-12
 - авторы: Франк Нильсен;
 - год: 2020;
 - объём: PDF 1–56;
-- закрытая копия: `_private/sources/next-release/information-geometry/nielsen-information-geometry-2020.pdf`;
 - размер файла: 2322026 байт;
 - SHA-256: `C691923B1B65547561D8F641D5A5762C3D0D8D39FF8724CD5D4B2CAE52A62D6F`;
 - правовой и редакционный режим: arXiv.

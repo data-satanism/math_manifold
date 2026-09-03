@@ -23,7 +23,6 @@ updated: 2026-07-27
 - Авторы: Mohamed El Amine Seddik, Maxime Guillaud, Romain Couillet.
 - Версия: arXiv:2112.12348v3, 19 ноября 2022 года; рукопись направлена в *The Annals of Applied Probability*.
 - Контрольная сумма SHA-256: `A3BD077528F2BB6D3E9AB4D01088CEFE9A24BAFC171F04CE14C1BF5CECD748EF`.
-- Приватная копия: `_private/sources/rmt/additional/random-tensors.pdf`; в публичный экспорт не входит.
 
 ## Что именно установлено
 

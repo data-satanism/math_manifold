@@ -24,7 +24,6 @@ updated: 2026-07-27
 - Издание: *The Annals of Applied Probability*, 28(2), 1190–1248, 2018.
 - DOI: `10.1214/17-AAP1328`.
 - Контрольная сумма SHA-256: `64EC8C361190899CD773279D177A926E2AD62FD30ADC9075AC2084FE9D8F6609`.
-- Приватная копия: `_private/sources/rmt/additional/rmt-neural-networks.pdf`; в публичный экспорт не входит.
 
 ## Что именно установлено
 

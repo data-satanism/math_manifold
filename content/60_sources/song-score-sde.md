@@ -25,7 +25,6 @@ updated: 2026-08-12
 - авторы: Ян Сун и соавторы;
 - год: 2021;
 - объём: PDF 1–36;
-- закрытая копия: `_private/sources/next-release/stochastic-dynamics/score-sde-diffusion-models.pdf`;
 - размер файла: 26918820 байт;
 - SHA-256: `B244B740E60628D01BC3D4B98D721C2343BE1FB9B67AD22593C8555E66F4D4A6`;
 - правовой и редакционный режим: ICLR/arXiv.

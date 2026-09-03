@@ -24,7 +24,6 @@ updated: 2026-07-27
 - Издание: *Journal of Machine Learning Research*, 23, 1–36, 2022; статья 21-1038.
 - Лицензия статьи: CC BY 4.0.
 - Контрольная сумма SHA-256: `425D9A777EE81AE9A9208333CEDA441894132D5AFE128E12CF23E7B3EB95B10C`.
-- Приватная копия: `_private/sources/rmt/additional/rmt-to-random-tensors.pdf`; в публичный экспорт не входит.
 
 ## Что именно установлено
 

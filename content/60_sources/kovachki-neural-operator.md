@@ -25,7 +25,6 @@ updated: 2026-08-12
 - авторы: Никола Ковачки и соавторы;
 - год: 2021;
 - объём: PDF 1–97;
-- закрытая копия: `_private/sources/next-release/operator-learning/neural-operator-learning-maps-between-function-spaces.pdf`;
 - размер файла: 7849648 байт;
 - SHA-256: `49CFB7B76AB9B422DA6D0C61D6BA8538B9B4DAB1CC4B07A8E78DC767F1081165`;
 - правовой и редакционный режим: arXiv.

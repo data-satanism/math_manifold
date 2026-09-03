@@ -24,7 +24,6 @@ updated: 2026-09-03
 - автор: Christian Clason;
 - год: 2021;
 - объём: PDF 1–118;
-- закрытая копия: `_private/sources/pde-variational/clason-finite-element-methods-2021.pdf`;
 - SHA-256: `741599AB6D7A102A1BCE85B71B0E9EDFB87445E8782B34B68D1B98DB3B36087C`.
 
 ## Роль источника

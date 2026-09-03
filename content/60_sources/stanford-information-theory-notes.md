@@ -25,7 +25,6 @@ updated: 2026-08-12
 - авторы: Stanford University;
 - год: учебный конспект;
 - объём: PDF 1–75;
-- закрытая копия: `_private/sources/next-release/statistical-learning/stanford-ee376a-information-theory-notes.pdf`;
 - размер файла: 2433113 байт;
 - SHA-256: `18EFF59AFFD5AE8E1556058409B680209E92679B6590483F396324E0F62D68AF`;
 - правовой и редакционный режим: университетские конспекты.

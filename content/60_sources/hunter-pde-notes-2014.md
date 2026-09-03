@@ -24,7 +24,6 @@ updated: 2026-09-03
 - автор: John K. Hunter;
 - год: 2014;
 - объём: PDF 1–242;
-- закрытая копия: `_private/sources/pde-variational/hunter-pde-notes-2014.pdf`;
 - SHA-256: `0DBADE1806F7A1EA79CC444A0EECFE19E157B286C964F1F48F2D744C460C12DD`.
 
 ## Роль источника

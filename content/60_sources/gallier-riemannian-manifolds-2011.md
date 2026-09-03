@@ -24,7 +24,6 @@ updated: 2026-09-03
 - авторы: Jean Gallier;
 - год: 2011;
 - объём: PDF 1–94;
-- закрытая копия: `_private/sources/lie-geometry/gallier-riemannian-manifolds-2011.pdf`;
 - SHA-256: `315940C7695CA30B16FC47B5E94FB317EC00AB83931783ABFB96F1E34A46DA09`.
 
 ## Роль и правовой режим

@@ -24,7 +24,6 @@ updated: 2026-09-03
 - авторы: Anthony W. Knapp;
 - год: 2021;
 - объём: PDF 1–172;
-- закрытая копия: `_private/sources/lie-geometry/knapp-stokes-whitney-manifolds-2021.pdf`;
 - SHA-256: `A62636DC2B5B6541CF62FF830F3DAD36F9D9F6759D756B04C7C82FD1472E7FA0`.
 
 ## Роль и правовой режим

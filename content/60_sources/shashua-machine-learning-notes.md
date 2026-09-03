@@ -25,7 +25,6 @@ updated: 2026-08-12
 - авторы: Амнон Шашуа;
 - год: 2009;
 - объём: PDF 1–109;
-- закрытая копия: `_private/sources/next-release/statistical-learning/shashua-machine-learning-class-notes.pdf`;
 - размер файла: 700040 байт;
 - SHA-256: `0778093A6348209350A576CEDCD0E8648CD5827DAE906338890657011592CBF1`;
 - правовой и редакционный режим: университетские конспекты, arXiv.

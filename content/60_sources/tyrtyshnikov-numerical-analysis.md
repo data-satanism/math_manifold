@@ -28,7 +28,6 @@ updated: 2026-09-03
 
 ## Паспорт локальной копии
 
-- локальное хранение: `_private/sources/numerical-analysis/tyrtyshnikov-numerical-analysis.pdf`;
 - объём: 290 PDF-страниц;
 - SHA-256: `FDB4EC127213BF8C49F72F2A9D7623D637C0D0EE9922B453A11F4598FF0876AD`;
 - исходный файл скопирован без перемещения и изменения;

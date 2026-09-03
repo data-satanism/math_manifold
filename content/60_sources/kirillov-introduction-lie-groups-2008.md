@@ -24,7 +24,6 @@ updated: 2026-09-03
 - авторы: Alexander Kirillov, Jr.;
 - год: 2008;
 - объём: PDF 1–177;
-- закрытая копия: `_private/sources/lie-geometry/kirillov-introduction-lie-groups-2008.pdf`;
 - SHA-256: `0D67678C971B449045524C6C5572A7C10F40A330EDEA15AF79FC1361B6A71351`.
 
 ## Роль и правовой режим

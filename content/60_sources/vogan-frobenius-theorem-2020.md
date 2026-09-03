@@ -24,7 +24,6 @@ updated: 2026-09-03
 - авторы: David A. Vogan, Jr.;
 - год: 2020;
 - объём: PDF 1–6;
-- закрытая копия: `_private/sources/lie-geometry/vogan-frobenius-theorem-2020.pdf`;
 - SHA-256: `36E91FB548336869D1DF70071585B310010E2FAF7EB8969B0568FA95F2D26659`.
 
 ## Роль и правовой режим

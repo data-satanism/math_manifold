@@ -24,7 +24,6 @@ updated: 2026-07-27
 - Издание: *Journal of Machine Learning Research*, 26, 1–64, 2025; статья 24-0193.
 - Лицензия статьи: CC BY 4.0.
 - Контрольная сумма SHA-256: `6E8602E810C299E5EDE01CA95E4696A0D46CAC5D24969E4F67BCF36AAC20A66D`.
-- Приватная копия: `_private/sources/rmt/additional/rmt-lora.pdf`; в публичный экспорт не входит.
 
 ## Что именно установлено
 

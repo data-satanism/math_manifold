@@ -74,6 +74,8 @@ def main() -> int:
             continue
 
         text = path.read_text(encoding="utf-8")
+        if re.search(r"_private[\\/]", text):
+            errors.append(f"служебный путь к закрытому архиву: {relative}")
         # Match drive-qualified paths only in a context where a path can
         # actually begin.  This avoids false positives for LaTeX fragments
         # such as ``x:\sup`` and ``p:\widetilde``.

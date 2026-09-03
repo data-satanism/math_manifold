@@ -25,7 +25,6 @@ updated: 2026-08-12
 - авторы: Тако Коэн, Макс Веллинг;
 - год: 2016;
 - объём: PDF 1–12;
-- закрытая копия: `_private/sources/next-release/gdl/primary-papers/group-equivariant-cnn.pdf`;
 - размер файла: 204081 байт;
 - SHA-256: `F99AA84FCD750C5F99CE700C635A2128CD741142D3DF96D9794645C9CB199570`;
 - правовой и редакционный режим: ICML/arXiv.

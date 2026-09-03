@@ -25,7 +25,6 @@ updated: 2026-08-12
 - авторы: Манзил Захир и соавторы;
 - год: 2017;
 - объём: PDF 1–29;
-- закрытая копия: `_private/sources/next-release/gdl/primary-papers/deep-sets.pdf`;
 - размер файла: 5354924 байт;
 - SHA-256: `B72A01CC43B222EA9E5808E10135C55C63444546B4C9F29CBE8E9ABED9F7EA70`;
 - правовой и редакционный режим: arXiv.

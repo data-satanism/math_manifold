@@ -25,7 +25,6 @@ updated: 2026-08-12
 - авторы: Нина Оттер и соавторы;
 - год: 2017;
 - объём: PDF 1–45;
-- закрытая копия: `_private/sources/next-release/tda/persistent-homology-computation-roadmap.pdf`;
 - размер файла: 1095613 байт;
 - SHA-256: `30A92D14B5CC4637DAFD7341FEAC97B99D6D1E7D623A6F6E102144D7D43C2F57`;
 - правовой и редакционный режим: EPJ Data Science/arXiv.

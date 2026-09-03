@@ -32,7 +32,6 @@ updated: 2026-08-12
 - объём: 613 PDF-страниц, основной текст — печатные страницы 1–570;
 - текстовый слой и PDF-оглавление доступны;
 - SHA-256: `6C05CD5BB7B5D8E2822B73B3A8B44872144F171F12847A6C071BACFCB7202FCD`;
-- приватная копия: `_private/sources/analysis/needham-visual-complex-analysis-1997.pdf`.
 
 ## Структура
 

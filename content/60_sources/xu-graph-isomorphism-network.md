@@ -25,7 +25,6 @@ updated: 2026-08-12
 - авторы: Кейсу Сюй и соавторы;
 - год: 2019;
 - объём: PDF 1–17;
-- закрытая копия: `_private/sources/next-release/gdl/primary-papers/graph-isomorphism-network.pdf`;
 - размер файла: 819821 байт;
 - SHA-256: `A6EBF80C2790B8BAC1FA378902993EAE26020CC6D0D95E3964EEA42B0C66A974`;
 - правовой и редакционный режим: ICLR/arXiv.

@@ -25,7 +25,6 @@ updated: 2026-08-12
 - авторы: Натан Халко, Пер-Гуннар Мартинссон, Джоэл Тропп;
 - год: 2011;
 - объём: PDF 1–74;
-- закрытая копия: `_private/sources/next-release/tensor-methods/halko-martinsson-tropp-randomized-matrices.pdf`;
 - размер файла: 1287227 байт;
 - SHA-256: `D5D99D95B3D9657DE6413F4C26D635238103EF9CF1A28FF1B7FDE531CF11F6BE`;
 - правовой и редакционный режим: SIAM Review/arXiv.

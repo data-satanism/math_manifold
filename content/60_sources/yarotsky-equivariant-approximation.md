@@ -25,7 +25,6 @@ updated: 2026-08-12
 - авторы: Дмитрий Яроцкий;
 - год: 2018;
 - объём: PDF 1–64;
-- закрытая копия: `_private/sources/next-release/gdl/primary-papers/invariant-equivariant-universal-approximation.pdf`;
 - размер файла: 923878 байт;
 - SHA-256: `51DC89181C2873AD391C28690E99A057D85ED614C3C60310413EE17B5DD09969`;
 - правовой и редакционный режим: arXiv.

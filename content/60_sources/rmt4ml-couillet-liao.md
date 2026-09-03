@@ -24,7 +24,6 @@ updated: 2026-07-27
 - Версия: 15 июля 2022 года, препринт монографии Cambridge University Press.
 - Объём локального файла: 446 PDF-страниц.
 - Контрольная сумма SHA-256: `07F6C9A1C23C1B4DF331595BBC82DC60DD04D5B8ADF46583768D380AAC465702`.
-- Приватная копия: `_private/sources/rmt/RMT4ML.pdf`; в публичный экспорт не входит.
 - Карта покрытия: [[30_mathematics/random-matrix-theory/rmt-source-map|source map RMT4ML]].
 
 ## Роль источника
