@@ -32,7 +32,7 @@ updated: 2026-07-27
 
 ### Обзор модуля
 
-Файл: [support-vector-estimation-module-v1.png](80_assets/kernel-methods/gpt-image-v1/support-vector-estimation-module-v1.png)
+Файл: [support-vector-estimation-module-v1.png](80_assets/kernel-methods/gpt-image-v1/support-vector-estimation-module-v1.webp)
 
 Слои: единая геометрия отступа; четыре задачи оценивания; двойственная цена; диагностический маршрут.
 
@@ -40,7 +40,7 @@ updated: 2026-07-27
 
 ### Двойственность и параметр ν
 
-Файл: [svm-duality-nu-bounds-v1.png](80_assets/kernel-methods/gpt-image-v1/svm-duality-nu-bounds-v1.png)
+Файл: [svm-duality-nu-bounds-v1.png](80_assets/kernel-methods/gpt-image-v1/svm-duality-nu-bounds-v1.webp)
 
 Слои: прямая и двойственная задачи; активные ограничения; бюджет двойственной массы; границы ошибок и числа опорных объектов.
 
@@ -48,7 +48,7 @@ updated: 2026-07-27
 
 ### Структурный отступ
 
-Файл: [structured-margin-loss-bound-v1.png](80_assets/kernel-methods/gpt-image-v1/structured-margin-loss-bound-v1.png)
+Файл: [structured-margin-loss-bound-v1.png](80_assets/kernel-methods/gpt-image-v1/structured-margin-loss-bound-v1.webp)
 
 Слои: прикладная потеря в ограничении; доказательство верхней оценки; резерв маршрута; неточный поиск конкурента.
 
@@ -56,7 +56,7 @@ updated: 2026-07-27
 
 ### Оценка носителя
 
-Файл: [one-class-svm-support-estimation-v1.png](80_assets/kernel-methods/gpt-image-v1/one-class-svm-support-estimation-v1.png)
+Файл: [one-class-svm-support-estimation-v1.png](80_assets/kernel-methods/gpt-image-v1/one-class-svm-support-estimation-v1.webp)
 
 Слои: отделение от начала; множество уровня; охраняемая территория; дрейф штатного режима.
 
@@ -64,7 +64,7 @@ updated: 2026-07-27
 
 ### Регрессионная трубка
 
-Файл: [epsilon-insensitive-regression-v1.png](80_assets/kernel-methods/gpt-image-v1/epsilon-insensitive-regression-v1.png)
+Файл: [epsilon-insensitive-regression-v1.png](80_assets/kernel-methods/gpt-image-v1/epsilon-insensitive-regression-v1.webp)
 
 Слои: нечувствительная потеря; опорные точки; допуск прибора; меняющийся шум.
 
@@ -72,7 +72,7 @@ updated: 2026-07-27
 
 ### Мост к задачам ИИ
 
-Файл: [support-vector-margins-robust-ai-v1.png](80_assets/kernel-methods/gpt-image-v1/support-vector-margins-robust-ai-v1.png)
+Файл: [support-vector-margins-robust-ai-v1.png](80_assets/kernel-methods/gpt-image-v1/support-vector-margins-robust-ai-v1.webp)
 
 Слои: ограничение, норма и двойственная цена; страховой резерв; четыре механизма ИИ; проверки границ переноса.
 

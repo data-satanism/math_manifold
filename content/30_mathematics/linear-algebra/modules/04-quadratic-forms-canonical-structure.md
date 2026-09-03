@@ -162,7 +162,7 @@ $$
 
 ## Визуализация
 
-[![Инерция квадратичной формы, обобщённые моды, жорданова цепочка и переходный рост в линейной динамике](80_assets/linear-algebra/gpt-image-v1/linear-algebra-quadratic-canonical-insight-v2.png)](80_assets/linear-algebra/gpt-image-v1/linear-algebra-quadratic-canonical-insight-v2.png)
+[![Инерция квадратичной формы, обобщённые моды, жорданова цепочка и переходный рост в линейной динамике](80_assets/linear-algebra/gpt-image-v1/linear-algebra-quadratic-canonical-insight-v2.webp)](80_assets/linear-algebra/gpt-image-v1/linear-algebra-quadratic-canonical-insight-v2.webp)
 
 ## Самопроверка
 

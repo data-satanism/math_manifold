@@ -18,7 +18,7 @@ source_refs:
     role: primary
 level: research
 created: 2026-08-12
-updated: 2026-08-12
+updated: 2026-09-03
 ---
 
 # Карта источников: Статистическое обучение и теория информации
@@ -38,24 +38,24 @@ updated: 2026-08-12
 
 | Источник | Глава и все входящие подразделы | Страницы | Решение или целевые модули |
 |---|---|---:|---|
-| shashua-ml-notes-2009 | 1. Байесовская теория решений: ограничения независимости, coin toss, гауссово оценивание, incremental Bayes, два нормальных класса | PDF 5–15 | reference-only |
-| shashua-ml-notes-2009 | 2. Двойственность maximum правдоподобие / maximum entropy: эмпирическое распределение, относительная энтропия, MaxEnt | PDF 16–22 | slt-05-relative-entropy-maxent |
-| shashua-ml-notes-2009 | 3. EM: общий алгоритм, i.i.d., coins, Gaussian mixture, приложения | PDF 23–33 | reference-only |
-| shashua-ml-notes-2009 | 4. SVM и ядра: margin QP, SVM, kernel trick, polynomial/RBF kernels, inference | PDF 34–44 | reference-only |
-| shashua-ml-notes-2009 | 5–6. Спектральный анализ: PCA, LDA, CCA и clustering | PDF 45–72 | reference-only |
+| shashua-ml-notes-2009 | 1. Байесовская теория решений: ограничения независимости, бросок монеты, гауссово оценивание, последовательное байесовское обновление, два нормальных класса | PDF 5–15 | reference-only |
+| shashua-ml-notes-2009 | 2. Двойственность максимального правдоподобия и максимальной энтропии: эмпирическое распределение, относительная энтропия, MaxEnt | PDF 16–22 | slt-05-relative-entropy-maxent |
+| shashua-ml-notes-2009 | 3. EM: общий алгоритм, независимые одинаково распределённые наблюдения, модель монет, смесь нормальных распределений, приложения | PDF 23–33 | reference-only |
+| shashua-ml-notes-2009 | 4. SVM и ядра: квадратичная задача для зазора, SVM, ядерный трюк, полиномиальные ядра и ядра RBF, вывод | PDF 34–44 | reference-only |
+| shashua-ml-notes-2009 | 5–6. Спектральный анализ: PCA, LDA, CCA и кластеризация | PDF 45–72 | reference-only |
 | shashua-ml-notes-2009 | 7. Формальная PAC-модель | PDF 73–83 | slt-01-risk-erm-pac;slt-02-concentration-finite-classes |
 | shashua-ml-notes-2009 | 8. VC-размерность | PDF 84–92 | slt-03-vc-dimension-sauer |
-| shashua-ml-notes-2009 | 9. Теорема double-sampling | PDF 93–100 | slt-04-symmetrization-double-sampling |
+| shashua-ml-notes-2009 | 9. Теорема двойной выборки | PDF 93–100 | slt-04-symmetrization-double-sampling |
 | shashua-ml-notes-2009 | Приложения и библиография | PDF 101–109 | reference-only |
-| stanford-ee376a-information-theory | Введение: lossless compression, channel coding, lossy compression | PDF 4–8 | slt-07-coding-channel-capacity |
-| stanford-ee376a-information-theory | Энтропия, относительная энтропия и взаимная информация: entropy, conditional/joint entropy, mutual information | PDF 9–15 | slt-06-entropy-mutual-information |
-| stanford-ee376a-information-theory | AEP и fixed-length near-lossless compression | PDF 15–21 | slt-07-coding-channel-capacity |
-| stanford-ee376a-information-theory | Lossless compression: uniquely decodable/prefix/Shannon/Huffman codes и границы длины | PDF 21–31 | slt-07-coding-channel-capacity |
-| stanford-ee376a-information-theory | Communication and capacity: дискретные и непрерывные каналы, AWGN, joint typicality, direct theorem, Fano, converse | PDF 31–48 | slt-07-coding-channel-capacity |
-| stanford-ee376a-information-theory | Method of types и Sanov | PDF 48–55 | slt-08-rate-distortion-generalization |
-| stanford-ee376a-information-theory | Conditional/joint typicality и joint typicality lemma | PDF 55–62 | slt-07-coding-channel-capacity |
-| stanford-ee376a-information-theory | Lossy compression и скорость—искажение: определения, примеры, direct/converse, геометрия | PDF 62–71 | slt-08-rate-distortion-generalization |
-| stanford-ee376a-information-theory | Joint source–channel coding и separation theorem | PDF 71–75 | slt-08-rate-distortion-generalization |
+| stanford-ee376a-information-theory | Введение: сжатие без потерь, канальное кодирование и сжатие с потерями | PDF 4–8 | slt-07-coding-channel-capacity |
+| stanford-ee376a-information-theory | Энтропия, условная и совместная энтропия, относительная энтропия и взаимная информация | PDF 9–15 | slt-06-entropy-mutual-information |
+| stanford-ee376a-information-theory | Свойство асимптотической равновероятности и сжатие фиксированной длины с исчезающей вероятностью потери | PDF 15–21 | slt-07-coding-channel-capacity |
+| stanford-ee376a-information-theory | Сжатие без потерь: однозначно декодируемые и префиксные коды, коды Шеннона и Хаффмана, границы длины | PDF 21–31 | slt-07-coding-channel-capacity |
+| stanford-ee376a-information-theory | Передача и пропускная способность: дискретные и непрерывные каналы, AWGN, совместная типичность, прямая и обратная теоремы, неравенство Фано | PDF 31–48 | slt-07-coding-channel-capacity |
+| stanford-ee376a-information-theory | Метод типов и теорема Санова | PDF 48–55 | slt-08-rate-distortion-generalization |
+| stanford-ee376a-information-theory | Условная и совместная типичность, лемма о совместной типичности | PDF 55–62 | slt-07-coding-channel-capacity |
+| stanford-ee376a-information-theory | Сжатие с потерями и функция скорость—искажение: определения, примеры, прямая и обратная теоремы, геометрия | PDF 62–71 | slt-08-rate-distortion-generalization |
+| stanford-ee376a-information-theory | Совместное кодирование источника и канала, теорема разделения | PDF 71–75 | slt-08-rate-distortion-generalization |
 
 ## Правило покрытия
 

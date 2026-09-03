@@ -151,7 +151,7 @@ print({"fro": fro, "op": op, "q99": np.quantile(np.abs(z), 0.99)})
 
 ## Визуализация
 
-![Квадратичные формы и аномалии: эллипсоид Махаланобиса, аналогия с сетью датчиков, два компонента порога и отказ при плохой ковариации или общем факторе](80_assets/probability/gpt-image-v2/quadratic-forms-covariance-anomaly-insight-v2.png)
+![Квадратичные формы и аномалии: эллипсоид Махаланобиса, аналогия с сетью датчиков, два компонента порога и отказ при плохой ковариации или общем факторе](80_assets/probability/gpt-image-v2/quadratic-forms-covariance-anomaly-insight-v2.webp)
 
 ## Самопроверка
 

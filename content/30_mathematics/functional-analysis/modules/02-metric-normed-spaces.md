@@ -105,7 +105,7 @@ $$
 
 ## Визуализация
 
-![Нормы, полнота и перенос в ИИ — модуль 02](80_assets/functional-analysis/modules/gpt-image-v3/module-02-norms-completeness-v3.png)
+![Нормы, полнота и перенос в ИИ — модуль 02](80_assets/functional-analysis/modules/gpt-image-v3/module-02-norms-completeness-v3.webp)
 
 
 ## Самопроверка

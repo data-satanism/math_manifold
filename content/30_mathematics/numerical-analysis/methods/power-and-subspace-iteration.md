@@ -75,7 +75,7 @@ $$
 
 ## Визуализация
 
-![Умножение усиливает ведущие спектральные направления, а QR удерживает несколько независимых компонент](80_assets/numerical-analysis/gpt-image-v2/nla-module-10-subspace-iteration-insight.png)
+![Умножение усиливает ведущие спектральные направления, а QR удерживает несколько независимых компонент](80_assets/numerical-analysis/gpt-image-v2/nla-module-10-subspace-iteration-insight.webp)
 
 ## Источник
 

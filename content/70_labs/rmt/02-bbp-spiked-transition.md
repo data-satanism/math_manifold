@@ -34,7 +34,7 @@ python 70_labs/rmt/rmt_release_experiments.py `
   --output-dir 80_assets/random-matrix-theory/labs-v1
 ```
 
-![Численное отделение верхнего собственного значения и рост согласования PCA после спайкового порога](80_assets/random-matrix-theory/labs-v1/lab-bbp-spiked-transition.png)
+![Численное отделение верхнего собственного значения и рост согласования PCA после спайкового порога](80_assets/random-matrix-theory/labs-v1/lab-bbp-spiked-transition.webp)
 
 ## Проверки
 

@@ -86,7 +86,7 @@ $$
 
 ## Визуализация
 
-![Слабая топология, наблюдения и перенос в ИИ — модуль 05](80_assets/functional-analysis/modules/gpt-image-v3/module-05-topology-weak-v3.png)
+![Слабая топология, наблюдения и перенос в ИИ — модуль 05](80_assets/functional-analysis/modules/gpt-image-v3/module-05-topology-weak-v3.webp)
 
 
 ## Самопроверка

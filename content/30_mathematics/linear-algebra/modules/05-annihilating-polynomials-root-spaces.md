@@ -8,14 +8,14 @@ publish: true
 areas: [linear-algebra, spectral-theory, matrix-analysis]
 concepts: [annihilating-polynomial, minimal-polynomial, krylov-subspace, root-subspace, jordan-chain]
 prerequisites: [linear-algebra-04-quadratic-canonical-structure]
-ai_domains: [graph-learning, iterative-methods, dynamical-models]
+ai_domains: [graph-ml, iterative-methods, dynamical-models]
 source_refs:
   - id: boss-linear-algebra-2005
     pages: "108-122"
     role: primary
 level: advanced
 created: 2026-07-27
-updated: 2026-08-12
+updated: 2026-09-03
 ---
 
 # Аннулирующие многочлены и корневые подпространства
@@ -161,7 +161,7 @@ $$
 
 ## Визуализация
 
-![Высокие степени матрицы сворачиваются в конечную рекуррентность, а распространение сообщений становится полиномиальным фильтром конечной степени](80_assets/linear-algebra/gpt-image-v3/cayley-hamilton-recurrence-insight-v3.png)
+![Высокие степени матрицы сворачиваются в конечную рекуррентность, а распространение сообщений становится полиномиальным фильтром конечной степени](80_assets/linear-algebra/gpt-image-v3/cayley-hamilton-recurrence-insight-v3.webp)
 
 ## Самопроверка
 

@@ -216,7 +216,7 @@ tail_heavy = [(np.abs(heavy) >= t).mean() for t in thresholds]
 
 ## Визуализация
 
-![Концентрация независимых сумм, аналогия с усреднением датчиков, два хвостовых режима и проверка риска модели](80_assets/probability/gpt-image-v1/probability-module-02-concentration-sums-insight-v1.png)
+![Концентрация независимых сумм, аналогия с усреднением датчиков, два хвостовых режима и проверка риска модели](80_assets/probability/gpt-image-v1/probability-module-02-concentration-sums-insight-v1.webp)
 
 
 ## Самопроверка

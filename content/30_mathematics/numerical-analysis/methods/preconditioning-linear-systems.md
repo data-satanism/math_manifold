@@ -71,7 +71,7 @@ $$
 
 ## Визуализация
 
-![Кластеризация спектра и сокращение траектории после смены координат](80_assets/numerical-analysis/gpt-image-v4/nla-ch21-cg-ritz-preconditioning-insight.png)
+![Кластеризация спектра и сокращение траектории после смены координат](80_assets/numerical-analysis/gpt-image-v4/nla-ch21-cg-ritz-preconditioning-insight.webp)
 
 ## Источник
 

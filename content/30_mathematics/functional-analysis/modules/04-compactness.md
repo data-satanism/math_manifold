@@ -87,7 +87,7 @@ $$
 
 ## Визуализация
 
-![Компактность, конечные аппроксимации и перенос в ИИ — модуль 04](80_assets/functional-analysis/modules/gpt-image-v3/module-04-compactness-v3.png)
+![Компактность, конечные аппроксимации и перенос в ИИ — модуль 04](80_assets/functional-analysis/modules/gpt-image-v3/module-04-compactness-v3.webp)
 
 
 ## Самопроверка

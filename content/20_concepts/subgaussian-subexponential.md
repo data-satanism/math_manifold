@@ -7,7 +7,7 @@ status: canonical
 publish: true
 areas: [probability, high-dimensional-probability]
 concepts: [tail-bound, moment-generating-function, orlicz-norm, concentration]
-prerequisites: [random-variable, expectation, lp-space]
+prerequisites: [random-variable, expectation, lp-spaces]
 ai_domains: [statistical-learning, robust-learning, random-matrices, optimization]
 source_refs:
   - id: vershynin-hdp-2026
@@ -15,7 +15,7 @@ source_refs:
     role: primary
 level: advanced
 created: 2026-07-27
-updated: 2026-08-12
+updated: 2026-09-03
 ---
 
 # Субгауссовские и субэкспоненциальные случайные величины

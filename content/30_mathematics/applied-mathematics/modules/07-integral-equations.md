@@ -209,7 +209,7 @@ $$
 
 ## Визуализация
 
-![Классы интегральных уравнений, понятные физические образы, вычислительные редукции и перенос к операторным моделям ИИ](80_assets/integral-equations/gpt-image-v1/integral-equations-module-insight-v1.png)
+![Классы интегральных уравнений, понятные физические образы, вычислительные редукции и перенос к операторным моделям ИИ](80_assets/integral-equations/gpt-image-v1/integral-equations-module-insight-v1.webp)
 
 ## Самопроверка
 

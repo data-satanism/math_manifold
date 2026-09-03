@@ -154,7 +154,7 @@ KKT-условия полезны не только для доказатель�
 
 ## Визуализация
 
-![Математический механизм, режим отказа и перенос в ИИ — модуль 01](80_assets/optimization/gpt-image-v1/optimization-module-01-problem-geometry-v1.png)
+![Математический механизм, режим отказа и перенос в ИИ — модуль 01](80_assets/optimization/gpt-image-v1/optimization-module-01-problem-geometry-v1.webp)
 
 ## Самопроверка
 

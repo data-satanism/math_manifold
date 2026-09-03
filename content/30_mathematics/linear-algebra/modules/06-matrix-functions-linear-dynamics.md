@@ -8,14 +8,14 @@ publish: true
 areas: [linear-algebra, matrix-analysis, dynamical-systems]
 concepts: [matrix-function, matrix-exponential, semigroup, spectral-radius, transient-growth]
 prerequisites: [linear-algebra-05-annihilating-polynomials-root-spaces, nla-03-conditioning-and-matrix-series]
-ai_domains: [neural-ode, state-space-models, implicit-layers, dynamical-models]
+ai_domains: [neural-differential-equations, state-space-models, implicit-layers, dynamical-models]
 source_refs:
   - id: boss-linear-algebra-2005
     pages: "123-139"
     role: primary
 level: advanced
 created: 2026-07-27
-updated: 2026-08-12
+updated: 2026-09-03
 ---
 
 # Функции от матриц и линейная динамика
@@ -154,7 +154,7 @@ $$
 
 ## Визуализация
 
-![Матричный ряд порождает непрерывный поток, локальное правило превращается в траекторию, а ненормальность создаёт переходное усиление в модели состояния](80_assets/linear-algebra/gpt-image-v3/matrix-exponential-flow-insight-v3.png)
+![Матричный ряд порождает непрерывный поток, локальное правило превращается в траекторию, а ненормальность создаёт переходное усиление в модели состояния](80_assets/linear-algebra/gpt-image-v3/matrix-exponential-flow-insight-v3.webp)
 
 ## Самопроверка
 

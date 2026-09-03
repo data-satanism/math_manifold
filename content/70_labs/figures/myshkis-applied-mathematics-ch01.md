@@ -42,9 +42,9 @@ updated: 2026-07-27
 
 ## Принятые файлы
 
-- `80_assets/applied-mathematics/gpt-image-v1/apm-ch01-field-theory-insight.png`;
-- `80_assets/applied-mathematics/gpt-image-v1/gauss-ostrogradsky-insight.png`;
-- `80_assets/applied-mathematics/gpt-image-v1/stokes-theorem-insight.png`;
-- `80_assets/applied-mathematics/gpt-image-v1/field-invariants-ai-insight.png`.
+- `80_assets/applied-mathematics/gpt-image-v1/apm-ch01-field-theory-insight.webp`;
+- `80_assets/applied-mathematics/gpt-image-v1/gauss-ostrogradsky-insight.webp`;
+- `80_assets/applied-mathematics/gpt-image-v1/stokes-theorem-insight.webp`;
+- `80_assets/applied-mathematics/gpt-image-v1/field-invariants-ai-insight.webp`.
 
 Два ранних варианта не подключены: в них присутствовала английская проза внутри русских панелей.

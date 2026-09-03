@@ -84,7 +84,7 @@ $$
 
 ## Визуализация
 
-[![Внешний обход равен сумме локальных вкладов полюсов; аналогия скрытых источников и контурный спектральный фильтр показывают перенос, а полюс на границе — отказ](80_assets/applied-mathematics/gpt-image-v1/residue-theorem-insight.png)](80_assets/applied-mathematics/gpt-image-v1/residue-theorem-insight.png)
+[![Внешний обход равен сумме локальных вкладов полюсов; аналогия скрытых источников и контурный спектральный фильтр показывают перенос, а полюс на границе — отказ](80_assets/applied-mathematics/gpt-image-v1/residue-theorem-insight.webp)](80_assets/applied-mathematics/gpt-image-v1/residue-theorem-insight.webp)
 
 ## Самопроверка
 

@@ -8,14 +8,14 @@ publish: true
 areas: [tensor-analysis, differential-geometry, machine-learning]
 concepts: [tensor, equivariance, invariance, group-representation, local-frame, parallel-transport]
 prerequisites: [apm-05-tensor-calculus, covariant-derivative-tensoriality-theorem]
-ai_domains: [geometric-deep-learning, equivariant-learning, graph-learning, molecular-modeling, scientific-machine-learning]
+ai_domains: [geometric-deep-learning, equivariant-learning, graph-ml, molecular-modeling, scientific-machine-learning]
 source_refs:
   - id: myshkis-applied-mathematics-engineers-2006
     pages: "252-280"
     role: foundation
 level: research
 created: 2026-07-17
-updated: 2026-07-27
+updated: 2026-09-03
 ---
 
 # Тензорная ковариантность → геометрическое глубокое обучение
@@ -106,7 +106,7 @@ $$
 
 ## Визуализация
 
-[![Карта и местность как образ ковариантности, коммутативный контракт эквивариантного слоя, молекулярный пример и типичные нарушения геометрического закона](80_assets/tensor-analysis/gpt-image-v1/tensors-geometric-deep-learning-insight.png)](80_assets/tensor-analysis/gpt-image-v1/tensors-geometric-deep-learning-insight.png)
+[![Карта и местность как образ ковариантности, коммутативный контракт эквивариантного слоя, молекулярный пример и типичные нарушения геометрического закона](80_assets/tensor-analysis/gpt-image-v1/tensors-geometric-deep-learning-insight.webp)](80_assets/tensor-analysis/gpt-image-v1/tensors-geometric-deep-learning-insight.webp)
 
 ## Самопроверка
 

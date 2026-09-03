@@ -136,7 +136,7 @@ $$
 
 ## Визуализация
 
-[![Двусторонняя динамика, таблица попарных сумм спектров, доказательство через формы Шура и образ спектрального резонанса](80_assets/matrix-equations/gpt-image-v1/sylvester-equation-uniqueness-insight.png)](80_assets/matrix-equations/gpt-image-v1/sylvester-equation-uniqueness-insight.png)
+[![Двусторонняя динамика, таблица попарных сумм спектров, доказательство через формы Шура и образ спектрального резонанса](80_assets/matrix-equations/gpt-image-v1/sylvester-equation-uniqueness-insight.webp)](80_assets/matrix-equations/gpt-image-v1/sylvester-equation-uniqueness-insight.webp)
 
 ## Самопроверка
 

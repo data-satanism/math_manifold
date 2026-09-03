@@ -7,7 +7,7 @@ status: canonical
 publish: true
 areas: [kernel-methods, probabilistic-graphical-models, structured-prediction]
 concepts: [representer-theorem, clique-decomposition, sparse-expansion, structured-output]
-prerequisites: [representer-theorem-kernel-expansion, graph-compatible-kernel-decomposition]
+prerequisites: [representer-theorem-kernel-expansion, thm-graph-compatible-kernel-decomposition]
 ai_domains: [structured-prediction, sequence-labeling, conditional-random-fields]
 source_refs:
   - id: hofmann-scholkopf-smola-kernel-methods-2006
@@ -15,7 +15,7 @@ source_refs:
     role: primary
 level: advanced
 created: 2026-07-21
-updated: 2026-07-27
+updated: 2026-09-03
 ---
 
 # Кликовое представление решения в графической RKHS
@@ -24,7 +24,7 @@ updated: 2026-07-27
 
 Общая теорема о представителе для структурированного ответа индексирует коэффициенты всеми глобальными $y\in Y$. Если $Y$ — последовательность длины $T$, таких ответов экспоненциально много. Совместимость с графом позволяет перегруппировать разложение по локальным конфигурациям клик.
 
-![Экспоненциальный каталог полных последовательностей заменяется набором локальных кликовых карточек; разложение решения и разметка последовательности используют одни и те же локальные конфигурации](80_assets/kernel-methods/gpt-image-v4/clique-representer-sparse-expansion-v4.png)
+![Экспоненциальный каталог полных последовательностей заменяется набором локальных кликовых карточек; разложение решения и разметка последовательности используют одни и те же локальные конфигурации](80_assets/kernel-methods/gpt-image-v4/clique-representer-sparse-expansion-v4.webp)
 
 ## Предпосылки
 

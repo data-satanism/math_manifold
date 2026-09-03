@@ -67,7 +67,7 @@ $$
 
 ## Визуализация
 
-![Смена метрики распрямляет локальную координатную сетку, но устаревший предобусловливатель может повернуть шаг в неверную кривизну](80_assets/numerical-analysis/gpt-image-v7/bridge-preconditioning-optimization-v7.png)
+![Смена метрики распрямляет локальную координатную сетку, но устаревший предобусловливатель может повернуть шаг в неверную кривизну](80_assets/numerical-analysis/gpt-image-v7/bridge-preconditioning-optimization-v7.webp)
 
 ### Как читать рисунок
 

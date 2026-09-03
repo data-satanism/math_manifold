@@ -103,7 +103,7 @@ $$
 
 ## Визуализация
 
-[![Закон инерции сохраняет числа направлений подъёма, спуска и плоских направлений при невырожденной замене координат; показаны седло функции потерь и сбой при проекции](80_assets/linear-algebra/gpt-image-v1/sylvester-law-inertia-insight.png)](80_assets/linear-algebra/gpt-image-v1/sylvester-law-inertia-insight.png)
+[![Закон инерции сохраняет числа направлений подъёма, спуска и плоских направлений при невырожденной замене координат; показаны седло функции потерь и сбой при проекции](80_assets/linear-algebra/gpt-image-v1/sylvester-law-inertia-insight.webp)](80_assets/linear-algebra/gpt-image-v1/sylvester-law-inertia-insight.webp)
 
 ## Самопроверка
 

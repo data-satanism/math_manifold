@@ -90,7 +90,7 @@ updated: 2026-08-12
 
 ## Визуализация
 
-![Мера, пространства Lp и перенос в ИИ — модуль 03](80_assets/functional-analysis/modules/gpt-image-v3/module-03-measure-lp-v3.png)
+![Мера, пространства Lp и перенос в ИИ — модуль 03](80_assets/functional-analysis/modules/gpt-image-v3/module-03-measure-lp-v3.webp)
 
 
 ## Самопроверка

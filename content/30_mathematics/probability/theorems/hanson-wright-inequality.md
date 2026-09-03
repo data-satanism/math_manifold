@@ -8,14 +8,14 @@ publish: true
 areas: [probability, random-matrix-theory]
 concepts: [quadratic-form, decoupling, subgaussian-chaos, frobenius-norm, operator-norm]
 prerequisites: [bernstein-inequality, subgaussian-subexponential, singular-value-decomposition]
-ai_domains: [covariance-estimation, anomaly-detection, graph-machine-learning, uncertainty]
+ai_domains: [covariance-estimation, anomaly-detection, graph-ml, uncertainty]
 source_refs:
   - id: vershynin-hdp-2026
     pages: "175-179"
     role: primary
 level: advanced
 created: 2026-07-27
-updated: 2026-08-12
+updated: 2026-09-03
 ---
 
 # Неравенство Хансона—Райта
@@ -296,7 +296,7 @@ def hanson_wright_scale(A, delta, K=1.0):
 
 ## Визуализация
 
-![Неравенство Хансона—Райта: разделение квадратичного хаоса, два хвостовых масштаба, аналогия с сетью взаимодействий, перенос к оценке аномалий и отказ при общей случайной амплитуде](80_assets/probability/gpt-image-v2/hanson-wright-inequality-insight-v2.png)
+![Неравенство Хансона—Райта: разделение квадратичного хаоса, два хвостовых масштаба, аналогия с сетью взаимодействий, перенос к оценке аномалий и отказ при общей случайной амплитуде](80_assets/probability/gpt-image-v2/hanson-wright-inequality-insight-v2.webp)
 
 ## Упражнения
 

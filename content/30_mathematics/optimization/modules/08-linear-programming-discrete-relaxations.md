@@ -154,7 +154,7 @@ $$
 
 ## Визуализация
 
-![Математический механизм, режим отказа и перенос в ИИ — модуль 08](80_assets/optimization/gpt-image-v1/optimization-module-08-linear-programming-discrete-relaxations-v1.png)
+![Математический механизм, режим отказа и перенос в ИИ — модуль 08](80_assets/optimization/gpt-image-v1/optimization-module-08-linear-programming-discrete-relaxations-v1.webp)
 
 ## Самопроверка
 

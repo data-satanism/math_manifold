@@ -89,7 +89,7 @@ $$
 
 ## Визуализация
 
-![Иерархические малоранговые блоки, крестовая аппроксимация и ограниченный перенос к матрицам взаимодействий ИИ](80_assets/numerical-analysis/gpt-image-v5/nla-ch25-hierarchical-low-rank-insight.png)
+![Иерархические малоранговые блоки, крестовая аппроксимация и ограниченный перенос к матрицам взаимодействий ИИ](80_assets/numerical-analysis/gpt-image-v5/nla-ch25-hierarchical-low-rank-insight.webp)
 
 [Открыть интерактив иерархического сжатия](80_assets/interactive/hierarchical-low-rank-compression.html) · [лабораторная страница](70_labs/interactive/operator-multigrid-structured-widgets)
 

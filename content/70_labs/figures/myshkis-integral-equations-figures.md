@@ -43,7 +43,7 @@ updated: 2026-07-27
 
 ### Обзор модуля
 
-Файл: [integral-equations-module-insight-v1.png](80_assets/integral-equations/gpt-image-v1/integral-equations-module-insight-v1.png)
+Файл: [integral-equations-module-insight-v1.png](80_assets/integral-equations/gpt-image-v1/integral-equations-module-insight-v1.webp)
 
 Панели: поле влияний и классы уравнений; физические образы причинности и сглаживания; конечномерная и спектральная редукции; перенос к операторным слоям и независимые проверки.
 
@@ -51,7 +51,7 @@ updated: 2026-07-27
 
 ### Вырожденное ядро
 
-Файл: [degenerate-kernel-reduction-v1.png](80_assets/integral-equations/gpt-image-v1/degenerate-kernel-reduction-v1.png)
+Файл: [degenerate-kernel-reduction-v1.png](80_assets/integral-equations/gpt-image-v1/degenerate-kernel-reduction-v1.webp)
 
 Панели: разделённое ядро; сбор конечного числа моментов; малая линейная система; восстановление поля; аналогия с латентным операторным слоем и резонансный режим отказа.
 
@@ -59,7 +59,7 @@ updated: 2026-07-27
 
 ### Симметричное ядро
 
-Файл: [symmetric-kernel-spectrum-v1.png](80_assets/integral-equations/gpt-image-v1/symmetric-kernel-spectrum-v1.png)
+Файл: [symmetric-kernel-spectrum-v1.png](80_assets/integral-equations/gpt-image-v1/symmetric-kernel-spectrum-v1.webp)
 
 Панели: взаимное ядро; независимые собственные моды; мембрана как понятный образ; спектральное усечение; потеря ортогональной картины при нарушении симметрии.
 
@@ -67,7 +67,7 @@ updated: 2026-07-27
 
 ### Формулы Сохоцкого—Племеля
 
-Файл: [sokhotski-plemelj-jump-v1.png](80_assets/integral-equations/gpt-image-v1/sokhotski-plemelj-jump-v1.png)
+Файл: [sokhotski-plemelj-jump-v1.png](80_assets/integral-equations/gpt-image-v1/sokhotski-plemelj-jump-v1.webp)
 
 Панели: два подхода к контуру; общее главное значение и половинные скачки; мембрана между средами; компенсационная квадратура и режим отказа.
 
@@ -75,7 +75,7 @@ updated: 2026-07-27
 
 ### Мост к ИИ
 
-Файл: [integral-equations-ai-bridge-v1.png](80_assets/integral-equations/gpt-image-v1/integral-equations-ai-bridge-v1.png)
+Файл: [integral-equations-ai-bridge-v1.png](80_assets/integral-equations/gpt-image-v1/integral-equations-ai-bridge-v1.webp)
 
 Панели: поле датчиков; внимание, латентные моменты, нейронный оператор и равновесный слой; тесты меры, сетки, ранга, спектра и невязки.
 

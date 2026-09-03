@@ -134,7 +134,7 @@ $$
 
 ## Визуализация
 
-[![Жорданова цепочка передаёт сигнал вдоль нильпотентной связи, создаёт полиномиально усиленные моды в линейной динамике и оказывается неустойчивой к малым возмущениям](80_assets/linear-algebra/gpt-image-v1/jordan-canonical-form-insight.png)](80_assets/linear-algebra/gpt-image-v1/jordan-canonical-form-insight.png)
+[![Жорданова цепочка передаёт сигнал вдоль нильпотентной связи, создаёт полиномиально усиленные моды в линейной динамике и оказывается неустойчивой к малым возмущениям](80_assets/linear-algebra/gpt-image-v1/jordan-canonical-form-insight.webp)](80_assets/linear-algebra/gpt-image-v1/jordan-canonical-form-insight.webp)
 
 ## Самопроверка
 

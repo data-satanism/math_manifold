@@ -10,6 +10,15 @@ concepts: [cross-area-transfer, model-design, failure-analysis]
 prerequisites: [opl-course-map]
 ai_domains: [scientific-machine-learning, neural-operators, inverse-problems]
 source_refs:
+  - id: hunter-pde-notes-2014
+    pages: "19-222"
+    role: mathematical-foundation
+  - id: clason-fem-2021
+    pages: "3-112"
+    role: numerical-foundation
+  - id: rindler-calculus-variations-2015
+    pages: "11-75"
+    role: variational-foundation
   - id: neural-operator-2021
     pages: "PDF 6–59"
     role: primary
@@ -18,7 +27,7 @@ source_refs:
     role: supporting
 level: research
 created: 2026-08-12
-updated: 2026-08-12
+updated: 2026-09-03
 ---
 
 # Уравнения в частных производных и обратные задачи → нейронные операторы
@@ -50,6 +59,8 @@ DeepONet и FNO приближают семейства решений; физи
 
 ## Связанные модули
 
+- [[30_mathematics/classical-pde-variational/classical-pde-variational-map|Классические уравнения в частных производных и вариационные методы]].
+- [[30_mathematics/classical-pde-variational/modules/pde-12-ai-solver-validation-protocol|Протокол проверки обучаемого решателя]].
 - [[30_mathematics/operator-learning/modules/opl-01-pde-solution-operators]].
 - [[30_mathematics/operator-learning/modules/opl-03-inverse-problems-regularization]].
 - [[30_mathematics/operator-learning/modules/opl-08-validation-generalization]].
@@ -57,3 +68,9 @@ DeepONet и FNO приближают семейства решений; физи
 ## Визуализация переноса
 
 ![Прямой оператор решения уравнения, регуляризация обратной задачи, DeepONet и FNO, матрица проверок при смене режима](80_assets/next-release/webp-v1/bridge-pde-inverse-neural-operators-v1.webp)
+
+## Источники
+
+- [[60_sources/hunter-pde-notes-2014|Хантер]], с. 19–222: классические эллиптические, параболические и гиперболические задачи.
+- [[60_sources/clason-finite-element-methods-2021|Класон]], с. 3–112: слабые постановки, метод Галёркина и конечные элементы.
+- [[60_sources/rindler-calculus-variations-2015|Риндлер]], с. 11–75: прямой метод и слабая полунепрерывность.

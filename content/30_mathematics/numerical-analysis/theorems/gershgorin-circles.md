@@ -8,14 +8,14 @@ publish: true
 areas: [numerical-analysis, spectral-theory]
 concepts: [eigenvalue-localization, diagonal-dominance, spectral-clusters]
 prerequisites: [linear-algebra, complex-numbers]
-ai_domains: [graph-learning, dynamical-models, optimization]
+ai_domains: [graph-ml, dynamical-models, optimization]
 source_refs:
   - id: tyrtyshnikov-numerical-analysis
     pages: "33-34"
     role: primary
 level: advanced
 created: 2026-07-13
-updated: 2026-07-27
+updated: 2026-09-03
 ---
 
 # Теорема о кругах Гершгорина
@@ -104,7 +104,7 @@ $$
 
 ## Визуализация
 
-![Круги Гершгорина как зоны влияния узлов: локализация режимов, отделённый спектральный кластер и проверка устойчивости динамики](80_assets/numerical-analysis/gpt-image-v1/gershgorin-circles-insight.png)
+![Круги Гершгорина как зоны влияния узлов: локализация режимов, отделённый спектральный кластер и проверка устойчивости динамики](80_assets/numerical-analysis/gpt-image-v1/gershgorin-circles-insight.webp)
 
 ## Самопроверка
 

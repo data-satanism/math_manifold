@@ -7,7 +7,7 @@ status: canonical
 publish: true
 areas: [numerical-analysis, approximation-theory, spectral-theory]
 concepts: [orthogonal-polynomials, three-term-recurrence, jacobi-matrix, interlacing]
-prerequisites: [nla-16-best-approximation]
+prerequisites: [nla-16-best-approximation-orthogonal-polynomials]
 ai_domains: [spectral-methods, quadrature, moment-methods]
 source_refs:
   - id: tyrtyshnikov-numerical-analysis
@@ -15,7 +15,7 @@ source_refs:
     role: primary
 level: advanced
 created: 2026-07-15
-updated: 2026-07-27
+updated: 2026-09-03
 ---
 
 # Вещественность, простота и перемежаемость корней ортогональных многочленов
@@ -69,7 +69,7 @@ $$
 
 ## Визуализация
 
-![Корни двух соседних ортогональных многочленов строго перемежаются, матрица Якоби объясняет спектральную природу, перенос показывает многоуровневую сетку, а знакопеременный вес — режим отказа](80_assets/numerical-analysis/gpt-image-v3/orthogonal-polynomial-interlacing-insight.png)
+![Корни двух соседних ортогональных многочленов строго перемежаются, матрица Якоби объясняет спектральную природу, перенос показывает многоуровневую сетку, а знакопеременный вес — режим отказа](80_assets/numerical-analysis/gpt-image-v3/orthogonal-polynomial-interlacing-insight.webp)
 
 ## Самопроверка
 

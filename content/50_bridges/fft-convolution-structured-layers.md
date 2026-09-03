@@ -40,7 +40,7 @@ updated: 2026-07-27
 
 ## Визуализация
 
-![Свёртка становится независимыми частотными каналами только при согласованной циклической границе](80_assets/numerical-analysis/gpt-image-v5/nla-ch24-toeplitz-fft-insight.png)
+![Свёртка становится независимыми частотными каналами только при согласованной циклической границе](80_assets/numerical-analysis/gpt-image-v5/nla-ch24-toeplitz-fft-insight.webp)
 
 ## Источник и связи
 

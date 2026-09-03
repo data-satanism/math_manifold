@@ -8,14 +8,17 @@ publish: true
 areas: [calculus-of-variations, mathematical-physics, symmetry]
 concepts: [one-parameter-group, variational-symmetry, conservation-law, lagrangian, equivariance]
 prerequisites: [euler-lagrange-equation-theorem, apm-05-tensor-calculus]
-ai_domains: [equivariant-learning, physics-informed-learning, dynamical-systems, neural-odes]
+ai_domains: [equivariant-learning, physics-informed-learning, dynamical-systems, neural-differential-equations]
 source_refs:
   - id: myshkis-applied-mathematics-engineers-2006
     pages: "356-383"
     role: primary
+  - id: rindler-calculus-variations-2015
+    pages: "34-41"
+    role: supporting
 level: advanced
 created: 2026-07-17
-updated: 2026-07-27
+updated: 2026-09-03
 ---
 
 # Теорема Нётер для вариационной симметрии
@@ -170,7 +173,7 @@ $$
 
 ## Визуализация
 
-![Однопараметрическая симметрия действия, вариационный вывод закона сохранения, физические примеры и проверяемый перенос в ИИ](80_assets/calculus-of-variations/gpt-image-v1/noether-symmetry-conservation-v1.png)
+![Однопараметрическая симметрия действия, вариационный вывод закона сохранения, физические примеры и проверяемый перенос в ИИ](80_assets/calculus-of-variations/gpt-image-v1/noether-symmetry-conservation-v1.webp)
 
 ## Самопроверка
 
@@ -183,6 +186,8 @@ $$
 
 - [[60_sources/myshkis-applied-mathematics-engineers|Мышкис]], с. 356–361: однопараметрические группы, инфинитезимальные преобразования и теорема Нётер.
 - [[60_sources/myshkis-applied-mathematics-engineers|Мышкис]], с. 370–383: принцип действия, уравнения поля и законы сохранения.
+- [[60_sources/rindler-calculus-variations-2015|Риндлер]], с. 34–41: вариационные симметрии и теорема Нётер.
 - [[30_mathematics/applied-mathematics/theorems/euler-lagrange-equation|Уравнение Эйлера—Лагранжа]].
+- [[30_mathematics/classical-pde-variational/modules/pde-10-euler-lagrange-constraints-noether|Уравнение Эйлера—Лагранжа, ограничения и теорема Нётер]].
 - [[50_bridges/tensors-geometric-deep-learning|Тензорная ковариантность и эквивариантные модели]].
 - [[50_bridges/variational-principles-energy-models|Вариационные принципы в ИИ]].

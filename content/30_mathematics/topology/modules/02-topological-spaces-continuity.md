@@ -68,7 +68,7 @@ updated: 2026-08-12
 
 ## Визуализация
 
-![Топологический механизм, контрпример и перенос в ИИ — модуль 02](80_assets/topology/gpt-image-v1/topology-module-02-topological-spaces-continuity-v1.png)
+![Топологический механизм, контрпример и перенос в ИИ — модуль 02](80_assets/topology/gpt-image-v1/topology-module-02-topological-spaces-continuity-v1.webp)
 
 ## Самопроверка
 

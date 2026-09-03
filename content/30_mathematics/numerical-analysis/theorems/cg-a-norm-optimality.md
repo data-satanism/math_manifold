@@ -88,7 +88,7 @@ $$
 
 ## Визуализация
 
-![Энергетический эллипсоид касается аффинного пространства Крылова в лучшем приближении CG](80_assets/numerical-analysis/gpt-image-v6/cg-a-norm-optimality-v6.png)
+![Энергетический эллипсоид касается аффинного пространства Крылова в лучшем приближении CG](80_assets/numerical-analysis/gpt-image-v6/cg-a-norm-optimality-v6.webp)
 
 ### Как читать рисунок
 

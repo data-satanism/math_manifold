@@ -68,7 +68,7 @@ updated: 2026-08-12
 
 ## Визуализация
 
-![Топологический механизм, контрпример и перенос в ИИ — модуль 07](80_assets/topology/gpt-image-v1/topology-module-07-complete-metric-function-spaces-v1.png)
+![Топологический механизм, контрпример и перенос в ИИ — модуль 07](80_assets/topology/gpt-image-v1/topology-module-07-complete-metric-function-spaces-v1.webp)
 
 ## Самопроверка
 

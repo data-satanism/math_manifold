@@ -248,7 +248,7 @@ cauchy_means = [rng.standard_cauchy(size=n).mean() for n in sizes]
 
 ## Визуализация
 
-![Вероятностный конвейер от исхода к статистике, понятная аналогия с датчиками и перенос в аудит данных ИИ](80_assets/probability/gpt-image-v1/probability-module-01-randomness-pipeline-insight-v1.png)
+![Вероятностный конвейер от исхода к статистике, понятная аналогия с датчиками и перенос в аудит данных ИИ](80_assets/probability/gpt-image-v1/probability-module-01-randomness-pipeline-insight-v1.webp)
 
 
 ## Самопроверка

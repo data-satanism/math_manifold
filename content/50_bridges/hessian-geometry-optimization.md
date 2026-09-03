@@ -63,7 +63,7 @@ updated: 2026-07-27
 
 ## Визуализация
 
-![Кривизна, дробление шага, обратное накопление производных и масштабирование признаков](80_assets/numerical-analysis/gpt-image-v4/nla-ch18-optimization-insight.png)
+![Кривизна, дробление шага, обратное накопление производных и масштабирование признаков](80_assets/numerical-analysis/gpt-image-v4/nla-ch18-optimization-insight.webp)
 
 ## Самопроверка
 

@@ -108,7 +108,7 @@ def audit_search_space(model_cards):
 
 ## Визуализация
 
-![Эмпирические процессы и адаптивное обобщение: фиксированный каталог моделей, равномерный доверительный коридор, дерево решений и отказ при расширении класса после проверки](80_assets/probability/gpt-image-v3/empirical-processes-adaptive-generalization-insight-v3.png)
+![Эмпирические процессы и адаптивное обобщение: фиксированный каталог моделей, равномерный доверительный коридор, дерево решений и отказ при расширении класса после проверки](80_assets/probability/gpt-image-v3/empirical-processes-adaptive-generalization-insight-v3.webp)
 
 ## Самопроверка
 

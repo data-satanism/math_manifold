@@ -34,7 +34,7 @@ python 70_labs/rmt/rmt_release_experiments.py `
   --output-dir 80_assets/random-matrix-theory/labs-v1
 ```
 
-![Конечномерная гистограмма собственных значений выборочной ковариации и предельная плотность Марченко—Пастура с отмеченными краями](80_assets/random-matrix-theory/labs-v1/lab-marchenko-pastur-finite-size.png)
+![Конечномерная гистограмма собственных значений выборочной ковариации и предельная плотность Марченко—Пастура с отмеченными краями](80_assets/random-matrix-theory/labs-v1/lab-marchenko-pastur-finite-size.webp)
 
 ## Что измерять
 

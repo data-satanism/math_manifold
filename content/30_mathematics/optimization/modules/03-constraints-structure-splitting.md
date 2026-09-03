@@ -141,7 +141,7 @@ $$
 
 ## Визуализация
 
-![Математический механизм, режим отказа и перенос в ИИ — модуль 03](80_assets/optimization/gpt-image-v1/optimization-module-03-constraints-structure-splitting-v1.png)
+![Математический механизм, режим отказа и перенос в ИИ — модуль 03](80_assets/optimization/gpt-image-v1/optimization-module-03-constraints-structure-splitting-v1.webp)
 
 ## Самопроверка
 

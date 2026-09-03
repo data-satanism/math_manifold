@@ -88,7 +88,7 @@ $$
 
 ## Визуализация
 
-![Квадрат ошибки превращается в удвоение числа верных знаков, а кратный корень разрушает этот режим](80_assets/numerical-analysis/gpt-image-v6/newton-quadratic-convergence-v6.png)
+![Квадрат ошибки превращается в удвоение числа верных знаков, а кратный корень разрушает этот режим](80_assets/numerical-analysis/gpt-image-v6/newton-quadratic-convergence-v6.webp)
 
 ### Как читать рисунок
 

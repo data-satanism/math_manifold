@@ -145,7 +145,7 @@ $$
 
 ## Визуализация
 
-![Координаты одного вектора в разных базисах, геометрические инварианты, повёрнутая карта и ортогональное совмещение эмбеддингов](80_assets/linear-algebra/gpt-image-v3/coordinate-invariants-embeddings-insight-v3.png)
+![Координаты одного вектора в разных базисах, геометрические инварианты, повёрнутая карта и ортогональное совмещение эмбеддингов](80_assets/linear-algebra/gpt-image-v3/coordinate-invariants-embeddings-insight-v3.webp)
 
 ## Самопроверка
 

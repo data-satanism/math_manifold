@@ -8,14 +8,14 @@ publish: true
 areas: [linear-algebra, matrix-analysis]
 concepts: [characteristic-polynomial, annihilating-polynomial, minimal-polynomial, matrix-recurrence]
 prerequisites: [linear-algebra-05-annihilating-polynomials-root-spaces]
-ai_domains: [graph-learning, iterative-methods, dynamical-models]
+ai_domains: [graph-ml, iterative-methods, dynamical-models]
 source_refs:
   - id: boss-linear-algebra-2005
     pages: "117-119"
     role: primary
 level: advanced
 created: 2026-07-27
-updated: 2026-07-27
+updated: 2026-09-03
 ---
 
 # Теорема Кэли—Гамильтона
@@ -141,7 +141,7 @@ $$
 
 ## Визуализация
 
-![Теорема сворачивает высокие степени в конечную рекуррентность и показывает перенос к полиномиальному графовому фильтру](80_assets/linear-algebra/gpt-image-v3/cayley-hamilton-recurrence-insight-v3.png)
+![Теорема сворачивает высокие степени в конечную рекуррентность и показывает перенос к полиномиальному графовому фильтру](80_assets/linear-algebra/gpt-image-v3/cayley-hamilton-recurrence-insight-v3.webp)
 
 ## Самопроверка
 

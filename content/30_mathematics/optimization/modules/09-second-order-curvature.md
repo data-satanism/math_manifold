@@ -184,7 +184,7 @@ $$
 
 ## Визуализация
 
-![Математический механизм, режим отказа и перенос в ИИ — модуль 09](80_assets/optimization/gpt-image-v1/optimization-module-09-second-order-curvature-v1.png)
+![Математический механизм, режим отказа и перенос в ИИ — модуль 09](80_assets/optimization/gpt-image-v1/optimization-module-09-second-order-curvature-v1.webp)
 
 ## Самопроверка
 

@@ -8,7 +8,7 @@ publish: true
 areas: [functional-analysis, inverse-problems]
 concepts: [operator-equation, regularization, stability]
 prerequisites: [operator-equation, spectrum]
-ai_domains: [inverse-problems, computer-vision, scientific-ml]
+ai_domains: [inverse-problems, computer-vision, scientific-machine-learning]
 source_refs:
   - id: boss-fa-2005
     pages: "133-156"
@@ -18,7 +18,7 @@ source_refs:
     role: integral-equation-examples
 level: research
 created: 2026-07-10
-updated: 2026-08-12
+updated: 2026-09-03
 ---
 
 # Операторные уравнения → обратные задачи и регуляризация
@@ -74,7 +74,7 @@ $$
 > [!info] established
 > Малые сингулярные значения превращают небольшой шум данных в длинное множество допустимых прообразов. Регуляризация выбирает решение с помощью дополнительной структуры, но обученный априорный закон не заменяет проверку согласованности с прямой моделью.
 
-![Компактный оператор сжимает направления решения в тонкий эллипсоид данных, а регуляризация выбирает пересечение трубы согласованности с априорным многообразием; точка вне трубы является правдоподобной галлюцинацией](80_assets/bridges/gpt-image-v3/operator-equations-regularization-v3.png)
+![Компактный оператор сжимает направления решения в тонкий эллипсоид данных, а регуляризация выбирает пересечение трубы согласованности с априорным многообразием; точка вне трубы является правдоподобной галлюцинацией](80_assets/bridges/gpt-image-v3/operator-equations-regularization-v3.webp)
 
 Геометрия пересечения разделяет три компонента метода: наблюдение, априорное ограничение и правило выбора решения. Нижняя полоса показывает реконструкцию, которая выглядит правдоподобно, но не воспроизводит измерение.
 

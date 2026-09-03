@@ -85,7 +85,7 @@ $$
 
 ## Визуализация
 
-![Подпространство Крылова, полиномиальный фильтр и матрично-свободный шаг второго порядка](80_assets/numerical-analysis/gpt-image-v4/nla-ch19-krylov-insight.png)
+![Подпространство Крылова, полиномиальный фильтр и матрично-свободный шаг второго порядка](80_assets/numerical-analysis/gpt-image-v4/nla-ch19-krylov-insight.webp)
 
 ## Самопроверка
 

@@ -3,4 +3,3 @@
 preview: true
 production_config: quartz.config.yaml
 content_source: ../MathAI_Knowledge
-

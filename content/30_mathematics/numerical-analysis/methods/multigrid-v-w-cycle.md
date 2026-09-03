@@ -48,7 +48,7 @@ V-цикл делает один рекурсивный грубый вызов,
 
 ## Визуализация
 
-![V-цикл разделяет работу между сглаживанием и грубой коррекцией](80_assets/numerical-analysis/gpt-image-v5/nla-ch23-multigrid-insight.png)
+![V-цикл разделяет работу между сглаживанием и грубой коррекцией](80_assets/numerical-analysis/gpt-image-v5/nla-ch23-multigrid-insight.webp)
 
 ## Источник
 

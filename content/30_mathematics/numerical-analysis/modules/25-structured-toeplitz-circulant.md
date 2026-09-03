@@ -93,7 +93,7 @@ $$
 
 ## Визуализация
 
-![Повторяющаяся структура, частотная диагонализация и спектральная кластеризация предобусловленной системы](80_assets/numerical-analysis/gpt-image-v5/nla-ch24-toeplitz-fft-insight.png)
+![Повторяющаяся структура, частотная диагонализация и спектральная кластеризация предобусловленной системы](80_assets/numerical-analysis/gpt-image-v5/nla-ch24-toeplitz-fft-insight.webp)
 
 [Открыть интерактив частотной диагонализации](80_assets/interactive/circulant-fourier-modes.html) · [лабораторная страница](70_labs/interactive/operator-multigrid-structured-widgets)
 

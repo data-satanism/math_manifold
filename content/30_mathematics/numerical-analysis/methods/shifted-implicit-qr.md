@@ -49,7 +49,7 @@ updated: 2026-07-27
 
 ## Визуализация
 
-![Неявный QR-шаг создаёт и прогоняет локальное выпячивание, сохраняя хессенбергову полосу](80_assets/numerical-analysis/gpt-image-v2/implicit-qr-uniqueness-insight.png)
+![Неявный QR-шаг создаёт и прогоняет локальное выпячивание, сохраняя хессенбергову полосу](80_assets/numerical-analysis/gpt-image-v2/implicit-qr-uniqueness-insight.webp)
 
 ## Источник
 

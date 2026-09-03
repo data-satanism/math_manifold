@@ -8,14 +8,14 @@ publish: true
 areas: [numerical-analysis, spectral-theory]
 concepts: [hermitian-matrix, eigenvalue-perturbation, spectral-norm, minmax-principle]
 prerequisites: [nla-02-unitary-matrices-and-svd, nla-05-spectral-distances-and-clusters]
-ai_domains: [pca, graph-learning, representation-learning]
+ai_domains: [pca, graph-ml, representation-learning]
 source_refs:
   - id: tyrtyshnikov-numerical-analysis
     pages: "46-48"
     role: primary
 level: advanced
 created: 2026-07-13
-updated: 2026-07-27
+updated: 2026-09-03
 ---
 
 # Теорема Вейля о возмущении собственных значений
@@ -97,7 +97,7 @@ $$
 
 ## Визуализация
 
-![Теорема Вейля как полосы допуска вокруг спектральных отметок: сохранение зазора, устойчивость PCA и граница ненадёжного порога](80_assets/numerical-analysis/gpt-image-v1/weyl-perturbation-insight.png)
+![Теорема Вейля как полосы допуска вокруг спектральных отметок: сохранение зазора, устойчивость PCA и граница ненадёжного порога](80_assets/numerical-analysis/gpt-image-v1/weyl-perturbation-insight.webp)
 
 ## Самопроверка
 

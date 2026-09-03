@@ -214,7 +214,7 @@ $$
 
 ## Визуализация
 
-[![Один геометрический объект в разных координатах, закон преобразования тензора, ковариантное сравнение и перенос к эквивариантной нейронной сети](80_assets/tensor-analysis/gpt-image-v1/tensor-calculus-coordinate-covariance-insight.png)](80_assets/tensor-analysis/gpt-image-v1/tensor-calculus-coordinate-covariance-insight.png)
+[![Один геометрический объект в разных координатах, закон преобразования тензора, ковариантное сравнение и перенос к эквивариантной нейронной сети](80_assets/tensor-analysis/gpt-image-v1/tensor-calculus-coordinate-covariance-insight.webp)](80_assets/tensor-analysis/gpt-image-v1/tensor-calculus-coordinate-covariance-insight.webp)
 
 ## Самопроверка
 

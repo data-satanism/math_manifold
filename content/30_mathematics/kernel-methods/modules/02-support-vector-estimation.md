@@ -47,7 +47,7 @@ $$
 \text{структурный отступ}.
 $$
 
-![Единая геометрия отступа для классификации, оценки носителя, регрессии и структурного ответа](80_assets/kernel-methods/gpt-image-v1/support-vector-estimation-module-v1.png)
+![Единая геометрия отступа для классификации, оценки носителя, регрессии и структурного ответа](80_assets/kernel-methods/gpt-image-v1/support-vector-estimation-module-v1.webp)
 
 ## Карта зависимостей и контроль дублирования
 

@@ -129,7 +129,7 @@ $$
 
 ## Визуализация
 
-[![Дополняющая нежёсткость связывает активную грань многогранника с ненулевой двойственной ценой, даёт сертификат для структурного предсказания и теряет силу без допустимости](80_assets/linear-algebra/gpt-image-v1/complementary-slackness-insight.png)](80_assets/linear-algebra/gpt-image-v1/complementary-slackness-insight.png)
+[![Дополняющая нежёсткость связывает активную грань многогранника с ненулевой двойственной ценой, даёт сертификат для структурного предсказания и теряет силу без допустимости](80_assets/linear-algebra/gpt-image-v1/complementary-slackness-insight.webp)](80_assets/linear-algebra/gpt-image-v1/complementary-slackness-insight.webp)
 
 ## Самопроверка
 

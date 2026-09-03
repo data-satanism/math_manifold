@@ -68,7 +68,7 @@ updated: 2026-08-12
 
 ## Визуализация
 
-![Топологический механизм, контрпример и перенос в ИИ — модуль 01](80_assets/topology/gpt-image-v1/topology-module-01-sets-logic-orders-v1.png)
+![Топологический механизм, контрпример и перенос в ИИ — модуль 01](80_assets/topology/gpt-image-v1/topology-module-01-sets-logic-orders-v1.webp)
 
 ## Самопроверка
 

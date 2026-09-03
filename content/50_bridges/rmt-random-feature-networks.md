@@ -87,7 +87,7 @@ $$
 
 ## Визуализация
 
-![Однослойная сеть случайных признаков: матрица Грама, спектральная призма и границы детерминированного предсказания](80_assets/random-matrix-theory/gpt-image-v2/random-feature-network-insight-v2.png)
+![Однослойная сеть случайных признаков: матрица Грама, спектральная призма и границы детерминированного предсказания](80_assets/random-matrix-theory/gpt-image-v2/random-feature-network-insight-v2.webp)
 
 ## Самопроверка
 

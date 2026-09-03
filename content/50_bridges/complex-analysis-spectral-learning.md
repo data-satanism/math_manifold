@@ -73,7 +73,7 @@ $$
 
 ## Визуализация
 
-[![Аналитический контур выделяет спектральные моды как частотный шлюз; показаны вычисление проектора, перенос в операторную модель и опасность ненормального усиления](80_assets/applied-mathematics/gpt-image-v1/complex-analysis-spectral-learning-insight.png)](80_assets/applied-mathematics/gpt-image-v1/complex-analysis-spectral-learning-insight.png)
+[![Аналитический контур выделяет спектральные моды как частотный шлюз; показаны вычисление проектора, перенос в операторную модель и опасность ненормального усиления](80_assets/applied-mathematics/gpt-image-v1/complex-analysis-spectral-learning-insight.webp)](80_assets/applied-mathematics/gpt-image-v1/complex-analysis-spectral-learning-insight.webp)
 
 ## Самопроверка
 

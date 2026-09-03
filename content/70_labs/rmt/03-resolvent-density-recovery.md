@@ -40,7 +40,7 @@ python 70_labs/rmt/rmt_release_experiments.py `
   --output-dir 80_assets/random-matrix-theory/labs-v1
 ```
 
-![Восстановление спектральной плотности по мнимой части резольвенты при трёх уровнях сглаживания](80_assets/random-matrix-theory/labs-v1/lab-resolvent-density-recovery.png)
+![Восстановление спектральной плотности по мнимой части резольвенты при трёх уровнях сглаживания](80_assets/random-matrix-theory/labs-v1/lab-resolvent-density-recovery.webp)
 
 ## Интерпретация
 

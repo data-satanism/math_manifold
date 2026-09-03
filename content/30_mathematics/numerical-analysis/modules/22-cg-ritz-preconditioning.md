@@ -116,7 +116,7 @@ $$
 
 ## Визуализация
 
-![Энергетическая проекция, оценка Чебышёва, числа Ритца и эффект предобусловливания](80_assets/numerical-analysis/gpt-image-v4/nla-ch21-cg-ritz-preconditioning-insight.png)
+![Энергетическая проекция, оценка Чебышёва, числа Ритца и эффект предобусловливания](80_assets/numerical-analysis/gpt-image-v4/nla-ch21-cg-ritz-preconditioning-insight.webp)
 
 [Открыть интерактив спектра и предобусловливания](80_assets/interactive/cg-preconditioning-spectrum.html) · [лабораторная страница](70_labs/interactive/nonlinear-optimization-krylov-widgets)
 

@@ -61,7 +61,7 @@ $$
 
 ## Визуализация
 
-![Крыловский базис из действий оператора и приближённый ньютоновский шаг без явного гессиана](80_assets/numerical-analysis/gpt-image-v4/nla-ch19-krylov-insight.png)
+![Крыловский базис из действий оператора и приближённый ньютоновский шаг без явного гессиана](80_assets/numerical-analysis/gpt-image-v4/nla-ch19-krylov-insight.webp)
 
 ## Самопроверка
 

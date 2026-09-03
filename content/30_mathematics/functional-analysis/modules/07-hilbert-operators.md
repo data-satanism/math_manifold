@@ -104,7 +104,7 @@ RKHS — гильбертово пространство функций, где 
 
 ## Визуализация
 
-![Гильбертовы операторы, проекция и перенос в ИИ — модуль 07](80_assets/functional-analysis/modules/gpt-image-v3/module-07-hilbert-operators-v3.png)
+![Гильбертовы операторы, проекция и перенос в ИИ — модуль 07](80_assets/functional-analysis/modules/gpt-image-v3/module-07-hilbert-operators-v3.webp)
 
 
 ## Самопроверка

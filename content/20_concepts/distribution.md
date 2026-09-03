@@ -8,14 +8,14 @@ publish: true
 areas: [functional-analysis, pde]
 concepts: [test-function, weak-derivative]
 prerequisites: [linear-functional-duality, topology]
-ai_domains: [signal-processing, neural-operators, scientific-ml]
+ai_domains: [signal-processing, neural-operators, scientific-machine-learning]
 source_refs:
   - id: boss-fa-2005
     pages: "123-132"
     role: primary
 level: advanced
 created: 2026-07-10
-updated: 2026-07-27
+updated: 2026-09-03
 ---
 
 # Обобщённая функция

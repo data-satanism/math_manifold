@@ -34,7 +34,7 @@ python 70_labs/rmt/rmt_release_experiments.py `
   --output-dir 80_assets/random-matrix-theory/labs-v1
 ```
 
-![Сравнение согласования спектрального направления с метками в плотной и разреженной блочных моделях](80_assets/random-matrix-theory/labs-v1/lab-sbm-dense-sparse.png)
+![Сравнение согласования спектрального направления с метками в плотной и разреженной блочных моделях](80_assets/random-matrix-theory/labs-v1/lab-sbm-dense-sparse.webp)
 
 ## Важная деталь
 

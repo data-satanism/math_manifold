@@ -92,7 +92,7 @@ $$
 
 ## Визуализация
 
-![Концепция теоремы: ниже порога информативная мода скрыта в массиве, выше возникает выброс и согласованный собственный вектор](80_assets/random-matrix-theory/gpt-image-v3/dense-sbm-spectral-transition-insight-v3.png)
+![Концепция теоремы: ниже порога информативная мода скрыта в массиве, выше возникает выброс и согласованный собственный вектор](80_assets/random-matrix-theory/gpt-image-v3/dense-sbm-spectral-transition-insight-v3.webp)
 
 ## Самопроверка
 

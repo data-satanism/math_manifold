@@ -91,7 +91,7 @@ $$
 
 ## Визуализация
 
-![Концепция теоремы: гауссов скрытый шум проходит через липшицев генератор и сохраняет тонкую концентрационную оболочку](80_assets/random-matrix-theory/gpt-image-v3/concentrated-data-universality-insight-v3.png)
+![Концепция теоремы: гауссов скрытый шум проходит через липшицев генератор и сохраняет тонкую концентрационную оболочку](80_assets/random-matrix-theory/gpt-image-v3/concentrated-data-universality-insight-v3.webp)
 
 ## Самопроверка
 

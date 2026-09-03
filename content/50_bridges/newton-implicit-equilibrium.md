@@ -80,7 +80,7 @@ $$
 
 ## Визуализация
 
-![Гладкое многообразие равновесий связывает прямой Ньютон и неявный градиент, а складка якобиана разрушает обе операции](80_assets/numerical-analysis/gpt-image-v7/bridge-newton-implicit-equilibrium-v7.png)
+![Гладкое многообразие равновесий связывает прямой Ньютон и неявный градиент, а складка якобиана разрушает обе операции](80_assets/numerical-analysis/gpt-image-v7/bridge-newton-implicit-equilibrium-v7.webp)
 
 ### Как читать рисунок
 

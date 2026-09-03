@@ -104,7 +104,7 @@ $$
 
 ## Визуализация
 
-![Концепция теоремы: концентрация расстояний превращается ядром в низкоранговый сигнал поверх случайного массива](80_assets/random-matrix-theory/gpt-image-v3/random-kernel-scaling-insight-v3.png)
+![Концепция теоремы: концентрация расстояний превращается ядром в низкоранговый сигнал поверх случайного массива](80_assets/random-matrix-theory/gpt-image-v3/random-kernel-scaling-insight-v3.webp)
 
 ## Самопроверка
 

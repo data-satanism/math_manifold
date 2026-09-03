@@ -89,7 +89,7 @@ $$
 
 ## Визуализация
 
-![Производная Фреше, локальная линеаризация и перенос в ИИ — модуль 11](80_assets/functional-analysis/modules/gpt-image-v3/module-11-nonlinear-frechet-v3.png)
+![Производная Фреше, локальная линеаризация и перенос в ИИ — модуль 11](80_assets/functional-analysis/modules/gpt-image-v3/module-11-nonlinear-frechet-v3.webp)
 
 
 ## Самопроверка

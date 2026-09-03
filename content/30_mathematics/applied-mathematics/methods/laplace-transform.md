@@ -84,7 +84,7 @@ $$
 
 ## Визуализация
 
-[![Производная с начальными условиями превращается в алгебраическое уравнение, полюса задают моды, а обращение возвращает временной отклик; показан динамический слой и типичные ошибки](80_assets/applied-mathematics/gpt-image-v1/laplace-transform-method-insight.png)](80_assets/applied-mathematics/gpt-image-v1/laplace-transform-method-insight.png)
+[![Производная с начальными условиями превращается в алгебраическое уравнение, полюса задают моды, а обращение возвращает временной отклик; показан динамический слой и типичные ошибки](80_assets/applied-mathematics/gpt-image-v1/laplace-transform-method-insight.webp)](80_assets/applied-mathematics/gpt-image-v1/laplace-transform-method-insight.webp)
 
 ## Самопроверка
 

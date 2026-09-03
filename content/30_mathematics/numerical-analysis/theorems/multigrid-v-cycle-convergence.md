@@ -102,7 +102,7 @@ $$
 
 ## Визуализация
 
-![Сглаживание и грубая коррекция сжимают разные координаты энергетической ошибки с одним фактором на всех сетках](80_assets/numerical-analysis/gpt-image-v6/multigrid-v-cycle-convergence-v6.png)
+![Сглаживание и грубая коррекция сжимают разные координаты энергетической ошибки с одним фактором на всех сетках](80_assets/numerical-analysis/gpt-image-v6/multigrid-v-cycle-convergence-v6.webp)
 
 ### Как читать рисунок
 

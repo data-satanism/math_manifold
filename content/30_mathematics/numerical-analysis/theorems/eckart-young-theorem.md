@@ -111,7 +111,7 @@ $$
 
 ## Визуализация
 
-![Теорема Эккарта—Янга: сохранение сильнейших каналов, неизбежный хвост ошибки и перенос к PCA, сжатию и LoRA](80_assets/numerical-analysis/gpt-image-v1/eckart-young-insight.png)
+![Теорема Эккарта—Янга: сохранение сильнейших каналов, неизбежный хвост ошибки и перенос к PCA, сжатию и LoRA](80_assets/numerical-analysis/gpt-image-v1/eckart-young-insight.webp)
 
 ## Самопроверка
 

@@ -220,7 +220,7 @@ $$
 
 ## Визуализация
 
-![Математический механизм, режим отказа и перенос в ИИ — модуль 06](80_assets/optimization/gpt-image-v1/optimization-module-06-conic-sdp-kernel-v1.png)
+![Математический механизм, режим отказа и перенос в ИИ — модуль 06](80_assets/optimization/gpt-image-v1/optimization-module-06-conic-sdp-kernel-v1.webp)
 
 ## Самопроверка
 

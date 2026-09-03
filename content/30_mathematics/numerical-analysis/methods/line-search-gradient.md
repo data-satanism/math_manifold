@@ -66,7 +66,7 @@ $$
 
 ## Визуализация
 
-![Дробление шага и изменение геометрии оптимизации после масштабирования координат](80_assets/numerical-analysis/gpt-image-v4/nla-ch18-optimization-insight.png)
+![Дробление шага и изменение геометрии оптимизации после масштабирования координат](80_assets/numerical-analysis/gpt-image-v4/nla-ch18-optimization-insight.webp)
 
 ## Источник
 

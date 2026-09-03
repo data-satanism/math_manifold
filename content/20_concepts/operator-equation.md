@@ -8,14 +8,14 @@ publish: true
 areas: [functional-analysis, inverse-problems]
 concepts: [ill-posedness, regularization]
 prerequisites: [bounded-operator]
-ai_domains: [inverse-problems, scientific-ml, deblurring]
+ai_domains: [inverse-problems, scientific-machine-learning, deblurring]
 source_refs:
   - id: boss-fa-2005
     pages: "133-143"
     role: primary
 level: advanced
 created: 2026-07-10
-updated: 2026-07-27
+updated: 2026-09-03
 ---
 
 # Операторное уравнение и регуляризация

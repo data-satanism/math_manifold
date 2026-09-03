@@ -97,7 +97,7 @@ $$
 
 ## Визуализация
 
-[![Прямая задача выбирает структурированный план, двойственная назначает цены активным ограничениям, а матричная игра строит робастную смесь; показан разрыв между релаксацией и дискретным решением](80_assets/linear-algebra/gpt-image-v1/linear-programming-structured-prediction-insight.png)](80_assets/linear-algebra/gpt-image-v1/linear-programming-structured-prediction-insight.png)
+[![Прямая задача выбирает структурированный план, двойственная назначает цены активным ограничениям, а матричная игра строит робастную смесь; показан разрыв между релаксацией и дискретным решением](80_assets/linear-algebra/gpt-image-v1/linear-programming-structured-prediction-insight.webp)](80_assets/linear-algebra/gpt-image-v1/linear-programming-structured-prediction-insight.webp)
 
 ## Самопроверка
 

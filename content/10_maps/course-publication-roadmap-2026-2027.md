@@ -5,7 +5,7 @@ aliases: ["План публикаций Math for AI", "Roadmap курса 2026�
 type: map
 status: canonical
 publish: true
-areas: [knowledge-engineering, complex-analysis, topology, real-analysis, inequalities, geometric-deep-learning, statistical-learning, information-geometry, operator-learning, stochastic-dynamics, topological-data-analysis, tensor-methods]
+areas: [knowledge-engineering, complex-analysis, topology, real-analysis, inequalities, geometric-deep-learning, statistical-learning, information-geometry, operator-learning, stochastic-dynamics, topological-data-analysis, tensor-methods, partial-differential-equations, calculus-of-variations]
 concepts: [source-integration, duplicate-control, learning-path, publication-gate, cross-area-transfer]
 prerequisites: [mathematics-integration-map, content-integration-policy]
 ai_domains: [spectral-methods, geometric-deep-learning, scientific-machine-learning, statistical-learning, representation-learning]
@@ -43,9 +43,18 @@ source_refs:
   - id: kolda-bader-tensors-2009
     pages: "PDF 1–46"
     role: primary
+  - id: hunter-pde-notes-2014
+    pages: "19–234"
+    role: primary
+  - id: clason-fem-2021
+    pages: "3–112"
+    role: primary
+  - id: rindler-calculus-variations-2015
+    pages: "11–75"
+    role: primary
 level: advanced
 created: 2026-07-28
-updated: 2026-08-12
+updated: 2026-09-03
 ---
 
 # План обновления и публикации курса «Математика для ИИ»
@@ -233,6 +242,24 @@ updated: 2026-08-12
 ## Релиз 11. Тензорные и малоранговые методы
 
 Восемь модулей объединяют многолинейный язык, CP, Tucker/HOSVD, тензорные сети, идентифицируемость, рандомизированное SVD, восстановление и CUR, а также применение к параметрически эффективной адаптации. Существующие материалы по SVD, LoRA и численной линейной алгебре расширяются ссылками; повторные определения не создаются.
+
+## Релиз 12. Гармонический анализ и вейвлеты
+
+Двенадцать модулей ведут от характеров, обращения Фурье и свёртки к принципу неопределённости, дискретизации, разложениям Литтлвуда—Пэли, непрерывным вейвлетам, многоразрешающему анализу, банкам фильтров, вейвлетам Добеши и рассеянию. Девять самостоятельных теоремных узлов отделяют точные условия от вычислительной интуиции. Курс переиспользует существующую теорему Планшереля и вычислительные модули Тыртышникова, не создавая повторных определений.
+
+Редакционный пакет включает [[30_mathematics/harmonic-analysis-wavelets/harmonic-analysis-source-map|постраничную карту источников]], [[70_labs/harmonic-analysis-wavelets/fourier-wavelet-labs|три воспроизводимых эксперимента]], [[50_bridges/harmonic-localization-ai|явный перенос в архитектуры ИИ]] и 22 собственные иллюстрации. Материалы утверждены владельцем 3 сентября 2026 года и включены в публичный выпуск.
+
+## Релиз 13. Группы Ли, теория представлений и дифференциальная геометрия
+
+Двенадцать модулей соединяют гладкие многообразия, касательные пространства, дифференциальные формы и связности с группами Ли, алгебрами Ли, экспоненциальным отображением, представлениями, мерой Хаара и гармоническим анализом на компактных группах. Одиннадцать новых теоремных узлов дополняют три переиспользованных результата; общий мост связывает математические объекты с типами признаков, переплетающими слоями и проверкой эквивариантности.
+
+Редакционный пакет включает [[30_mathematics/lie-groups-differential-geometry/lie-geometry-source-map|постраничную карту источников]], [[70_labs/lie-groups-differential-geometry/lie-geometry-labs|три воспроизводимых эксперимента]], [[50_bridges/lie-symmetry-geometry-ai|явный перенос к эквивариантным архитектурам]] и 24 собственные иллюстрации. Материалы утверждены владельцем 3 сентября 2026 года и включены в публичный выпуск.
+
+## Релиз 14. Классическая теория уравнений в частных производных и вариационные методы
+
+Двенадцать модулей отделяют классические, слабые и вариационные решения; охватывают эллиптические, параболические и гиперболические уравнения, энергетические оценки, пространства Соболева, теорему Лакса—Мильграма, прямой метод вариационного исчисления, метод Галёркина и конечные элементы. Одиннадцать новых теоремных узлов дополнены переиспользованными результатами о вложениях Соболева, стационарности, второй вариации и симметриях.
+
+Редакционный пакет включает [[30_mathematics/classical-pde-variational/pde-variational-source-map|постраничную карту источников]], [[70_labs/classical-pde-variational/pde-variational-labs|воспроизводимые эксперименты]], три расширенных междисциплинарных моста и 24 собственные иллюстрации. Материалы утверждены владельцем 3 сентября 2026 года и включены в публичный выпуск.
 
 ## Общие правила визуализации
 

@@ -161,7 +161,7 @@ $$
 
 ## Визуализация
 
-[![Аналитичность связывает локальное сохранение углов, восстановление по границе и вклад особых точек; показаны спектральный перенос и потеря устойчивости около полюса](80_assets/applied-mathematics/gpt-image-v1/apm-ch02-complex-analysis-insight.png)](80_assets/applied-mathematics/gpt-image-v1/apm-ch02-complex-analysis-insight.png)
+[![Аналитичность связывает локальное сохранение углов, восстановление по границе и вклад особых точек; показаны спектральный перенос и потеря устойчивости около полюса](80_assets/applied-mathematics/gpt-image-v1/apm-ch02-complex-analysis-insight.webp)](80_assets/applied-mathematics/gpt-image-v1/apm-ch02-complex-analysis-insight.webp)
 
 ## Самопроверка
 

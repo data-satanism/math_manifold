@@ -38,7 +38,7 @@ updated: 2026-07-27
 
 ## Визуализация
 
-![Ближние взаимодействия хранятся точно, а дальние — узкими множителями](80_assets/numerical-analysis/gpt-image-v5/nla-ch25-hierarchical-low-rank-insight.png)
+![Ближние взаимодействия хранятся точно, а дальние — узкими множителями](80_assets/numerical-analysis/gpt-image-v5/nla-ch25-hierarchical-low-rank-insight.webp)
 
 ## Источник
 

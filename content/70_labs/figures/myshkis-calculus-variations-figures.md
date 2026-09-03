@@ -42,7 +42,7 @@ updated: 2026-07-27
 
 ### Обзор модуля
 
-Файл: [calculus-of-variations-module-insight-v1.png](80_assets/calculus-of-variations/gpt-image-v1/calculus-of-variations-module-insight-v1.png)
+Файл: [calculus-of-variations-module-insight-v1.png](80_assets/calculus-of-variations/gpt-image-v1/calculus-of-variations-module-insight-v1.webp)
 
 Панели: пространство функций и функционал; первая и вторая вариации; переход к уравнению и прямому методу; перенос к энергетической модели с независимыми проверками.
 
@@ -50,7 +50,7 @@ updated: 2026-07-27
 
 ### Уравнение Эйлера—Лагранжа
 
-Файл: [euler-lagrange-local-balance-v1.png](80_assets/calculus-of-variations/gpt-image-v1/euler-lagrange-local-balance-v1.png)
+Файл: [euler-lagrange-local-balance-v1.png](80_assets/calculus-of-variations/gpt-image-v1/euler-lagrange-local-balance-v1.webp)
 
 Панели: локализованная вариация; интегрирование по частям; фундаментальная лемма как локальный баланс; перенос к вычислению дифференциальной невязки и два режима отказа.
 
@@ -58,7 +58,7 @@ updated: 2026-07-27
 
 ### Вторая вариация и сопряжённые точки
 
-Файл: [second-variation-jacobi-insight-v1.png](80_assets/calculus-of-variations/gpt-image-v1/second-variation-jacobi-insight-v1.png)
+Файл: [second-variation-jacobi-insight-v1.png](80_assets/calculus-of-variations/gpt-image-v1/second-variation-jacobi-insight-v1.webp)
 
 Панели: квадратичная форма; веер экстремалей и первая сопряжённая точка; безопасный и небезопасный интервалы; аналогия с потерей устойчивости и границы гессианной диагностики.
 
@@ -66,7 +66,7 @@ updated: 2026-07-27
 
 ### Теорема Нётер
 
-Файл: [noether-symmetry-conservation-v1.png](80_assets/calculus-of-variations/gpt-image-v1/noether-symmetry-conservation-v1.png)
+Файл: [noether-symmetry-conservation-v1.png](80_assets/calculus-of-variations/gpt-image-v1/noether-symmetry-conservation-v1.webp)
 
 Панели: однопараметрическое преобразование; вариационное тождество; энергия, импульс и момент импульса; архитектурная симметрия, контроль дрейфа и исследовательская гипотеза.
 
@@ -74,7 +74,7 @@ updated: 2026-07-27
 
 ### Мост к моделям ИИ
 
-Файл: [variational-principles-ai-bridge-v1.png](80_assets/calculus-of-variations/gpt-image-v1/variational-principles-ai-bridge-v1.png)
+Файл: [variational-principles-ai-bridge-v1.png](80_assets/calculus-of-variations/gpt-image-v1/variational-principles-ai-bridge-v1.webp)
 
 Панели: полный математический контракт; энергетическое предсказание, неявный слой и нейронный оператор; мембрана как понятный образ; валидационный протокол и режимы отказа. Первая версия была отклонена из-за смешанного заголовка; текущая версия содержит русскую подпись «Три вычислительные схемы».
 

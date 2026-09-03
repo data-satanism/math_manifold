@@ -6,16 +6,16 @@ type: source
 status: canonical
 publish: true
 areas: [real-analysis, functional-analysis, harmonic-analysis, probability, combinatorics]
-concepts: [measure, lp-space, duality, interpolation, fourier-transform, sobolev-space, hausdorff-dimension]
+concepts: [measure, lp-spaces, duality, interpolation, fourier-transform, sobolev-space, hausdorff-dimension]
 prerequisites: [mathematical-analysis, measure, topology]
-ai_domains: [statistical-learning, signal-processing, scientific-machine-learning, random-matrices, graph-learning]
+ai_domains: [statistical-learning, signal-processing, scientific-machine-learning, random-matrices, graph-ml]
 source_refs:
   - id: tao-epsilon-of-room-2010
     pages: "1-668"
     role: primary
 level: research
 created: 2026-07-28
-updated: 2026-08-12
+updated: 2026-09-03
 ---
 
 # Теренс Тао — Пространство для эпсилон

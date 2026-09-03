@@ -139,7 +139,7 @@ print(radii.mean(), radii.std(), cosine.mean(), cosine.std())
 
 ## Визуализация
 
-![Тонкий слой и эмбеддинги: сферическая оболочка, кольцевая аналогия, косинусная геометрия и анизотропный режим отказа](80_assets/probability/gpt-image-v1/thin-shell-embedding-geometry-insight-v1.png)
+![Тонкий слой и эмбеддинги: сферическая оболочка, кольцевая аналогия, косинусная геометрия и анизотропный режим отказа](80_assets/probability/gpt-image-v1/thin-shell-embedding-geometry-insight-v1.webp)
 
 ## Самопроверка
 

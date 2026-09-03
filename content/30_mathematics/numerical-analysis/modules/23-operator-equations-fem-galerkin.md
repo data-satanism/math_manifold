@@ -113,7 +113,7 @@ $$
 
 ## Визуализация
 
-![Слабая форма, галёркинская проекция и обучаемое пробное пространство с внешней проверкой невязки](80_assets/numerical-analysis/gpt-image-v5/nla-ch22-operator-galerkin-insight.png)
+![Слабая форма, галёркинская проекция и обучаемое пробное пространство с внешней проверкой невязки](80_assets/numerical-analysis/gpt-image-v5/nla-ch22-operator-galerkin-insight.webp)
 
 [Открыть интерактив слабой формы и проекции](80_assets/interactive/galerkin-weak-form.html) · [лабораторная страница](70_labs/interactive/operator-multigrid-structured-widgets)
 

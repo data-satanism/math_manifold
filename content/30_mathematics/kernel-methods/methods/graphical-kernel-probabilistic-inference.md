@@ -7,7 +7,7 @@ status: canonical
 publish: true
 areas: [probabilistic-graphical-models, kernel-methods, algorithms]
 concepts: [junction-tree, sum-product, max-product, treewidth, marginal-probability]
-prerequisites: [hammersley-clifford-factorization, graph-compatible-kernel-decomposition]
+prerequisites: [thm-hammersley-clifford-factorization, thm-graph-compatible-kernel-decomposition]
 ai_domains: [sequence-labeling, structured-prediction, probabilistic-modeling]
 source_refs:
   - id: hofmann-scholkopf-smola-kernel-methods-2006
@@ -15,7 +15,7 @@ source_refs:
     role: primary
 level: advanced
 created: 2026-07-21
-updated: 2026-07-27
+updated: 2026-09-03
 ---
 
 # Вероятностный вывод в графической ядерной модели
@@ -24,7 +24,7 @@ updated: 2026-07-27
 
 Локальная факторизация ещё не выдаёт вероятность ответа. Для обучения нужны нормирующая сумма и модельные моменты, а для предсказания — наиболее вероятная структура. Метод передачи сообщений устраняет переменные локально и не перечисляет все глобальные конфигурации, если древесная ширина мала.
 
-![Передача сообщений по дереву сочленений сводит глобальную сумму к локальным таблицам; образ контрольных пунктов показывает роль разделителей, а разметка последовательности — алгоритм вперёд—назад](80_assets/kernel-methods/gpt-image-v4/graphical-kernel-probabilistic-inference-v4.png)
+![Передача сообщений по дереву сочленений сводит глобальную сумму к локальным таблицам; образ контрольных пунктов показывает роль разделителей, а разметка последовательности — алгоритм вперёд—назад](80_assets/kernel-methods/gpt-image-v4/graphical-kernel-probabilistic-inference-v4.webp)
 
 ## Постановка
 

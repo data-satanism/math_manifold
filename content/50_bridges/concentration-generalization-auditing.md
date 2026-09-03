@@ -165,7 +165,7 @@ $$
 
 ## Визуализация
 
-![Концентрация и аудит риска: математическая граница, контрольная партия, проверка модели и утечка при адаптивном выборе](80_assets/probability/gpt-image-v1/concentration-generalization-auditing-insight-v1.png)
+![Концентрация и аудит риска: математическая граница, контрольная партия, проверка модели и утечка при адаптивном выборе](80_assets/probability/gpt-image-v1/concentration-generalization-auditing-insight-v1.webp)
 
 ## Самопроверка
 

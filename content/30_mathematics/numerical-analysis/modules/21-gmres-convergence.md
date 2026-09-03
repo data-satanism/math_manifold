@@ -124,7 +124,7 @@ $$
 
 ## Визуализация
 
-![Минимальная невязка, полиномиальный фильтр, ненормальность и решение ковариационной системы](80_assets/numerical-analysis/gpt-image-v4/nla-ch20-gmres-insight.png)
+![Минимальная невязка, полиномиальный фильтр, ненормальность и решение ковариационной системы](80_assets/numerical-analysis/gpt-image-v4/nla-ch20-gmres-insight.webp)
 
 [Открыть интерактив проекции невязки](80_assets/interactive/gmres-residual-geometry.html) · [лабораторная страница](70_labs/interactive/nonlinear-optimization-krylov-widgets)
 

@@ -43,7 +43,7 @@ $$
 
 ## Визуализация
 
-![Дополняющие масштабы образуют устойчивую сумму локальных коррекций](80_assets/numerical-analysis/gpt-image-v5/nla-ch23-multigrid-insight.png)
+![Дополняющие масштабы образуют устойчивую сумму локальных коррекций](80_assets/numerical-analysis/gpt-image-v5/nla-ch23-multigrid-insight.webp)
 
 ## Источник
 

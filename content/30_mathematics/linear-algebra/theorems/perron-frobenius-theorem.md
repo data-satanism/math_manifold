@@ -8,14 +8,14 @@ publish: true
 areas: [linear-algebra, positive-operators, spectral-theory]
 concepts: [positive-matrix, spectral-radius, perron-vector, positive-cone, spectral-gap]
 prerequisites: [linear-algebra-09-positive-stochastic-matrices, fixed-point]
-ai_domains: [markov-models, graph-learning, ranking, dynamical-models]
+ai_domains: [markov-models, graph-ml, ranking, dynamical-models]
 source_refs:
   - id: boss-linear-algebra-2005
     pages: "163-178"
     role: primary
 level: advanced
 created: 2026-07-27
-updated: 2026-07-27
+updated: 2026-09-03
 ---
 
 # Теорема Перрона—Фробениуса для строго положительной матрицы
@@ -181,7 +181,7 @@ $$
 
 ## Визуализация
 
-![Положительный симплекс, неподвижный перроновский луч, смешивание рецептов и стационарное распределение на графе](80_assets/linear-algebra/gpt-image-v3/perron-frobenius-positive-dynamics-insight-v3.png)
+![Положительный симплекс, неподвижный перроновский луч, смешивание рецептов и стационарное распределение на графе](80_assets/linear-algebra/gpt-image-v3/perron-frobenius-positive-dynamics-insight-v3.webp)
 
 ## Самопроверка
 

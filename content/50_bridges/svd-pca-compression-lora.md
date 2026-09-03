@@ -90,7 +90,7 @@ SVD — пульт с независимыми каналами. PCA остав�
 
 ## Визуализация
 
-![SVD как пульт независимых каналов: PCA сохраняет вариацию, сжатие отбрасывает хвост, LoRA ограничивает новые каналы обучения](80_assets/numerical-analysis/gpt-image-v1/bridge-svd-pca-lora-insight.png)
+![SVD как пульт независимых каналов: PCA сохраняет вариацию, сжатие отбрасывает хвост, LoRA ограничивает новые каналы обучения](80_assets/numerical-analysis/gpt-image-v1/bridge-svd-pca-lora-insight.webp)
 
 ## Самопроверка
 

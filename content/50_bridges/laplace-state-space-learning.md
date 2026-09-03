@@ -75,7 +75,7 @@ $$
 
 ## Визуализация
 
-[![Резольвента связывает пространство состояний, передаточную функцию и длинную свёртку; показана аналогия резонаторов, проверка двух реализаций и ненормальное переходное усиление](80_assets/applied-mathematics/gpt-image-v1/laplace-state-space-learning-insight.png)](80_assets/applied-mathematics/gpt-image-v1/laplace-state-space-learning-insight.png)
+[![Резольвента связывает пространство состояний, передаточную функцию и длинную свёртку; показана аналогия резонаторов, проверка двух реализаций и ненормальное переходное усиление](80_assets/applied-mathematics/gpt-image-v1/laplace-state-space-learning-insight.webp)](80_assets/applied-mathematics/gpt-image-v1/laplace-state-space-learning-insight.webp)
 
 ## Самопроверка
 

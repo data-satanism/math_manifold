@@ -309,7 +309,8 @@ function findPluginByPackageName(packageName: string): string | null {
 function trySymlink(target: string, linkPath: string): void {
   try {
     const linkType = process.platform === "win32" ? "junction" : "dir"
-    const linkTarget = linkType === "junction" ? path.resolve(path.dirname(linkPath), target) : target
+    const linkTarget =
+      linkType === "junction" ? path.resolve(path.dirname(linkPath), target) : target
     fs.symlinkSync(linkTarget, linkPath, linkType)
   } catch (err: unknown) {
     if ((err as NodeJS.ErrnoException).code === "EEXIST") return

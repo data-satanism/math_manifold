@@ -192,7 +192,7 @@ for d in dimensions:
 
 ## Визуализация
 
-![Тонкий слой высокоразмерных векторов, аналогия с оболочкой, перенос к эмбеддингам и отказ при общем масштабе](80_assets/probability/gpt-image-v1/probability-module-03-random-vectors-insight-v1.png)
+![Тонкий слой высокоразмерных векторов, аналогия с оболочкой, перенос к эмбеддингам и отказ при общем масштабе](80_assets/probability/gpt-image-v1/probability-module-03-random-vectors-insight-v1.webp)
 
 
 ## Самопроверка

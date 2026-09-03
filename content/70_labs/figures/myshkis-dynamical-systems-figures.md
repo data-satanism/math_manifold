@@ -43,7 +43,7 @@ updated: 2026-07-27
 
 ### Обзор модуля
 
-Файл: [dynamical-systems-module-insight-v1.png](80_assets/dynamical-systems/gpt-image-v1/dynamical-systems-module-insight-v1.png)
+Файл: [dynamical-systems-module-insight-v1.png](80_assets/dynamical-systems/gpt-image-v1/dynamical-systems-module-insight-v1.webp)
 
 Панели: линейный перенос и монодромия; фазовый поток и предельные режимы; функция Ляпунова; цикл и быстро-медленная динамика; перенос к моделям скрытого состояния.
 
@@ -51,7 +51,7 @@ updated: 2026-07-27
 
 ### Теорема Пуанкаре—Бендиксона
 
-Файл: [poincare-bendixson-trapping-v1.png](80_assets/dynamical-systems/gpt-image-v1/poincare-bendixson-trapping-v1.png)
+Файл: [poincare-bendixson-trapping-v1.png](80_assets/dynamical-systems/gpt-image-v1/poincare-bendixson-trapping-v1.webp)
 
 Панели: плоская ловящая область; непересечение траекторий; поперечник и возвраты; кольцевой канал; трёхмерный режим отказа.
 
@@ -59,7 +59,7 @@ updated: 2026-07-27
 
 ### Прямой метод Ляпунова
 
-Файл: [lyapunov-energy-landscape-v1.png](80_assets/dynamical-systems/gpt-image-v1/lyapunov-energy-landscape-v1.png)
+Файл: [lyapunov-energy-landscape-v1.png](80_assets/dynamical-systems/gpt-image-v1/lyapunov-energy-landscape-v1.webp)
 
 Панели: вложенные подуровни; невозрастающая энергия; шарик в чаше; квадратичный сертификат; обучаемая энергия и поиск нарушений.
 
@@ -67,7 +67,7 @@ updated: 2026-07-27
 
 ### Мультипликаторы Флоке
 
-Файл: [floquet-cycle-multipliers-v1.png](80_assets/dynamical-systems/gpt-image-v1/floquet-cycle-multipliers-v1.png)
+Файл: [floquet-cycle-multipliers-v1.png](80_assets/dynamical-systems/gpt-image-v1/floquet-cycle-multipliers-v1.webp)
 
 Панели: цикл и нейтральная фаза; поперечное сжатие; карта Пуанкаре; спектр монодромии; сохранение ритма в рекуррентной модели.
 
@@ -75,7 +75,7 @@ updated: 2026-07-27
 
 ### Метод усреднения
 
-Файл: [averaging-slow-envelope-v1.png](80_assets/dynamical-systems/gpt-image-v1/averaging-slow-envelope-v1.png)
+Файл: [averaging-slow-envelope-v1.png](80_assets/dynamical-systems/gpt-image-v1/averaging-slow-envelope-v1.webp)
 
 Панели: быстрая несущая и медленная огибающая; малые изменения за период; усреднённая траектория; качели с малыми толчками; резонансный режим отказа.
 
@@ -83,7 +83,7 @@ updated: 2026-07-27
 
 ### Мост к ИИ
 
-Файл: [dynamical-systems-ai-bridge-v1.png](80_assets/dynamical-systems/gpt-image-v1/dynamical-systems-ai-bridge-v1.png)
+Файл: [dynamical-systems-ai-bridge-v1.png](80_assets/dynamical-systems/gpt-image-v1/dynamical-systems-ai-bridge-v1.webp)
 
 Панели: рекуррентная карта; непрерывная модель и решатель; равновесие и цикл; многомасштабное состояние; независимые проверки горизонта, шага, энергии и поперечного спектра.
 

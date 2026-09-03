@@ -219,7 +219,7 @@ $$
 
 ## Визуализация
 
-![Математический механизм, режим отказа и перенос в ИИ — модуль 07](80_assets/optimization/gpt-image-v1/optimization-module-07-derivative-free-bayesian-automl-v1.png)
+![Математический механизм, режим отказа и перенос в ИИ — модуль 07](80_assets/optimization/gpt-image-v1/optimization-module-07-derivative-free-bayesian-automl-v1.webp)
 
 ## Самопроверка
 

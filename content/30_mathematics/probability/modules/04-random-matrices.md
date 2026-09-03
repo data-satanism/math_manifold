@@ -200,7 +200,7 @@ print("ориентиры:", np.sqrt(m) - np.sqrt(n), np.sqrt(m) + np.sqrt(n))
 
 ## 10. Визуализация
 
-![Случайная матрица: от конечной сети направлений к операторной норме, аналогии с испытательным стендом, спектральному контролю в ИИ и режимам отказа](80_assets/probability/gpt-image-v2/probability-module-04-random-matrices-insight-v2.png)
+![Случайная матрица: от конечной сети направлений к операторной норме, аналогии с испытательным стендом, спектральному контролю в ИИ и режимам отказа](80_assets/probability/gpt-image-v2/probability-module-04-random-matrices-insight-v2.webp)
 
 Статический PNG является воспроизводимым запасным вариантом; составной промпт хранится в [[70_labs/figures/probability-middle-block-gpt-image-v2|лабораторной заметке]].
 

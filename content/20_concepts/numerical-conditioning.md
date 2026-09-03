@@ -107,7 +107,7 @@ $$
 
 ## Визуализация
 
-![Обусловленность как эллипс чувствительности: направление малой сингулярной величины, усиление обратной задачи и узкая долина оптимизации](80_assets/numerical-analysis/gpt-image-v1/bridge-conditioning-optimization-insight.png)
+![Обусловленность как эллипс чувствительности: направление малой сингулярной величины, усиление обратной задачи и узкая долина оптимизации](80_assets/numerical-analysis/gpt-image-v1/bridge-conditioning-optimization-insight.webp)
 
 ## Самопроверка
 

@@ -6,13 +6,13 @@ type: map
 status: canonical
 publish: true
 areas: [artificial-intelligence, scientific-machine-learning, industrial-ai, knowledge-navigation]
-concepts: [operator-equations, invariants, inverse-problems, numerical-stability]
+concepts: [operator-equation, invariants, inverse-problem, numerical-stability]
 prerequisites: [mathematics-integration-map]
 ai_domains: [scientific-machine-learning, industrial-ai, neural-operators, control]
 source_refs: []
 level: advanced
 created: 2026-07-27
-updated: 2026-08-12
+updated: 2026-09-03
 description: "Маршрут от физических законов и операторных уравнений к проверяемым научным системам машинного обучения."
 ---
 

@@ -107,7 +107,7 @@ $$
 
 ## Визуализация
 
-![Структуры, отображения и перенос в ИИ — модуль 01](80_assets/functional-analysis/modules/gpt-image-v3/module-01-structures-v3.png)
+![Структуры, отображения и перенос в ИИ — модуль 01](80_assets/functional-analysis/modules/gpt-image-v3/module-01-structures-v3.webp)
 
 
 ## Самопроверка

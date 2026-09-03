@@ -19,9 +19,15 @@ source_refs:
   - id: boss-fa-2005
     pages: "157-166"
     role: functional-analytic-foundation
+  - id: rindler-calculus-variations-2015
+    pages: "11-75"
+    role: variational-foundation
+  - id: hunter-pde-notes-2014
+    pages: "91-126"
+    role: pde-foundation
 level: research
 created: 2026-07-17
-updated: 2026-07-27
+updated: 2026-09-03
 ---
 
 # Вариационные принципы → энергетические модели, неявные слои и нейронные операторы
@@ -113,7 +119,7 @@ $$
 
 ## Визуализация
 
-![Вариационный контракт, три вычислительные схемы, образ мембраны и независимые проверки энергетической модели](80_assets/calculus-of-variations/gpt-image-v1/variational-principles-ai-bridge-v1.png)
+![Вариационный контракт, три вычислительные схемы, образ мембраны и независимые проверки энергетической модели](80_assets/calculus-of-variations/gpt-image-v1/variational-principles-ai-bridge-v1.webp)
 
 ## Самопроверка
 
@@ -126,6 +132,9 @@ $$
 
 - [[60_sources/myshkis-applied-mathematics-engineers|Мышкис]], глава VI, с. 281–418.
 - [[60_sources/tyrtyshnikov-numerical-analysis|Тыртышников]], глава 22, с. 227–239.
+- [[60_sources/rindler-calculus-variations-2015|Риндлер]], с. 11–75: прямой метод, первая вариация и слабая полунепрерывность.
+- [[60_sources/hunter-pde-notes-2014|Хантер]], с. 91–126: слабые эллиптические задачи и энергетические оценки.
 - [[30_mathematics/applied-mathematics/modules/06-calculus-of-variations|Модуль вариационного исчисления]].
+- [[30_mathematics/classical-pde-variational/classical-pde-variational-map|Классические уравнения в частных производных и вариационные методы]].
 - [[50_bridges/galerkin-neural-operators|Метод Галёркина и обучаемые пространства]].
 - [[50_bridges/frechet-fixed-points|Производная Фреше, неявные слои и равновесные модели]].

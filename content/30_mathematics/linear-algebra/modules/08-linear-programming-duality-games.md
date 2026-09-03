@@ -154,7 +154,7 @@ $$
 
 ## Визуализация
 
-[![Линейная программа как многогранник, опорный переход, двойственная цена и смешанная стратегия; показаны перенос к структурному предсказанию и сбой при невыпуклости](80_assets/linear-algebra/gpt-image-v1/linear-programming-duality-games-insight.png)](80_assets/linear-algebra/gpt-image-v1/linear-programming-duality-games-insight.png)
+[![Линейная программа как многогранник, опорный переход, двойственная цена и смешанная стратегия; показаны перенос к структурному предсказанию и сбой при невыпуклости](80_assets/linear-algebra/gpt-image-v1/linear-programming-duality-games-insight.webp)](80_assets/linear-algebra/gpt-image-v1/linear-programming-duality-games-insight.webp)
 
 ## Самопроверка
 

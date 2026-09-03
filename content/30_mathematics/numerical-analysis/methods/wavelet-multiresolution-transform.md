@@ -51,7 +51,7 @@ $$
 
 ## Визуализация
 
-![Грубый тренд и локальные детали образуют многоразрешающее дерево, а агрессивный порог удаляет редкое событие](80_assets/numerical-analysis/gpt-image-v5/nla-ch25-hierarchical-low-rank-insight.png)
+![Грубый тренд и локальные детали образуют многоразрешающее дерево, а агрессивный порог удаляет редкое событие](80_assets/numerical-analysis/gpt-image-v5/nla-ch25-hierarchical-low-rank-insight.webp)
 
 ## Источник
 

@@ -161,7 +161,7 @@ $$
 
 ## Визуализация
 
-![Математический механизм, режим отказа и перенос в ИИ — модуль 13](80_assets/optimization/gpt-image-v1/optimization-module-13-optimization-experiment-protocol-v1.png)
+![Математический механизм, режим отказа и перенос в ИИ — модуль 13](80_assets/optimization/gpt-image-v1/optimization-module-13-optimization-experiment-protocol-v1.webp)
 
 ## Самопроверка
 

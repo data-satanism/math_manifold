@@ -6,7 +6,7 @@ type: source
 status: canonical
 publish: true
 areas: [numerical-analysis, numerical-linear-algebra, approximation-theory]
-concepts: [matrix-norms, conditioning, singular-value-decomposition, spectral-perturbation, floating-point, matrix-factorizations, subspace-iteration, qr-algorithm, interpolation, chebyshev-polynomials, splines, orthogonal-polynomials, quadrature, newton-method, optimization, krylov-subspace, gmres, conjugate-gradient, preconditioning, galerkin-method, multigrid, toeplitz-matrix, hierarchical-matrix, wavelet]
+concepts: [matrix-norm, conditioning, singular-value-decomposition, spectral-perturbation, floating-point, matrix-factorizations, subspace-iteration, qr-algorithm, interpolation, chebyshev-polynomials, splines, orthogonal-polynomials, quadrature, newton-method, optimization, krylov-subspace, gmres, conjugate-gradient, preconditioning, galerkin-method, multigrid, toeplitz-matrix, hierarchical-matrix, wavelet]
 prerequisites: [linear-algebra, mathematical-analysis]
 ai_domains: [optimization, model-compression, mixed-precision, representation-learning, spectral-diagnostics, surrogate-modeling, calibration, uncertainty-quantification, implicit-layers, gaussian-processes, second-order-methods, neural-operators, scientific-machine-learning, attention]
 source_refs:
@@ -15,7 +15,7 @@ source_refs:
     role: primary
 level: advanced
 created: 2026-07-13
-updated: 2026-07-27
+updated: 2026-09-03
 ---
 
 # Тыртышников — Методы численного анализа

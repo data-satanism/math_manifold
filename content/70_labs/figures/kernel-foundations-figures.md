@@ -32,7 +32,7 @@ updated: 2026-07-27
 
 ### Обзор модуля
 
-Файл: [kernel-foundations-module-insight-v1.png](80_assets/kernel-methods/gpt-image-v1/kernel-foundations-module-insight-v1.png)
+Файл: [kernel-foundations-module-insight-v1.png](80_assets/kernel-methods/gpt-image-v1/kernel-foundations-module-insight-v1.webp)
 
 Смысловые слои: функция сходства; матрица Грама; пространство функций; конечное разложение; проверка переноса.
 
@@ -40,7 +40,7 @@ updated: 2026-07-27
 
 ### Положительно определённое ядро
 
-Файл: [positive-definite-kernel-insight-v1.png](80_assets/kernel-methods/gpt-image-v1/positive-definite-kernel-insight-v1.png)
+Файл: [positive-definite-kernel-insight-v1.png](80_assets/kernel-methods/gpt-image-v1/positive-definite-kernel-insight-v1.webp)
 
 Смысловые слои: квадратичная форма; геометрия признаков; согласование измерений; неопределённое сходство как режим отказа.
 
@@ -48,7 +48,7 @@ updated: 2026-07-27
 
 ### Теорема Мура—Ароншайна
 
-Файл: [moore-aronszajn-correspondence-v1.png](80_assets/kernel-methods/gpt-image-v1/moore-aronszajn-correspondence-v1.png)
+Файл: [moore-aronszajn-correspondence-v1.png](80_assets/kernel-methods/gpt-image-v1/moore-aronszajn-correspondence-v1.webp)
 
 Смысловые слои: ядерные сечения; скалярное произведение; пополнение; воспроизводящее свойство; конечная выборка как неполный снимок.
 
@@ -56,7 +56,7 @@ updated: 2026-07-27
 
 ### Теорема о представителе
 
-Файл: [representer-theorem-insight-v1.png](80_assets/kernel-methods/gpt-image-v1/representer-theorem-insight-v1.png)
+Файл: [representer-theorem-insight-v1.png](80_assets/kernel-methods/gpt-image-v1/representer-theorem-insight-v1.webp)
 
 Смысловые слои: ортогональная декомпозиция; невидимая компонента; снижение нормы; якоря обучающей выборки; границы совместного обучения признаков.
 
@@ -64,7 +64,7 @@ updated: 2026-07-27
 
 ### Правила конструирования
 
-Файл: [kernel-closure-rules-v1.png](80_assets/kernel-methods/gpt-image-v1/kernel-closure-rules-v1.png)
+Файл: [kernel-closure-rules-v1.png](80_assets/kernel-methods/gpt-image-v1/kernel-closure-rules-v1.webp)
 
 Смысловые слои: сумма каналов; тензорное взаимодействие; композиция с признаками; отрицательный вес как режим отказа.
 

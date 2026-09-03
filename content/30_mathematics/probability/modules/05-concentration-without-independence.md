@@ -8,14 +8,14 @@ publish: true
 areas: [probability, high-dimensional-geometry, metric-measure-spaces]
 concepts: [lipschitz-function, isoperimetry, measure-concentration, johnson-lindenstrauss, matrix-concentration]
 prerequisites: [probability-04-random-matrices, metric, subgaussian-subexponential]
-ai_domains: [dimensionality-reduction, representation-learning, model-stability, graph-machine-learning]
+ai_domains: [dimensionality-reduction, representation-learning, model-stability, graph-ml]
 source_refs:
   - id: vershynin-hdp-2026
     pages: "141-171"
     role: primary
 level: advanced
 created: 2026-07-27
-updated: 2026-08-12
+updated: 2026-09-03
 ---
 
 # Модуль 05. Концентрация без независимости
@@ -190,7 +190,7 @@ print(np.quantile(after / before, [0.01, 0.5, 0.99]))
 
 ## 11. Визуализация
 
-![Концентрация без независимости: раздувание множества на сфере, аналогия с глобальным ограничением, случайная проекция и режим неверной метрики](80_assets/probability/gpt-image-v2/probability-module-05-concentration-without-independence-v2.png)
+![Концентрация без независимости: раздувание множества на сфере, аналогия с глобальным ограничением, случайная проекция и режим неверной метрики](80_assets/probability/gpt-image-v2/probability-module-05-concentration-without-independence-v2.webp)
 
 Статический PNG является запасным вариантом; промпт находится в [[70_labs/figures/probability-middle-block-gpt-image-v2|лабораторной заметке]].
 

@@ -6,13 +6,13 @@ type: map
 status: canonical
 publish: true
 areas: [artificial-intelligence, graph-machine-learning, knowledge-navigation]
-concepts: [graph-spectrum, positive-operators, kernels, community-detection]
+concepts: [graph-spectrum, positive-operators, kernel, community-detection]
 prerequisites: [mathematics-integration-map]
 ai_domains: [graph-ml, structured-prediction, representation-learning]
 source_refs: []
 level: advanced
 created: 2026-07-27
-updated: 2026-08-12
+updated: 2026-09-03
 description: "Маршрут от матриц графа и положительных операторов к GNN и обнаружению сообществ."
 ---
 

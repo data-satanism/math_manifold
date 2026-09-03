@@ -66,7 +66,7 @@ $$
 
 ## Визуализация
 
-![Ньютоновское направление, дробление шага и геометрия масштабирования параметров](80_assets/numerical-analysis/gpt-image-v4/nla-ch18-optimization-insight.png)
+![Ньютоновское направление, дробление шага и геометрия масштабирования параметров](80_assets/numerical-analysis/gpt-image-v4/nla-ch18-optimization-insight.webp)
 
 ## Источник
 

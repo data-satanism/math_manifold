@@ -132,7 +132,7 @@ $$
 
 ## Визуализация
 
-![Энергетическая проекция, оценка Чебышёва, числа Ритца и предобусловливание](80_assets/numerical-analysis/gpt-image-v4/nla-ch21-cg-ritz-preconditioning-insight.png)
+![Энергетическая проекция, оценка Чебышёва, числа Ритца и предобусловливание](80_assets/numerical-analysis/gpt-image-v4/nla-ch21-cg-ritz-preconditioning-insight.webp)
 
 
 ## Самопроверка

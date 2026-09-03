@@ -13,9 +13,12 @@ source_refs:
   - id: myshkis-applied-mathematics-engineers-2006
     pages: "324-349"
     role: primary
+  - id: rindler-calculus-variations-2015
+    pages: "24-41"
+    role: supporting
 level: advanced
 created: 2026-07-17
-updated: 2026-07-27
+updated: 2026-09-03
 ---
 
 # Критерий Лежандра—Якоби для положительности второй вариации
@@ -153,7 +156,7 @@ $$
 
 ## Визуализация
 
-![Квадратичная форма второй вариации, сопряжённая точка, критерий минимума и аналогия с потерей устойчивости и кривизной модели](80_assets/calculus-of-variations/gpt-image-v1/second-variation-jacobi-insight-v1.png)
+![Квадратичная форма второй вариации, сопряжённая точка, критерий минимума и аналогия с потерей устойчивости и кривизной модели](80_assets/calculus-of-variations/gpt-image-v1/second-variation-jacobi-insight-v1.webp)
 
 ## Самопроверка
 
@@ -166,6 +169,8 @@ $$
 
 - [[60_sources/myshkis-applied-mathematics-engineers|Мышкис]], с. 324–336: вторая вариация, условия Лежандра и Якоби, сопряжённые точки.
 - [[60_sources/myshkis-applied-mathematics-engineers|Мышкис]], с. 337–349: собственные функции, спектр квадратичного функционала и оценки.
+- [[60_sources/rindler-calculus-variations-2015|Риндлер]], с. 24–41: вариационные условия и локальная минимальность.
 - [[30_mathematics/applied-mathematics/theorems/euler-lagrange-equation|Уравнение Эйлера—Лагранжа]].
+- [[30_mathematics/classical-pde-variational/modules/pde-10-euler-lagrange-constraints-noether|Вариационные условия, ограничения и симметрии]].
 - [[30_mathematics/functional-analysis/theorems/spectral-compact-selfadjoint|Спектральная теорема для компактных самосопряжённых операторов]].
 - [[50_bridges/hessian-geometry-optimization|Гессиан и геометрия оптимизации]].

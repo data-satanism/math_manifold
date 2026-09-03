@@ -41,7 +41,7 @@ updated: 2026-07-27
 
 ## Визуализация
 
-![Предобусловливание собирает основную массу собственных значений около единицы](80_assets/numerical-analysis/gpt-image-v5/nla-ch24-toeplitz-fft-insight.png)
+![Предобусловливание собирает основную массу собственных значений около единицы](80_assets/numerical-analysis/gpt-image-v5/nla-ch24-toeplitz-fft-insight.webp)
 
 ## Источник
 

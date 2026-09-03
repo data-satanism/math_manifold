@@ -249,7 +249,7 @@ $$
 
 ## Визуализация
 
-[![Двустороннее действие на матрицу, векторизация через кронекерову сумму, спектральный тест и связь уравнения Ляпунова с неявным обучением](80_assets/matrix-equations/gpt-image-v1/matrix-equations-kronecker-lyapunov-insight.png)](80_assets/matrix-equations/gpt-image-v1/matrix-equations-kronecker-lyapunov-insight.png)
+[![Двустороннее действие на матрицу, векторизация через кронекерову сумму, спектральный тест и связь уравнения Ляпунова с неявным обучением](80_assets/matrix-equations/gpt-image-v1/matrix-equations-kronecker-lyapunov-insight.webp)](80_assets/matrix-equations/gpt-image-v1/matrix-equations-kronecker-lyapunov-insight.webp)
 
 ## Самопроверка
 

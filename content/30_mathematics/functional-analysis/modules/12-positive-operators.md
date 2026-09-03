@@ -83,7 +83,7 @@ $$
 
 ## Визуализация
 
-![Положительные операторы, конусы и перенос в ИИ — модуль 12](80_assets/functional-analysis/modules/gpt-image-v3/module-12-positive-operators-v3.png)
+![Положительные операторы, конусы и перенос в ИИ — модуль 12](80_assets/functional-analysis/modules/gpt-image-v3/module-12-positive-operators-v3.webp)
 
 
 ## Самопроверка

@@ -7,7 +7,7 @@ status: canonical
 publish: true
 areas: [real-analysis, functional-analysis]
 concepts: [lp-spaces, hilbert-space, duality, hahn-banach]
-prerequisites: [real-analysis-01-measures-radon-nikodym, holder-inequality]
+prerequisites: [real-analysis-01-measures-radon-nikodym, thm-holder-inequality]
 ai_domains: [statistical-learning, scientific-machine-learning, signal-processing]
 source_refs:
   - id: tao-epsilon-of-room-2010
@@ -15,7 +15,7 @@ source_refs:
     role: primary
 level: research
 created: 2026-08-11
-updated: 2026-08-12
+updated: 2026-09-03
 ---
 
 # Модуль 02. Пространства $L^p$, гильбертова геометрия и двойственность
@@ -73,7 +73,7 @@ $$
 
 ## Визуализация
 
-![Аналитический механизм, контрпример и перенос в ИИ — модуль 02](80_assets/real-analysis/gpt-image-v1/real-analysis-module-02-lp-hilbert-duality-v1.png)
+![Аналитический механизм, контрпример и перенос в ИИ — модуль 02](80_assets/real-analysis/gpt-image-v1/real-analysis-module-02-lp-hilbert-duality-v1.webp)
 
 ## Самопроверка
 
@@ -86,6 +86,11 @@ $$
 1. Докажите результат сначала для простых или гладких объектов.
 2. Постройте пример, разделяющий два режима сходимости.
 3. Реализуйте дискретную аппроксимацию и исследуйте зависимость ошибки от разрешения.
+
+## Самостоятельные теоремные узлы
+
+- [[30_mathematics/functional-analysis/theorems/holder-inequality|Неравенство Гёльдера]] — переиспользуется без дублирования доказательства.
+- [[30_mathematics/functional-analysis/theorems/riesz-representation|Теорема Рисса о представлении]] — переиспользуется без дублирования доказательства.
 
 ## Источники и дальнейший маршрут
 

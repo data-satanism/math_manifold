@@ -186,7 +186,7 @@ $$
 
 ## Визуализация
 
-![Математический механизм, режим отказа и перенос в ИИ — модуль 11](80_assets/optimization/gpt-image-v1/optimization-module-11-variance-reduction-finite-sums-v1.png)
+![Математический механизм, режим отказа и перенос в ИИ — модуль 11](80_assets/optimization/gpt-image-v1/optimization-module-11-variance-reduction-finite-sums-v1.webp)
 
 ## Самопроверка
 

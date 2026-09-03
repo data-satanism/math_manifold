@@ -8,14 +8,14 @@ publish: true
 areas: [linear-algebra, matrix-analysis, numerical-linear-algebra]
 concepts: [vector-space, linear-map, eigenvalue, quadratic-form, canonical-form, matrix-function, matrix-equation, positive-matrix]
 prerequisites: [school-algebra, mathematical-analysis]
-ai_domains: [representation-learning, optimization, spectral-diagnostics, graph-learning, markov-models]
+ai_domains: [representation-learning, optimization, spectral-diagnostics, graph-ml, markov-models]
 source_refs:
   - id: boss-linear-algebra-2005
     pages: "10-215"
     role: primary
 level: intermediate
 created: 2026-07-16
-updated: 2026-07-27
+updated: 2026-09-03
 ---
 
 # Босс — Лекции по математике: линейная алгебра

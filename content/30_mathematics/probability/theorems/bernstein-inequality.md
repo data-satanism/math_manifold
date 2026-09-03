@@ -221,7 +221,7 @@ tails = [(np.abs(S) >= t).mean() for t in thresholds]
 
 ## Визуализация
 
-![Неравенство Бернштейна: два хвостовых режима, аналогия с коллективным шумом и одиночным выбросом, перенос в мониторинг ИИ](80_assets/probability/gpt-image-v1/bernstein-inequality-insight-v1.png)
+![Неравенство Бернштейна: два хвостовых режима, аналогия с коллективным шумом и одиночным выбросом, перенос в мониторинг ИИ](80_assets/probability/gpt-image-v1/bernstein-inequality-insight-v1.webp)
 
 ## Самопроверка
 

@@ -56,7 +56,7 @@ $$
 
 ## Визуализация
 
-![QR-итерация сохраняет спектр и постепенно отделяет поддиагональные блоки](80_assets/numerical-analysis/gpt-image-v2/nla-module-11-qr-eigenvalue-insight.png)
+![QR-итерация сохраняет спектр и постепенно отделяет поддиагональные блоки](80_assets/numerical-analysis/gpt-image-v2/nla-module-11-qr-eigenvalue-insight.webp)
 
 ## Источник
 

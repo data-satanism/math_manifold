@@ -8,7 +8,7 @@ publish: true
 areas: [numerical-analysis, random-matrix-theory, machine-learning]
 concepts: [weyl-inequality, spectral-gap, invariant-subspace, random-matrix-theory]
 prerequisites: [nla-04-spectral-localization-and-perturbation, nla-05-spectral-distances-and-clusters, rmt-01-high-dimensional-spectra]
-ai_domains: [pca, representation-learning, spectral-clustering, graph-learning]
+ai_domains: [pca, representation-learning, spectral-clustering, graph-ml]
 source_refs:
   - id: tyrtyshnikov-numerical-analysis
     pages: "33-50"
@@ -18,7 +18,7 @@ source_refs:
     role: secondary
 level: advanced
 created: 2026-07-13
-updated: 2026-07-27
+updated: 2026-09-03
 ---
 
 # Спектральные возмущения → метод главных компонент, векторные представления и теория случайных матриц
@@ -81,7 +81,7 @@ $$
 
 ## Визуализация
 
-![Спектральная устойчивость как совместная проверка: полоса детерминированного возмущения, шумовой массив RMT и воспроизводимое подпространство признаков](80_assets/numerical-analysis/gpt-image-v1/bridge-spectral-perturbation-rmt-insight.png)
+![Спектральная устойчивость как совместная проверка: полоса детерминированного возмущения, шумовой массив RMT и воспроизводимое подпространство признаков](80_assets/numerical-analysis/gpt-image-v1/bridge-spectral-perturbation-rmt-insight.webp)
 
 ## Самопроверка
 

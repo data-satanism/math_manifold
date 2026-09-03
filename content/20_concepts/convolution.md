@@ -71,6 +71,6 @@ $$
 
 ## Визуализация
 
-[![Сдвигающееся перекрытие функций образует свёртку, а преобразования Фурье и Лапласа превращают её в умножение; показаны фильтр в ИИ и нарушение из-за несогласованной границы](80_assets/applied-mathematics/gpt-image-v1/convolution-fourier-laplace-insight.png)](80_assets/applied-mathematics/gpt-image-v1/convolution-fourier-laplace-insight.png)
+[![Сдвигающееся перекрытие функций образует свёртку, а преобразования Фурье и Лапласа превращают её в умножение; показаны фильтр в ИИ и нарушение из-за несогласованной границы](80_assets/applied-mathematics/gpt-image-v1/convolution-fourier-laplace-insight.webp)](80_assets/applied-mathematics/gpt-image-v1/convolution-fourier-laplace-insight.webp)
 
 См. [[50_bridges/distributions-convolution]], [[30_mathematics/applied-mathematics/methods/laplace-transform]], [[50_bridges/laplace-state-space-learning]], [[20_concepts/distribution]].

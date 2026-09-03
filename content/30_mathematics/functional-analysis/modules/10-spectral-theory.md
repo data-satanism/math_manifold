@@ -97,7 +97,7 @@ $$
 
 ## Визуализация
 
-![Спектр, низкоранговая структура и перенос в ИИ — модуль 10](80_assets/functional-analysis/modules/gpt-image-v3/module-10-spectral-theory-v3.png)
+![Спектр, низкоранговая структура и перенос в ИИ — модуль 10](80_assets/functional-analysis/modules/gpt-image-v3/module-10-spectral-theory-v3.webp)
 
 
 ## Самопроверка

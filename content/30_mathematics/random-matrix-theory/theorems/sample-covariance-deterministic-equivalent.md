@@ -133,7 +133,7 @@ $$
 
 ## Визуализация
 
-![Концепция теоремы: случайные резольвенты сходятся в наблюдаемых величинах к детерминированному эквиваленту](80_assets/random-matrix-theory/gpt-image-v3/deterministic-equivalent-resolvent-insight-v3.png)
+![Концепция теоремы: случайные резольвенты сходятся в наблюдаемых величинах к детерминированному эквиваленту](80_assets/random-matrix-theory/gpt-image-v3/deterministic-equivalent-resolvent-insight-v3.webp)
 
 ## Самопроверка
 

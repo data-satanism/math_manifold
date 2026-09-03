@@ -7,15 +7,15 @@ status: canonical
 publish: true
 areas: [kernel-methods, probabilistic-graphical-models, functional-analysis]
 concepts: [graph-compatible-function, reproducing-kernel, clique-decomposition, local-interaction]
-prerequisites: [positive-definite-kernel, representer-theorem, hammersley-clifford-factorization]
-ai_domains: [structured-prediction, sequence-labeling, graph-learning]
+prerequisites: [positive-definite-kernel, representer-theorem, thm-hammersley-clifford-factorization]
+ai_domains: [structured-prediction, sequence-labeling, graph-ml]
 source_refs:
   - id: hofmann-scholkopf-smola-kernel-methods-2006
     pages: "36-37"
     role: primary
 level: advanced
 created: 2026-07-21
-updated: 2026-07-27
+updated: 2026-09-03
 ---
 
 # Разложение совместимого с графом ядра
@@ -24,7 +24,7 @@ updated: 2026-07-27
 
 Недостаточно выбрать любое ядро на полном структурированном объекте: оно может ввести глобальные взаимодействия, которых нет в графической модели. Теорема даёт необходимую форму ядра RKHS, все функции которого складываются из локальных кликовых вкладов.
 
-![Совместимая с графом функция раскладывается по кликам, поэтому её воспроизводящее ядро собирается из локальных блоков; образ модульных интерфейсов переносится на ядро разметки последовательности](80_assets/kernel-methods/gpt-image-v4/graph-compatible-kernel-decomposition-v4.png)
+![Совместимая с графом функция раскладывается по кликам, поэтому её воспроизводящее ядро собирается из локальных блоков; образ модульных интерфейсов переносится на ядро разметки последовательности](80_assets/kernel-methods/gpt-image-v4/graph-compatible-kernel-decomposition-v4.webp)
 
 ## Определения и предпосылки
 

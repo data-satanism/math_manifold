@@ -7,7 +7,7 @@ status: canonical
 publish: true
 areas: [random-matrix-theory, spectral-theory, gpu-systems]
 concepts: [spiked-covariance-transition, spectral-shrinkage, expert-merging, dynamic-routing, grouped-gemm]
-prerequisites: [bridge-rmt-spectral-diagnostics, rmt-03-spiked-models]
+prerequisites: [bridge-rmt-spectral-diagnostics, rmt-03-covariance-inference-linear-models]
 ai_domains: [mixture-of-experts, model-compression, inference-acceleration, large-language-models]
 source_refs:
   - id: rmt4ml-2022
@@ -36,7 +36,7 @@ source_refs:
     role: moe-layer-pruning-baseline
 level: advanced
 created: 2026-08-06
-updated: 2026-08-12
+updated: 2026-09-03
 ---
 
 # RMT для сжатия и ускорения MoE-инференса
@@ -352,15 +352,15 @@ $$
 
 ## Визуализации
 
-![RMT-план исполнения MoE: устойчивые спектральные направления формируют кластеры и ранги, после чего переназначение и уплотнение уменьшают число фактически исполняемых экспертных GEMM](80_assets/random-matrix-theory/rmt-moe-gpt-image-v1/rmt-moe-execution-plan-v1.png)
+![RMT-план исполнения MoE: устойчивые спектральные направления формируют кластеры и ранги, после чего переназначение и уплотнение уменьшают число фактически исполняемых экспертных GEMM](80_assets/random-matrix-theory/rmt-moe-gpt-image-v1/rmt-moe-execution-plan-v1.webp)
 
-![Карта ускорения MoE: сжатие памяти, сокращение активных вычислений и эффективность GPU являются разными осями, которые должны измеряться отдельно](80_assets/random-matrix-theory/rmt-moe-gpt-image-v1/rmt-moe-speedup-map-v1.png)
+![Карта ускорения MoE: сжатие памяти, сокращение активных вычислений и эффективность GPU являются разными осями, которые должны измеряться отдельно](80_assets/random-matrix-theory/rmt-moe-gpt-image-v1/rmt-moe-speedup-map-v1.webp)
 
-![Послойное построение представления экспертов: текущий функциональный скетч отделён от точной развёртки весов, а реальные источники потери информации отмечены после проекции и усечения](80_assets/random-matrix-theory/rmt-moe-gpt-image-v1/rmt-moe-layerwise-representations-v1.png)
+![Послойное построение представления экспертов: текущий функциональный скетч отделён от точной развёртки весов, а реальные источники потери информации отмечены после проекции и усечения](80_assets/random-matrix-theory/rmt-moe-gpt-image-v1/rmt-moe-layerwise-representations-v1.webp)
 
-![Переназначение экспертов для начинающих: вероятности исходного роутера складываются по группам, после чего GPU выбирает группы, сортирует токены и исполняет сгруппированные GEMM](80_assets/random-matrix-theory/rmt-moe-gpt-image-v1/rmt-moe-remap-for-beginners-v1.png)
+![Переназначение экспертов для начинающих: вероятности исходного роутера складываются по группам, после чего GPU выбирает группы, сортирует токены и исполняет сгруппированные GEMM](80_assets/random-matrix-theory/rmt-moe-gpt-image-v1/rmt-moe-remap-for-beginners-v1.webp)
 
-![Четыре режима представления экспертов MoE: весовая и функциональная матрицы Грама, гибридная геометрия и RMT-управляемое Tucker-разложение сопоставлены по данным, стоимости и границам перехода к прунингу слоёв](80_assets/random-matrix-theory/rmt-moe-gpt-image-v1/rmt-moe-representation-regimes-v1.png)
+![Четыре режима представления экспертов MoE: весовая и функциональная матрицы Грама, гибридная геометрия и RMT-управляемое Tucker-разложение сопоставлены по данным, стоимости и границам перехода к прунингу слоёв](80_assets/random-matrix-theory/rmt-moe-gpt-image-v1/rmt-moe-representation-regimes-v1.webp)
 
 ## Самопроверка
 

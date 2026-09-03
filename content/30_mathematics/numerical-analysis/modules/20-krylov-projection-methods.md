@@ -107,7 +107,7 @@ $$
 
 ## Визуализация
 
-![Подпространство Крылова, лучшая поправка, полиномиальный фильтр и шаг второго порядка в обучении модели](80_assets/numerical-analysis/gpt-image-v4/nla-ch19-krylov-insight.png)
+![Подпространство Крылова, лучшая поправка, полиномиальный фильтр и шаг второго порядка в обучении модели](80_assets/numerical-analysis/gpt-image-v4/nla-ch19-krylov-insight.webp)
 
 [Открыть интерактив полиномиального фильтра](80_assets/interactive/krylov-polynomial-filter.html) · [лабораторная страница](70_labs/interactive/nonlinear-optimization-krylov-widgets)
 

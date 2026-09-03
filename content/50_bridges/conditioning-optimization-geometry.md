@@ -83,7 +83,7 @@ $$
 
 ## Визуализация
 
-![Обусловленность и оптимизация: узкая долина, смена координат, быстрый спуск и граница переноса от квадратичной модели к нейросети](80_assets/numerical-analysis/gpt-image-v1/bridge-conditioning-optimization-insight.png)
+![Обусловленность и оптимизация: узкая долина, смена координат, быстрый спуск и граница переноса от квадратичной модели к нейросети](80_assets/numerical-analysis/gpt-image-v1/bridge-conditioning-optimization-insight.webp)
 
 ## Самопроверка
 

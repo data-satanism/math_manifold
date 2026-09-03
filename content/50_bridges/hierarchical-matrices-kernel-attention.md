@@ -52,7 +52,7 @@ $$
 
 ## Визуализация
 
-![Кластеры признаков допускают малоранговые дальние блоки только при наблюдаемом спаде сингулярных чисел и сохранении редких событий](80_assets/numerical-analysis/gpt-image-v7/bridge-hierarchical-kernel-attention-v7.png)
+![Кластеры признаков допускают малоранговые дальние блоки только при наблюдаемом спаде сингулярных чисел и сохранении редких событий](80_assets/numerical-analysis/gpt-image-v7/bridge-hierarchical-kernel-attention-v7.webp)
 
 ### Как читать рисунок
 

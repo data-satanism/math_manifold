@@ -7,7 +7,7 @@ status: canonical
 publish: true
 areas: [optimization, applied-mathematics]
 concepts: [stochastic-gradient, online-optimization, concept-drift, dynamic-regret, time-series-validation]
-prerequisites: [optimization-02-gradient-methods-ml, probability-01-probability-refresher]
+prerequisites: [optimization-02-gradient-methods-ml, probability-01-refresher]
 ai_domains: [machine-learning, automl, scientific-machine-learning]
 source_refs:
   - id: mipt-optimization-course
@@ -15,7 +15,7 @@ source_refs:
     role: primary
 level: advanced
 created: 2026-08-11
-updated: 2026-08-12
+updated: 2026-09-03
 ---
 
 # Стохастическая и последовательная оптимизация временных рядов
@@ -172,7 +172,7 @@ $$
 
 ## Визуализация
 
-![Математический механизм, режим отказа и перенос в ИИ — модуль 05](80_assets/optimization/gpt-image-v1/optimization-module-05-stochastic-online-time-series-v1.png)
+![Математический механизм, режим отказа и перенос в ИИ — модуль 05](80_assets/optimization/gpt-image-v1/optimization-module-05-stochastic-online-time-series-v1.webp)
 
 ## Самопроверка
 

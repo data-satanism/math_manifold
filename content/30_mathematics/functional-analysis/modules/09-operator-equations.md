@@ -8,7 +8,7 @@ publish: true
 areas: [functional-analysis, inverse-problems]
 concepts: [operator-equation, fredholm-equation, regularization, projection-method]
 prerequisites: [fa-08-distributions-convolution]
-ai_domains: [inverse-problems, scientific-ml, deblurring]
+ai_domains: [inverse-problems, scientific-machine-learning, deblurring]
 source_refs:
   - id: boss-fa-2005
     pages: "133-143"
@@ -18,7 +18,7 @@ source_refs:
     role: structured-kernel-extension
 level: advanced
 created: 2026-07-10
-updated: 2026-08-12
+updated: 2026-09-03
 ---
 
 # Модуль 9. Операторные и фредгольмовы уравнения
@@ -115,7 +115,7 @@ $$
 
 ## Визуализация
 
-![Операторные уравнения, регуляризация и перенос в ИИ — модуль 09](80_assets/functional-analysis/modules/gpt-image-v3/module-09-operator-equations-v3.png)
+![Операторные уравнения, регуляризация и перенос в ИИ — модуль 09](80_assets/functional-analysis/modules/gpt-image-v3/module-09-operator-equations-v3.webp)
 
 
 ## Самопроверка

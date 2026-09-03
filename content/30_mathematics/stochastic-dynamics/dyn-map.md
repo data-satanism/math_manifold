@@ -18,7 +18,7 @@ source_refs:
     role: primary
 level: advanced
 created: 2026-08-12
-updated: 2026-08-12
+updated: 2026-09-03
 ---
 
 # Динамические и стохастические системы
@@ -33,12 +33,12 @@ updated: 2026-08-12
 4. [[30_mathematics/stochastic-dynamics/modules/dyn-04-ito-formula|Формула Ито и стохастическое дифференцирование]].
 5. [[30_mathematics/stochastic-dynamics/modules/dyn-05-generator-fokker-planck|Генератор и уравнение Фоккера—Планка]].
 6. [[30_mathematics/stochastic-dynamics/modules/dyn-06-numerical-sde|Численные схемы для SDE: сильная и слабая сходимость]].
-7. [[30_mathematics/stochastic-dynamics/modules/dyn-07-reverse-sde-diffusion|Обратное SDE, score-функция и diffusion models]].
+7. [[30_mathematics/stochastic-dynamics/modules/dyn-07-reverse-sde-diffusion|Обратное SDE, скор-функция и диффузионные модели]].
 8. [[30_mathematics/stochastic-dynamics/modules/dyn-08-filtering-control-learning|Фильтрация, сглаживание и обучаемые модели состояния]].
 
 ## Редакционный режим
 
-Пакет утверждён владельцем курса и публикуется как `canonical`.
+Редакционный пакет утверждён владельцем 3 сентября 2026 года и включён в публичный выпуск.
 
 ## Карта источников и пересечений
 

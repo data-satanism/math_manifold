@@ -237,7 +237,7 @@ hoeffding = [2 * np.exp(-n * e * e / 2) for e in eps]
 
 ## Визуализация
 
-![Неравенство Хёффдинга: независимые ограниченные вклады, аналогия с датчиками, оценка риска и отказ при общем шуме](80_assets/probability/gpt-image-v1/hoeffding-inequality-insight-v1.png)
+![Неравенство Хёффдинга: независимые ограниченные вклады, аналогия с датчиками, оценка риска и отказ при общем шуме](80_assets/probability/gpt-image-v1/hoeffding-inequality-insight-v1.webp)
 
 ## Самопроверка
 

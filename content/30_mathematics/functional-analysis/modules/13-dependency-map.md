@@ -105,7 +105,7 @@ flowchart TD
 
 ## Визуализация
 
-![Карта зависимостей функционального анализа — модуль 13](80_assets/functional-analysis/modules/gpt-image-v3/module-13-dependency-map-v3.png)
+![Карта зависимостей функционального анализа — модуль 13](80_assets/functional-analysis/modules/gpt-image-v3/module-13-dependency-map-v3.webp)
 
 
 ## Самопроверка

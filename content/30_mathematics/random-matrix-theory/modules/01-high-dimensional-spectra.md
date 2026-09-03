@@ -182,7 +182,7 @@ edge_right = (1 + np.sqrt(c)) ** 2
 
 ## Визуализация
 
-![Спектральное мышление RMT: тонкая оболочка данных, поверхность шумового спектра, его край и устойчивое сигнальное направление](80_assets/random-matrix-theory/gpt-image-v5/rmt-module-01-high-dimensional-spectra-v5.png)
+![Спектральное мышление RMT: тонкая оболочка данных, поверхность шумового спектра, его край и устойчивое сигнальное направление](80_assets/random-matrix-theory/gpt-image-v5/rmt-module-01-high-dimensional-spectra-v5.webp)
 
 
 ## Самопроверка

@@ -99,7 +99,7 @@ $$
 
 ## Визуализация
 
-![Линейные операторы, устойчивость и перенос в ИИ — модуль 06](80_assets/functional-analysis/modules/gpt-image-v3/module-06-linear-operators-v3.png)
+![Линейные операторы, устойчивость и перенос в ИИ — модуль 06](80_assets/functional-analysis/modules/gpt-image-v3/module-06-linear-operators-v3.webp)
 
 
 ## Самопроверка

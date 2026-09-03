@@ -90,7 +90,7 @@ $$
 
 ## Визуализация
 
-[![Замкнутый контур восстанавливает внутреннее значение аналитической функции; кольцо датчиков и спектральный проектор показывают перенос, а полюс на контуре — режим отказа](80_assets/applied-mathematics/gpt-image-v1/cauchy-integral-formula-insight.png)](80_assets/applied-mathematics/gpt-image-v1/cauchy-integral-formula-insight.png)
+[![Замкнутый контур восстанавливает внутреннее значение аналитической функции; кольцо датчиков и спектральный проектор показывают перенос, а полюс на контуре — режим отказа](80_assets/applied-mathematics/gpt-image-v1/cauchy-integral-formula-insight.webp)](80_assets/applied-mathematics/gpt-image-v1/cauchy-integral-formula-insight.webp)
 
 ## Самопроверка
 

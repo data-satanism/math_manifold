@@ -15,7 +15,7 @@ source_refs:
     role: primary
 level: research
 created: 2026-08-12
-updated: 2026-08-12
+updated: 2026-09-03
 ---
 
 # Карта источников: Информационная геометрия
@@ -36,14 +36,14 @@ updated: 2026-08-12
 | Источник | Глава и все входящие подразделы | Страницы | Решение или целевые модули |
 |---|---|---:|---|
 | nielsen-information-geometry-2020 | 1. Введение: обзор и структура | PDF 1–3 | ig-01-statistical-manifolds |
-| nielsen-information-geometry-2020 | 2. Дифференциальная геометрия: многообразие, метрика, affine connections, covariant derivative, parallel transport, geodesics, curvature/torsion, Levi–Civita, сравнение с информационной геометрией | PDF 3–10 | ig-01-statistical-manifolds;ig-03-affine-dual-connections |
-| nielsen-information-geometry-2020 | 3.1–3.6. Information manifolds, conjugate connections, statistical manifolds, alpha-family, fundamental theorem, геометрию, порождённую дивергенцией | PDF 10–14 | ig-03-affine-dual-connections;ig-04-divergences-local-geometry |
-| nielsen-information-geometry-2020 | 3.7–3.9. Dually flat/Bregman, Hessian alpha-geometry, expected manifolds parametric families | PDF 14–22 | ig-05-dually-flat-bregman;ig-06-exponential-mixture-families |
-| nielsen-information-geometry-2020 | 3.10–3.13. Статистическая инвариантность, Фишера–Rao, monotone embeddings, canonical Bregman divergences | PDF 22–31 | ig-02-fisher-rao-metric;ig-05-dually-flat-bregman |
+| nielsen-information-geometry-2020 | 2. Дифференциальная геометрия: многообразие, метрика, аффинные связности, ковариантная производная, параллельный перенос, геодезические, кривизна и кручение, Levi–Civita, сравнение с информационной геометрией | PDF 3–10 | ig-01-statistical-manifolds;ig-03-affine-dual-connections |
+| nielsen-information-geometry-2020 | 3.1–3.6. Информационные многообразия, сопряжённые связности, статистические многообразия, семейство альфа-связностей, основная теорема, геометрию, порождённую дивергенцией | PDF 10–14 | ig-03-affine-dual-connections;ig-04-divergences-local-geometry |
+| nielsen-information-geometry-2020 | 3.7–3.9. Двойственно плоская геометрия и дивергенции Брегмана, гессианова геометрия альфа-связностей, многообразия параметрических семейств | PDF 14–22 | ig-05-dually-flat-bregman;ig-06-exponential-mixture-families |
+| nielsen-information-geometry-2020 | 3.10–3.13. Статистическая инвариантность, метрика Фишера—Рао, монотонные вложения и канонические дивергенции Брегмана | PDF 22–31 | ig-02-fisher-rao-metric;ig-05-dually-flat-bregman |
 | nielsen-information-geometry-2020 | 4.1. Обычный и естественный градиент, зеркальный спуск, NES | PDF 31–36 | ig-07-natural-gradient |
-| nielsen-information-geometry-2020 | 4.2–4.4. Dually flat applications, hypothesis testing, mixture clustering | PDF 36–40 | ig-08-projections-inference-clustering |
+| nielsen-information-geometry-2020 | 4.2–4.4. Приложения двойственно плоской геометрии, проверка гипотез, кластеризация смесей | PDF 36–40 | ig-08-projections-inference-clustering |
 | nielsen-information-geometry-2020 | 5. Выводы, история и перспективы | PDF 40–44 | reference-only |
-| nielsen-information-geometry-2020 | A. Monte Carlo estimation of f-divergences; B. Multivariate Gaussian exponential family | PDF 44–56 | ig-06-exponential-mixture-families |
+| nielsen-information-geometry-2020 | A. Оценивание f-дивергенций методом Монте-Карло; B. Многомерное нормальное экспоненциальное семейство | PDF 44–56 | ig-06-exponential-mixture-families |
 
 ## Правило покрытия
 

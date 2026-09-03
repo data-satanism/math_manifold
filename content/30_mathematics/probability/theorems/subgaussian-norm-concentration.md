@@ -203,7 +203,7 @@ for d in [20, 100, 500, 2000]:
 
 ## Визуализация
 
-![Концентрация нормы: тонкая сферическая оболочка, понятный образ, эмбеддинги и отказ при общем случайном масштабе](80_assets/probability/gpt-image-v1/subgaussian-norm-concentration-insight-v1.png)
+![Концентрация нормы: тонкая сферическая оболочка, понятный образ, эмбеддинги и отказ при общем случайном масштабе](80_assets/probability/gpt-image-v1/subgaussian-norm-concentration-insight-v1.webp)
 
 ## Самопроверка
 

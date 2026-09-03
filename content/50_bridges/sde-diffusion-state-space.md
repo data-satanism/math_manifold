@@ -18,7 +18,7 @@ source_refs:
     role: primary
 level: research
 created: 2026-08-12
-updated: 2026-08-12
+updated: 2026-09-03
 ---
 
 # Стохастическая динамика → диффузионные модели и модели состояния

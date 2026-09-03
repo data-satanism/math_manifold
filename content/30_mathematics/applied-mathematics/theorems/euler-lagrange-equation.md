@@ -13,9 +13,12 @@ source_refs:
   - id: myshkis-applied-mathematics-engineers-2006
     pages: "288-305"
     role: primary
+  - id: rindler-calculus-variations-2015
+    pages: "24-41"
+    role: supporting
 level: advanced
 created: 2026-07-17
-updated: 2026-07-27
+updated: 2026-09-03
 ---
 
 # Уравнение Эйлера—Лагранжа
@@ -128,7 +131,7 @@ $$
 
 ## Визуализация
 
-![Локализованная вариация, вывод уравнения Эйлера—Лагранжа, фундаментальная лемма и границы переноса к нейронному оператору](80_assets/calculus-of-variations/gpt-image-v1/euler-lagrange-local-balance-v1.png)
+![Локализованная вариация, вывод уравнения Эйлера—Лагранжа, фундаментальная лемма и границы переноса к нейронному оператору](80_assets/calculus-of-variations/gpt-image-v1/euler-lagrange-local-balance-v1.webp)
 
 ## Самопроверка
 
@@ -140,6 +143,8 @@ $$
 ## Источники и связи
 
 - [[60_sources/myshkis-applied-mathematics-engineers|Мышкис]], с. 288–305: вариация функционала, уравнение Эйлера, многомерные и связанные задачи.
+- [[60_sources/rindler-calculus-variations-2015|Риндлер]], с. 24–41: первая вариация, уравнение Эйлера—Лагранжа и симметрии.
 - [[30_mathematics/applied-mathematics/modules/06-calculus-of-variations|Модуль вариационного исчисления]].
+- [[30_mathematics/classical-pde-variational/modules/pde-10-euler-lagrange-constraints-noether|Уравнение Эйлера—Лагранжа, ограничения и теорема Нётер]].
 - [[30_mathematics/applied-mathematics/theorems/legendre-jacobi-sufficient-criterion|Вторая вариация и сопряжённые точки]].
 - [[50_bridges/variational-principles-energy-models|Вариационные модели в ИИ]].

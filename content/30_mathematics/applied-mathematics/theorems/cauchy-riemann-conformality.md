@@ -89,7 +89,7 @@ $$
 
 ## Визуализация
 
-[![Условия Коши–Римана превращают локальный якобиан в поворот с единым масштабом; сеточная аналогия и комплекснозначный слой показывают перенос, а нулевая производная — границу теоремы](80_assets/applied-mathematics/gpt-image-v1/cauchy-riemann-conformality-insight.png)](80_assets/applied-mathematics/gpt-image-v1/cauchy-riemann-conformality-insight.png)
+[![Условия Коши–Римана превращают локальный якобиан в поворот с единым масштабом; сеточная аналогия и комплекснозначный слой показывают перенос, а нулевая производная — границу теоремы](80_assets/applied-mathematics/gpt-image-v1/cauchy-riemann-conformality-insight.webp)](80_assets/applied-mathematics/gpt-image-v1/cauchy-riemann-conformality-insight.webp)
 
 ## Самопроверка
 

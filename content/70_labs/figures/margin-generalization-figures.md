@@ -34,7 +34,7 @@ updated: 2026-07-27
 
 ### Обзор модуля
 
-Файл: [margin-uniform-convergence-module-v2.png](80_assets/kernel-methods/gpt-image-v2/margin-uniform-convergence-module-v2.png)
+Файл: [margin-uniform-convergence-module-v2.png](80_assets/kernel-methods/gpt-image-v2/margin-uniform-convergence-module-v2.webp)
 
 Промпт: показать цепочку «отступ → суррогатная потеря → случайные знаки → равномерная оценка → риск»; аналогию с калибровкой чувствительного измерительного прибора; применение к выбору ядра и замороженному представлению; режимы отказа при утечке проверки и сдвиге распределения.
 
@@ -42,7 +42,7 @@ updated: 2026-07-27
 
 ### Равномерная сходимость
 
-Файл: [rademacher-uniform-convergence-v2.png](80_assets/kernel-methods/gpt-image-v2/rademacher-uniform-convergence-v2.png)
+Файл: [rademacher-uniform-convergence-v2.png](80_assets/kernel-methods/gpt-image-v2/rademacher-uniform-convergence-v2.webp)
 
 Промпт: показать призрачную выборку, симметризацию случайными знаками и концентрационную поправку; аналогию с испытательным шумом; проверку класса моделей; контрпример адаптивного выбора функции после просмотра данных.
 
@@ -50,7 +50,7 @@ updated: 2026-07-27
 
 ### Шар RKHS
 
-Файл: [rkhs-rademacher-complexity-v2.png](80_assets/kernel-methods/gpt-image-v2/rkhs-rademacher-complexity-v2.png)
+Файл: [rkhs-rademacher-complexity-v2.png](80_assets/kernel-methods/gpt-image-v2/rkhs-rademacher-complexity-v2.webp)
 
 Промпт: показать результирующий вектор случайно подписанных признаков, двойственность нормы и исчезновение смешанных членов; аналогию с перетягиванием каната; диагональ ядра как радиус; режим отказа при неограниченном $k(x,x)$ и обучаемом ядре.
 
@@ -58,7 +58,7 @@ updated: 2026-07-27
 
 ### Перенос суррогатного риска
 
-Файл: [surrogate-excess-risk-transfer-v2.png](80_assets/kernel-methods/gpt-image-v2/surrogate-excess-risk-transfer-v2.png)
+Файл: [surrogate-excess-risk-transfer-v2.png](80_assets/kernel-methods/gpt-image-v2/surrogate-excess-risk-transfer-v2.webp)
 
 Промпт: показать условный риск при фиксированном $\eta$, калибровочную функцию и перенос избытка; аналогию с непрерывной шкалой предупреждения; применение к выбору функции потерь; контрпример постоянной выпуклой мажоранты.
 
@@ -66,7 +66,7 @@ updated: 2026-07-27
 
 ### Итоговая скорость
 
-Файл: [margin-generalization-rate-v2.png](80_assets/kernel-methods/gpt-image-v2/margin-generalization-rate-v2.png)
+Файл: [margin-generalization-rate-v2.png](80_assets/kernel-methods/gpt-image-v2/margin-generalization-rate-v2.webp)
 
 Промпт: показать телескопическое разложение на аппроксимационную и статистическую ошибки, член радиус–отступ; аналогию с двумя частями бюджета маршрута; применение к выбору модели; отказ при настройке по той же проверочной выборке.
 
@@ -74,7 +74,7 @@ updated: 2026-07-27
 
 ### Условие Цыбакова
 
-Файл: [tsybakov-noise-localization-v2.png](80_assets/kernel-methods/gpt-image-v2/tsybakov-noise-localization-v2.png)
+Файл: [tsybakov-noise-localization-v2.png](80_assets/kernel-methods/gpt-image-v2/tsybakov-noise-localization-v2.webp)
 
 Промпт: показать массу около уровня $\eta=1/2$, степенное шумовое условие и локализацию; аналогию с туманной береговой линией; диагностику неопределённости и активной разметки; отказ при некалиброванной уверенности.
 
@@ -82,7 +82,7 @@ updated: 2026-07-27
 
 ### Мост к ИИ
 
-Файл: [generalization-complexity-ai-v2.png](80_assets/kernel-methods/gpt-image-v2/generalization-complexity-ai-v2.png)
+Файл: [generalization-complexity-ai-v2.png](80_assets/kernel-methods/gpt-image-v2/generalization-complexity-ai-v2.webp)
 
 Промпт: показать сохраняемую цепочку «фиксированный класс → чувствительность к случайным знакам → граница риска»; калибровочный стенд; строгий случай фиксированного представления и условный случай обучаемого; проверки утечки, сдвига и подгруппового риска.
 

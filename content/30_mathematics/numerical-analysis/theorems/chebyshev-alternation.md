@@ -7,7 +7,7 @@ status: canonical
 publish: true
 areas: [numerical-analysis, approximation-theory]
 concepts: [minimax-approximation, alternance, uniform-norm, best-polynomial]
-prerequisites: [nla-16-best-approximation]
+prerequisites: [nla-16-best-approximation-orthogonal-polynomials]
 ai_domains: [robust-regression, calibration, model-compression]
 source_refs:
   - id: tyrtyshnikov-numerical-analysis
@@ -15,7 +15,7 @@ source_refs:
     role: primary
 level: advanced
 created: 2026-07-15
-updated: 2026-07-27
+updated: 2026-09-03
 ---
 
 # Теорема Чебышёва об альтернансе
@@ -71,7 +71,7 @@ $$
 
 ## Визуализация
 
-![Ошибка оптимального многочлена касается верхней и нижней границы в чередующихся точках, перенос показывает выравнивание худших ошибок по группам, а однонаправленные пики отмечены как несертифицированное решение](80_assets/numerical-analysis/gpt-image-v3/chebyshev-alternation-insight.png)
+![Ошибка оптимального многочлена касается верхней и нижней границы в чередующихся точках, перенос показывает выравнивание худших ошибок по группам, а однонаправленные пики отмечены как несертифицированное решение](80_assets/numerical-analysis/gpt-image-v3/chebyshev-alternation-insight.webp)
 
 ## Самопроверка
 

@@ -148,7 +148,7 @@ $$
 
 ## Визуализация
 
-[![Уравнение Ляпунова как сертификат устойчивости, стационарная ковариация с точными условиями положительности, неявный обратный проход и кронекерово приближение кривизны](80_assets/matrix-equations/gpt-image-v1/matrix-equations-control-learning-insight-v2.png)](80_assets/matrix-equations/gpt-image-v1/matrix-equations-control-learning-insight-v2.png)
+[![Уравнение Ляпунова как сертификат устойчивости, стационарная ковариация с точными условиями положительности, неявный обратный проход и кронекерово приближение кривизны](80_assets/matrix-equations/gpt-image-v1/matrix-equations-control-learning-insight-v2.webp)](80_assets/matrix-equations/gpt-image-v1/matrix-equations-control-learning-insight-v2.webp)
 
 ## Самопроверка
 

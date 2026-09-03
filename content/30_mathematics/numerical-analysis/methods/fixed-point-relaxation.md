@@ -72,7 +72,7 @@ $$
 
 ## Визуализация
 
-![Притягивающая область простой итерации и равновесное состояние неявного слоя](80_assets/numerical-analysis/gpt-image-v4/nla-ch17-newton-insight.png)
+![Притягивающая область простой итерации и равновесное состояние неявного слоя](80_assets/numerical-analysis/gpt-image-v4/nla-ch17-newton-insight.webp)
 
 ## Источник
 

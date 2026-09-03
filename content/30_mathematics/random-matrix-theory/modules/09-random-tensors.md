@@ -145,7 +145,7 @@ $$
 
 ## Визуализация
 
-![Случайный тензор через два матричных окна: развёртка, свёртка, понятная аналогия проекций и порог восстановления](80_assets/random-matrix-theory/gpt-image-v2/random-tensor-contractions-insight-v2.png)
+![Случайный тензор через два матричных окна: развёртка, свёртка, понятная аналогия проекций и порог восстановления](80_assets/random-matrix-theory/gpt-image-v2/random-tensor-contractions-insight-v2.webp)
 
 
 ## Самопроверка

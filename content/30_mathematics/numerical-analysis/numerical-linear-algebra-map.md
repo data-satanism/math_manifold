@@ -6,7 +6,7 @@ type: map
 status: canonical
 publish: true
 areas: [numerical-analysis, numerical-linear-algebra, approximation-theory]
-concepts: [matrix-norms, conditioning, singular-value-decomposition, spectral-perturbation, floating-point, matrix-factorizations, interpolation, chebyshev-polynomials, splines, minimax-approximation, quadrature, newton-method, optimization, krylov-subspace, gmres, conjugate-gradient, preconditioning, weak-solution, multigrid, toeplitz-matrix, hierarchical-matrix, wavelet]
+concepts: [matrix-norm, conditioning, singular-value-decomposition, spectral-perturbation, floating-point, matrix-factorizations, interpolation, chebyshev-polynomials, splines, minimax-approximation, quadrature, newton-method, optimization, krylov-subspace, gmres, conjugate-gradient, preconditioning, weak-solution, multigrid, toeplitz-matrix, hierarchical-matrix, wavelet]
 prerequisites: [linear-algebra, mathematical-analysis]
 ai_domains: [optimization, model-compression, mixed-precision, pca, representation-learning, spectral-diagnostics, surrogate-modeling, calibration, uncertainty-quantification, implicit-layers, gaussian-processes, second-order-methods, neural-operators, scientific-machine-learning, attention]
 source_refs:
@@ -18,7 +18,7 @@ source_refs:
     role: intuition
 level: advanced
 created: 2026-07-13
-updated: 2026-07-27
+updated: 2026-09-03
 ---
 
 # Методы численного анализа для ИИ
@@ -158,4 +158,4 @@ $$
 - [[60_sources/tyrtyshnikov-numerical-analysis|Карточка первичного источника]].
 - [[30_mathematics/numerical-analysis/tyrtyshnikov-source-map|Карта покрытия всех подразделов 1.1–25.9]].
 
-Все страницы имеют статус `review`. Перевести их в `canonical` и разрешить публикацию может только пользователь после ручной сверки.
+Страницы курса утверждены владельцем и публикуются со статусом `canonical`. Редакционные уточнения включены в выпуск от 3 сентября 2026 года.

@@ -15,7 +15,7 @@ source_refs:
     role: primary
 level: research
 created: 2026-08-11
-updated: 2026-08-12
+updated: 2026-09-03
 ---
 
 # Модуль 03. Топология, категория Бэра и слабая компактность
@@ -68,7 +68,7 @@ updated: 2026-08-12
 
 ## Визуализация
 
-![Аналитический механизм, контрпример и перенос в ИИ — модуль 03](80_assets/real-analysis/gpt-image-v1/real-analysis-module-03-topology-baire-weak-compactness-v1.png)
+![Аналитический механизм, контрпример и перенос в ИИ — модуль 03](80_assets/real-analysis/gpt-image-v1/real-analysis-module-03-topology-baire-weak-compactness-v1.webp)
 
 ## Самопроверка
 
@@ -81,6 +81,11 @@ updated: 2026-08-12
 1. Докажите результат сначала для простых или гладких объектов.
 2. Постройте пример, разделяющий два режима сходимости.
 3. Реализуйте дискретную аппроксимацию и исследуйте зависимость ошибки от разрешения.
+
+## Самостоятельные теоремные узлы
+
+- [[30_mathematics/functional-analysis/theorems/baire-category|Теорема Бэра]] — переиспользуется без дублирования доказательства.
+- [[30_mathematics/functional-analysis/theorems/banach-alaoglu|Теорема Банаха—Алаоглу]] — переиспользуется без дублирования доказательства.
 
 ## Источники и дальнейший маршрут
 

@@ -21,7 +21,7 @@ source_refs:
     role: primary
 level: research
 created: 2026-08-12
-updated: 2026-08-12
+updated: 2026-09-03
 ---
 
 # Карта источников: Уравнения в частных производных, обратные задачи и операторное обучение
@@ -42,25 +42,25 @@ updated: 2026-08-12
 | Источник | Глава и все входящие подразделы | Страницы | Решение или целевые модули |
 |---|---|---:|---|
 | neural-operator-2021 | Введение: подход, контекст | PDF 1–6 | opl-01-pde-solution-operators |
-| neural-operator-2021 | Learning operators: parametric PDE, постановка, дискретизация | PDF 6–9 | opl-01-pde-solution-operators;opl-06-discretization-invariance |
-| neural-operator-2021 | Нейронные операторы: параметризация и вычисление; GNO, LNO, MGNO, FNO | PDF 9–24 | opl-04-deeponet-branch-trunk;opl-05-fourier-neural-operator |
-| neural-operator-2021 | Связь с DeepONet и Transformers | PDF 24–30 | opl-04-deeponet-branch-trunk |
-| neural-operator-2021 | Тестовые задачи: Poisson, Darcy, Burgers, Navier–Stokes, inverse problem, spectra, loss criteria | PDF 30–35 | opl-01-pde-solution-operators;opl-03-inverse-problems-regularization;opl-07-losses-sobolev-physics |
-| neural-operator-2021 | Численные результаты: Poisson, Darcy/Burgers, Navier–Stokes, super-resolution, spectral analysis, boundary conditions, inverse problem, comparison | PDF 35–47 | opl-05-fourier-neural-operator;opl-08-validation-generalization |
-| neural-operator-2021 | Теория аппроксимации: neural operators, discretization invariance, approximation theorems | PDF 47–53 | opl-02-weak-variational-formulations;opl-06-discretization-invariance |
+| neural-operator-2021 | Обучение операторов: параметрические PDE, постановка и дискретизация | PDF 6–9 | opl-01-pde-solution-operators;opl-06-discretization-invariance |
+| neural-operator-2021 | Нейронные операторы: параметризация и вычисление; GNO, LNO, MGNO и FNO | PDF 9–24 | opl-04-deeponet-branch-trunk;opl-05-fourier-neural-operator |
+| neural-operator-2021 | Связь с DeepONet и трансформерами | PDF 24–30 | opl-04-deeponet-branch-trunk |
+| neural-operator-2021 | Тестовые задачи: уравнения Пуассона, Дарси, Бюргерса и Навье—Стокса; обратная задача, спектры и критерии потерь | PDF 30–35 | opl-01-pde-solution-operators;opl-03-inverse-problems-regularization;opl-07-losses-sobolev-physics |
+| neural-operator-2021 | Численные результаты: уравнения Пуассона, Дарси, Бюргерса и Навье—Стокса; повышение разрешения, спектральный анализ, граничные условия, обратная задача и сравнение | PDF 35–47 | opl-05-fourier-neural-operator;opl-08-validation-generalization |
+| neural-operator-2021 | Теория аппроксимации: нейронные операторы, инвариантность к дискретизации и теоремы аппроксимации | PDF 47–53 | opl-02-weak-variational-formulations;opl-06-discretization-invariance |
 | neural-operator-2021 | Обзор литературы, выводы и направления | PDF 53–59 | opl-08-validation-generalization |
 | neural-operator-2021 | Приложения и дополнительные результаты | PDF 60–97 | reference-only |
-| fourier-neural-operator-2021 | 1–3. Введение; learning operators; neural operator | PDF 1–5 | opl-01-pde-solution-operators |
-| fourier-neural-operator-2021 | 4. Fourier Neural Operator | PDF 5–6 | opl-05-fourier-neural-operator |
-| fourier-neural-operator-2021 | 5. Эксперименты: Burgers, Darcy, Navier–Stokes, super-resolution, Bayesian inverse problem | PDF 6–10 | opl-03-inverse-problems-regularization;opl-05-fourier-neural-operator;opl-08-validation-generalization |
+| fourier-neural-operator-2021 | 1–3. Введение; обучение операторов; нейронный оператор | PDF 1–5 | opl-01-pde-solution-operators |
+| fourier-neural-operator-2021 | 4. Нейронный оператор Фурье (Fourier Neural Operator) | PDF 5–6 | opl-05-fourier-neural-operator |
+| fourier-neural-operator-2021 | 5. Эксперименты: уравнения Бюргерса, Дарси и Навье—Стокса; повышение разрешения и байесовская обратная задача | PDF 6–10 | opl-03-inverse-problems-regularization;opl-05-fourier-neural-operator;opl-08-validation-generalization |
 | fourier-neural-operator-2021 | 6. Обсуждение и выводы | PDF 9–13 | opl-08-validation-generalization |
-| fourier-neural-operator-2021 | A. Нотация, spectral analysis, data generation и дополнительные результаты | PDF 13–16 | opl-05-fourier-neural-operator |
-| deeponet-2019 | 1. Введение и operator universal approximation | PDF 1–4 | opl-04-deeponet-branch-trunk |
+| fourier-neural-operator-2021 | A. Обозначения, спектральный анализ, генерация данных и дополнительные результаты | PDF 13–16 | opl-05-fourier-neural-operator |
+| deeponet-2019 | 1. Введение и универсальная аппроксимация операторов | PDF 1–4 | opl-04-deeponet-branch-trunk |
 | deeponet-2019 | 2. Методология: DeepONet и генерация данных | PDF 4–5 | opl-04-deeponet-branch-trunk |
 | deeponet-2019 | 3. Число сенсоров | PDF 5–6 | opl-04-deeponet-branch-trunk |
-| deeponet-2019 | 4. Эксперименты: линейная/нелинейная динамика, маятник, diffusion–reaction | PDF 6–15 | opl-04-deeponet-branch-trunk |
+| deeponet-2019 | 4. Эксперименты: линейная и нелинейная динамика, маятник, диффузия—реакция | PDF 6–15 | opl-04-deeponet-branch-trunk |
 | deeponet-2019 | 5–6. Выводы и благодарности | PDF 15–18 | reference-only |
-| deeponet-2019 | A–C. Теорема операторной аппроксимации, число сенсоров, Gaussian random field | PDF 18–22 | opl-04-deeponet-branch-trunk |
+| deeponet-2019 | A–C. Теорема операторной аппроксимации, число сенсоров и гауссовское случайное поле | PDF 18–22 | opl-04-deeponet-branch-trunk |
 
 ## Правило покрытия
 

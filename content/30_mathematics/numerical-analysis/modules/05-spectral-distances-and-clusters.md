@@ -8,7 +8,7 @@ publish: true
 areas: [numerical-analysis, numerical-linear-algebra, spectral-theory]
 concepts: [spectral-distance, normal-matrix, hermitian-matrix, eigenvalue-interlacing, spectral-clusters]
 prerequisites: [nla-02-unitary-matrices-and-svd, nla-04-spectral-localization-and-perturbation]
-ai_domains: [pca, spectral-clustering, graph-learning, random-matrix-theory]
+ai_domains: [pca, spectral-clustering, graph-ml, random-matrix-theory]
 source_refs:
   - id: tyrtyshnikov-numerical-analysis
     pages: "41-50"
@@ -18,7 +18,7 @@ source_refs:
     role: intuition
 level: advanced
 created: 2026-07-13
-updated: 2026-08-12
+updated: 2026-09-03
 ---
 
 # Модуль 05. Спектральные расстояния, разделение и кластеры
@@ -151,7 +151,7 @@ $$
 
 ## Визуализация
 
-![Спектральное сопоставление как задача назначения: перемещение точек, устойчивый кластер-аккорд и перенос к подпространствам признаков](80_assets/numerical-analysis/gpt-image-v1/nla-module-05-insight.png)
+![Спектральное сопоставление как задача назначения: перемещение точек, устойчивый кластер-аккорд и перенос к подпространствам признаков](80_assets/numerical-analysis/gpt-image-v1/nla-module-05-insight.webp)
 
 
 ## Самопроверка

@@ -173,7 +173,7 @@ $$
 
 ## Визуализация
 
-[![Преобразование Лапласа переводит производные и свёртки в алгебру, а полюса — во временные моды; показаны инженерная схема, динамический слой и ошибки при потере начальных условий](80_assets/applied-mathematics/gpt-image-v1/apm-ch03-operational-calculus-insight.png)](80_assets/applied-mathematics/gpt-image-v1/apm-ch03-operational-calculus-insight.png)
+[![Преобразование Лапласа переводит производные и свёртки в алгебру, а полюса — во временные моды; показаны инженерная схема, динамический слой и ошибки при потере начальных условий](80_assets/applied-mathematics/gpt-image-v1/apm-ch03-operational-calculus-insight.webp)](80_assets/applied-mathematics/gpt-image-v1/apm-ch03-operational-calculus-insight.webp)
 
 ## Самопроверка
 

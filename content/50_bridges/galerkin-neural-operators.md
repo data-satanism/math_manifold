@@ -16,9 +16,12 @@ source_refs:
   - id: myshkis-applied-mathematics-engineers-2006
     pages: "392-400"
     role: variational-support
+  - id: clason-fem-2021
+    pages: "25-57"
+    role: numerical-foundation
 level: research
 created: 2026-07-15
-updated: 2026-07-31
+updated: 2026-09-03
 ---
 
 # Метод Галёркина → обучаемые пространства и нейронные операторы
@@ -63,7 +66,7 @@ $$
 
 ## Визуализация
 
-![Нейронный оператор предлагает поле, а независимые тестовые моды, граничные условия и устойчивость превращают его в проверяемую проекционную схему](80_assets/numerical-analysis/gpt-image-v7/bridge-galerkin-neural-operators-v7.png)
+![Нейронный оператор предлагает поле, а независимые тестовые моды, граничные условия и устойчивость превращают его в проверяемую проекционную схему](80_assets/numerical-analysis/gpt-image-v7/bridge-galerkin-neural-operators-v7.webp)
 
 ### Как читать рисунок
 
@@ -73,5 +76,7 @@ $$
 
 - [[60_sources/tyrtyshnikov-numerical-analysis|Тыртышников]], глава 22, стр. 227–239.
 - [[60_sources/myshkis-applied-mathematics-engineers|Мышкис]], с. 392–400: методы Ритца и Бубнова—Галёркина.
+- [[60_sources/clason-finite-element-methods-2021|Класон]], с. 25–57: квазиоптимальность, конечные элементы и априорная ошибка.
 - [[30_mathematics/numerical-analysis/modules/23-operator-equations-fem-galerkin]].
+- [[30_mathematics/classical-pde-variational/modules/pde-11-galerkin-fem-cea-adaptivity|Галёркин, конечные элементы, лемма Сеа и адаптивность]].
 - [[50_bridges/variational-principles-energy-models|Вариационные принципы и энергетические модели]].

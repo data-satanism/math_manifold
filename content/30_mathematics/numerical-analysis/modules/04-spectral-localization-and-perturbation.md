@@ -8,14 +8,14 @@ publish: true
 areas: [numerical-analysis, numerical-linear-algebra, spectral-theory]
 concepts: [diagonal-dominance, gershgorin-circles, eigenvalue-conditioning, analytic-perturbation]
 prerequisites: [nla-02-unitary-matrices-and-svd, nla-03-conditioning-and-matrix-series]
-ai_domains: [pca, representation-learning, graph-learning, dynamical-models]
+ai_domains: [pca, representation-learning, graph-ml, dynamical-models]
 source_refs:
   - id: tyrtyshnikov-numerical-analysis
     pages: "33-37"
     role: primary
 level: advanced
 created: 2026-07-13
-updated: 2026-08-12
+updated: 2026-09-03
 ---
 
 # Модуль 04. Локализация спектра и возмущение собственных пар
@@ -147,7 +147,7 @@ $$
 
 ## Визуализация
 
-![Локализация спектра: круги допустимых положений, отделённый кластер как устойчивая команда признаков и провал при ненормальности](80_assets/numerical-analysis/gpt-image-v1/nla-module-04-insight.png)
+![Локализация спектра: круги допустимых положений, отделённый кластер как устойчивая команда признаков и провал при ненормальности](80_assets/numerical-analysis/gpt-image-v1/nla-module-04-insight.webp)
 
 
 ## Самопроверка

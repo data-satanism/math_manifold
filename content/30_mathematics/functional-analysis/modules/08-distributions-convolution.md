@@ -8,14 +8,14 @@ publish: true
 areas: [functional-analysis, pde, harmonic-analysis]
 concepts: [distribution, convolution, weak-derivative]
 prerequisites: [fa-07-hilbert-operators]
-ai_domains: [computer-vision, scientific-ml, signal-processing]
+ai_domains: [computer-vision, scientific-machine-learning, signal-processing]
 source_refs:
   - id: boss-fa-2005
     pages: "123-132"
     role: primary
 level: advanced
 created: 2026-07-10
-updated: 2026-08-12
+updated: 2026-09-03
 ---
 
 # Модуль 8. Обобщённые функции и свёртка
@@ -103,7 +103,7 @@ $$
 
 ## Визуализация
 
-![Обобщённые функции, свёртка и перенос в ИИ — модуль 08](80_assets/functional-analysis/modules/gpt-image-v3/module-08-distributions-convolution-v3.png)
+![Обобщённые функции, свёртка и перенос в ИИ — модуль 08](80_assets/functional-analysis/modules/gpt-image-v3/module-08-distributions-convolution-v3.webp)
 
 
 ## Самопроверка

@@ -37,7 +37,7 @@ python 70_labs/rmt/rmt_release_experiments.py `
   --output-dir 80_assets/random-matrix-theory/labs-v1
 ```
 
-![Ошибки обучения и теста случайной признаковой модели при изменении отношения числа признаков к числу объектов](80_assets/random-matrix-theory/labs-v1/lab-random-features-double-descent.png)
+![Ошибки обучения и теста случайной признаковой модели при изменении отношения числа признаков к числу объектов](80_assets/random-matrix-theory/labs-v1/lab-random-features-double-descent.webp)
 
 ## Проверки
 

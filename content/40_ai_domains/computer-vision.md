@@ -6,13 +6,13 @@ type: map
 status: canonical
 publish: true
 areas: [artificial-intelligence, computer-vision, knowledge-navigation]
-concepts: [convolution, invariance, multiscale-analysis, inverse-problems]
+concepts: [convolution, invariance, multiscale-analysis, inverse-problem]
 prerequisites: [mathematics-integration-map]
 ai_domains: [computer-vision, representation-learning, scientific-machine-learning]
 source_refs: []
 level: advanced
 created: 2026-07-27
-updated: 2026-08-12
+updated: 2026-09-03
 description: "Математические маршруты для свёрток, геометрии, многомасштабности и обратных задач зрения."
 ---
 

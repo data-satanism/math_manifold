@@ -5,17 +5,20 @@ aliases: ["Теорема Стокса", "Stokes theorem"]
 type: theorem
 status: canonical
 publish: true
-areas: [applied-mathematics, vector-calculus]
-concepts: [curl, circulation, oriented-surface, boundary]
-prerequisites: [multivariable-calculus, line-integral, surface-integral, vector-field]
+areas: [applied-mathematics, vector-calculus, differential-geometry]
+concepts: [curl, circulation, oriented-surface, boundary, differential-form, exterior-derivative]
+prerequisites: [multivariable-calculus, line-integral, surface-integral, vector-field, differential-form]
 ai_domains: [scientific-machine-learning, neural-operators, computer-vision]
 source_refs:
   - id: myshkis-applied-mathematics-engineers-2006
     pages: "16-18"
     role: primary
+  - id: knapp-stokes-whitney-2021
+    pages: "56-79"
+    role: primary
 level: advanced
 created: 2026-07-16
-updated: 2026-07-27
+updated: 2026-09-03
 ---
 
 # Формула Стокса
@@ -45,6 +48,16 @@ $$
 $$
 
 Если поверхность имеет отверстия, $\partial S$ содержит все компоненты границы с согласованными ориентациями.
+
+### Общая формулировка для дифференциальных форм
+
+Пусть $M$ — компактное ориентированное гладкое многообразие размерности $m$ с границей, а $\omega$ — гладкая $(m-1)$-форма. Ориентация $\partial M$ индуцирована ориентацией $M$. Тогда
+
+$$
+\boxed{\int_M d\omega=\int_{\partial M}\omega}.
+$$
+
+Формула для ротора в $\mathbb R^3$, формула Грина и формула Ньютона—Лейбница являются координатными проявлениями одного результата. Эта запись важна для курса [[30_mathematics/lie-groups-differential-geometry/lie-groups-differential-geometry-map|«Группы Ли, представления и дифференциальная геометрия»]]: она отделяет геометрический закон от конкретных координат и метрики.
 
 ## Пошаговая схема доказательства
 
@@ -112,7 +125,7 @@ $$
 
 ## Визуализация
 
-![Локальные вращения на ориентированной поверхности суммируются в циркуляцию по внешней границе; показаны сеточная проверка и ошибки ориентации](80_assets/applied-mathematics/gpt-image-v1/stokes-theorem-insight.png)
+![Локальные вращения на ориентированной поверхности суммируются в циркуляцию по внешней границе; показаны сеточная проверка и ошибки ориентации](80_assets/applied-mathematics/gpt-image-v1/stokes-theorem-insight.webp)
 
 ## Самопроверка
 
@@ -124,5 +137,7 @@ $$
 ## Источники и связи
 
 - [[60_sources/myshkis-applied-mathematics-engineers|Мышкис]], с. 16–18, формулы (10)–(14).
+- [[60_sources/knapp-stokes-whitney-2021|Кнапп]], с. 56–79: многообразия с границей, ориентация и общая теорема Стокса.
+- [[30_mathematics/lie-groups-differential-geometry/modules/lg-04-differential-forms-stokes|Дифференциальные формы и теорема Стокса]].
 - [[30_mathematics/applied-mathematics/theorems/gauss-ostrogradsky|Формула Остроградского]].
 - [[50_bridges/field-invariants-physics-informed-models|Интегральные инварианты в моделях ИИ]].

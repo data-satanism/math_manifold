@@ -203,7 +203,7 @@ print("квантили |отклонения|:", np.quantile(np.abs(z), [0.5, 0
 
 ## 10. Визуализация
 
-![Квадратичные формы: сеть зависимых попарных взаимодействий, разделение на независимые копии, два хвостовых режима и перенос к диагностике ИИ](80_assets/probability/gpt-image-v2/probability-module-06-quadratic-forms-symmetrization-v2.png)
+![Квадратичные формы: сеть зависимых попарных взаимодействий, разделение на независимые копии, два хвостовых режима и перенос к диагностике ИИ](80_assets/probability/gpt-image-v2/probability-module-06-quadratic-forms-symmetrization-v2.webp)
 
 Промпт и карта смысловых панелей находятся в [[70_labs/figures/probability-middle-block-gpt-image-v2|лабораторной заметке]].
 

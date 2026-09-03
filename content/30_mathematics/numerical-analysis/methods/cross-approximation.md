@@ -44,7 +44,7 @@ $$
 
 ## Визуализация
 
-![Опорные строки и столбцы образуют устойчивый крест только при хорошем пересечении](80_assets/numerical-analysis/gpt-image-v5/nla-ch25-hierarchical-low-rank-insight.png)
+![Опорные строки и столбцы образуют устойчивый крест только при хорошем пересечении](80_assets/numerical-analysis/gpt-image-v5/nla-ch25-hierarchical-low-rank-insight.webp)
 
 ## Источник
 

@@ -8,14 +8,14 @@ publish: true
 areas: [numerical-analysis, optimization]
 concepts: [newton-optimization, line-search, gradient-descent, steepest-descent, quasi-newton]
 prerequisites: [nla-18-nonlinear-equations-newton-secant, linear-algebra, multivariable-calculus]
-ai_domains: [deep-learning, second-order-methods, automatic-differentiation]
+ai_domains: [deep-learning, second-order-methods, autodiff]
 source_refs:
   - id: tyrtyshnikov-numerical-analysis
     pages: "179-189"
     role: primary
 level: advanced
 created: 2026-07-15
-updated: 2026-08-12
+updated: 2026-09-03
 ---
 
 # Глава 18. Безусловная минимизация и глобализация шага
@@ -129,7 +129,7 @@ $$
 
 ## Визуализация
 
-![Кривизна, дробление шага, быстрый градиент и перенос к обучению модели](80_assets/numerical-analysis/gpt-image-v4/nla-ch18-optimization-insight.png)
+![Кривизна, дробление шага, быстрый градиент и перенос к обучению модели](80_assets/numerical-analysis/gpt-image-v4/nla-ch18-optimization-insight.webp)
 
 [Открыть интерактив геометрии шага](80_assets/interactive/line-search-geometry.html) · [лабораторная страница](70_labs/interactive/nonlinear-optimization-krylov-widgets)
 

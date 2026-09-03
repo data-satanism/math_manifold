@@ -8,14 +8,14 @@ publish: true
 areas: [complex-analysis, hyperbolic-geometry, machine-learning]
 concepts: [mobius-transformation, poincare-disk, hyperbolic-isometry, equivariance]
 prerequisites: [mobius-transformation, riemann-sphere, metric-space]
-ai_domains: [geometric-deep-learning, representation-learning, graph-learning]
+ai_domains: [geometric-deep-learning, representation-learning, graph-ml]
 source_refs:
   - id: needham-visual-complex-analysis-1997
     pages: "122-188"
     role: mathematical-foundation
 level: advanced
 created: 2026-07-30
-updated: 2026-08-12
+updated: 2026-09-03
 ---
 
 # Преобразования Мёбиуса и гиперболические представления
@@ -128,7 +128,7 @@ $$
 
 ## Визуализация
 
-![Преобразование Мёбиуса меняет центр диска Пуанкаре, сохраняя гиперболические отношения; карта метро объясняет геометрию, иерархическое вложение показывает применение, а скопление у границы — численный отказ](80_assets/complex-analysis/gpt-image-v1/bridge-mobius-hyperbolic-representations.png)
+![Преобразование Мёбиуса меняет центр диска Пуанкаре, сохраняя гиперболические отношения; карта метро объясняет геометрию, иерархическое вложение показывает применение, а скопление у границы — численный отказ](80_assets/complex-analysis/gpt-image-v1/bridge-mobius-hyperbolic-representations.webp)
 
 ## Самопроверка
 

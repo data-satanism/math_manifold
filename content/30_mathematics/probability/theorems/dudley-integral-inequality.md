@@ -241,7 +241,7 @@ def entropy_integral(scales, cover_counts):
 
 ## Визуализация
 
-![Неравенство Дадли: цепочка сетей на разных масштабах, картографическая аналогия, профиль метрической энтропии и отказ при неверной метрике](80_assets/probability/gpt-image-v3/dudley-integral-inequality-insight-v3.png)
+![Неравенство Дадли: цепочка сетей на разных масштабах, картографическая аналогия, профиль метрической энтропии и отказ при неверной метрике](80_assets/probability/gpt-image-v3/dudley-integral-inequality-insight-v3.webp)
 
 ## Упражнения
 

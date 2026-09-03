@@ -58,7 +58,7 @@ $$
 
 ## Визуализация
 
-![Частотные карты показывают, какие масштабы исправляет каждый уровень и какое кольцо теряется при неудачном переносе](80_assets/numerical-analysis/gpt-image-v7/bridge-multigrid-multiscale-learning-v7.png)
+![Частотные карты показывают, какие масштабы исправляет каждый уровень и какое кольцо теряется при неудачном переносе](80_assets/numerical-analysis/gpt-image-v7/bridge-multigrid-multiscale-learning-v7.webp)
 
 ### Как читать рисунок
 

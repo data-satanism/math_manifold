@@ -169,7 +169,7 @@ $$
 
 ## Визуализация
 
-![Математический механизм, режим отказа и перенос в ИИ — модуль 12](80_assets/optimization/gpt-image-v1/optimization-module-12-primal-dual-minimax-robust-v1.png)
+![Математический механизм, режим отказа и перенос в ИИ — модуль 12](80_assets/optimization/gpt-image-v1/optimization-module-12-primal-dual-minimax-robust-v1.webp)
 
 ## Самопроверка
 

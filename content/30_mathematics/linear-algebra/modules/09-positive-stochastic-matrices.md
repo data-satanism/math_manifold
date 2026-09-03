@@ -8,14 +8,14 @@ publish: true
 areas: [linear-algebra, positive-operators, markov-chains]
 concepts: [positive-matrix, irreducibility, primitivity, stochastic-matrix, inverse-positive-matrix]
 prerequisites: [fa-12-positive-operators, linear-algebra-06-matrix-functions-linear-dynamics]
-ai_domains: [graph-learning, markov-models, ranking, dynamical-models]
+ai_domains: [graph-ml, markov-models, ranking, dynamical-models]
 source_refs:
   - id: boss-linear-algebra-2005
     pages: "162-180"
     role: primary
 level: advanced
 created: 2026-07-27
-updated: 2026-08-12
+updated: 2026-09-03
 ---
 
 # Положительные и стохастические матрицы
@@ -183,7 +183,7 @@ $$
 
 ## Визуализация
 
-![Положительный конус, нормированное отображение, устойчивый рецепт и переход вероятностей к стационарному распределению](80_assets/linear-algebra/gpt-image-v3/perron-frobenius-positive-dynamics-insight-v3.png)
+![Положительный конус, нормированное отображение, устойчивый рецепт и переход вероятностей к стационарному распределению](80_assets/linear-algebra/gpt-image-v3/perron-frobenius-positive-dynamics-insight-v3.webp)
 
 ## Самопроверка
 

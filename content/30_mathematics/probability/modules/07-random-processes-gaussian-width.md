@@ -194,7 +194,7 @@ print("плотная сфера, выборка:", sampled_width(T_ball))
 
 ## 11. Визуализация
 
-![Случайные процессы и гауссовская ширина: метрика приращений, случайные тени множества, эффективная сложность и режим неверной метрики](80_assets/probability/gpt-image-v3/probability-module-07-random-processes-gaussian-width-v3.png)
+![Случайные процессы и гауссовская ширина: метрика приращений, случайные тени множества, эффективная сложность и режим неверной метрики](80_assets/probability/gpt-image-v3/probability-module-07-random-processes-gaussian-width-v3.webp)
 
 ## 12. Самопроверка
 

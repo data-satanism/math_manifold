@@ -8,14 +8,14 @@ publish: true
 areas: [linear-algebra, scientific-visualization]
 concepts: [visual-prompt, conceptual-figure, ai-transfer]
 prerequisites: [boss-linear-algebra-map]
-ai_domains: [representation-learning, graph-learning, dynamical-models]
+ai_domains: [representation-learning, graph-ml, dynamical-models]
 source_refs:
   - id: boss-linear-algebra-2005
     pages: "10-180"
     role: primary
 level: intermediate
 created: 2026-07-27
-updated: 2026-07-27
+updated: 2026-09-03
 ---
 
 # Промпты визуализаций: завершение линейной алгебры
@@ -37,11 +37,11 @@ updated: 2026-07-27
 
 ## Результаты
 
-- `80_assets/linear-algebra/gpt-image-v3/coordinate-invariants-embeddings-insight-v3.png`
-- `80_assets/linear-algebra/gpt-image-v3/linear-recognition-probe-insight-v3.png`
-- `80_assets/linear-algebra/gpt-image-v3/cayley-hamilton-recurrence-insight-v3.png`
-- `80_assets/linear-algebra/gpt-image-v3/matrix-exponential-flow-insight-v3.png`
-- `80_assets/linear-algebra/gpt-image-v3/gordan-alternative-certificate-insight-v3.png`
-- `80_assets/linear-algebra/gpt-image-v3/perron-frobenius-positive-dynamics-insight-v3.png`
+- `80_assets/linear-algebra/gpt-image-v3/coordinate-invariants-embeddings-insight-v3.webp`
+- `80_assets/linear-algebra/gpt-image-v3/linear-recognition-probe-insight-v3.webp`
+- `80_assets/linear-algebra/gpt-image-v3/cayley-hamilton-recurrence-insight-v3.webp`
+- `80_assets/linear-algebra/gpt-image-v3/matrix-exponential-flow-insight-v3.webp`
+- `80_assets/linear-algebra/gpt-image-v3/gordan-alternative-certificate-insight-v3.webp`
+- `80_assets/linear-algebra/gpt-image-v3/perron-frobenius-positive-dynamics-insight-v3.webp`
 
 Фигура альтернативы была отдельным проходом исправлена: зелёный цвет удалён, а знак сложения между взаимоисключающими системами заменён подписью «ИЛИ, ровно одна».

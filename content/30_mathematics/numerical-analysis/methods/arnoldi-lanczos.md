@@ -63,7 +63,7 @@ $$
 
 ## Визуализация
 
-![Рост крыловского базиса, полиномиальный фильтр и матрично-свободное действие гессиана](80_assets/numerical-analysis/gpt-image-v4/nla-ch19-krylov-insight.png)
+![Рост крыловского базиса, полиномиальный фильтр и матрично-свободное действие гессиана](80_assets/numerical-analysis/gpt-image-v4/nla-ch19-krylov-insight.webp)
 
 ## Источник
 

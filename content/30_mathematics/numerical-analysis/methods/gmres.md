@@ -67,7 +67,7 @@ $$
 
 ## Визуализация
 
-![Минимизация невязки, полином на спектральной области и пример ковариационной системы](80_assets/numerical-analysis/gpt-image-v4/nla-ch20-gmres-insight.png)
+![Минимизация невязки, полином на спектральной области и пример ковариационной системы](80_assets/numerical-analysis/gpt-image-v4/nla-ch20-gmres-insight.webp)
 
 ## Источник
 

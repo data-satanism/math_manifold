@@ -45,7 +45,7 @@ $$
 
 ## Визуализация
 
-![Повторяющийся сдвиг раскрывается как покомпонентное масштабирование частот](80_assets/numerical-analysis/gpt-image-v5/nla-ch24-toeplitz-fft-insight.png)
+![Повторяющийся сдвиг раскрывается как покомпонентное масштабирование частот](80_assets/numerical-analysis/gpt-image-v5/nla-ch24-toeplitz-fft-insight.webp)
 
 ## Источник
 

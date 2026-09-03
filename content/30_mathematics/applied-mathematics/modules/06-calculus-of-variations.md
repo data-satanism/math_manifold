@@ -234,7 +234,7 @@ $$
 
 ## Визуализация
 
-![Пространство функций, первая и вторая вариации, переход к уравнению и независимая проверка вариационной модели в ИИ](80_assets/calculus-of-variations/gpt-image-v1/calculus-of-variations-module-insight-v1.png)
+![Пространство функций, первая и вторая вариации, переход к уравнению и независимая проверка вариационной модели в ИИ](80_assets/calculus-of-variations/gpt-image-v1/calculus-of-variations-module-insight-v1.webp)
 
 ## Самопроверка
 

@@ -8,14 +8,17 @@ publish: true
 areas: [tensor-analysis, differential-geometry]
 concepts: [connection, covariant-derivative, christoffel-symbols, tensor-field, coordinate-change]
 prerequisites: [apm-05-tensor-calculus]
-ai_domains: [geometric-deep-learning, equivariant-learning, graph-learning]
+ai_domains: [geometric-deep-learning, equivariant-learning, graph-ml]
 source_refs:
   - id: myshkis-applied-mathematics-engineers-2006
     pages: "269-274"
     role: primary
+  - id: gallier-riemannian-manifolds-2011
+    pages: "55-62"
+    role: primary
 level: advanced
 created: 2026-07-17
-updated: 2026-07-27
+updated: 2026-09-03
 ---
 
 # Тензорность ковариантной производной
@@ -132,7 +135,7 @@ $$
 
 ## Визуализация
 
-[![Обычная производная путает изменение компонент с движением базиса, а связность компенсирует координатный эффект; показана аналогия с переносом сообщений графовой сети](80_assets/tensor-analysis/gpt-image-v1/covariant-derivative-tensoriality-insight.png)](80_assets/tensor-analysis/gpt-image-v1/covariant-derivative-tensoriality-insight.png)
+[![Обычная производная путает изменение компонент с движением базиса, а связность компенсирует координатный эффект; показана аналогия с переносом сообщений графовой сети](80_assets/tensor-analysis/gpt-image-v1/covariant-derivative-tensoriality-insight.webp)](80_assets/tensor-analysis/gpt-image-v1/covariant-derivative-tensoriality-insight.webp)
 
 ## Самопроверка
 
@@ -144,5 +147,7 @@ $$
 ## Источники и связи
 
 - [[60_sources/myshkis-applied-mathematics-engineers|Мышкис]], с. 269–274: символы Кристоффеля, связность и ковариантное дифференцирование.
+- [[60_sources/gallier-riemannian-manifolds-2011|Галлье]], с. 55–62: связности и ковариантная производная на римановом многообразии.
+- [[30_mathematics/lie-groups-differential-geometry/modules/lg-05-riemannian-metrics-connections|Римановы метрики, связности и параллельный перенос]].
 - [[30_mathematics/applied-mathematics/modules/05-tensor-calculus|Тензоры, ковариантность и геометрия]].
 - [[50_bridges/tensors-geometric-deep-learning|Тензоры и геометрическое глубокое обучение]].

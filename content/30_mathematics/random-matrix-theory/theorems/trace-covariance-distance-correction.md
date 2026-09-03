@@ -113,7 +113,7 @@ distance_corrected = (1 - c1) * np.trace(np.linalg.solve(S1, S2)) / p
 
 ## Визуализация
 
-![Концепция теоремы: смещение наивной подстановки и калибровка ковариационного расстояния](80_assets/random-matrix-theory/gpt-image-v3/covariance-distance-correction-insight-v3.png)
+![Концепция теоремы: смещение наивной подстановки и калибровка ковариационного расстояния](80_assets/random-matrix-theory/gpt-image-v3/covariance-distance-correction-insight-v3.webp)
 
 ## Самопроверка
 

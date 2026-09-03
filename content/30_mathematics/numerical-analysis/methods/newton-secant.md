@@ -65,7 +65,7 @@ $$
 
 ## Визуализация
 
-![Касательная, секущая, бассейн притяжения и неявный слой](80_assets/numerical-analysis/gpt-image-v4/nla-ch17-newton-insight.png)
+![Касательная, секущая, бассейн притяжения и неявный слой](80_assets/numerical-analysis/gpt-image-v4/nla-ch17-newton-insight.webp)
 
 ## Источник
 

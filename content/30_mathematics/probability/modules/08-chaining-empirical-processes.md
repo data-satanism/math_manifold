@@ -205,7 +205,7 @@ print("число порогов:", thresholds.size, "объём выборки:
 
 ## 12. Визуализация
 
-![Цепочки и эмпирические процессы: многошкальные сети, картографическая аналогия, равномерная ошибка класса и адаптивная утечка](80_assets/probability/gpt-image-v3/probability-module-08-chaining-empirical-processes-v3.png)
+![Цепочки и эмпирические процессы: многошкальные сети, картографическая аналогия, равномерная ошибка класса и адаптивная утечка](80_assets/probability/gpt-image-v3/probability-module-08-chaining-empirical-processes-v3.webp)
 
 ## 13. Самопроверка
 
