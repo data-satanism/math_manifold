@@ -11,11 +11,11 @@ prerequisites: [ten-01-multilinear-objects]
 ai_domains: [model-compression, llm, scientific-machine-learning]
 source_refs:
   - id: kolda-bader-tensors-2009
-    pages: "PDF 4–25"
+    pages: "PDF 8–20"
     role: primary
 level: advanced
 created: 2026-08-12
-updated: 2026-09-03
+updated: 2026-10-01
 ---
 
 # Модуль 02. CP-разложение и тензорный ранг
@@ -102,5 +102,5 @@ CP-представление имеет неизбежные неоднозна
 
 ## Источники и дальнейший маршрут
 
-- [[60_sources/kolda-bader-tensors|источник kolda-bader-tensors-2009]], PDF 4–25.
+- [[60_sources/kolda-bader-tensors|источник kolda-bader-tensors-2009]], PDF 8–20.
 - [[30_mathematics/tensor-methods/ten-source-map|постраничная карта источников]].

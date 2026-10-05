@@ -11,17 +11,19 @@ prerequisites: [ten-07-completion-cur-sampling]
 ai_domains: [model-compression, llm, scientific-machine-learning]
 source_refs:
   - id: kolda-bader-tensors-2009
-    pages: "PDF 1–46"
+    pages: "PDF 8–26"
     role: supporting
   - id: halko-randomized-matrices-2011
-    pages: "PDF 1–74"
+    pages: "PDF 21–35, 50–63"
     role: supporting
 level: advanced
 created: 2026-08-12
-updated: 2026-09-03
+updated: 2026-10-01
 ---
 
 # Модуль 08. Малоранговые методы в обучении и сжатии моделей
+
+Указанные источники обосновывают матричные и тензорные разложения. Они не являются первичными источниками по LoRA и не доказывают сохранение качества нейросети после сжатия; соответствующие связи ниже требуют отдельной проверки.
 
 ## Зачем нужен этот модуль
 
@@ -105,6 +107,6 @@ LoRA параметризует $\Delta W=BA$ с рангом не выше $r$.
 
 ## Источники и дальнейший маршрут
 
-- [[60_sources/kolda-bader-tensors|источник kolda-bader-tensors-2009]], PDF 1–46.
-- [[60_sources/halko-randomized-matrices|источник halko-randomized-matrices-2011]], PDF 1–74.
+- [[60_sources/kolda-bader-tensors|источник kolda-bader-tensors-2009]], PDF 8–26.
+- [[60_sources/halko-randomized-matrices|источник halko-randomized-matrices-2011]], PDF 21–35, 50–63.
 - [[30_mathematics/tensor-methods/ten-source-map|постраничная карта источников]].

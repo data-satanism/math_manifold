@@ -15,7 +15,7 @@ source_refs:
     role: primary
 level: advanced
 created: 2026-07-13
-updated: 2026-07-27
+updated: 2026-10-01
 ---
 
 # Теорема о разложении Холецкого
@@ -85,8 +85,7 @@ l_{jj}=\sqrt{a_{jj}-\sum_{k<j}l_{jk}^2},
 $$
 
 $$
-l_{ij}=
-rac{a_{ij}-\sum_{k<j}l_{ik}l_{jk}}{l_{jj}},
+l_{ij}=\frac{a_{ij}-\sum_{k<j}l_{ik}l_{jk}}{l_{jj}},
 \qquad i>j.
 $$
 

@@ -11,11 +11,11 @@ prerequisites: [linear-algebra]
 ai_domains: [model-compression, llm, scientific-machine-learning]
 source_refs:
   - id: kolda-bader-tensors-2009
-    pages: "PDF 1–9"
+    pages: "PDF 3–8"
     role: primary
 level: advanced
 created: 2026-08-12
-updated: 2026-09-03
+updated: 2026-10-01
 ---
 
 # Модуль 01. Тензоры как многолинейные объекты
@@ -102,5 +102,5 @@ updated: 2026-09-03
 
 ## Источники и дальнейший маршрут
 
-- [[60_sources/kolda-bader-tensors|источник kolda-bader-tensors-2009]], PDF 1–9.
+- [[60_sources/kolda-bader-tensors|источник kolda-bader-tensors-2009]], PDF 3–8.
 - [[30_mathematics/tensor-methods/ten-source-map|постраничная карта источников]].

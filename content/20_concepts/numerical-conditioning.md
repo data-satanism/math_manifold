@@ -15,7 +15,7 @@ source_refs:
     role: primary
 level: advanced
 created: 2026-07-13
-updated: 2026-07-27
+updated: 2026-10-01
 ---
 
 # Обусловленность численной задачи
@@ -61,7 +61,7 @@ $$
 \frac{\|\delta x\|}{\|x\|}
 \le
 \kappa(A)
-rac{\|\delta b\|}{\|b\|}.
+\frac{\|\delta b\|}{\|b\|}.
 $$
 
 ### Вывод

@@ -15,7 +15,7 @@ source_refs:
     role: primary
 level: advanced
 created: 2026-07-21
-updated: 2026-07-27
+updated: 2026-10-01
 ---
 
 # Геометрия логарифмической статистической суммы
@@ -103,7 +103,7 @@ $$
 $$
 \partial_\ell\mathbb E_\theta\Phi_j(X)
 =
-\mathbb E_\theta\!left[
+\mathbb E_\theta\!\left[
 \Phi_j(X)
 \bigl(\Phi_\ell(X)-\mathbb E_\theta\Phi_\ell(X)\bigr)
 \right],

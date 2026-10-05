@@ -98,6 +98,11 @@
       "sha256": "f2864b4c44642b1692ee4316ce45069ff4ebb9000f0e4ce04fd4df41a8da4b1e"
     },
     {
+      "id": "atlas-stage-4-review",
+      "path": "10_maps/atlas-stage-4-review.md",
+      "sha256": "784916ea961e8fce21fb4a97043baa42ae395bf16e3511e9dd1f0fefe40b3216"
+    },
+    {
       "id": "averaging-slow-amplitude-phase",
       "path": "30_mathematics/applied-mathematics/methods/averaging-slow-amplitude-phase.md",
       "sha256": "58135364fa2c3d11a1e4cbdf9763037b7b71c77d3e1358ecfd2c8d833cce0cf1"
@@ -131,6 +136,71 @@
       "id": "barycentric-and-newton-interpolation",
       "path": "30_mathematics/numerical-analysis/methods/barycentric-and-newton-interpolation.md",
       "sha256": "a0cd946c6d76fbb4552fa24a58e40bbced8c9c4e2af157408692114b393d6ddb"
+    },
+    {
+      "id": "bda-01-svd-pca-gram",
+      "path": "30_mathematics/big-data-algorithms/modules/bda-01-svd-pca-gram.md",
+      "sha256": "c653d8b5592418f86ceb854fd9d9d9bcac81abe694792efc5b19aa0e5a85aab9"
+    },
+    {
+      "id": "bda-02-pseudoinverse-regularization",
+      "path": "30_mathematics/big-data-algorithms/modules/bda-02-pseudoinverse-regularization.md",
+      "sha256": "498b76085c448cc99736e3422e52e02e2227273d7623adf4b82fa4e1126ff887"
+    },
+    {
+      "id": "bda-03-randomized-svd",
+      "path": "30_mathematics/big-data-algorithms/modules/bda-03-randomized-svd.md",
+      "sha256": "cdc2c08d9b21a464692058ae77760f09a4194932c4ffcdb5f2979612769ffefb"
+    },
+    {
+      "id": "bda-04-batch-streaming-least-squares",
+      "path": "30_mathematics/big-data-algorithms/modules/bda-04-batch-streaming-least-squares.md",
+      "sha256": "278d6e731264eb484ab66bef2faf152cb7a2f4463e830e25663b224de49b4a5d"
+    },
+    {
+      "id": "bda-05-matrix-completion",
+      "path": "30_mathematics/big-data-algorithms/modules/bda-05-matrix-completion.md",
+      "sha256": "79b4fe146b21b057438d2fd3faf8280287409b87d4d9eeb99ee52a04bd48d9ff"
+    },
+    {
+      "id": "bda-06-nmf-als-hals",
+      "path": "30_mathematics/big-data-algorithms/modules/bda-06-nmf-als-hals.md",
+      "sha256": "f611c6a85cbd7ea3499d8eb14aa07706f045343481b62d9e210f86a268d3b417"
+    },
+    {
+      "id": "bda-course-map",
+      "path": "30_mathematics/big-data-algorithms/bda-map.md",
+      "sha256": "28be4811d28518b68d8893eb62bf49ede24bc430133f448c0c49c760917b7c66"
+    },
+    {
+      "id": "bda-hals-coordinate-descent",
+      "path": "30_mathematics/big-data-algorithms/theorems/bda-hals-coordinate-descent.md",
+      "sha256": "8d00d722d5beabde322041e3c8739469e501d9e5d7bf7822a399bb1eea38872c"
+    },
+    {
+      "id": "bda-matrix-completion-identifiability",
+      "path": "30_mathematics/big-data-algorithms/theorems/bda-matrix-completion-identifiability.md",
+      "sha256": "944afe7e4c44728a0f1320246337b5a9bc5fd731bb19499839ed6f870d1f36d4"
+    },
+    {
+      "id": "bda-source-map",
+      "path": "30_mathematics/big-data-algorithms/bda-source-map.md",
+      "sha256": "6a0168995bc4c00a0b72fd60c146696dff2ce181df72517263f80fda1d07f8e2"
+    },
+    {
+      "id": "bda-stage-5-streaming-lab",
+      "path": "70_labs/big-data-algorithms/stage-5/bda-stage-5-streaming-lab.md",
+      "sha256": "331e60a7e7059983c53d9e242fd531ddc203424bc4cf4e776e1c8211e31a0f47"
+    },
+    {
+      "id": "bda-stage-6-completion-lab",
+      "path": "70_labs/big-data-algorithms/stage-6/bda-stage-6-completion-lab.md",
+      "sha256": "84a7c4c46fd544902c70094620e3902d77078d848ea31de0df78af620b96173a"
+    },
+    {
+      "id": "bda-stage-7-nmf-lab",
+      "path": "70_labs/big-data-algorithms/stage-7/bda-stage-7-nmf-lab.md",
+      "sha256": "25c7c79893190329ad92c6a904c8657e6e30893410a54251da9e3c4321d5e461"
     },
     {
       "id": "bernstein-ellipse-interpolation-theorem",
@@ -343,6 +413,11 @@
       "sha256": "a9e2deee6bd586830fdbb5aa03be510ea019525d0b0630aa6b3c2d883a1435ad"
     },
     {
+      "id": "bridge-matrix-completion-held-out-observations",
+      "path": "50_bridges/matrix-completion-held-out-observations.md",
+      "sha256": "61eeea39042dcf879d73ab4d3557f044565c1ff6571d297372205056bf3b40e1"
+    },
+    {
       "id": "bridge-matrix-equations-control-learning",
       "path": "50_bridges/matrix-equations-control-learning.md",
       "sha256": "0781d92739e3a3ec65a6b0467693344bbd9fea0023f5afa9c6a567e1c8443f7e"
@@ -425,7 +500,7 @@
     {
       "id": "bridge-rmt-spectral-diagnostics",
       "path": "50_bridges/rmt-spectral-diagnostics.md",
-      "sha256": "118c6c9321335c4d74a652d617e1e25bd5b441d244e42d27afdeecbde2484556"
+      "sha256": "d18b21f99c52d87b3717fa7dd6863f130f41a08ddcee240889b34d2dda0cdc57"
     },
     {
       "id": "bridge-sde-diffusion-state-space",
@@ -446,6 +521,11 @@
       "id": "bridge-splines-calibration-monotone-models",
       "path": "50_bridges/splines-calibration-monotone-models.md",
       "sha256": "2323f7a323540cee5717984543048e9fd5e2435e5f5fa2731066aa72ee51ce8f"
+    },
+    {
+      "id": "bridge-streaming-regression-fixed-features",
+      "path": "50_bridges/streaming-regression-fixed-features.md",
+      "sha256": "79418acbc65134a036cee24d5a5ebf0ea8888be8de9c469424bbb9ab96da7917"
     },
     {
       "id": "bridge-structured-recovery-low-rank-adaptation",
@@ -470,7 +550,7 @@
     {
       "id": "bridge-tensor-low-rank-ai",
       "path": "50_bridges/tensor-low-rank-ai.md",
-      "sha256": "ad5e19d05ace839d4dd5f3f909d33670e1dd710cb00fa85773adc39143a92978"
+      "sha256": "216767c1674a2738088a83489791be8147e9905fb84b5857d2bd7d935b21d339"
     },
     {
       "id": "bridge-tensors-geometric-deep-learning",
@@ -550,7 +630,7 @@
     {
       "id": "cholesky-factorization-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/cholesky-factorization.md",
-      "sha256": "4f64bcc984bc21b95e508b25fb167377a4e1e7ac223976c4452ef4722a0a5713"
+      "sha256": "8ecdc13e22503db281eecebe16a68afb801a87b398245cfdae3c92ad9f4184ef"
     },
     {
       "id": "circulant-fourier-diagonalization-theorem",
@@ -906,6 +986,11 @@
       "id": "gaussian-quadrature-optimality-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/gaussian-quadrature-optimality.md",
       "sha256": "1530fe59a4fc0a328193314ef500350741573024135e5d9d4e575b5af4b57f2e"
+    },
+    {
+      "id": "gaussian-sample-covariance-operator-bound",
+      "path": "30_mathematics/random-matrix-theory/theorems/gaussian-sample-covariance-operator-bound.md",
+      "sha256": "074e81f429b2ec74bfda2d3efb65862ed584cf947d40d7ce983a657a32d9bb1e"
     },
     {
       "id": "gaussian-width-complexity",
@@ -1298,6 +1383,11 @@
       "sha256": "c8c80506e8a1c5d7f220228515ea26b8bed14a12e0e2e0fbd469c4af98d64616"
     },
     {
+      "id": "lab-big-data-pilot-reproducibility",
+      "path": "70_labs/big-data-algorithms/pilot-reproducibility.md",
+      "sha256": "05a92b082868ffdf67469f4e345f662b71e0f72b28f3f175e7ed1d4b16ba742e"
+    },
+    {
       "id": "lab-exponential-rkhs-statistical-models-figures",
       "path": "70_labs/figures/exponential-rkhs-statistical-models-figures.md",
       "sha256": "f167a41313bd867cdcd02d241eacdfc1ec117e2dea7d4affc43ed9bddb9c2099"
@@ -1370,7 +1460,7 @@
     {
       "id": "lab-needham-release-1a-gpt-image-v1",
       "path": "70_labs/figures/needham-release-1a-gpt-image-v1.md",
-      "sha256": "c17ae82287fff8a117b1c4be906853724e3f283e7ef08eecd554cb52a3dc8b2e"
+      "sha256": "114dee6f7b472ead016221cd8dd5a01f8912332203808a3a00a6d4380bafb60e"
     },
     {
       "id": "lab-needham-release-1a-widgets",
@@ -1483,9 +1573,19 @@
       "sha256": "fa5c5fedc7f8686fde96037cf544d7e2c248a896ef0d2b3babdb412e79f9c668"
     },
     {
+      "id": "lab-rmt-stage-4-diagnostics",
+      "path": "70_labs/rmt/stage-4/rmt-stage-4-diagnostics.md",
+      "sha256": "49fd0cdc5d1884b29a92dbf88ecb812cc44d7d05e21a4ae9ad287b2c22e1e243"
+    },
+    {
       "id": "lab-support-vector-estimation-figures",
       "path": "70_labs/figures/support-vector-estimation-figures.md",
       "sha256": "60d75b8735c1161e6c0dca884b516e45e49c76f6e5bce43a3ddd49286fc0acc1"
+    },
+    {
+      "id": "lab-tensor-stage-4-diagnostics",
+      "path": "70_labs/tensor-methods/stage-4/tensor-stage-4-diagnostics.md",
+      "sha256": "f6ffbc74aa6c1df6aa4c270d0391770cc6a7efc3bb1857b4a334849dda609a15"
     },
     {
       "id": "lab-tensors-matrix-equations-prompts-v1",
@@ -1550,7 +1650,7 @@
     {
       "id": "lg-05-riemannian-metrics-connections",
       "path": "30_mathematics/lie-groups-differential-geometry/modules/lg-05-riemannian-metrics-connections.md",
-      "sha256": "fb60137ef19fa101caf23d1f22d2b9ad5afc2d66ef46e7fc334b7d09043a076d"
+      "sha256": "59d3d12842ce97bd767e3f02fcc44f00da1212dafb11bdcdcfc15746cf849fb7"
     },
     {
       "id": "lg-06-geodesics-exponential-curvature",
@@ -1710,7 +1810,7 @@
     {
       "id": "marchenko-pastur-law",
       "path": "30_mathematics/random-matrix-theory/theorems/marchenko-pastur-law.md",
-      "sha256": "ebb068a9f4f371d4cf7df5a3edb393b51d40b22fab69e23d6e13b5e9fe037894"
+      "sha256": "cdfe9a4365a409838f65cc5cd754bd18448c6dfc7ca773b6c56a4f80dff0eea8"
     },
     {
       "id": "math-ai-home",
@@ -1978,6 +2078,11 @@
       "sha256": "681c6d676ee100a95cbef1fb161b2f7a8722349e95e3d21fe9454971c213596e"
     },
     {
+      "id": "nmf-additive-representations",
+      "path": "50_bridges/nmf-additive-representations.md",
+      "sha256": "4315811de214e660941bed777834b4701f0ff457eb7da91f9fe387d27ec8b562"
+    },
+    {
       "id": "noether-variational-symmetry-theorem",
       "path": "30_mathematics/applied-mathematics/theorems/noether-variational-symmetry.md",
       "sha256": "ca58778f743ca28b5b8bdc8413350f6a5c1379318f1a7e57d936ecb58fb5ff5a"
@@ -1990,7 +2095,7 @@
     {
       "id": "numerical-conditioning",
       "path": "20_concepts/numerical-conditioning.md",
-      "sha256": "dd86a1bb6f2f5779afe32901f419da895cee31307ddbfbfae75ab512d7131f0e"
+      "sha256": "4d46d833685fea65b0021c22cc37a1bbaab1916d96a0ad2492bc295d12efc44c"
     },
     {
       "id": "numerical-linear-algebra-map",
@@ -2350,7 +2455,7 @@
     {
       "id": "random-matrix-theory-map",
       "path": "30_mathematics/random-matrix-theory/random-matrix-theory-map.md",
-      "sha256": "bf0751830bcf2109ca3941fae3afd92d7c8086f3114839018d0fcbcf9cade82e"
+      "sha256": "e1bf9337afc4e23021e2b58746b9a8b00ed1798469fe2655a7ab28704afe5551"
     },
     {
       "id": "rayleigh-shift-quadratic-convergence-theorem",
@@ -2440,17 +2545,17 @@
     {
       "id": "rmt-01-high-dimensional-spectra",
       "path": "30_mathematics/random-matrix-theory/modules/01-high-dimensional-spectra.md",
-      "sha256": "fb9ff925c45438e46d03d94a7c11d47b5355a922e571b9d204e150eb9551dd02"
+      "sha256": "cb5100ab8a8d1888f4f255d0ef945149189897ae10a7a1aaef62a87b555f21e4"
     },
     {
       "id": "rmt-02-resolvents-deterministic-equivalents",
       "path": "30_mathematics/random-matrix-theory/modules/02-resolvents-deterministic-equivalents.md",
-      "sha256": "35130350504a9e4388db7f7ed2d8ff243cff84bf6e769e571ad59671b28d9271"
+      "sha256": "f0db5762695bf8cd22a12e961aa8101a619352242e481b845542e336e3675f5e"
     },
     {
       "id": "rmt-03-covariance-inference-linear-models",
       "path": "30_mathematics/random-matrix-theory/modules/03-covariance-inference-linear-models.md",
-      "sha256": "ab3a2874c224406415aa36b8b702bb153eed5662fbc7e22310fe020fa6b74011"
+      "sha256": "57856a4e8a8adf69d32048d15cd4252158c255d1ff9a4c96796e41dd43810e13"
     },
     {
       "id": "rmt-04-random-kernel-matrices",
@@ -2495,7 +2600,7 @@
     {
       "id": "rmt-source-map",
       "path": "30_mathematics/random-matrix-theory/rmt-source-map.md",
-      "sha256": "605dabdb84ef0af526804a57109f768558606dff4241573b3b707d8893167f43"
+      "sha256": "7a782629b53771c1bd07a5976b78988acc2a29f33763ce647fd25cc66089c6a4"
     },
     {
       "id": "rmt-universality",
@@ -2578,6 +2683,11 @@
       "sha256": "27e3de18f3899f8cdf2d146392963862b57833612901c64c8e99cc46c2b52fca"
     },
     {
+      "id": "source-baik-silverstein-spiked-covariance",
+      "path": "60_sources/baik-silverstein-spiked-covariance.md",
+      "sha256": "183d107209c3f53a9baab4713da35add3212ead7671f49e321b5568f92aa8355"
+    },
+    {
       "id": "source-borde-bronstein-gdl-foundations",
       "path": "60_sources/borde-bronstein-gdl-foundations.md",
       "sha256": "055c1cb921f1375163fd53d4cf4cadce1d9365a6e7f21bca38460a8c4ca46533"
@@ -2598,6 +2708,11 @@
       "sha256": "def6a78715c41e7f5e84dd68e42461666bce606052567d35ada1d39522f00d40"
     },
     {
+      "id": "source-candes-recht-matrix-completion",
+      "path": "60_sources/candes-recht-matrix-completion.md",
+      "sha256": "07110b67636b76e6de2db70aaf890e6c6db28f612d9f130283c95e2096f84af1"
+    },
+    {
       "id": "source-clason-fem-2021",
       "path": "60_sources/clason-finite-element-methods-2021.md",
       "sha256": "3810a7faf33d84e6848473ea00daa3d124464b8d8763efacbb3175ad16168d63"
@@ -2613,14 +2728,34 @@
       "sha256": "d8af68dd15314227b2b673ae5cda43d41acce7ce3300cc703db57b98d9c00d1d"
     },
     {
+      "id": "source-davidson-szarek-gaussian-singular-values",
+      "path": "60_sources/davidson-szarek-gaussian-singular-values.md",
+      "sha256": "a353e3d6b91cd1b59d5096da4ab330bb5ffa1eb5423a6c612d8060cede2648ff"
+    },
+    {
       "id": "source-de-haan-gauge-mesh-cnn",
       "path": "60_sources/de-haan-gauge-mesh-cnn.md",
       "sha256": "d9cf042d4abfed7292feb841337fbc0b5325cd3ae9c16b30fccd3ac19cb0b75a"
     },
     {
+      "id": "source-de-lathauwer-multilinear-svd",
+      "path": "60_sources/de-lathauwer-multilinear-svd.md",
+      "sha256": "7ad827789af3d2cc666baf55de0a1a12381131b0fbfda009f68d4e5cde1129c2"
+    },
+    {
+      "id": "source-demmel-grigori-hoemmen-langou-tsqr",
+      "path": "60_sources/demmel-grigori-hoemmen-langou-tsqr.md",
+      "sha256": "c52daef23a0d502ea338ce046b2f3cdc3824b6172c1dcc11545f38a2bb7d4f96"
+    },
+    {
       "id": "source-gallier-riemannian-manifolds-2011",
       "path": "60_sources/gallier-riemannian-manifolds-2011.md",
       "sha256": "467c5b52874902a45580a2f7ff2dc34c756ff975af0e1b437a913a12b600833a"
+    },
+    {
+      "id": "source-gillis-glineur-accelerated-hals",
+      "path": "60_sources/gillis-glineur-accelerated-hals.md",
+      "sha256": "e329b8ba47ed0d8a1d3cd8288e2b9880f991d94b2df85b883d1b33f970d0fd0f"
     },
     {
       "id": "source-goulart-couillet-comon-2022-random-tensors",
@@ -2631,6 +2766,11 @@
       "id": "source-halko-randomized-matrices",
       "path": "60_sources/halko-randomized-matrices.md",
       "sha256": "6badb6bd60c0557a87d2212198f99dd8e3cb48648fa633fab107a6a0d3c93785"
+    },
+    {
+      "id": "source-han-chen-modern-big-data-algorithms",
+      "path": "60_sources/han-chen-modern-big-data-algorithms.md",
+      "sha256": "f7e71dd91fe2f40e005ab606e6f1684ba7e0d6d42fe90bc43c40a41aa5b6864c"
     },
     {
       "id": "source-hofmann-scholkopf-smola-kernel-methods",
@@ -2673,6 +2813,11 @@
       "sha256": "0db73be0fed4d6f1b04caa7bb837f08ed2c9f170655eb36d2593cd11343f3a71"
     },
     {
+      "id": "source-lin-projected-gradient-nmf",
+      "path": "60_sources/lin-projected-gradient-nmf.md",
+      "sha256": "a7ed73cee050e70d2cb347f8eeac14ab03ab0a6eb1ded3009d71efe09632017c"
+    },
+    {
       "id": "source-louart-liao-couillet-2018-random-neural-networks",
       "path": "60_sources/louart-liao-couillet-random-neural-networks.md",
       "sha256": "1fb402c21e66dc1c329e3dbaffb62b1e6ac9de6e94649e292cc571f2624a345e"
@@ -2681,6 +2826,11 @@
       "id": "source-lu-deeponet",
       "path": "60_sources/lu-deeponet.md",
       "sha256": "bddf5d294df93306f26fb5a3077eb921de44b50e9e8a0ce77e3960d9ad42640b"
+    },
+    {
+      "id": "source-mazumder-hastie-tibshirani-soft-impute",
+      "path": "60_sources/mazumder-hastie-tibshirani-soft-impute.md",
+      "sha256": "7e3c1a821f403fcb4d9cdaaec2bb1effe41990338c234ebd355e651b63f30692"
     },
     {
       "id": "source-munkres-topology",
@@ -2703,9 +2853,19 @@
       "sha256": "e5d48628c0927163c5c76efa4e238affa2a78a967a77bdd2cd2666771d138119"
     },
     {
+      "id": "source-oseledets-tensor-train",
+      "path": "60_sources/oseledets-tensor-train.md",
+      "sha256": "7debb64e5d085be2a533a16e02a3620ea598d27cec268626ff999f9685421b51"
+    },
+    {
       "id": "source-otter-persistent-homology-roadmap",
       "path": "60_sources/otter-persistent-homology-roadmap.md",
       "sha256": "78b1566740d4f729db1950be95b77ff94c1890fd16039276df9f17dda5aa0d7c"
+    },
+    {
+      "id": "source-paul-spiked-covariance-eigenvectors",
+      "path": "60_sources/paul-spiked-covariance-eigenvectors.md",
+      "sha256": "aae0357f68a7554522b51dbf57e052aae9f72ace6b53d0cd1f1cb97a2f0ca6d0"
     },
     {
       "id": "source-rindler-calculus-variations-2015",
@@ -2731,6 +2891,11 @@
       "id": "source-shashua-machine-learning-notes",
       "path": "60_sources/shashua-machine-learning-notes.md",
       "sha256": "99280f42608270ccb258493990a1b8269472250160bbedf25122b7ee53099c8a"
+    },
+    {
+      "id": "source-sherman-morrison-inverse-update",
+      "path": "60_sources/sherman-morrison-inverse-update.md",
+      "sha256": "4b9f1df4c5f9269591ec560223c486e76ada97fa434b56cb829a011b1bb38b12"
     },
     {
       "id": "source-song-score-sde",
@@ -2800,7 +2965,7 @@
     {
       "id": "spiked-covariance-transition",
       "path": "30_mathematics/random-matrix-theory/theorems/spiked-covariance-transition.md",
-      "sha256": "735938657ae3786f8dcd411d0c3fa6aa8a5142dbeebfb5b53b3f99800aad5be2"
+      "sha256": "2104abac99dee9eae29dfca9189c5238b823d32f692adcdcc4ea5c8de926c0d0"
     },
     {
       "id": "spiked-random-matrix-model",
@@ -2925,52 +3090,52 @@
     {
       "id": "ten-01-multilinear-objects",
       "path": "30_mathematics/tensor-methods/modules/ten-01-multilinear-objects.md",
-      "sha256": "c9a70efcb29a6af8b8221dd03d7ba161d2d573ff9d47ca734c1ae492b2e84f2c"
+      "sha256": "d9e325c86796c7b54339f35e73fab8419f0cc8a164fb50da670e9d2a3d642713"
     },
     {
       "id": "ten-02-cp-rank",
       "path": "30_mathematics/tensor-methods/modules/ten-02-cp-rank.md",
-      "sha256": "5c5a1d9ef2e0953ab6b530527324411c5eccb8f64eaf6a091458cc44989bf2e4"
+      "sha256": "b9085b2068a94b337e66e190ce1546b7a5e7907a76e1e39ffd4503511b02b681"
     },
     {
       "id": "ten-03-tucker-hosvd",
       "path": "30_mathematics/tensor-methods/modules/ten-03-tucker-hosvd.md",
-      "sha256": "7a6ada3ca7e59bc344fbca180ecb057f3f2eabbfbe5525a90fd85472782009a6"
+      "sha256": "616cb27cbfe81b263e4488ac24992354571d4276dd00084a0c33613202fbbca0"
     },
     {
       "id": "ten-04-tensor-networks",
       "path": "30_mathematics/tensor-methods/modules/ten-04-tensor-networks.md",
-      "sha256": "5ddde60535076fdb8ffaffb6e69c4583211c0909ecfef23af755d45fb4b2a808"
+      "sha256": "d0fc9151da218ef79eca800b44b1a7b8807296ae5e881906db343bfb174fad8b"
     },
     {
       "id": "ten-05-identifiability-degeneracy",
       "path": "30_mathematics/tensor-methods/modules/ten-05-identifiability-degeneracy.md",
-      "sha256": "dcfcf66b1b5a5867db49553246caba7ac5acac1a6fcb5167108b95b4a6d50e92"
+      "sha256": "aadbbd4d11abd978cca9cc83cf8e8f4d55fa12e329177d0edb4298e5a762dead"
     },
     {
       "id": "ten-06-randomized-range-finding",
       "path": "30_mathematics/tensor-methods/modules/ten-06-randomized-range-finding.md",
-      "sha256": "3e24b7769213aa17a4d98c0684049cfde8bd1e5b620ddf8478919254ff6166f1"
+      "sha256": "97027760aecce4769b4e3482eddd2415cac269e2108569e0294c93b8ef121fb7"
     },
     {
       "id": "ten-07-completion-cur-sampling",
       "path": "30_mathematics/tensor-methods/modules/ten-07-completion-cur-sampling.md",
-      "sha256": "cde1781a7a7192eb6cf63b9ba5f451c9a16fcf56546d301489fb79d726b1e271"
+      "sha256": "538ba2e0f43b08b92ad80cbb731e0fcace0a1ffee95323fe8d6954604f4921f5"
     },
     {
       "id": "ten-08-low-rank-ai-protocol",
       "path": "30_mathematics/tensor-methods/modules/ten-08-low-rank-ai-protocol.md",
-      "sha256": "89ec9f196028071c13b47b8882ae2b6e1468e152ac3f3da7575fbfe71dc4e4d2"
+      "sha256": "3a17c423f480df0253d12266032b098e72fc7d44ce8190ee967447c7a8e77745"
     },
     {
       "id": "ten-course-map",
       "path": "30_mathematics/tensor-methods/ten-map.md",
-      "sha256": "47ec585d4d7a2a05468c2e9512120041954424925aab291b6d7e7efdd7d9b1f5"
+      "sha256": "45a2bc0404c78b62df3166d6d78d6a39aa535b9889e32b9bc6773435529eada1"
     },
     {
       "id": "ten-source-map",
       "path": "30_mathematics/tensor-methods/ten-source-map.md",
-      "sha256": "0271f1dd0b791dbac0c387d29855996730871ca9360aa526999d43fb0b6c460c"
+      "sha256": "4464a51d5b12d0e7772fdfced4ef64190b5cf5e5a236bfd967ab12241247ca9a"
     },
     {
       "id": "theorem-boundary-squared-zero",
@@ -3030,7 +3195,7 @@
     {
       "id": "theorem-hosvd-quasioptimality",
       "path": "30_mathematics/tensor-methods/theorems/hosvd-quasioptimality.md",
-      "sha256": "8fc041ab14de29fa972dcc34b216ad7a8a031505b5eaefff7863a5ba8f2e788b"
+      "sha256": "ac9f5ef92760d8cc8b56668038ad8938206fd1273a83d7a7788aa1097619a8db"
     },
     {
       "id": "theorem-ito-formula",
@@ -3090,7 +3255,7 @@
     {
       "id": "theorem-randomized-power-iteration",
       "path": "30_mathematics/tensor-methods/theorems/randomized-power-iteration.md",
-      "sha256": "23e53da5eef5bb291ba2091ce2d5b60be785ae51075ed10e8a9e9ae33d618254"
+      "sha256": "ff11d2743c3ac277fb39b19950e5184683dedda45458c30ba7c3c9704975133f"
     },
     {
       "id": "theorem-reverse-time-sde",
@@ -3240,7 +3405,7 @@
     {
       "id": "thm-log-partition-moment-geometry",
       "path": "30_mathematics/kernel-methods/theorems/log-partition-moment-geometry.md",
-      "sha256": "1c84684f8df591bccbd795f3b71ebc7175b0da221648442651160f1fb6f44a87"
+      "sha256": "8c94e8f3d527ed3d474f0cfe1934c3a261acc70c69294847b6f2c89dc94ef8a9"
     },
     {
       "id": "thm-margin-generalization-rate",
@@ -3285,7 +3450,7 @@
     {
       "id": "thm-rademacher-uniform-convergence",
       "path": "30_mathematics/kernel-methods/theorems/rademacher-uniform-convergence.md",
-      "sha256": "433f2134e1ee9dbebe0e1faa1fad5b4c5c70316ea94b6c8a9e8c9c8d7e29428d"
+      "sha256": "314ac1beb616571065f8af650794cad26f046a257fe7c22fd087d13704884ac7"
     },
     {
       "id": "thm-representer-kernel-expansion",
@@ -3605,6 +3770,94 @@
     {
       "path": "80_assets/applied-mathematics/gpt-image-v1/stokes-theorem-insight.webp",
       "sha256": "a776808c17c25bb087382c6ccacd2638c49815fad521e05cb94eaf82f6dcf327"
+    },
+    {
+      "path": "80_assets/big-data-algorithms/gpt-image-stage5-v1/batch-information-v1.png",
+      "sha256": "7dcc51473e827ccf9d5ae57e19611e3751579c11844c9cc923975ce1f2f187be"
+    },
+    {
+      "path": "80_assets/big-data-algorithms/gpt-image-stage5-v1/batch-information-v1.webp",
+      "sha256": "51800c839c6c664dbce4da1346a5f71603dcba087eb9eac78d3533f8e73f5ff5"
+    },
+    {
+      "path": "80_assets/big-data-algorithms/gpt-image-stage5-v1/fixed-features-v1.png",
+      "sha256": "b30889add96d529eef90f61e1665562a6b0da2386f244b5559f5c70d5e8718ef"
+    },
+    {
+      "path": "80_assets/big-data-algorithms/gpt-image-stage5-v1/fixed-features-v1.webp",
+      "sha256": "ae24f171c1caac293ec580c49d821c121ae71fbf2eeceec84b909123e39daf00"
+    },
+    {
+      "path": "80_assets/big-data-algorithms/gpt-image-stage6-v1/graph-rank-one-v1.png",
+      "sha256": "b1dab2fdc02856c0897fd0b01abc924086d88e6f21552b3e6a737118ff0f500f"
+    },
+    {
+      "path": "80_assets/big-data-algorithms/gpt-image-stage6-v1/graph-rank-one-v1.webp",
+      "sha256": "5e413711048ec9b4589ec0e64157fa900776a8daa0fb1af308946b5eed33a52b"
+    },
+    {
+      "path": "80_assets/big-data-algorithms/gpt-image-stage6-v1/held-out-observations-v1.png",
+      "sha256": "b76f9f4d5564987f9dd859ad5d1a1e410116b9f7b582f7bc2cd248c32bea3743"
+    },
+    {
+      "path": "80_assets/big-data-algorithms/gpt-image-stage6-v1/held-out-observations-v1.webp",
+      "sha256": "7de8e373b3f06d9f867b2ae85d2d541867b47513b105b10b6e8515ff2130fc74"
+    },
+    {
+      "path": "80_assets/big-data-algorithms/gpt-image-stage7-v1/bda-nmf-additive-cone-v1.png",
+      "sha256": "0af1e52f4e9387154ff08bcc7697bffeafd4b6f85d616aed5ccbe9bea37aa28f"
+    },
+    {
+      "path": "80_assets/big-data-algorithms/gpt-image-stage7-v1/bda-nmf-additive-cone-v1.webp",
+      "sha256": "1cf6eaa29f85c977e4b90677555d9a2b51bdd90ba50c0463b5c81464e46e3f7a"
+    },
+    {
+      "path": "80_assets/big-data-algorithms/gpt-image-stage7-v1/bda-nmf-nnls-geometry-v1.png",
+      "sha256": "e28a128d7c0b088298e216be22e475e1329b26c46edfe7c3e8a1953d1cc3f983"
+    },
+    {
+      "path": "80_assets/big-data-algorithms/gpt-image-stage7-v1/bda-nmf-nnls-geometry-v1.webp",
+      "sha256": "b7434e8128ab6edf3daede5147e3d68c98082fa39c14d99ef056e0ebbc294167"
+    },
+    {
+      "path": "80_assets/big-data-algorithms/gpt-image-v1/bda-01-svd-gram-insight-v1.webp",
+      "sha256": "a035c310051e31f49aee752f7f57eea344fd4dbd105939db95ed3d277eb8cd03"
+    },
+    {
+      "path": "80_assets/big-data-algorithms/gpt-image-v1/bda-02-pseudoinverse-ridge-insight-v1.webp",
+      "sha256": "d8754c84da7bb19602492c65bc8e7b9b32e2ac19462156c1aca4b2cf51b5af6c"
+    },
+    {
+      "path": "80_assets/big-data-algorithms/gpt-image-v1/bda-03-randomized-svd-insight-v1.webp",
+      "sha256": "fe4bfd3fe5170819f44ca9a9967a65d04426e6b399e5bd5ce04704884d93e6a9"
+    },
+    {
+      "path": "80_assets/big-data-algorithms/plots-stage5-v1/bda-04-streaming-least-squares.svg",
+      "sha256": "c9a97681fbe8d9468316e5d527fbab7549f921ac5e00005d9d450351784827a1"
+    },
+    {
+      "path": "80_assets/big-data-algorithms/plots-stage6-v1/bda-05-matrix-completion.svg",
+      "sha256": "7477f93e77f31e67bfce57a264d33e178ef7717bc3441c3e88362094030b7ff8"
+    },
+    {
+      "path": "80_assets/big-data-algorithms/plots-stage7-v1/bda-06-nmf-mechanisms.svg",
+      "sha256": "4d0cd71f446756e2ef300fb3e33a4afdd5e847e6b3862c6ddcd739486e0cb5c3"
+    },
+    {
+      "path": "80_assets/big-data-algorithms/plots-stage7-v1/bda-06-nmf-semantic-ambiguity.svg",
+      "sha256": "be0ba504c59c8f4a22d9b174fa8d818b9fb410ec19a84909fdac816e09555a6d"
+    },
+    {
+      "path": "80_assets/big-data-algorithms/plots-v1/bda-01-gram-conditioning.svg",
+      "sha256": "b8f264764ea8a681a71a656950e3646f5d7384be0e262ac871c78cdbe6e7ac4c"
+    },
+    {
+      "path": "80_assets/big-data-algorithms/plots-v1/bda-02-spectral-filters.svg",
+      "sha256": "6b9874b2736c21f068bb5b3c603ef31bd7eb519cf7f3858409313eb750278529"
+    },
+    {
+      "path": "80_assets/big-data-algorithms/plots-v1/bda-03-randomized-svd-error.svg",
+      "sha256": "75bafa898738a6a89787a75ffc5f395cf77e7ffd154c9dbf1074d35d194b5e48"
     },
     {
       "path": "80_assets/bridges/gpt-image-v3/distributions-convolution-equivariance-v3.webp",
@@ -5627,6 +5880,30 @@
       "sha256": "a2e961592fe44e263e2ba67ad6ed1636400c43329b6559b7f37548a3f88c12c1"
     },
     {
+      "path": "80_assets/rmt-depth/gpt-image-v1/gaussian-covariance-bound-v1.png",
+      "sha256": "882daf80726097c748bd456a8b4fc365ff7f58ae70031f2336aa438e97f5f85d"
+    },
+    {
+      "path": "80_assets/rmt-depth/gpt-image-v1/gaussian-covariance-bound-v1.webp",
+      "sha256": "33bee055b8fb166c1e0c0fdb5a591969c589a2cf50c027d244f8bb4c4946213d"
+    },
+    {
+      "path": "80_assets/rmt-depth/gpt-image-v1/spike-outlier-overlap-v1.png",
+      "sha256": "3c441cb365e9303c039d1c6f6e4ec87a2bb9fb9f907ce73e9cf710cd252f0338"
+    },
+    {
+      "path": "80_assets/rmt-depth/gpt-image-v1/spike-outlier-overlap-v1.webp",
+      "sha256": "b52ff149d053bf6701a3df038e121b1286731f7f5e871bd5089d0eb571764647"
+    },
+    {
+      "path": "80_assets/rmt-depth/plots-v1/gaussian-errors.svg",
+      "sha256": "a8391d0e4c91f6e62b5e453b1880f07d4d7b5d84ca5a798d397f808523cb7734"
+    },
+    {
+      "path": "80_assets/rmt-depth/plots-v1/spike-values-overlap.svg",
+      "sha256": "17a4057de7e03c910814d70bf149bf3a67070b263b8326257ff4314ab1cb9a94"
+    },
+    {
       "path": "80_assets/tensor-analysis/gpt-image-v1/covariant-derivative-tensoriality-insight.webp",
       "sha256": "1a09cd91e1063186fc0381abf6cd73cbc8f2409c4ce288555ad088e28a0329df"
     },
@@ -5637,6 +5914,42 @@
     {
       "path": "80_assets/tensor-analysis/gpt-image-v1/tensors-geometric-deep-learning-insight.webp",
       "sha256": "f510bd4aeab505c47aa11dd0842291727c94d0ca61e84cda8bfeb65d4b08da0e"
+    },
+    {
+      "path": "80_assets/tensor-depth/gpt-image-v1/hosvd-joint-projection-v1.png",
+      "sha256": "f488d186d6ee181b8e25e8c0d13f61b774192ede920f17ca43451d3392b20bc4"
+    },
+    {
+      "path": "80_assets/tensor-depth/gpt-image-v1/hosvd-joint-projection-v1.webp",
+      "sha256": "49dc8c23c8e0717439a55274624bfb2c512f0be4d80621733320548cd3ee4d5b"
+    },
+    {
+      "path": "80_assets/tensor-depth/gpt-image-v1/ten-04-tt-cut-energy-v1.png",
+      "sha256": "72f21d3df01cd007639c3d9c1c3dda0dd5d02330ff73e05ac64f9d9eb245d7ea"
+    },
+    {
+      "path": "80_assets/tensor-depth/gpt-image-v1/ten-04-tt-cut-energy-v1.webp",
+      "sha256": "e27e733a94a454c5726ebf1791b02adf0d10c2292926d8f1d6b7c051747a039d"
+    },
+    {
+      "path": "80_assets/tensor-depth/gpt-image-v1/ten-05-cp-border-rank-v1.png",
+      "sha256": "8fcdbedeada2ec27e5bf4cd16701c91811792f9b6139f60011e50f4e9675448b"
+    },
+    {
+      "path": "80_assets/tensor-depth/gpt-image-v1/ten-05-cp-border-rank-v1.webp",
+      "sha256": "a099a026231c3acfdb18788d90ef90dad5af10d3e0c0cf55b9f70addc6dd34fb"
+    },
+    {
+      "path": "80_assets/tensor-depth/plots-v1/cp-limit-and-growing-weights-v1.svg",
+      "sha256": "b212bf718125925ce68ac06292a2d492fb1ff7e39d8fcb1ba3601403a750a0c0"
+    },
+    {
+      "path": "80_assets/tensor-depth/plots-v1/hosvd-hooi-feasible-candidate-v1.svg",
+      "sha256": "5234f4b9a6bbaf6e0601d2c58aa3b73e18e859181216e5fd9c8ba2d04a45922d"
+    },
+    {
+      "path": "80_assets/tensor-depth/plots-v1/tt-axis-order-ranks-error-v1.svg",
+      "sha256": "5f5f59f11d7074296ff9c4e241f10a672c9fb346fd51b0b308cd182b0ee8b211"
     },
     {
       "path": "80_assets/theorem-expansion/gpt-image-v1/cauchy-schwarz-v1.webp",
@@ -5799,5 +6112,5 @@
       "sha256": "48a4472882677bbc516d42ce61992eac60ef96e11867031fb1d3832d45e88d02"
     }
   ],
-  "asset_count": 561
+  "asset_count": 598
 }

@@ -15,7 +15,7 @@ source_refs:
     role: primary
 level: advanced
 created: 2026-07-20
-updated: 2026-07-27
+updated: 2026-10-01
 ---
 
 # Равномерная сходимость через средние Радемахера
@@ -88,7 +88,7 @@ $$
 Неравенство ограниченных разностей, записанное в обзоре как формула (85), даёт
 
 $$
-\mathbb P\left{
+\mathbb P\left\{
 G(S)-\mathbb EG(S)>t
 \right\}
 \le
