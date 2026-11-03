@@ -2,3 +2,10 @@
 
 // put your custom CSS here!
 @use "./mathai.scss";
+
+@media all and ($mobile) {
+  body[data-slug="30_mathematics/computational-algebra-principles/modules/cap-a05-coala"] .page > #quartz-body,
+  body[data-slug="30_mathematics/computational-algebra-principles/modules/cap-g03-sf-tucker"] .page > #quartz-body {
+    box-sizing: border-box;
+  }
+}
