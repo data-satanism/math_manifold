@@ -585,12 +585,12 @@
     {
       "id": "cap-a05-coala",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-a05-coala.md",
-      "sha256": "b6e3939a352904656f87621a241425877fa1b9f2c6b13b6c4c8292d65ee17680"
+      "sha256": "06ae1fb83d5b6b9553a8c9df214366885252a6e1e19a231bd8cc6f709649130c"
     },
     {
       "id": "cap-g03-sf-tucker",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-g03-sf-tucker.md",
-      "sha256": "2b5e135f137cef660bfcb1c93c031ec2ca02bce111f55b591a07da0fa34fdb0a"
+      "sha256": "64ed45365176bad9c7350b5f8995d04501646f8af53a99affed23938937b940d"
     },
     {
       "id": "cauchy-integral-formula-theorem",
@@ -4044,6 +4044,22 @@
       "sha256": "07f6631c159bc47d978deb7a9297e71234108d9cd94122647abf211fa871e750"
     },
     {
+      "path": "80_assets/computational-algebra-principles/coala-sf-tucker-v2/coala-context.svg",
+      "sha256": "6161bebdba7df30c1e11e59515253612626b20c00fea3b6d183c1d2a403d4742"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/coala-sf-tucker-v2/coala-tsqr.svg",
+      "sha256": "6ef9e8e577d5e569ffc7a9fad919899d08e1c87ff70078d3d727e64a869ef593"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/coala-sf-tucker-v2/sf-shared-rank.svg",
+      "sha256": "9eb88ac1a8e1699a374598faea335063bd528b85e387583a038a4ecafc9b11b6"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/coala-sf-tucker-v2/sf-tangent.svg",
+      "sha256": "14071915661da7acb1dac96457195a07ebc3d89cc037a6fbb6df4711f025db1d"
+    },
+    {
       "path": "80_assets/dynamical-systems/gpt-image-v1/averaging-slow-envelope-v1.webp",
       "sha256": "3f0f726017e9f03f32f281990b719881e07f9bad21a1e5b66de2caab221921a4"
     },
@@ -6156,5 +6172,5 @@
       "sha256": "48a4472882677bbc516d42ce61992eac60ef96e11867031fb1d3832d45e88d02"
     }
   ],
-  "asset_count": 604
+  "asset_count": 608
 }
