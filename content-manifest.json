@@ -583,6 +583,16 @@
       "sha256": "5d27a18fe64542ff78d9282fd9b064aff85ef1348393636aa73bea5d1a5722ad"
     },
     {
+      "id": "cap-a05-coala",
+      "path": "30_mathematics/computational-algebra-principles/modules/cap-a05-coala.md",
+      "sha256": "b6e3939a352904656f87621a241425877fa1b9f2c6b13b6c4c8292d65ee17680"
+    },
+    {
+      "id": "cap-g03-sf-tucker",
+      "path": "30_mathematics/computational-algebra-principles/modules/cap-g03-sf-tucker.md",
+      "sha256": "2b5e135f137cef660bfcb1c93c031ec2ca02bce111f55b591a07da0fa34fdb0a"
+    },
+    {
       "id": "cauchy-integral-formula-theorem",
       "path": "30_mathematics/applied-mathematics/theorems/cauchy-integral-formula.md",
       "sha256": "650ba8274e792dc4f915608a17aaa9765863c5b47c56594d505bfe39ad733ece"
@@ -646,6 +656,11 @@
       "id": "classical-pde-variational-map",
       "path": "30_mathematics/classical-pde-variational/classical-pde-variational-map.md",
       "sha256": "c2076eb5d596a4076c9778756f96ee10143fe42207a6140fc1ffedd1b25742ea"
+    },
+    {
+      "id": "coala-2025",
+      "path": "60_sources/coala-2025.md",
+      "sha256": "1c7190f3338b2e62099432e454c44ca0a52ae8d23a1adbda5d44bf1cec3c7c33"
     },
     {
       "id": "coercive-form-existence-theorem",
@@ -1815,7 +1830,7 @@
     {
       "id": "math-ai-home",
       "path": "index.md",
-      "sha256": "db02d6aa64fcd8495cd76934d1d8917ec9b87dada0b4a8c330e028da196d61f9"
+      "sha256": "142c914e998fbd330125fecf51e0e4d5e95a64e8ea447a09956a99e8090c3f4a"
     },
     {
       "id": "mathematics-integration-map",
@@ -2621,6 +2636,11 @@
       "id": "schur-lemma-complex-representations",
       "path": "30_mathematics/lie-groups-differential-geometry/theorems/schur-lemma-complex-representations.md",
       "sha256": "a1fd331df869b7e2d4dfc2fa9d961489867e8e032c36706af904081986e5633d"
+    },
+    {
+      "id": "sf-tucker-2024",
+      "path": "60_sources/sf-tucker-2024.md",
+      "sha256": "76275a5cb2e45a482c7767b3ade3ff3cec7108d7c47d818c62795da5ac680a51"
     },
     {
       "id": "shifted-implicit-qr",
@@ -3998,6 +4018,30 @@
     {
       "path": "80_assets/complex-analysis/interactive-mobius-generalized-circles.svg",
       "sha256": "4be1277d23bf8ebdc9e929e18a8faaefaf7065f980a89bfe69021eca463a8ad0"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/coala-sf-tucker-v1/coala-errors.svg",
+      "sha256": "8596900cd1b8026c5714cc3e15b9254d9b9e0a8b638a0e49d6ad51aa2d7cc890"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/coala-sf-tucker-v1/coala-geometry.png",
+      "sha256": "1bca8cb9c8f9c1047bc7b594b6d34ca4728a8d0996826ce4979d53991303cf72"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/coala-sf-tucker-v1/coala-geometry.webp",
+      "sha256": "ccc0793e8d7b31f8634072df19c072e53e8fc5a2f3235723dc5649cf2db03b33"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/coala-sf-tucker-v1/sf-retraction.svg",
+      "sha256": "5523d910fd3aaab2ec1c0a27732640e618a479dde949c07cef0f46827367d6ca"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/coala-sf-tucker-v1/sf-shared-space.png",
+      "sha256": "6ee51c0295d3b36e77f5dc4a746420f0b2f4d0b6ddbfff4c0a12f57cdbee34ad"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/coala-sf-tucker-v1/sf-shared-space.webp",
+      "sha256": "07f6631c159bc47d978deb7a9297e71234108d9cd94122647abf211fa871e750"
     },
     {
       "path": "80_assets/dynamical-systems/gpt-image-v1/averaging-slow-envelope-v1.webp",
@@ -6112,5 +6156,5 @@
       "sha256": "48a4472882677bbc516d42ce61992eac60ef96e11867031fb1d3832d45e88d02"
     }
   ],
-  "asset_count": 598
+  "asset_count": 604
 }

@@ -74,6 +74,11 @@ tags: [map, math-for-ai]
 
 Полная вертикальная навигация собрана в [[10_maps/ai-domain-navigation|карте направлений ИИ]], а повторяющиеся математические структуры — в [[10_maps/mathematics-integration-map|интеграционной карте]].
 
+## Малоранговое приближение и общие факторы
+
+- [[30_mathematics/computational-algebra-principles/modules/cap-a05-coala|COALA и контекстное приближение]]
+- [[30_mathematics/computational-algebra-principles/modules/cap-g03-sf-tucker|SF-Tucker и общие факторы]]
+
 ## Как читать
 
 1. Начните с карты области.
