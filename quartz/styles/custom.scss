@@ -9,3 +9,43 @@
     box-sizing: border-box;
   }
 }
+
+// Full computational-algebra release: retain padding inside mobile width.
+@media all and ($mobile) {
+  body[data-slug^="30_mathematics/computational-algebra-principles/"] .page > #quartz-body,
+  body[data-slug^="30_mathematics/tyrtyshnikov-video-2026/"] .page > #quartz-body,
+  body[data-slug="20_concepts/coordinate-recovery-operator"] .page > #quartz-body,
+  body[data-slug="20_concepts/greedy-dictionary"] .page > #quartz-body,
+  body[data-slug="50_bridges/cap-covariance-feature-bridge"] .page > #quartz-body,
+  body[data-slug="50_bridges/cap-feature-sampling"] .page > #quartz-body,
+  body[data-slug="50_bridges/cap-lora-gauge"] .page > #quartz-body,
+  body[data-slug="50_bridges/cap-qr-small-core"] .page > #quartz-body,
+  body[data-slug="50_bridges/cap-qtt-scientific-ai-bridge"] .page > #quartz-body,
+  body[data-slug="50_bridges/cap-schottky-differentiable-geometry-bridge"] .page > #quartz-body,
+  body[data-slug="60_sources/borodin-greedy-primary-sources"] .page > #quartz-body,
+  body[data-slug="60_sources/deim-primary-sources"] .page > #quartz-body,
+  body[data-slug="60_sources/fixed-rank-geometry-primary-sources"] .page > #quartz-body,
+  body[data-slug="60_sources/hse-low-rank-publications"] .page > #quartz-body,
+  body[data-slug="60_sources/kashin-two-bases-primary-sources"] .page > #quartz-body,
+  body[data-slug="60_sources/malyhin-2025-low-rank-identity"] .page > #quartz-body,
+  body[data-slug="60_sources/maxvol-principles-primary-sources"] .page > #quartz-body,
+  body[data-slug="60_sources/qr-rank-revealing-primary-sources"] .page > #quartz-body,
+  body[data-slug="60_sources/riemannion-2026"] .page > #quartz-body,
+  body[data-slug="60_sources/selection-regression-primary-sources"] .page > #quartz-body,
+  body[data-slug="60_sources/source-bogatyrev-schottky-variation"] .page > #quartz-body,
+  body[data-slug="60_sources/source-cap-principles"] .page > #quartz-body,
+  body[data-slug="60_sources/source-cap-tensor-research"] .page > #quartz-body,
+  body[data-slug="60_sources/source-kazeev-qtt-fem-multiscale"] .page > #quartz-body,
+  body[data-slug="60_sources/source-puchkin-rakhuba-structured-covariance"] .page > #quartz-body,
+  body[data-slug="60_sources/tyrtyshnikov-video-algebra-2026"] .page > #quartz-body,
+  body[data-slug="70_labs/branches17-selection-and-greedy-lab"] .page > #quartz-body,
+  body[data-slug="70_labs/cap-branches456-lab"] .page > #quartz-body,
+  body[data-slug="70_labs/computational-algebra-principles/cap-fixed-rank-lab"] .page > #quartz-body,
+  body[data-slug="70_labs/computational-algebra-principles/cap-full-plan-lab"] .page > #quartz-body,
+  body[data-slug="70_labs/computational-algebra-principles/cap-orthogonal-lab"] .page > #quartz-body,
+  body[data-slug="70_labs/computational-algebra-principles/cap-qr-riemannion-lab"] .page > #quartz-body,
+  body[data-slug="70_labs/computational-algebra-principles/cap-visual-lab"] .page > #quartz-body,
+  body[data-slug="70_labs/tyrtyshnikov-video-2026/tva-visual-lab"] .page > #quartz-body {
+    box-sizing: border-box;
+  }
+}

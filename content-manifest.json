@@ -218,6 +218,11 @@
       "sha256": "8057bf5eeadfcdf0e76ae76dc9a32a8347df4670a1ebb1781be69276f9f400e3"
     },
     {
+      "id": "borodin-greedy-primary-sources",
+      "path": "60_sources/borodin-greedy-primary-sources.md",
+      "sha256": "3c6966c1304c738be004803650ed8c9f7f9536075d2f24fbd0e8bc646532b77f"
+    },
+    {
       "id": "boss-fa-source-map",
       "path": "30_mathematics/functional-analysis/source-map.md",
       "sha256": "58fd45cc63974751147c28ce3a2e25e80d442ee10a87afb1566e5d407bb56464"
@@ -236,6 +241,11 @@
       "id": "bounded-operator",
       "path": "20_concepts/bounded-operator.md",
       "sha256": "c75054ccec2a67a1322eb612d97a443eff8ecad290e685f3e2f00f5b3ce4b6b7"
+    },
+    {
+      "id": "branches17-selection-and-greedy-lab",
+      "path": "70_labs/branches17-selection-and-greedy-lab.md",
+      "sha256": "9f24da8b63aadcbba0fef00da328ccc5021da7ac3bc0858d8b292e7bd5296e90"
     },
     {
       "id": "bridge-analytic-continuation-inverse-problems",
@@ -583,14 +593,294 @@
       "sha256": "5d27a18fe64542ff78d9282fd9b064aff85ef1348393636aa73bea5d1a5722ad"
     },
     {
+      "id": "cap-01-volume-coefficients",
+      "path": "30_mathematics/computational-algebra-principles/modules/cap-01-volume-coefficients.md",
+      "sha256": "65ec599067ea0f1d1df29caa15b009da1b3d66fd1c27866e0a298f1526833b37"
+    },
+    {
+      "id": "cap-02-cross-schur",
+      "path": "30_mathematics/computational-algebra-principles/modules/cap-02-cross-schur.md",
+      "sha256": "86261e1fa795ff47bb7bdef65f6d908aa5fe465780065f75eb1d3a6bf72fcb2c"
+    },
+    {
+      "id": "cap-03-fekete-interpolation",
+      "path": "30_mathematics/computational-algebra-principles/modules/cap-03-fekete-interpolation.md",
+      "sha256": "aeb2793d865a079f865e7d5f231dfa7c9658bd5ef549b52323bda5649265b191"
+    },
+    {
+      "id": "cap-05-rectangular-d-optimal",
+      "path": "30_mathematics/computational-algebra-principles/modules/cap-05-rectangular-d-optimal.md",
+      "sha256": "988ad3efd695fa6d496c7fafc8dad789c1a7b59e0eb32f1cb5c7558800cb600c"
+    },
+    {
+      "id": "cap-06-deim",
+      "path": "30_mathematics/computational-algebra-principles/modules/cap-06-deim.md",
+      "sha256": "633f1e4559b4d47c284c104a64e37771a575f2292af1972adf2a0a1b3a872a7e"
+    },
+    {
+      "id": "cap-07-volume-sampling",
+      "path": "30_mathematics/computational-algebra-principles/modules/cap-07-volume-sampling.md",
+      "sha256": "83e2b4d54cd8fffa4772ca7d5f85a07fe4f49a559b1226ddcbb055e7cbeade54"
+    },
+    {
+      "id": "cap-a04-qr-numerical-rank",
+      "path": "30_mathematics/computational-algebra-principles/modules/cap-a04-qr-numerical-rank.md",
+      "sha256": "0e820c3793761031dad15053769590b4313cd3ad19b7c6b529a373a0c2fbdcac"
+    },
+    {
       "id": "cap-a05-coala",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-a05-coala.md",
-      "sha256": "06ae1fb83d5b6b9553a8c9df214366885252a6e1e19a231bd8cc6f709649130c"
+      "sha256": "4b1f35171d3d27f25d00e796c718a74d579c8f3c685fcfc5cf44c5c0f89df433"
+    },
+    {
+      "id": "cap-a06-orthogonal-procrustes",
+      "path": "30_mathematics/computational-algebra-principles/modules/cap-a06-orthogonal-procrustes.md",
+      "sha256": "35f5eb908738d1bb0a5d865e89a79dc4ee4c67872d8fdf8623ddd8cc6310cc98"
+    },
+    {
+      "id": "cap-branches456-lab",
+      "path": "70_labs/cap-branches456-lab.md",
+      "sha256": "d3aa25ca278574d22f86f0a7760c4a06b09ad50322e4ad91728ddf76b9d2ea45"
+    },
+    {
+      "id": "cap-covariance-feature-bridge",
+      "path": "50_bridges/cap-covariance-feature-bridge.md",
+      "sha256": "a7e12260c9d8ca7bdfea83a1fae9378cc619277de9d31ccf4aa9ed03b6560119"
+    },
+    {
+      "id": "cap-deim-projector-theorem",
+      "path": "30_mathematics/computational-algebra-principles/theorems/cap-deim-projector.md",
+      "sha256": "fd80ea56ef813b6a6643678d97d526c9b4080249ec96fd9f7908a21004cc746d"
+    },
+    {
+      "id": "cap-factor-gauge",
+      "path": "30_mathematics/computational-algebra-principles/concepts/cap-factor-gauge.md",
+      "sha256": "eaa513043f76f0bf07892afdb2198a1bfa82bda445f9939a831caa150911748b"
+    },
+    {
+      "id": "cap-feature-sampling-bridge",
+      "path": "50_bridges/cap-feature-sampling.md",
+      "sha256": "bd482c40d5f34a3df592db2e37fd20173e7fb01b01e49d90ab5465ced3afaaca"
+    },
+    {
+      "id": "cap-fixed-rank-lab",
+      "path": "70_labs/computational-algebra-principles/cap-fixed-rank-lab.md",
+      "sha256": "d68eef68f0be1ecbbdea56f14bcf6443fc6e734cc3f60fb379ae0dc849285c81"
+    },
+    {
+      "id": "cap-fixed-rank-tangent-theorem",
+      "path": "30_mathematics/computational-algebra-principles/theorems/cap-fixed-rank-tangent.md",
+      "sha256": "36aa7f11b7c60dcfcc401cca5dd6af23f65da740ed1ce316a850b5daca2886f1"
+    },
+    {
+      "id": "cap-full-plan-lab",
+      "path": "70_labs/computational-algebra-principles/cap-full-plan-lab.md",
+      "sha256": "c69bd1cea25edc3ca3599439a29bc46c798804e73f30f5ed5d7f630323e9de7d"
+    },
+    {
+      "id": "cap-g01-fixed-rank-geometry",
+      "path": "30_mathematics/computational-algebra-principles/modules/cap-g01-fixed-rank-geometry.md",
+      "sha256": "bd0c0fcf4094bc32e8878784a5382341a26c5d6558139b49b79c275b8d1211bf"
+    },
+    {
+      "id": "cap-g02-riemannion",
+      "path": "30_mathematics/computational-algebra-principles/modules/cap-g02-riemannion.md",
+      "sha256": "988074be05fce30d0ab38b809ddc4c4290fcf0649b2b8892f8307ef2e6ee2a79"
     },
     {
       "id": "cap-g03-sf-tucker",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-g03-sf-tucker.md",
-      "sha256": "64ed45365176bad9c7350b5f8995d04501646f8af53a99affed23938937b940d"
+      "sha256": "e077f87d6894fa25a3e7ef367de7b80049ffe990f0863e6df4c44e3767d42e44"
+    },
+    {
+      "id": "cap-g04-procrustesgpt",
+      "path": "30_mathematics/computational-algebra-principles/modules/cap-g04-procrustesgpt.md",
+      "sha256": "702663ad5fa7a6837667515216691617ce8b8dfea8b235e1bb6cbaab4e4a0be9"
+    },
+    {
+      "id": "cap-g05-orthofuse",
+      "path": "30_mathematics/computational-algebra-principles/modules/cap-g05-orthofuse.md",
+      "sha256": "29282e3a164b0a84b1f1eff12157348580194174701d11981a61f08abf8383cf"
+    },
+    {
+      "id": "cap-gaussian-residual-theorem",
+      "path": "30_mathematics/computational-algebra-principles/theorems/cap-gaussian-residual-theorem.md",
+      "sha256": "7480e4fac8f8f61de8cd7fa0a5b7ed5fa66df44f4a6985240ff36816ba19c6f7"
+    },
+    {
+      "id": "cap-hse-research-map",
+      "path": "30_mathematics/computational-algebra-principles/cap-hse-research-map.md",
+      "sha256": "58c2917612c1514ea2c43c8963d5d20f1c24c833fb9aaebdf2971393ed6f4a71"
+    },
+    {
+      "id": "cap-kashin-contraction-theorem",
+      "path": "30_mathematics/computational-algebra-principles/theorems/cap-kashin-contraction.md",
+      "sha256": "6951f8ca901a5494850ae6b2bdec49e7dca64cef4652bda8de8eab919cda237b"
+    },
+    {
+      "id": "cap-lora-gauge-bridge",
+      "path": "50_bridges/cap-lora-gauge.md",
+      "sha256": "95dc0e40b4e469d3ac6efd83fb7ed9bba780fdfb5e38ae40422fe1914f40fb8d"
+    },
+    {
+      "id": "cap-malyhin-2025",
+      "path": "30_mathematics/computational-algebra-principles/papers/cap-malyhin-2025.md",
+      "sha256": "bbf85e701b271e0b0ed79c1cf260a42ba2335a1eb5541c2a3f0249307bec7588"
+    },
+    {
+      "id": "cap-map",
+      "path": "30_mathematics/computational-algebra-principles/cap-map.md",
+      "sha256": "772f051b49ba5b86a584cf8102b98e1ac3cca0fa2f35610421100fb6255ca5a4"
+    },
+    {
+      "id": "cap-mobius-infinitesimal-theorem",
+      "path": "30_mathematics/computational-algebra-principles/theorems/cap-mobius-infinitesimal-theorem.md",
+      "sha256": "606a694040364a559df86f01a41d576661816eda498c549d6c3d2cb8f095d8b4"
+    },
+    {
+      "id": "cap-numerical-rank",
+      "path": "30_mathematics/computational-algebra-principles/concepts/cap-numerical-rank.md",
+      "sha256": "486e0541a9d2f6ccbc421ab7b5419569703cd96ae8c4a07b5db140123f3ff977"
+    },
+    {
+      "id": "cap-orthogonal-lab",
+      "path": "70_labs/computational-algebra-principles/cap-orthogonal-lab.md",
+      "sha256": "1c635f11d7500a295bd36994b9d72a92e7e3b07a1ca53c27da178092ea8edde3"
+    },
+    {
+      "id": "cap-p01-isometric-core",
+      "path": "30_mathematics/computational-algebra-principles/modules/cap-p01-isometric-core.md",
+      "sha256": "425656dcd05953595e01320f40b1c8ec90f76040c355fbd573744f6c83c4cb08"
+    },
+    {
+      "id": "cap-p02-random-subspace",
+      "path": "30_mathematics/computational-algebra-principles/modules/cap-p02-random-subspace.md",
+      "sha256": "1b92800304fbabedfa9607c0b561808887a61bd4a429bd51dfa077c55a5080ea"
+    },
+    {
+      "id": "cap-p03-structure-locality",
+      "path": "30_mathematics/computational-algebra-principles/modules/cap-p03-structure-locality.md",
+      "sha256": "cd628509818dd151dd7e17735a8147aaf4561f6372f89cf1840bd55e5a499331"
+    },
+    {
+      "id": "cap-p04-conditioning",
+      "path": "30_mathematics/computational-algebra-principles/modules/cap-p04-conditioning.md",
+      "sha256": "847e26cb59f3b24a5e541ce9eff0e6c1bd4c7fb727ef2899753b0c4a14815e2e"
+    },
+    {
+      "id": "cap-p05-certificates",
+      "path": "30_mathematics/computational-algebra-principles/modules/cap-p05-certificates.md",
+      "sha256": "376715403f5bc2f7f08a4efdddfc6a5e74beadb518bb0a35464bed155803e303"
+    },
+    {
+      "id": "cap-positive-greedy-counterexample",
+      "path": "30_mathematics/computational-algebra-principles/theorems/cap-positive-greedy-counterexample.md",
+      "sha256": "4219c777bfe47d7b0ba79c207526a1af1b611cc5b90493a530939cbf3f16da90"
+    },
+    {
+      "id": "cap-projection-greedy-theorem",
+      "path": "30_mathematics/computational-algebra-principles/theorems/cap-projection-greedy.md",
+      "sha256": "114f43a260cfdc56218140d4027f9e67839a3e761df1004b66204716c8904f7d"
+    },
+    {
+      "id": "cap-publication-plan",
+      "path": "30_mathematics/computational-algebra-principles/cap-publication-plan.md",
+      "sha256": "e7cdfef1180264e10f2af955c1bf8617eeb51a8f0f419d71889da1f21d252b4b"
+    },
+    {
+      "id": "cap-q01-qtt-fem",
+      "path": "30_mathematics/computational-algebra-principles/modules/cap-q01-qtt-fem.md",
+      "sha256": "7672a8bc59862635501e81486ba9b0418ee27b3a69532af63f81d68956299c9a"
+    },
+    {
+      "id": "cap-qr-riemannion-lab",
+      "path": "70_labs/computational-algebra-principles/cap-qr-riemannion-lab.md",
+      "sha256": "61623a6a6fa3378b86e32f1139ad46914a04a4a48c2ea1b8e90becb7847975bd"
+    },
+    {
+      "id": "cap-qr-small-core-bridge",
+      "path": "50_bridges/cap-qr-small-core.md",
+      "sha256": "ccfc39ace3f250b9b6c4ceadf1ffbb217ae28ada02ad86fa6f8a4ea55ca1fd5e"
+    },
+    {
+      "id": "cap-qtt-elementary-ranks-theorem",
+      "path": "30_mathematics/computational-algebra-principles/theorems/cap-qtt-elementary-ranks-theorem.md",
+      "sha256": "8c6e6158ba187c532db35c0a86a63bc74faaec6e79222913dd99eb473da05eeb"
+    },
+    {
+      "id": "cap-qtt-scientific-ai-bridge",
+      "path": "50_bridges/cap-qtt-scientific-ai-bridge.md",
+      "sha256": "5fe3b639b5309b5e3480fefb95c23b4b9d22f10fad3182f5f0f9c0cb72bb04b8"
+    },
+    {
+      "id": "cap-rearrangement-shrinkage-theorem",
+      "path": "30_mathematics/computational-algebra-principles/theorems/cap-rearrangement-shrinkage-theorem.md",
+      "sha256": "a0a6d2ed59b64c0e86788ddc55c2873dbb17e55e34775ff6bd2401a54400fa4a"
+    },
+    {
+      "id": "cap-rectangular-coefficients-theorem",
+      "path": "30_mathematics/computational-algebra-principles/theorems/cap-rectangular-coefficients.md",
+      "sha256": "84b4f344bc300e8efc866eaa271d8948d21ab9ce72fd33f94be473bd43571c2f"
+    },
+    {
+      "id": "cap-s01-structured-covariance",
+      "path": "30_mathematics/computational-algebra-principles/modules/cap-s01-structured-covariance.md",
+      "sha256": "f9876598824451f0747382f42eb62118cce9b6cbd54f85ea3aeec2294295fc43"
+    },
+    {
+      "id": "cap-s02-schottky-variation",
+      "path": "30_mathematics/computational-algebra-principles/modules/cap-s02-schottky-variation.md",
+      "sha256": "cd8a4693400c549771f70ae20fd49a7ac0ff8d8d49ae15b15f2cde59add81a0e"
+    },
+    {
+      "id": "cap-schottky-differentiable-geometry-bridge",
+      "path": "50_bridges/cap-schottky-differentiable-geometry-bridge.md",
+      "sha256": "eedecb92e77300e830d6aeab67086ea26b18b05f7656fecde105336e9b42d57d"
+    },
+    {
+      "id": "cap-sfett-quasioptimal-theorem",
+      "path": "30_mathematics/computational-algebra-principles/theorems/cap-sfett-quasioptimal-theorem.md",
+      "sha256": "c4faceec8cace762d3b7d56e2b1ca3ed9ba340fbd892ea6fb89e76c33f9f16f3"
+    },
+    {
+      "id": "cap-spectral-lmo-theorem",
+      "path": "30_mathematics/computational-algebra-principles/theorems/cap-spectral-lmo.md",
+      "sha256": "f66e40f0660ebd7d3e3c1fd6f5b59745cf64c361724dba01867e1507fd23cc11"
+    },
+    {
+      "id": "cap-strong-rrqr-theorem",
+      "path": "30_mathematics/computational-algebra-principles/theorems/cap-strong-rrqr.md",
+      "sha256": "b3b55ca9fb843f8c414a2aae2d6cd693d095a0938cabb2f21d400ce73d5e805a"
+    },
+    {
+      "id": "cap-t01-tt",
+      "path": "30_mathematics/computational-algebra-principles/modules/cap-t01-tt.md",
+      "sha256": "706001fc93222d5d35b241d05c2bd9967e7d8fea7c62f3cd6205eb482793243d"
+    },
+    {
+      "id": "cap-t02-sf-ett",
+      "path": "30_mathematics/computational-algebra-principles/modules/cap-t02-sf-ett.md",
+      "sha256": "d7bbb95f8b9a76bc2544de4aa6231af67e285e49ec3ecc94fd6a290ffe7067c1"
+    },
+    {
+      "id": "cap-t03-cherry-picking",
+      "path": "30_mathematics/computational-algebra-principles/modules/cap-t03-cherry-picking.md",
+      "sha256": "1c7ffe35edd5043d03c9a67b3afb96646127e9c42d5e24d0eedd03390be5947c"
+    },
+    {
+      "id": "cap-visual-lab",
+      "path": "70_labs/computational-algebra-principles/cap-visual-lab.md",
+      "sha256": "206758d1a2ff54d92b61f9d0e90a28e11690ec4950f63fa8126e355afb09eeb3"
+    },
+    {
+      "id": "cap-volume-coefficient-theorem",
+      "path": "30_mathematics/computational-algebra-principles/theorems/cap-volume-coefficients.md",
+      "sha256": "cdf3bffab656dfda5403d10fa362820ddf66afa1a250923187358a48efaa2e7f"
+    },
+    {
+      "id": "cap-volume-unbiased-theorem",
+      "path": "30_mathematics/computational-algebra-principles/theorems/cap-volume-unbiased.md",
+      "sha256": "0704c9d09cff051d95f55eb15083c139494beaf211d52000d9ca5249b2fb43f3"
     },
     {
       "id": "cauchy-integral-formula-theorem",
@@ -713,6 +1003,11 @@
       "sha256": "209e010dd2c5dd0a09a775891b6ec9b309b810a88875d1de874f0a42a49575ec"
     },
     {
+      "id": "coordinate-recovery-operator",
+      "path": "20_concepts/coordinate-recovery-operator.md",
+      "sha256": "5df3717631135a137ff93348dc7b54ce3c28e6821d67b91a30e132773f348878"
+    },
+    {
       "id": "course-publication-roadmap-2026-2027",
       "path": "10_maps/course-publication-roadmap-2026-2027.md",
       "sha256": "2092c5e04429563bdcad61a8c44f693ed9c094994e489f8d6e84026b46ed18f7"
@@ -751,6 +1046,11 @@
       "id": "degenerate-kernel-finite-rank-reduction",
       "path": "30_mathematics/applied-mathematics/theorems/degenerate-kernel-finite-rank-reduction.md",
       "sha256": "fb384937f246282f586cda96ab8c262e64d8db9342eed1dcf073247dd159edb8"
+    },
+    {
+      "id": "deim-primary-sources",
+      "path": "60_sources/deim-primary-sources.md",
+      "sha256": "352d898f0b258db814be1a331cb9599d1beced8fa04510a7d74a36c8e2dfaa1f"
     },
     {
       "id": "dense-sbm-spectral-transition",
@@ -1128,6 +1428,11 @@
       "sha256": "6ae153b6cab9a29f2022609f922480545bdd1182ff5f1e476ae618ab041ec8f8"
     },
     {
+      "id": "greedy-dictionary",
+      "path": "20_concepts/greedy-dictionary.md",
+      "sha256": "c632fca770a33f7f088fc2a15b163db2191beee907d9995cffb263a631b753fe"
+    },
+    {
       "id": "ha-01-harmonic-viewpoint-characters",
       "path": "30_mathematics/harmonic-analysis-wavelets/modules/ha-01-harmonic-viewpoint-characters.md",
       "sha256": "cebd1121bbf93aed470f1c8dbb8b355fc5a231aa1a9df35c4fa2bfd12a4f6f46"
@@ -1351,6 +1656,21 @@
       "id": "jordan-canonical-form-theorem",
       "path": "30_mathematics/linear-algebra/theorems/jordan-canonical-form.md",
       "sha256": "c91542474e37a6d14a3655083a918bf4737e3fc9ae46020080855f8eb08ca588"
+    },
+    {
+      "id": "journal-01-kashin-two-bases",
+      "path": "30_mathematics/computational-algebra-principles/modules/journal-01-kashin-two-bases.md",
+      "sha256": "c4eae070c10216cd8e29249cf12d693e6294e6b2551ea4cac859ae12f2e13a00"
+    },
+    {
+      "id": "journal-02-greedy-projection",
+      "path": "30_mathematics/computational-algebra-principles/modules/journal-02-greedy-projection.md",
+      "sha256": "8b46797f301739f1f67c6e3b3fa5437787e5fdc1ed896ce71dc1cc82c42acf78"
+    },
+    {
+      "id": "kashin-two-bases-primary-sources",
+      "path": "60_sources/kashin-two-bases-primary-sources.md",
+      "sha256": "6e6e792fab305dd34bb2a88c4442de3f9b1958e0abc6002c5798354b0c6789cc"
     },
     {
       "id": "kernel-methods-map",
@@ -1830,7 +2150,7 @@
     {
       "id": "math-ai-home",
       "path": "index.md",
-      "sha256": "7e3075aad1d84c25fca64b692faf17139cd177d90361104f741f4f8bf3aaf575"
+      "sha256": "28b5d64d253507b9f4014fb7d0a23a103fd2cdabfedea9554eece4846c2d8528"
     },
     {
       "id": "mathematics-integration-map",
@@ -2638,6 +2958,11 @@
       "sha256": "a1fd331df869b7e2d4dfc2fa9d961489867e8e032c36706af904081986e5633d"
     },
     {
+      "id": "selection-regression-primary-sources",
+      "path": "60_sources/selection-regression-primary-sources.md",
+      "sha256": "f4ace40c460b2c328fdec4681558ef45755d879d7e6e6e4079ffd22baa206a13"
+    },
+    {
       "id": "sf-tucker-2024",
       "path": "60_sources/sf-tucker-2024.md",
       "sha256": "76275a5cb2e45a482c7767b3ade3ff3cec7108d7c47d818c62795da5ac680a51"
@@ -2708,6 +3033,11 @@
       "sha256": "183d107209c3f53a9baab4713da35add3212ead7671f49e321b5568f92aa8355"
     },
     {
+      "id": "source-bogatyrev-schottky-variation",
+      "path": "60_sources/source-bogatyrev-schottky-variation.md",
+      "sha256": "528dc7c118353c630cf3202040f4e8eea770d036ba0d774587830b616a3a1be9"
+    },
+    {
       "id": "source-borde-bronstein-gdl-foundations",
       "path": "60_sources/borde-bronstein-gdl-foundations.md",
       "sha256": "055c1cb921f1375163fd53d4cf4cadce1d9365a6e7f21bca38460a8c4ca46533"
@@ -2731,6 +3061,16 @@
       "id": "source-candes-recht-matrix-completion",
       "path": "60_sources/candes-recht-matrix-completion.md",
       "sha256": "07110b67636b76e6de2db70aaf890e6c6db28f612d9f130283c95e2096f84af1"
+    },
+    {
+      "id": "source-cap-principles",
+      "path": "60_sources/source-cap-principles.md",
+      "sha256": "e2ab579165635a071677e564b1ab6d6a066e8188ade41cb440abf8cf6f7fa07c"
+    },
+    {
+      "id": "source-cap-tensor-research",
+      "path": "60_sources/source-cap-tensor-research.md",
+      "sha256": "aa175cb236887767c3894b9f98a7c9684046b6270fa033b9aabcf9a79af643a0"
     },
     {
       "id": "source-clason-fem-2021",
@@ -2768,6 +3108,11 @@
       "sha256": "c52daef23a0d502ea338ce046b2f3cdc3824b6172c1dcc11545f38a2bb7d4f96"
     },
     {
+      "id": "source-fixed-rank-geometry",
+      "path": "60_sources/fixed-rank-geometry-primary-sources.md",
+      "sha256": "d7de28fd54004210f0065d6a20bb35294474a1e4c5b5b32162bc2650783ef4a7"
+    },
+    {
       "id": "source-gallier-riemannian-manifolds-2011",
       "path": "60_sources/gallier-riemannian-manifolds-2011.md",
       "sha256": "467c5b52874902a45580a2f7ff2dc34c756ff975af0e1b437a913a12b600833a"
@@ -2798,9 +3143,19 @@
       "sha256": "22fd94a150cc1ddeb92763062f318347bc6e62e74704e8eb477ce9eaf706f72a"
     },
     {
+      "id": "source-hse-low-rank-publications",
+      "path": "60_sources/hse-low-rank-publications.md",
+      "sha256": "0ef0a944c9e2dd7434e234a5c49dd2f155bb51859bda7fb3cd986239b5139715"
+    },
+    {
       "id": "source-hunter-pde-notes-2014",
       "path": "60_sources/hunter-pde-notes-2014.md",
       "sha256": "b7d3736dc9bca0a2f5b6f4ea991d05676717e24440872b3b37353dd409b29088"
+    },
+    {
+      "id": "source-kazeev-qtt-fem-multiscale",
+      "path": "60_sources/source-kazeev-qtt-fem-multiscale.md",
+      "sha256": "2c3ad87844811ddc745b25b78356b9b6971ef8b7776b3cd29f05920f8b1760cc"
     },
     {
       "id": "source-kirillov-introduction-lie-groups-2008",
@@ -2848,6 +3203,16 @@
       "sha256": "bddf5d294df93306f26fb5a3077eb921de44b50e9e8a0ce77e3960d9ad42640b"
     },
     {
+      "id": "source-malyhin-2025",
+      "path": "60_sources/malyhin-2025-low-rank-identity.md",
+      "sha256": "8cb356fe7ef1be57a6ea7ed05704ad243ab91199daef8ae76f3761bdf229a01e"
+    },
+    {
+      "id": "source-maxvol-principles",
+      "path": "60_sources/maxvol-principles-primary-sources.md",
+      "sha256": "95ebc1763c10f9c6bb7d055601f3087d35b0ceb39063fee4327ef60bf4fa778a"
+    },
+    {
       "id": "source-mazumder-hastie-tibshirani-soft-impute",
       "path": "60_sources/mazumder-hastie-tibshirani-soft-impute.md",
       "sha256": "7e3c1a821f403fcb4d9cdaaec2bb1effe41990338c234ebd355e651b63f30692"
@@ -2886,6 +3251,21 @@
       "id": "source-paul-spiked-covariance-eigenvectors",
       "path": "60_sources/paul-spiked-covariance-eigenvectors.md",
       "sha256": "aae0357f68a7554522b51dbf57e052aae9f72ace6b53d0cd1f1cb97a2f0ca6d0"
+    },
+    {
+      "id": "source-puchkin-rakhuba-structured-covariance",
+      "path": "60_sources/source-puchkin-rakhuba-structured-covariance.md",
+      "sha256": "3acb59ce800063823c278d5aa8779ea86b3bde9f0b363272c04ad1a85fb856f3"
+    },
+    {
+      "id": "source-qr-rank-revealing",
+      "path": "60_sources/qr-rank-revealing-primary-sources.md",
+      "sha256": "ed2fd4021d4899b73495fdd9ae95d760c6d7b65ada6b1b20f60dd3df7f1dfa2e"
+    },
+    {
+      "id": "source-riemannion-2026",
+      "path": "60_sources/riemannion-2026.md",
+      "sha256": "652fa3aef00823d24da550ee2b9c96333dc148ebbe493bd1ef91fbc179ad9f5d"
     },
     {
       "id": "source-rindler-calculus-variations-2015",
@@ -2941,6 +3321,11 @@
       "id": "source-tyrtyshnikov-numerical-analysis",
       "path": "60_sources/tyrtyshnikov-numerical-analysis.md",
       "sha256": "3415ea0bcc65a81ad078c4e1937f95450914b884de29ceabfc0c8b793872b281"
+    },
+    {
+      "id": "source-tyrtyshnikov-video-algebra-2026",
+      "path": "60_sources/tyrtyshnikov-video-algebra-2026.md",
+      "sha256": "1e24e52c6302b6f7bfae5591d4b91eaa7c392d743c37cce3eefd9644f77a557c"
     },
     {
       "id": "source-vershynin-hdp-2026",
@@ -3618,6 +4003,71 @@
       "sha256": "60119c0235e8442dc83a48e9c068912f86b5af9ed137be7ea7b151830e45e972"
     },
     {
+      "id": "tva-01-matrix-factorizations-qr",
+      "path": "30_mathematics/tyrtyshnikov-video-2026/lectures/tva-01-matrix-factorizations-qr.md",
+      "sha256": "cff8a5f3057ea4adb9a433b9cf54f85fb2a270b3467bd20f45be9335490a8610"
+    },
+    {
+      "id": "tva-02-qr-fft",
+      "path": "30_mathematics/tyrtyshnikov-video-2026/lectures/tva-02-qr-fft.md",
+      "sha256": "b1e6eac4bda1a2dcdeb9bc2bf7a9488038a874c70e978e7eeb48b5b524549007"
+    },
+    {
+      "id": "tva-03-norms-svd",
+      "path": "30_mathematics/tyrtyshnikov-video-2026/lectures/tva-03-norms-svd.md",
+      "sha256": "c6f062e8929d9dc340e3f85aaea6107f52c05826d56912342c472574f5578aa2"
+    },
+    {
+      "id": "tva-04-svd-least-squares",
+      "path": "30_mathematics/tyrtyshnikov-video-2026/lectures/tva-04-svd-least-squares.md",
+      "sha256": "60b4c483ac035497834293193ad2a9a871e62f0f8102f880dfd34ad9d5f3a173"
+    },
+    {
+      "id": "tva-05-regularization",
+      "path": "30_mathematics/tyrtyshnikov-video-2026/lectures/tva-05-regularization.md",
+      "sha256": "ca0e256d298b9a3d1381e3e01b5d187b9cbe9b0c8a92104fee27acab2f8f3a14"
+    },
+    {
+      "id": "tva-06-maxvol-cross",
+      "path": "30_mathematics/tyrtyshnikov-video-2026/lectures/tva-06-maxvol-cross.md",
+      "sha256": "6eb4fc6ab20025c749cac72db3afdfa1470607fafde956a45e46b704064e67fe"
+    },
+    {
+      "id": "tva-07-tensor-rank-uniqueness",
+      "path": "30_mathematics/tyrtyshnikov-video-2026/lectures/tva-07-tensor-rank-uniqueness.md",
+      "sha256": "d005e62c1c1c93f72fe884d95e18ec2bf7fa8add98f16455c2199e6c6ba4ab1e"
+    },
+    {
+      "id": "tva-08-kruskal-proof",
+      "path": "30_mathematics/tyrtyshnikov-video-2026/lectures/tva-08-kruskal-proof.md",
+      "sha256": "d552d4901e1966eb7919faeea2f5ac5d4153053235e32301f9fe5886da746601"
+    },
+    {
+      "id": "tva-09-tucker-tt",
+      "path": "30_mathematics/tyrtyshnikov-video-2026/lectures/tva-09-tucker-tt.md",
+      "sha256": "b61ea88f1eb19ca363db318dcf6dd5c0b7835824b8f9a97aa16c8547a5ea99b4"
+    },
+    {
+      "id": "tva-10-tt-construction-rounding",
+      "path": "30_mathematics/tyrtyshnikov-video-2026/lectures/tva-10-tt-construction-rounding.md",
+      "sha256": "ba8bf19504763d15674b9f1db7c20e2fbcb06e33b2145d16080b291d310bca07"
+    },
+    {
+      "id": "tva-map",
+      "path": "30_mathematics/tyrtyshnikov-video-2026/tva-map.md",
+      "sha256": "62e775c40032abc0bed1ccb8d073c9e6711bba1af8e01035fe40b7cecf94afc2"
+    },
+    {
+      "id": "tva-source-map",
+      "path": "30_mathematics/tyrtyshnikov-video-2026/tva-source-map.md",
+      "sha256": "ea7627411d9faa94f5efc0cbd5ffdab447cc9becb919557ef6bbe7483f87f3f4"
+    },
+    {
+      "id": "tva-visual-lab",
+      "path": "70_labs/tyrtyshnikov-video-2026/tva-visual-lab.md",
+      "sha256": "6520618228577668e824773fa1d714fd94fab9dc6d3e163b0134166d719cd196"
+    },
+    {
       "id": "tyrtyshnikov-chapters-09-11-figure-registry",
       "path": "70_labs/figures/tyrtyshnikov-chapters-09-11.md",
       "sha256": "e19e8099ced4dbabd9e6bb39aa5551492d038f662ffc7ef976c8a6f9b9164126"
@@ -3736,26 +4186,6 @@
       "id": "wigner-semicircle-law",
       "path": "30_mathematics/random-matrix-theory/theorems/wigner-semicircle-law.md",
       "sha256": "9415f20732dabbc5c2dd92aae77f4bcca1f0a3094be30beb6ec8fcda0199b21d"
-    },
-    {
-      "id": "cap-a06-orthogonal-procrustes",
-      "path": "30_mathematics/computational-algebra-principles/modules/cap-a06-orthogonal-procrustes.md",
-      "sha256": "786a28c8b6ca3fc336c672bf2bc7ae09a890be1ef9c79539dd984729b3141144"
-    },
-    {
-      "id": "cap-g04-procrustesgpt",
-      "path": "30_mathematics/computational-algebra-principles/modules/cap-g04-procrustesgpt.md",
-      "sha256": "d387f923d5503bfea7029d493e956bf9490d81fed8ff0591061d35f5fa41de2a"
-    },
-    {
-      "id": "cap-g05-orthofuse",
-      "path": "30_mathematics/computational-algebra-principles/modules/cap-g05-orthofuse.md",
-      "sha256": "7de56e7762b468f0cbeb39663cac49d2256959e2fd68641cb9e52b7c6ec26955"
-    },
-    {
-      "id": "cap-orthogonal-lab",
-      "path": "70_labs/computational-algebra-principles/cap-orthogonal-lab.md",
-      "sha256": "81c4e6df6a931a80d46f608289cbc0d1bbb0de37e909b505c291221a6d69d4e9"
     }
   ],
   "assets": [
@@ -4040,6 +4470,30 @@
       "sha256": "4be1277d23bf8ebdc9e929e18a8faaefaf7065f980a89bfe69021eca463a8ad0"
     },
     {
+      "path": "80_assets/computational-algebra-principles/branches456-v1/covariance-misspecification.svg",
+      "sha256": "21a51cd002037744483e6b26fa37cea51de0be34c52791e95d4de9511bea01c6"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/branches456-v1/covariance-rearrangement.svg",
+      "sha256": "e75162ba2f2691d156695d73713cb4585a22d4eefb8dece13aa9c6bad8058824"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/branches456-v1/qtt-binary-ranks.svg",
+      "sha256": "18ab9dee9e4674ccead38b213444fec1312cd351b1576789400a34612da76803"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/branches456-v1/qtt-error-budget.svg",
+      "sha256": "baa4c8db3d126228ab6166210fcc3babb8d312ca709d087a88d9984e6ece4b1e"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/branches456-v1/schottky-disks.svg",
+      "sha256": "544e37e44f33d5382f4e568e5aff227d5ba98fa8c2b1e04547b53fe0fe1b80b2"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/branches456-v1/schottky-mobius-variation.svg",
+      "sha256": "4ef19d3587a621c4b958a4cf755b317e2656b74a4bef43ec37fe1bf58765dabb"
+    },
+    {
       "path": "80_assets/computational-algebra-principles/coala-sf-tucker-v1/coala-errors.svg",
       "sha256": "8596900cd1b8026c5714cc3e15b9254d9b9e0a8b638a0e49d6ad51aa2d7cc890"
     },
@@ -4078,6 +4532,250 @@
     {
       "path": "80_assets/computational-algebra-principles/coala-sf-tucker-v2/sf-tangent.svg",
       "sha256": "14071915661da7acb1dac96457195a07ebc3d89cc037a6fbb6df4711f025db1d"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/full-plan-v1/cherry-gradient.svg",
+      "sha256": "899a0b71417769665d1286a75ba5a1e2ff3ea6c562ec2e4ef6aac9cca86eb7dd"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/full-plan-v1/cherry-unseen.svg",
+      "sha256": "7952daae173964ad16d45061cac5a0f9b592d0c6dda68194a62014bc38ab2ae7"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/full-plan-v1/principle-certificate.svg",
+      "sha256": "15f363a5854810ec78b0e1edafe4ac9bdd1626796f4aae39c42d4cf4ca7f1f9e"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/full-plan-v1/principle-conditioning.svg",
+      "sha256": "3c1875ba2307dd5ae723bb4e303d51c54ceeb9767f0635758b41df9fd8793b9b"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/full-plan-v1/principle-isometry.svg",
+      "sha256": "dba510249ea9948401feb0a696508a415c302ed186821c329bd2d11018909204"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/full-plan-v1/principle-locality.svg",
+      "sha256": "d0907edfeaed535d8be9f667fc2701d2d84fb2d6cdb81b58ebe7a9ed33f6e75f"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/full-plan-v1/principle-random.svg",
+      "sha256": "49d7bcc1fe1b9e02df77799a9c07a3874b5710ed343e9c9fe6ad662cf4414b5e"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/full-plan-v1/sfett-rank-audit.svg",
+      "sha256": "95b4a06ee39f0df29246e4b2449e4aec55849e6b4cd7eadb3c6bc82069a6f4a5"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/full-plan-v1/sfett-tangent-dimension.svg",
+      "sha256": "1009d58bea88caaae0df91d29685c79c1ecaf0993c5fc70ebcc9966b54a55d92"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/full-plan-v1/tt-error-budget.svg",
+      "sha256": "753542e949711cb6404246ceb29a5cf4d3fd5f7276c56007711ae16b80563292"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/full-plan-v1/tt-order.svg",
+      "sha256": "392d54fb5c23d9581e402727a8ad3e1c3c9d39402c918037187aa72f9abdbb19"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/geometry-gpt-v1/cap-g01-gauge.png",
+      "sha256": "a34680383048aed4af6bd7203dec8547bdb2c5e74adb70ad06e006fe6ec960ea"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/geometry-gpt-v1/cap-g01-gauge.webp",
+      "sha256": "8e3124a0e6aa9a38fef97675cc3ec264cd932753a0bc5649be308ecf1857fa3b"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/geometry-gpt-v1/cap-g01-tangent.png",
+      "sha256": "d59d626afda1a7e915bb67e4d3430d526a22091b8421155feefaf023a26cc0ae"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/geometry-gpt-v1/cap-g01-tangent.webp",
+      "sha256": "c8aab7b999abc6131bb7ad0459c92e5101f3c44ef22b05ac0b1efba8a774e14f"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/geometry-plots-v1/cap-g01-gauge-step.svg",
+      "sha256": "797393e28de62d183f25cf72e9178a533e0ade663ae7741b9960d4f6239e5756"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/geometry-plots-v1/cap-g01-retraction-order.svg",
+      "sha256": "807eec801405c1ce89a7e41e9a3404b9accfb584f70718dd4995e6efd4b61e81"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/geometry-plots-v2/cap-g01-rank-cone.svg",
+      "sha256": "c4177d70ed7cc044a31fa2b311060dc1e79c1909e47cbee575fa51b3d73a4c12"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/gpt-image-v1/cap-01-insight.png",
+      "sha256": "088f269330aef848778f23e616fd5eca6d94d0fa109b35a92904ab4921916618"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/gpt-image-v1/cap-01-insight.webp",
+      "sha256": "73ca980ddf779d6b8cdbfe5d1bc547be806696c5eea30aa3c5e2d48c69fd66b5"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/gpt-image-v1/cap-02-insight.png",
+      "sha256": "031583bc3aa027090a928c5a092c15f1dd952b99b06529e8babbda71659b8210"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/gpt-image-v1/cap-02-insight.webp",
+      "sha256": "42b0a3aef621a226f8491d3473d6a2f964fcf77dca444bc3b5934d0462135df1"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/gpt-image-v1/cap-03-insight.png",
+      "sha256": "84c7acca1dcac753dd1800db6adc1bec978eb087787a93c60d36aa6a6c771d40"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/gpt-image-v1/cap-03-insight.webp",
+      "sha256": "daf8ece5d4b27a75dc312d044c55e1c170a08d8421b01697e51816a292eb3ec1"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/gpt-image-v1/cap-malyhin-insight.png",
+      "sha256": "7f15d1411c93115d121cfb9a6e87b46ab2c5c3da2931976130191efa53531717"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/gpt-image-v1/cap-malyhin-insight.webp",
+      "sha256": "88a43bdadc9fd63103edd98c91f763c3bca47b2efbe57dabd3f65559dfda7e72"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/orthogonal-v1/orthofuse-phases.svg",
+      "sha256": "3c5d38ddd1cbbf30b736f1d6afccb119091ca900696efed685f24137f9cc31d9"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/orthogonal-v1/orthogonal-arc.svg",
+      "sha256": "d3cf818dd457788d9118c6223a3ab2430d82931262e98d89d02417a5d9860a9c"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/orthogonal-v1/procrustes-kron.svg",
+      "sha256": "a8d3cb20f1b053f30e13e9a9f95317945db75397c52fd74b052ce716f72d3ef2"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/plots-v1/cap-01-row-selection.svg",
+      "sha256": "78f943517edd6390680cc44e9512c0b7ef43998c6f18446d3b74b9096e655d1d"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/plots-v1/cap-01-volume-conditioning.svg",
+      "sha256": "c9ba44594e00439fd530ef4849829100939b4f8f65882654c95067f813f27d27"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/plots-v1/cap-02-local-failure.svg",
+      "sha256": "5cbf104d3503a4fa5cfb2d1d57c5637b083656cd74708b43b141f1a248c314ae"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/plots-v1/cap-02-schur-residual.svg",
+      "sha256": "4b22db4c0a133f08a1ac2b1ed499b3200305c03b76f9d70834b36a696bd3d9b8"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/plots-v1/cap-03-cardinal-lebesgue.svg",
+      "sha256": "de168518f2d6e3164f2a1ed198aacd4755ba89510401a7350ac7166beeb667c3"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/plots-v1/cap-03-mesh-failure.svg",
+      "sha256": "b3b777ca6d19d9e1724ecae0d0c7d53b0861bef1fad624cecda29e675335a023"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/plots-v1/cap-03-node-comparison.svg",
+      "sha256": "a30f7337bdc487d491a83ac890431ff1aafaf9636138074a911868617003fb6f"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/plots-v1/cap-bridge-model-error.svg",
+      "sha256": "dbcf0932f997b8c69d201abdfd37b4c8d2d7c26e0d14db09a65cd1569ec8c4c9"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/plots-v1/cap-malyhin-gram-density.svg",
+      "sha256": "86250b23ebb20b05f317af76391b293cc8aaf96abd7c1c3dd93d0a6d2c9baac2"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/plots-v2-branches17/cap-05-confidence-geometry.svg",
+      "sha256": "fc85aed83870739ff139d35d014bf5fcc775a6a2527113a486d95a0774611c05"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/plots-v2-branches17/cap-05-noise-weights.svg",
+      "sha256": "c0011ebc5d2b443c6b18b0791099cec94a5366254e00b7ab7a766d78632654b6"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/plots-v2-branches17/cap-06-amplification.svg",
+      "sha256": "b5c37e4c1503d2dedc11721a419b5ec1e85dc8fc3b9684275e0affaf10a9efc3"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/plots-v2-branches17/cap-06-oblique-geometry.svg",
+      "sha256": "d5317ac689432dd1dd09869ca6b00c06a8856c6527ff9c80a7ae821b76d1ca23"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/plots-v2-branches17/cap-07-subset-distribution.svg",
+      "sha256": "a6cb421dd3456403cbb7e512325d248028fdcb3715f9e31c624b96ddce02e08b"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/plots-v2-branches17/cap-07-unbiased-geometry.svg",
+      "sha256": "7dab48853b745822dcc51f1fc84bd1f438696a2473008166df6649087590dbe8"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/plots-v2-branches17/journal-01-kashin-coordinates.svg",
+      "sha256": "4141cff57b53a3801c401af00e81cf01ad72506004f56bafd6a0713372631dd0"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/plots-v2-branches17/journal-01-kashin-residual.svg",
+      "sha256": "bf980cefb74ae6bf73f8f62ca29a8d3fcbd41a3e2f6327619086d630b006e74c"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/plots-v2-branches17/journal-02-greedy-norm-budget.svg",
+      "sha256": "b9524a9c1150f3f90139474a26b8076c07eaf0561980f32cebbce161a3a74220"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/plots-v2-branches17/journal-02-greedy-scores.svg",
+      "sha256": "586dbb9d9e27efa85a658b2457cce89739fd1a86f612d126b165f62e02ad3f79"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/qr-riemannion-gpt-v1/cap-a04-qr-insight.png",
+      "sha256": "628afbdd4621318d5a6f432b9c7c8257b296849964bea025e568c4af51d1b6e9"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/qr-riemannion-gpt-v1/cap-a04-qr-insight.webp",
+      "sha256": "feaa266096b6a01e336efca618cf19f09028cbeb967fe1e06ba3ba1302026979"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/qr-riemannion-gpt-v1/cap-g02-loi-insight.png",
+      "sha256": "298e917a48ab9bcbcb87f6580e1881475baa19294cad92063443536cadbe26bd"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/qr-riemannion-gpt-v1/cap-g02-loi-insight.webp",
+      "sha256": "a56bd8b693b22d1c8437357ea2c80b1f7bef86ae3f7ba9a890ab4674c93d05ae"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/qr-riemannion-gpt-v1/cap-g02-riemannion-insight.png",
+      "sha256": "4c699f5c4cc4a202770b1c7603255bf2fa3089d939308486e18bf7a462f624f1"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/qr-riemannion-gpt-v1/cap-g02-riemannion-insight.webp",
+      "sha256": "e1278452aae1939fb793701055595349d29dab5c41e3daa1996d1e89d64a36e7"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/qr-riemannion-plots-v1/cap-a04-kahan.svg",
+      "sha256": "be2c92405ea8acb03a52c41cf423d59ecafb4e5a3a86f75305443422d56acc96"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/qr-riemannion-plots-v1/cap-a04-orthogonality.svg",
+      "sha256": "2035cfcd8c2737032abbcd27f25ff73553dde0fc394512f002daa0681503422b"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/qr-riemannion-plots-v1/cap-a04-rank-threshold-v2.svg",
+      "sha256": "44196717f70e4fbbef4c052b96e6bd4fab7e3da53d96ef151fb867657ff5e20a"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/qr-riemannion-plots-v1/cap-g02-loi-capture.svg",
+      "sha256": "78eff940e112cc7cbabcb99c2ca359baa2fd83455d21ccdd086da8bc7f1ef101"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/qr-riemannion-plots-v1/cap-g02-polar-projection.svg",
+      "sha256": "e6f074f52693ca3bb08cd2ede8d47cad542ce606c2cd79b11629491c257f3203"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/qr-riemannion-plots-v1/cap-g02-toy-invariance.svg",
+      "sha256": "800f19f144213ce8b70469e075c157ebdacf3564ad9d653c4d085c9f80438879"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/qr-riemannion-plots-v1/cap-qr-small-core.svg",
+      "sha256": "adcb7342362c33560a24667c1ffb1a8b3073a183a094370fc8834439711b1620"
     },
     {
       "path": "80_assets/dynamical-systems/gpt-image-v1/averaging-slow-envelope-v1.webp",
@@ -6192,17 +6890,157 @@
       "sha256": "48a4472882677bbc516d42ce61992eac60ef96e11867031fb1d3832d45e88d02"
     },
     {
-      "path": "80_assets/computational-algebra-principles/orthogonal-v1/orthofuse-phases.svg",
-      "sha256": "3c5d38ddd1cbbf30b736f1d6afccb119091ca900696efed685f24137f9cc31d9"
+      "path": "80_assets/tyrtyshnikov-video-2026/gpt-image-v1/tva-01-insight.png",
+      "sha256": "5c65694f8966a8335373094d07f5c3865507b3c6c175494f3a03b2ac200fd0cb"
     },
     {
-      "path": "80_assets/computational-algebra-principles/orthogonal-v1/orthogonal-arc.svg",
-      "sha256": "d3cf818dd457788d9118c6223a3ab2430d82931262e98d89d02417a5d9860a9c"
+      "path": "80_assets/tyrtyshnikov-video-2026/gpt-image-v1/tva-01-insight.webp",
+      "sha256": "09fbc68bc7ddbaaa1a4a21f2585116c49d784c376b8e796de027a03b9e60aabf"
     },
     {
-      "path": "80_assets/computational-algebra-principles/orthogonal-v1/procrustes-kron.svg",
-      "sha256": "a8d3cb20f1b053f30e13e9a9f95317945db75397c52fd74b052ce716f72d3ef2"
+      "path": "80_assets/tyrtyshnikov-video-2026/gpt-image-v1/tva-02-insight.png",
+      "sha256": "ce4ecab47e2789239b795c0e9de3a55d97155d495d979cb70a77ae6bcb3d329e"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-video-2026/gpt-image-v1/tva-02-insight.webp",
+      "sha256": "85210cef29601bed9e3ccd841503a2bf0900a2c5cf29bfc7bafca12335254325"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-video-2026/gpt-image-v1/tva-04-insight.png",
+      "sha256": "22f401dc6eb4900e57870a9e8bbfabb7998b07ad58bcadeaed1fbd703e004200"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-video-2026/gpt-image-v1/tva-04-insight.webp",
+      "sha256": "6cb4eacccea569152773748ef2a40be4182c06e51722405aa71d6ce0cc0f1503"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-video-2026/gpt-image-v1/tva-05-insight.png",
+      "sha256": "50accb626deb6c49b050e7d1e4396a6a73ef6bdb3e46f4a80c93748a8923bae1"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-video-2026/gpt-image-v1/tva-05-insight.webp",
+      "sha256": "ca7f0d642b7e901860f51aa07f98e32c718468e5703877ffffe245691c68a030"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-video-2026/gpt-image-v1/tva-06-insight.png",
+      "sha256": "d9336b91f5f34add290c3ab395863cad809560da04b0fe3bc210e11aa160058e"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-video-2026/gpt-image-v1/tva-06-insight.webp",
+      "sha256": "9812e42ceaed6a0143510d4d380642b56d357ef35989094a95a02c51694eda3c"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-video-2026/gpt-image-v1/tva-09-insight.png",
+      "sha256": "a452e8c7f5ea46cfbba80b8d17c69233bc6a599eacd1e2d78e334b62f64a7ff8"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-video-2026/gpt-image-v1/tva-09-insight.webp",
+      "sha256": "b7c57423bdc3c7629b8ee5b83a0aa736e6b3bbc53b12af0811af235bee64ac60"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-video-2026/gpt-image-v1/tva-10-insight.png",
+      "sha256": "7ee9850702b878b7eb077ed4ef28cc022aaa3754c9c1069f620130f32435dea2"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-video-2026/gpt-image-v1/tva-10-insight.webp",
+      "sha256": "374816b4d604210c332c37220748798c2272e87914bbb6d52475309c772ed60d"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-video-2026/gpt-image-v2/tva-03-insight-palette-v2.png",
+      "sha256": "0c4642e8e7aa338e09226e5267dce598cff99583a7b6f53b60d7338618f7f1bd"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-video-2026/gpt-image-v2/tva-03-insight-palette-v2.webp",
+      "sha256": "a8bf7750aab0736464903fdf25c687bc5ce523edca3d32db9b7c7311c6fe010d"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-video-2026/gpt-image-v2/tva-07-insight-palette-v2.png",
+      "sha256": "b6c43c212ddafa4386eb560cafa5ed4daba3c7b81e4277d6186b018457334efb"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-video-2026/gpt-image-v2/tva-07-insight-palette-v2.webp",
+      "sha256": "87fcc167ed3918904dd39a844d553518031189f7648c3d0f40408898271312a7"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-video-2026/gpt-image-v2/tva-08-insight-palette-v2.png",
+      "sha256": "61bdf8fbe9241b4e39124507234d76bdf751fcbb7ee7c27b43aac28c7d8f5aa7"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-video-2026/gpt-image-v2/tva-08-insight-palette-v2.webp",
+      "sha256": "80c59da767e4532e99f8acd50091955e05154effebdeb871df5a430bb887a620"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-video-2026/plots-v1/tva-01-mechanism.svg",
+      "sha256": "04eef06af32020c9f6b1061eebbba8200ec9efc4553e26233cd18bd1b669ac3f"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-video-2026/plots-v1/tva-01-polynomial-sensitivity.svg",
+      "sha256": "80f96d944ed745c1054c4ff018b70a5265ac34b21bef2db20c956df67ad39e81"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-video-2026/plots-v1/tva-02-mechanism.svg",
+      "sha256": "45a2ddb16f02186ba156b714acfd5b01ba031bf9979201869317c929198590e9"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-video-2026/plots-v1/tva-02-toeplitz.svg",
+      "sha256": "ea14b65d57a5164af79d5c465baa92a61832a55a961de4a7ffa55f2f68dddd76"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-video-2026/plots-v1/tva-03-mechanism.svg",
+      "sha256": "fcf680d3cb0881c0b42df16d1461d4b69ee3fee8b5a3fc8f7d6189a28678bd9f"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-video-2026/plots-v1/tva-03-unit-balls.svg",
+      "sha256": "97970f9b9187d23b0cf41b449bba7d0198ba7289fc482c8c28a3b9810b7e24a7"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-video-2026/plots-v1/tva-04-mechanism.svg",
+      "sha256": "d8ca4ccef365d5acebb60dbe2524488134d0f73b38fde837c1d0f630c672f5a5"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-video-2026/plots-v1/tva-04-secular-interlacing.svg",
+      "sha256": "1b325f0a73ecc161d7c91f1aac8b7b7d1a48689da32e459ab93b95979b9e6100"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-video-2026/plots-v1/tva-05-bidiagonal-step.svg",
+      "sha256": "4511bc3454e4ac1e636724da18efa64af6f1e993ccea8b061c7aeb5dcebecf0c"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-video-2026/plots-v1/tva-05-mechanism.svg",
+      "sha256": "9169bbbc9bcdbd481ea3932c1ab7ed42c304753688f1110379db696c23cf3c44"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-video-2026/plots-v1/tva-06-interpolation.svg",
+      "sha256": "c662341fbf24dde6db01509f7e32ef3f412ea6c99264b5de84c197df0a93fb59"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-video-2026/plots-v1/tva-06-mechanism.svg",
+      "sha256": "fa1dbf0f92f1c5801d704511f8e60f82bf7846c576b5d6fc41420b0399376198"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-video-2026/plots-v1/tva-07-mechanism.svg",
+      "sha256": "51169f8fcd38a2294c376be31fce983ba3dd17a1bd1aee2eabaab81b30f855c6"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-video-2026/plots-v1/tva-08-mechanism.svg",
+      "sha256": "352a1db71774ba3c34cfcdc0756ae358dfb113289b1901da1000dfeb96793a7f"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-video-2026/plots-v1/tva-09-left-inverse.svg",
+      "sha256": "2a75396e28930d39c0acd83ec6d00dd835a0b9931c754232044fff39ac083f30"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-video-2026/plots-v1/tva-09-mechanism.svg",
+      "sha256": "139c42e6abde6c92d7fb65ba86b9e601f8115643340c90de8e46c32537893190"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-video-2026/plots-v1/tva-10-input-models.svg",
+      "sha256": "430f80832019326ecf7c80820e3c5f9a9f9fa3a7d105959737ada02686d13085"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-video-2026/plots-v1/tva-10-mechanism.svg",
+      "sha256": "8be458a495badd5423655bf130597f92ac58a33019efb59e8532b54d06449838"
     }
   ],
-  "asset_count": 611
+  "asset_count": 713
 }

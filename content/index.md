@@ -99,3 +99,8 @@ tags: [map, math-for-ai]
 - [[30_mathematics/computational-algebra-principles/modules/cap-g04-procrustesgpt|cap-g04-procrustesgpt]]
 - [[30_mathematics/computational-algebra-principles/modules/cap-g05-orthofuse|cap-g05-orthofuse]]
 - [[70_labs/computational-algebra-principles/cap-orthogonal-lab|cap-orthogonal-lab]]
+
+
+## Полный цикл вычислительной алгебры
+
+[[30_mathematics/computational-algebra-principles/cap-publication-plan|Восемь веток от максимального объёма до общих вычислительных принципов]]
