@@ -1830,7 +1830,7 @@
     {
       "id": "math-ai-home",
       "path": "index.md",
-      "sha256": "142c914e998fbd330125fecf51e0e4d5e95a64e8ea447a09956a99e8090c3f4a"
+      "sha256": "7e3075aad1d84c25fca64b692faf17139cd177d90361104f741f4f8bf3aaf575"
     },
     {
       "id": "mathematics-integration-map",
@@ -3736,6 +3736,26 @@
       "id": "wigner-semicircle-law",
       "path": "30_mathematics/random-matrix-theory/theorems/wigner-semicircle-law.md",
       "sha256": "9415f20732dabbc5c2dd92aae77f4bcca1f0a3094be30beb6ec8fcda0199b21d"
+    },
+    {
+      "id": "cap-a06-orthogonal-procrustes",
+      "path": "30_mathematics/computational-algebra-principles/modules/cap-a06-orthogonal-procrustes.md",
+      "sha256": "786a28c8b6ca3fc336c672bf2bc7ae09a890be1ef9c79539dd984729b3141144"
+    },
+    {
+      "id": "cap-g04-procrustesgpt",
+      "path": "30_mathematics/computational-algebra-principles/modules/cap-g04-procrustesgpt.md",
+      "sha256": "d387f923d5503bfea7029d493e956bf9490d81fed8ff0591061d35f5fa41de2a"
+    },
+    {
+      "id": "cap-g05-orthofuse",
+      "path": "30_mathematics/computational-algebra-principles/modules/cap-g05-orthofuse.md",
+      "sha256": "7de56e7762b468f0cbeb39663cac49d2256959e2fd68641cb9e52b7c6ec26955"
+    },
+    {
+      "id": "cap-orthogonal-lab",
+      "path": "70_labs/computational-algebra-principles/cap-orthogonal-lab.md",
+      "sha256": "81c4e6df6a931a80d46f608289cbc0d1bbb0de37e909b505c291221a6d69d4e9"
     }
   ],
   "assets": [
@@ -6170,7 +6190,19 @@
     {
       "path": "80_assets/topology/gpt-image-v1/topology-module-13-covering-spaces-v1.webp",
       "sha256": "48a4472882677bbc516d42ce61992eac60ef96e11867031fb1d3832d45e88d02"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/orthogonal-v1/orthofuse-phases.svg",
+      "sha256": "3c5d38ddd1cbbf30b736f1d6afccb119091ca900696efed685f24137f9cc31d9"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/orthogonal-v1/orthogonal-arc.svg",
+      "sha256": "d3cf818dd457788d9118c6223a3ab2430d82931262e98d89d02417a5d9860a9c"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/orthogonal-v1/procrustes-kron.svg",
+      "sha256": "a8d3cb20f1b053f30e13e9a9f95317945db75397c52fd74b052ce716f72d3ef2"
     }
   ],
-  "asset_count": 608
+  "asset_count": 611
 }

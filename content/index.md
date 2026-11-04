@@ -91,3 +91,11 @@ tags: [map, math-for-ai]
 > Публичная версия содержит только материалы со статусом `canonical`, явно одобренные владельцем. Расширения RMT и линейной алгебры утверждены 27 июля 2026 года и включены в текущий релиз.
 > Семь курсов от геометрического глубокого обучения до тензорных методов утверждены 12 августа 2026 года и включены в публичный граф.
 > Редакционный пакет от 31 августа утверждён 3 сентября 2026 года. В него входят обновлённая навигация, уточнения существующих материалов и три новых курса: гармонический анализ и вейвлеты; группы Ли и дифференциальная геометрия; классические уравнения в частных производных и вариационные методы.
+
+
+## Ортогональная геометрия
+
+- [[30_mathematics/computational-algebra-principles/modules/cap-a06-orthogonal-procrustes|cap-a06-orthogonal-procrustes]]
+- [[30_mathematics/computational-algebra-principles/modules/cap-g04-procrustesgpt|cap-g04-procrustesgpt]]
+- [[30_mathematics/computational-algebra-principles/modules/cap-g05-orthofuse|cap-g05-orthofuse]]
+- [[70_labs/computational-algebra-principles/cap-orthogonal-lab|cap-orthogonal-lab]]
