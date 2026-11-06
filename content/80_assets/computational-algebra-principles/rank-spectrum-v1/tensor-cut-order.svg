@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="734.4pt" height="334.8pt" viewBox="0 0 734.4 334.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.8.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 334.8 
+L 734.4 334.8 
+L 734.4 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 115.143429 141.8994 
+L 148.978286 141.8994 
+L 148.978286 113.6646 
+L 115.143429 113.6646 
+z
+" clip-path="url(#pdb2f2f1901)" style="fill: #dce7ef; stroke: #576e85; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 227.926286 141.8994 
+L 261.761143 141.8994 
+L 261.761143 113.6646 
+L 227.926286 113.6646 
+z
+" clip-path="url(#pdb2f2f1901)" style="fill: #dce7ef; stroke: #576e85; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 340.709143 141.8994 
+L 374.544 141.8994 
+L 374.544 113.6646 
+L 340.709143 113.6646 
+z
+" clip-path="url(#pdb2f2f1901)" style="fill: #dce7ef; stroke: #576e85; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 453.492 141.8994 
+L 487.326857 141.8994 
+L 487.326857 113.6646 
+L 453.492 113.6646 
+z
+" clip-path="url(#pdb2f2f1901)" style="fill: #dce7ef; stroke: #576e85; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 115.143429 236.4246 
+L 148.978286 236.4246 
+L 148.978286 208.1898 
+L 115.143429 208.1898 
+z
+" clip-path="url(#pdb2f2f1901)" style="fill: #dce7ef; stroke: #576e85; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 227.926286 236.4246 
+L 261.761143 236.4246 
+L 261.761143 208.1898 
+L 227.926286 208.1898 
+z
+" clip-path="url(#pdb2f2f1901)" style="fill: #dce7ef; stroke: #576e85; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 340.709143 236.4246 
+L 374.544 236.4246 
+L 374.544 208.1898 
+L 340.709143 208.1898 
+z
+" clip-path="url(#pdb2f2f1901)" style="fill: #dce7ef; stroke: #576e85; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 453.492 236.4246 
+L 487.326857 236.4246 
+L 487.326857 208.1898 
+L 453.492 208.1898 
+z
+" clip-path="url(#pdb2f2f1901)" style="fill: #dce7ef; stroke: #576e85; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 151.233943 127.782 
+L 225.670629 127.782 
+" clip-path="url(#pdb2f2f1901)" style="fill: none; stroke: #576e85; stroke-width: 3.321928; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 264.0168 127.782 
+L 338.453486 127.782 
+" clip-path="url(#pdb2f2f1901)" style="fill: none; stroke: #087f77; stroke-width: 5.087463; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 376.799657 127.782 
+L 451.236343 127.782 
+" clip-path="url(#pdb2f2f1901)" style="fill: none; stroke: #576e85; stroke-width: 3.321928; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 151.233943 222.3072 
+L 225.670629 222.3072 
+" clip-path="url(#pdb2f2f1901)" style="fill: none; stroke: #576e85; stroke-width: 3.321928; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 264.0168 222.3072 
+L 338.453486 222.3072 
+" clip-path="url(#pdb2f2f1901)" style="fill: none; stroke: #087f77; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 376.799657 222.3072 
+L 451.236343 222.3072 
+" clip-path="url(#pdb2f2f1901)" style="fill: none; stroke: #576e85; stroke-width: 3.321928; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="fill: #213446; font: 700 12px 'DejaVu Sans'; text-anchor: start" x="58.752" y="131.09325" transform="rotate(-0 58.752 131.09325)">А</text>
+   </g>
+   <g id="text_2">
+    <text style="fill: #213446; font: 12px 'DejaVu Sans'; text-anchor: middle" x="188.452286" y="108.1404" transform="rotate(-0 188.452286 108.1404)">4</text>
+   </g>
+   <g id="text_3">
+    <text style="fill: #087f77; font: 12px 'DejaVu Sans'; text-anchor: middle" x="301.235143" y="108.1404" transform="rotate(-0 301.235143 108.1404)">16</text>
+   </g>
+   <g id="text_4">
+    <text style="fill: #213446; font: 12px 'DejaVu Sans'; text-anchor: middle" x="414.018" y="108.1404" transform="rotate(-0 414.018 108.1404)">4</text>
+   </g>
+   <g id="text_5">
+    <text style="fill: #213446; font: italic 12px 'DejaVu Sans'; text-anchor: middle" x="132.060857" y="131.09325" transform="rotate(-0 132.060857 131.09325)">i</text>
+   </g>
+   <g id="text_6">
+    <text style="fill: #213446; font: italic 12px 'DejaVu Sans'; text-anchor: middle" x="244.843714" y="131.09325" transform="rotate(-0 244.843714 131.09325)">j</text>
+   </g>
+   <g id="text_7">
+    <text style="fill: #213446; font: italic 12px 'DejaVu Sans'; text-anchor: middle" x="357.626571" y="131.09325" transform="rotate(-0 357.626571 131.09325)">k</text>
+   </g>
+   <g id="text_8">
+    <text style="fill: #213446; font: italic 12px 'DejaVu Sans'; text-anchor: middle" x="470.409429" y="131.09325" transform="rotate(-0 470.409429 131.09325)">l</text>
+   </g>
+   <g id="text_9">
+    <text style="fill: #213446; font: 12px 'DejaVu Sans'" transform="translate(530.184343 124.374562)">544 чисел</text>
+    <text style="fill: #213446; font: 12px 'DejaVu Sans'" transform="translate(530.184343 137.811937)">в ядрах</text>
+   </g>
+   <g id="text_10">
+    <text style="fill: #213446; font: 700 12px 'DejaVu Sans'; text-anchor: start" x="58.752" y="225.61845" transform="rotate(-0 58.752 225.61845)">Б</text>
+   </g>
+   <g id="text_11">
+    <text style="fill: #213446; font: 12px 'DejaVu Sans'; text-anchor: middle" x="188.452286" y="202.6656" transform="rotate(-0 188.452286 202.6656)">4</text>
+   </g>
+   <g id="text_12">
+    <text style="fill: #087f77; font: 12px 'DejaVu Sans'; text-anchor: middle" x="301.235143" y="202.6656" transform="rotate(-0 301.235143 202.6656)">1</text>
+   </g>
+   <g id="text_13">
+    <text style="fill: #213446; font: 12px 'DejaVu Sans'; text-anchor: middle" x="414.018" y="202.6656" transform="rotate(-0 414.018 202.6656)">4</text>
+   </g>
+   <g id="text_14">
+    <text style="fill: #213446; font: italic 12px 'DejaVu Sans'; text-anchor: middle" x="132.060857" y="225.61845" transform="rotate(-0 132.060857 225.61845)">i</text>
+   </g>
+   <g id="text_15">
+    <text style="fill: #213446; font: italic 12px 'DejaVu Sans'; text-anchor: middle" x="244.843714" y="225.61845" transform="rotate(-0 244.843714 225.61845)">k</text>
+   </g>
+   <g id="text_16">
+    <text style="fill: #213446; font: italic 12px 'DejaVu Sans'; text-anchor: middle" x="357.626571" y="225.61845" transform="rotate(-0 357.626571 225.61845)">j</text>
+   </g>
+   <g id="text_17">
+    <text style="fill: #213446; font: italic 12px 'DejaVu Sans'; text-anchor: middle" x="470.409429" y="225.61845" transform="rotate(-0 470.409429 225.61845)">l</text>
+   </g>
+   <g id="text_18">
+    <text style="fill: #087f77; font: 700 12px 'DejaVu Sans'" transform="translate(530.184343 218.899763)">64 чисел</text>
+    <text style="fill: #087f77; font: 700 12px 'DejaVu Sans'" transform="translate(530.184343 232.337137)">в ядрах</text>
+   </g>
+  </g>
+  <g id="text_19">
+   <text style="fill: #213446; font: 700 17px 'DejaVu Sans'; text-anchor: start" x="40.392" y="30.736119" transform="rotate(-0 40.392 30.736119)">Порядок мод меняет размеры TT-связей</text>
+  </g>
+  <g id="text_20">
+   <text style="fill: #576e85; font: 10.5px 'DejaVu Sans'; text-anchor: start" x="40.392" y="320.228728" transform="rotate(-0 40.392 320.228728)">Четыре моды размера 4. Плотно храним 256 чисел, канонический ранг равен 16.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pdb2f2f1901">
+   <rect x="58.752" y="60.264" width="631.584" height="220.968"/>
+  </clipPath>
+ </defs>
+</svg>

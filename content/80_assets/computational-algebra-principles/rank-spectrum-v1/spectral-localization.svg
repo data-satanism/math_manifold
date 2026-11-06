@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="734.4pt" height="334.8pt" viewBox="0 0 734.4 334.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.8.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 334.8 
+L 734.4 334.8 
+L 734.4 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 98.081145 244.404 
+L 268.829145 244.404 
+L 268.829145 73.656 
+L 98.081145 73.656 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 183.455145 235.256786 
+C 203.670725 235.256786 223.061049 227.225051 237.355622 212.930477 
+C 251.650196 198.635903 259.681931 179.24558 259.681931 159.03 
+C 259.681931 138.81442 251.650196 119.424097 237.355622 105.129523 
+C 223.061049 90.834949 203.670725 82.803214 183.455145 82.803214 
+C 163.239565 82.803214 143.849242 90.834949 129.554668 105.129523 
+C 115.260095 119.424097 107.22836 138.81442 107.22836 159.03 
+C 107.22836 179.24558 115.260095 198.635903 129.554668 212.930477 
+C 143.849242 227.225051 163.239565 235.256786 183.455145 235.256786 
+z
+" clip-path="url(#p870ba95c82)" style="fill: #ffffff; stroke-dasharray: 4.81,2.08; stroke-dashoffset: 0; stroke: #576e85; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 183.455145 197.143393 
+C 193.562935 197.143393 203.258097 193.127525 210.405384 185.980239 
+C 217.552671 178.832952 221.568538 169.13779 221.568538 159.03 
+C 221.568538 148.92221 217.552671 139.227048 210.405384 132.079761 
+C 203.258097 124.932475 193.562935 120.916607 183.455145 120.916607 
+C 173.347355 120.916607 163.652194 124.932475 156.504907 132.079761 
+C 149.35762 139.227048 145.341752 148.92221 145.341752 159.03 
+C 145.341752 169.13779 149.35762 178.832952 156.504907 185.980239 
+C 163.652194 193.127525 173.347355 197.143393 183.455145 197.143393 
+z
+" clip-path="url(#p870ba95c82)" style="fill: #cfe9e5; stroke: #087f77; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m0b85d0e6fa" d="M 0 0 
+L 0 3.5 
+" style="stroke: #213446; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m0b85d0e6fa" x="107.22836" y="244.404" style="fill: #213446; stroke: #213446; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="fill: #213446; font: 12px 'DejaVu Sans'; text-anchor: middle" x="107.22836" y="260.522125" transform="rotate(-0 107.22836 260.522125)">−1</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m0b85d0e6fa" x="183.455145" y="244.404" style="fill: #213446; stroke: #213446; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="fill: #213446; font: 12px 'DejaVu Sans'; text-anchor: middle" x="183.455145" y="260.522125" transform="rotate(-0 183.455145 260.522125)">0</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m0b85d0e6fa" x="259.681931" y="244.404" style="fill: #213446; stroke: #213446; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="fill: #213446; font: 12px 'DejaVu Sans'; text-anchor: middle" x="259.681931" y="260.522125" transform="rotate(-0 259.681931 260.522125)">1</text>
+     </g>
+    </g>
+    <g id="text_4">
+     <text style="fill: #213446; font: 11px 'DejaVu Sans'; text-anchor: middle" x="183.455145" y="275.376031" transform="rotate(-0 183.455145 275.376031)">вещественная часть</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_4">
+      <defs>
+       <path id="mdd23a69b43" d="M 0 0 
+L -3.5 0 
+" style="stroke: #213446; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mdd23a69b43" x="98.081145" y="235.256786" style="fill: #213446; stroke: #213446; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="fill: #213446; font: 12px 'DejaVu Sans'; text-anchor: end" x="91.081145" y="239.815848" transform="rotate(-0 91.081145 239.815848)">−1</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#mdd23a69b43" x="98.081145" y="159.03" style="fill: #213446; stroke: #213446; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="fill: #213446; font: 12px 'DejaVu Sans'; text-anchor: end" x="91.081145" y="163.589063" transform="rotate(-0 91.081145 163.589063)">0</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#mdd23a69b43" x="98.081145" y="82.803214" style="fill: #213446; stroke: #213446; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="fill: #213446; font: 12px 'DejaVu Sans'; text-anchor: end" x="91.081145" y="87.362277" transform="rotate(-0 91.081145 87.362277)">1</text>
+     </g>
+    </g>
+    <g id="text_8">
+     <text style="fill: #213446; font: 11px 'DejaVu Sans'; text-anchor: middle" x="67.102864" y="159.03" transform="rotate(-90 67.102864 159.03)">мнимая часть</text>
+    </g>
+   </g>
+   <g id="patch_5">
+    <path d="M 98.081145 244.404 
+L 98.081145 73.656 
+" style="fill: none; stroke: #576e85; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 98.081145 244.404 
+L 268.829145 244.404 
+" style="fill: none; stroke: #576e85; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_9">
+    <text style="fill: #213446; font: 600 13px 'DejaVu Sans'; text-anchor: start" x="98.081145" y="63.656" transform="rotate(-0 98.081145 63.656)">А  Поле значений и Гершгорин</text>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="m81b0c622a7" d="M 0 2.738613 
+C 0.726289 2.738613 1.422928 2.450055 1.936492 1.936492 
+C 2.450055 1.422928 2.738613 0.726289 2.738613 0 
+C 2.738613 -0.726289 2.450055 -1.422928 1.936492 -1.936492 
+C 1.422928 -2.450055 0.726289 -2.738613 0 -2.738613 
+C -0.726289 -2.738613 -1.422928 -2.450055 -1.936492 -1.936492 
+C -2.450055 -1.422928 -2.738613 -0.726289 -2.738613 0 
+C -2.738613 0.726289 -2.450055 1.422928 -1.936492 1.936492 
+C -1.422928 2.450055 -0.726289 2.738613 0 2.738613 
+z
+" style="stroke: #213446"/>
+    </defs>
+    <g clip-path="url(#p870ba95c82)">
+     <use xlink:href="#m81b0c622a7" x="183.455145" y="159.03" style="fill: #213446; stroke: #213446"/>
+    </g>
+   </g>
+   <g id="legend_1">
+    <g id="patch_7">
+     <path d="M 87.845614 298.614634 
+L 105.845614 298.614634 
+L 105.845614 292.314634 
+L 87.845614 292.314634 
+z
+" style="fill: #ffffff; stroke-dasharray: 4.81,2.08; stroke-dashoffset: 0; stroke: #576e85; stroke-width: 1.3; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_10">
+     <text style="fill: #213446; font: 9px 'DejaVu Sans'; text-anchor: start" x="113.045614" y="298.614634" transform="rotate(-0 113.045614 298.614634)">Гершгорин</text>
+    </g>
+    <g id="patch_8">
+     <path d="M 183.702645 298.614634 
+L 201.702645 298.614634 
+L 201.702645 292.314634 
+L 183.702645 292.314634 
+z
+" style="fill: #cfe9e5; stroke: #087f77; stroke-width: 1.6; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_11">
+     <text style="fill: #213446; font: 9px 'DejaVu Sans'; text-anchor: start" x="208.902645" y="298.614634" transform="rotate(-0 208.902645 298.614634)">поле значений</text>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_9">
+    <path d="M 450.658154 244.404 
+L 649.864154 244.404 
+L 649.864154 73.656 
+L 450.658154 73.656 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 550.261154 230.52984 
+C 569.223133 230.52984 587.411032 222.996166 600.819176 209.588022 
+C 614.22732 196.179878 621.760994 177.991979 621.760994 159.03 
+C 621.760994 140.068021 614.22732 121.880122 600.819176 108.471978 
+C 587.411032 95.063834 569.223133 87.53016 550.261154 87.53016 
+C 531.299175 87.53016 513.111276 95.063834 499.703132 108.471978 
+C 486.294988 121.880122 478.761314 140.068021 478.761314 159.03 
+C 478.761314 177.991979 486.294988 196.179878 499.703132 209.588022 
+C 513.111276 222.996166 531.299175 230.52984 550.261154 230.52984 
+z
+" clip-path="url(#p607f5d9b6f)" style="fill: #cfe9e5; stroke: #087f77; stroke-width: 1.65; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 550.261154 166.1445 
+C 552.147941 166.1445 553.957705 165.394871 555.291865 164.060711 
+C 556.626025 162.726551 557.375654 160.916787 557.375654 159.03 
+C 557.375654 157.143213 556.626025 155.333449 555.291865 153.999289 
+C 553.957705 152.665129 552.147941 151.9155 550.261154 151.9155 
+C 548.374366 151.9155 546.564603 152.665129 545.230443 153.999289 
+C 543.896282 155.333449 543.146654 157.143213 543.146654 159.03 
+C 543.146654 160.916787 543.896282 162.726551 545.230443 164.060711 
+C 546.564603 165.394871 548.374366 166.1445 550.261154 166.1445 
+z
+" clip-path="url(#p607f5d9b6f)" style="fill: #ffffff; stroke: #213446; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m0b85d0e6fa" x="479.116154" y="244.404" style="fill: #213446; stroke: #213446; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="fill: #213446; font: 12px 'DejaVu Sans'; text-anchor: middle" x="479.116154" y="260.522125" transform="rotate(-0 479.116154 260.522125)">−0.1</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m0b85d0e6fa" x="550.261154" y="244.404" style="fill: #213446; stroke: #213446; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="fill: #213446; font: 12px 'DejaVu Sans'; text-anchor: middle" x="550.261154" y="260.522125" transform="rotate(-0 550.261154 260.522125)">0.0</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m0b85d0e6fa" x="621.406154" y="244.404" style="fill: #213446; stroke: #213446; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="fill: #213446; font: 12px 'DejaVu Sans'; text-anchor: middle" x="621.406154" y="260.522125" transform="rotate(-0 621.406154 260.522125)">0.1</text>
+     </g>
+    </g>
+    <g id="text_15">
+     <text style="fill: #213446; font: 11px 'DejaVu Sans'; text-anchor: middle" x="550.261154" y="275.376031" transform="rotate(-0 550.261154 275.376031)">вещественная часть</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_4">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#mdd23a69b43" x="450.658154" y="230.175" style="fill: #213446; stroke: #213446; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <text style="fill: #213446; font: 12px 'DejaVu Sans'; text-anchor: end" x="443.658154" y="234.734062" transform="rotate(-0 443.658154 234.734062)">−0.1</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#mdd23a69b43" x="450.658154" y="159.03" style="fill: #213446; stroke: #213446; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <text style="fill: #213446; font: 12px 'DejaVu Sans'; text-anchor: end" x="443.658154" y="163.589063" transform="rotate(-0 443.658154 163.589063)">0.0</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#mdd23a69b43" x="450.658154" y="87.885" style="fill: #213446; stroke: #213446; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <text style="fill: #213446; font: 12px 'DejaVu Sans'; text-anchor: end" x="443.658154" y="92.444063" transform="rotate(-0 443.658154 92.444063)">0.1</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_12">
+    <path d="M 450.658154 244.404 
+L 450.658154 73.656 
+" style="fill: none; stroke: #576e85; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 450.658154 244.404 
+L 649.864154 244.404 
+" style="fill: none; stroke: #576e85; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_19">
+    <text style="fill: #213446; font: 600 13px 'DejaVu Sans'; text-anchor: start" x="450.658154" y="63.656" transform="rotate(-0 450.658154 63.656)">Б  Псевдоспектр при ε = 0,01</text>
+   </g>
+   <g id="PathCollection_2">
+    <defs>
+     <path id="m08d501cfc8" d="M 0 -5.244044 
+L -1.177361 -1.620499 
+L -4.987382 -1.620499 
+L -1.905011 0.618975 
+L -3.082372 4.242521 
+L -0 2.003047 
+L 3.082372 4.242521 
+L 1.905011 0.618975 
+L 4.987382 -1.620499 
+L 1.177361 -1.620499 
+z
+" style="stroke: #213446"/>
+    </defs>
+    <g clip-path="url(#p607f5d9b6f)">
+     <use xlink:href="#m08d501cfc8" x="479.116154" y="159.03" style="fill: #087f77; stroke: #213446"/>
+     <use xlink:href="#m08d501cfc8" x="621.406154" y="159.03" style="fill: #087f77; stroke: #213446"/>
+    </g>
+   </g>
+   <g id="legend_2">
+    <g id="patch_14">
+     <path d="M 438.453732 298.767915 
+L 456.453732 298.767915 
+L 456.453732 292.467915 
+L 438.453732 292.467915 
+z
+" style="fill: #cfe9e5; stroke: #087f77; stroke-width: 1.65; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_20">
+     <text style="fill: #213446; font: 9px 'DejaVu Sans'; text-anchor: start" x="463.653732" y="298.767915" transform="rotate(-0 463.653732 298.767915)">жорданов блок</text>
+    </g>
+    <g id="patch_15">
+     <path d="M 554.522794 298.767915 
+L 572.522794 298.767915 
+L 572.522794 292.467915 
+L 554.522794 292.467915 
+z
+" style="fill: #ffffff; stroke: #213446; stroke-width: 1.5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_21">
+     <text style="fill: #213446; font: 9px 'DejaVu Sans'; text-anchor: start" x="579.722794" y="298.767915" transform="rotate(-0 579.722794 298.767915)">нулевая матрица</text>
+    </g>
+   </g>
+  </g>
+  <g id="text_22">
+   <text style="fill: #213446; font: 700 17px 'DejaVu Sans'; text-anchor: start" x="40.392" y="31.2169" transform="rotate(-0 40.392 31.2169)">Один бюджет возмущения, разные области спектра</text>
+  </g>
+  <g id="text_23">
+   <text style="fill: #576e85; font: 10.5px 'DejaVu Sans'; text-anchor: start" x="40.392" y="320.228728" transform="rotate(-0 40.392 320.228728)">Ненормальный блок: радиус 0,1005. Нормальный контроль: радиус 0,01. Звёзды показывают одну явную поправку.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p870ba95c82">
+   <rect x="98.081145" y="73.656" width="170.748" height="170.748"/>
+  </clipPath>
+  <clipPath id="p607f5d9b6f">
+   <rect x="450.658154" y="73.656" width="199.206" height="170.748"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -49,3 +49,15 @@
     box-sizing: border-box;
   }
 }
+
+// Keep the bridge, lab, and sources within the mobile reading width.
+@media all and ($mobile) {
+  body[data-slug="50_bridges/cap-rank-model-ai-bridge"] .page > #quartz-body,
+  body[data-slug="70_labs/computational-algebra-principles/cap-rank-spectrum-lab"] .page > #quartz-body,
+  body[data-slug="60_sources/source-cap-rank-models"] .page > #quartz-body,
+  body[data-slug="60_sources/source-cap-displacement-structure"] .page > #quartz-body,
+  body[data-slug="60_sources/source-cap-spectral-stability"] .page > #quartz-body,
+  body[data-slug="60_sources/source-cap-tensor-interpolation"] .page > #quartz-body {
+    box-sizing: border-box;
+  }
+}

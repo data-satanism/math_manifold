@@ -785,7 +785,7 @@
     {
       "id": "cap-publication-plan",
       "path": "30_mathematics/computational-algebra-principles/cap-publication-plan.md",
-      "sha256": "e7cdfef1180264e10f2af955c1bf8617eeb51a8f0f419d71889da1f21d252b4b"
+      "sha256": "b6f49430d9e94f6c07215b33af81346986f1589732e5fd5651e0b231d3ea7f11"
     },
     {
       "id": "cap-q01-qtt-fem",
@@ -811,6 +811,76 @@
       "id": "cap-qtt-scientific-ai-bridge",
       "path": "50_bridges/cap-qtt-scientific-ai-bridge.md",
       "sha256": "5fe3b639b5309b5e3480fefb95c23b4b9d22f10fad3182f5f0f9c0cb72bb04b8"
+    },
+    {
+      "id": "cap-r01-rigidity",
+      "path": "30_mathematics/computational-algebra-principles/modules/cap-r01-rigidity.md",
+      "sha256": "47979c0860abf0819c1ecc48899c90de34f357d7086bf41679dc2a80ab644829"
+    },
+    {
+      "id": "cap-r02-sign-rank",
+      "path": "30_mathematics/computational-algebra-principles/modules/cap-r02-sign-rank.md",
+      "sha256": "9d27e3d5341c86d206cff203dc5b0a82fae7cfab3220ad19e4834ef843d4181a"
+    },
+    {
+      "id": "cap-r03-displacement-rank",
+      "path": "30_mathematics/computational-algebra-principles/modules/cap-r03-displacement-rank.md",
+      "sha256": "e5e23e837b072884c146ce50b7f930b25c8a10e26a47aa3de8ea1d2e69557b1e"
+    },
+    {
+      "id": "cap-r04-nonnegative-rank",
+      "path": "30_mathematics/computational-algebra-principles/modules/cap-r04-nonnegative-rank.md",
+      "sha256": "2d80e8d915f1664cf1ac58c17c0227c54170ee427c7133d7f27b31f6ec5f3ae5"
+    },
+    {
+      "id": "cap-r05-displacement-singular-values",
+      "path": "30_mathematics/computational-algebra-principles/modules/cap-r05-displacement-singular-values.md",
+      "sha256": "b0f9ad3df357bec04a9173438c486d56635cf8aa6c93a9c894e1bab1c9181da1"
+    },
+    {
+      "id": "cap-r06-tensor-ranks",
+      "path": "30_mathematics/computational-algebra-principles/modules/cap-r06-tensor-ranks.md",
+      "sha256": "1b29cf3dfde9cce9f5cfdbf08310019a10968ad544079b3947d511abc2a515cd"
+    },
+    {
+      "id": "cap-r07-spectral-localization",
+      "path": "30_mathematics/computational-algebra-principles/modules/cap-r07-spectral-localization.md",
+      "sha256": "b86a3da17c102453e48a1fd1b9834f8f635fbef55435aba03fe2a6ad1d433269"
+    },
+    {
+      "id": "cap-r08-unitarily-invariant-norms",
+      "path": "30_mathematics/computational-algebra-principles/modules/cap-r08-unitarily-invariant-norms.md",
+      "sha256": "6dedf386155c91f69f81d2dafdf8715497dfa309cc1acdb1eba74d5993e73060"
+    },
+    {
+      "id": "cap-r09-subspace-perturbation",
+      "path": "30_mathematics/computational-algebra-principles/modules/cap-r09-subspace-perturbation.md",
+      "sha256": "575ea64a60c75024f88752bd62b76089eb6179917acc0b138cd5ec333226eeba"
+    },
+    {
+      "id": "cap-r10-finite-operator-interpolation",
+      "path": "30_mathematics/computational-algebra-principles/modules/cap-r10-finite-operator-interpolation.md",
+      "sha256": "d2d2fa079850c9804088dd00cd592488c155f74d3abbdb7b88f9be827a0c93b3"
+    },
+    {
+      "id": "cap-rank-model-ai-bridge",
+      "path": "50_bridges/cap-rank-model-ai-bridge.md",
+      "sha256": "f4c32c5ff8c622df3501d7c241aa298e2e35e3126a04a9965c9378968fa0fb85"
+    },
+    {
+      "id": "cap-rank-spectrum-lab",
+      "path": "70_labs/computational-algebra-principles/cap-rank-spectrum-lab.md",
+      "sha256": "25023a5f13445d6eced8e3cae381a6d36f601eda5990a426878416dafa454e41"
+    },
+    {
+      "id": "cap-rank-spectrum-map",
+      "path": "30_mathematics/computational-algebra-principles/cap-rank-spectrum-map.md",
+      "sha256": "379e802c02c1d6262faeeae05c7931d9542a23ef3b788595cc67e0d54eaacdce"
+    },
+    {
+      "id": "cap-rational-displacement-tail",
+      "path": "30_mathematics/computational-algebra-principles/theorems/cap-rational-displacement-tail.md",
+      "sha256": "bd22e7bb097f9a8789899f0e3124ff39f57822971ec755b134c8553a9ac7769c"
     },
     {
       "id": "cap-rearrangement-shrinkage-theorem",
@@ -2150,7 +2220,7 @@
     {
       "id": "math-ai-home",
       "path": "index.md",
-      "sha256": "28b5d64d253507b9f4014fb7d0a23a103fd2cdabfedea9554eece4846c2d8528"
+      "sha256": "f2abd204095c4b0da236b3e78d052bc1efd53d2a1a86abc0554358b644780d29"
     },
     {
       "id": "mathematics-integration-map",
@@ -3063,9 +3133,29 @@
       "sha256": "07110b67636b76e6de2db70aaf890e6c6db28f612d9f130283c95e2096f84af1"
     },
     {
+      "id": "source-cap-displacement-structure",
+      "path": "60_sources/source-cap-displacement-structure.md",
+      "sha256": "1b344bf9c853bc3387d4a57e58f6d4882c6d26552358c39eebfab4597821f693"
+    },
+    {
       "id": "source-cap-principles",
       "path": "60_sources/source-cap-principles.md",
       "sha256": "e2ab579165635a071677e564b1ab6d6a066e8188ade41cb440abf8cf6f7fa07c"
+    },
+    {
+      "id": "source-cap-rank-models",
+      "path": "60_sources/source-cap-rank-models.md",
+      "sha256": "117b0923614f34047d8a421ae5c942f086bb1199a989a9c9375d4cdd788ae7fb"
+    },
+    {
+      "id": "source-cap-spectral-stability",
+      "path": "60_sources/source-cap-spectral-stability.md",
+      "sha256": "026951ed743bb266e682f1260a3a6c217a0dded0d992ec5ecebcdb71d063b80b"
+    },
+    {
+      "id": "source-cap-tensor-interpolation",
+      "path": "60_sources/source-cap-tensor-interpolation.md",
+      "sha256": "2b9417255d618f1a8b7a1f5ac69d3626c10a5f477b2c7c12556c16ff96c2b3cb"
     },
     {
       "id": "source-cap-tensor-research",
@@ -4776,6 +4866,62 @@
     {
       "path": "80_assets/computational-algebra-principles/qr-riemannion-plots-v1/cap-qr-small-core.svg",
       "sha256": "adcb7342362c33560a24667c1ffb1a8b3073a183a094370fc8834439711b1620"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/rank-spectrum-v1/cauchy-spectral-tail.svg",
+      "sha256": "402ff8758def1516fcf2bbf6eb3c98290cdf53b0812344072ae237400ec8db95"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/rank-spectrum-v1/classification-margin.svg",
+      "sha256": "3849782adfc83ab2cfdb4a29f9f3ce35aafd985908a7224f880ef14bcca6f950"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/rank-spectrum-v1/entrywise-optimum.svg",
+      "sha256": "7bb9c1069bb7a5e0071d96a8a486cd030e456364c68057b5913809bdaf57ea7a"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/rank-spectrum-v1/interpolation-chord.svg",
+      "sha256": "f4d3d32da97b633cb49e5fd5e9ad9d9630faafac71d80b24e6e0b2e6ff90fc02"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/rank-spectrum-v1/nonnegative-simplex.svg",
+      "sha256": "567779cec2b34bf0e59b6d885e06cf22f41d172d3a28cf061f8e42f2c7617c47"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/rank-spectrum-v1/norm-majorization.svg",
+      "sha256": "a73e9f9a00248d7adf5c448b046f19d4e22b92cdcf3a0271ef969b2428cd4b27"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/rank-spectrum-v1/qtt-bit-order.svg",
+      "sha256": "1cd6368042b972c0623c75f92fe126bd64880cfbbc24517dd2d528f0ea9535ab"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/rank-spectrum-v1/rational-separation.svg",
+      "sha256": "1d3f6904150ef060e75a79daf4653ed05aea99db3a2d88a65045c2840c878b6f"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/rank-spectrum-v1/rigidity-budget.svg",
+      "sha256": "61f31bcd653b9d3552eedc8e4034be23230944030b93494d2a865b9f5bb5c7a9"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/rank-spectrum-v1/sign-rank-threshold.svg",
+      "sha256": "d015a9d753369f8e951367ce4321f5f01b33d1a20419dd52bd8250fb946c8304"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/rank-spectrum-v1/spectral-localization.svg",
+      "sha256": "3ce971279b5fe7adc4f7ef3de24f19367240b767891f67d3e26dc411c545ab02"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/rank-spectrum-v1/subspace-gap.svg",
+      "sha256": "6d7ac7f86c7d1ef12af5cc843e031703515dbcc1fb0f9d05fae4bdb17e686e54"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/rank-spectrum-v1/tensor-cut-order.svg",
+      "sha256": "a9fa3acd27391a0e57a19d7bf320069b5e795e029b508745248d9a3cdebb292e"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/rank-spectrum-v1/toeplitz-displacement.svg",
+      "sha256": "2bb8ef5652aefd31c6cdbe2acba07f5eb1f7c567b078d296dd891211904f899a"
     },
     {
       "path": "80_assets/dynamical-systems/gpt-image-v1/averaging-slow-envelope-v1.webp",
@@ -7042,5 +7188,5 @@
       "sha256": "8be458a495badd5423655bf130597f92ac58a33019efb59e8532b54d06449838"
     }
   ],
-  "asset_count": 713
+  "asset_count": 727
 }

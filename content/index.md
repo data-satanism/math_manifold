@@ -104,3 +104,5 @@ tags: [map, math-for-ai]
 ## Полный цикл вычислительной алгебры
 
 [[30_mathematics/computational-algebra-principles/cap-publication-plan|Восемь веток от максимального объёма до общих вычислительных принципов]]
+
+[[30_mathematics/computational-algebra-principles/cap-rank-spectrum-map|Ранг, структура и устойчивость спектра]] — жёсткость и знак-ранг, структурированные матрицы, тензорные ранги и устойчивость спектральных выводов.
