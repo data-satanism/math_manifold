@@ -57,6 +57,15 @@ updated: '2026-11-03'
 
 <a href="80_assets/computational-algebra-principles/geometry-plots-v1/cap-g01-gauge-step.svg" target="_blank" rel="noopener" data-router-ignore>Открыть рисунок в полном размере</a>
 
+> [!example]- Анимация (GIF)
+>
+> ![Масштаб факторов меняет результат шага](80_assets/course-gif-pca-v2/early/cap-g01-gauge-step.gif)
+>
+> Для исходного произведения 1 и цели 2 шаг по произведению даёт 1,1 при любом масштабе. В шаге по факторам изменение масштаба от 1 до 10 увеличивает результат с 1,21 до 11,011.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/early/cap-g01-gauge-step.gif)
+
+
 ## Ретракция сохраняет первую производную
 
 При $X=\operatorname{diag}(1,0)$ и $\xi=E_{12}+E_{21}$ касательная прямая имеет ранг 2, а кривая $\left(\begin{smallmatrix}1&t\\t&t^2\end{smallmatrix}\right)$ — ранг 1. SVD-ретракция — ближайшая матрица ранга не выше 1; в малой окрестности она имеет точный ранг 1. Сравниваем $\|R_X(t\xi)-X-t\xi\|_F$ с $t^2$ и их отношение.
@@ -64,6 +73,15 @@ updated: '2026-11-03'
 ![В точном примере ошибка возврата на ранг один ограничена квадратичной кривой](80_assets/computational-algebra-principles/geometry-plots-v1/cap-g01-retraction-order.svg)
 
 <a href="80_assets/computational-algebra-principles/geometry-plots-v1/cap-g01-retraction-order.svg" target="_blank" rel="noopener" data-router-ignore>Открыть рисунок в полном размере</a>
+
+> [!example]- Анимация (GIF)
+>
+> ![Поправка SVD-ретракции убывает как h²](80_assets/course-gif-pca-v2/early/cap-g01-retraction-order.gif)
+>
+> При уменьшении касательного шага норма поправки следует за квадратом шага. В данном примере отношение поправки к $h^2$ стремится к единице.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/early/cap-g01-retraction-order.gif)
+
 
 Проверка производной использует конечное $t=10^{-5}$ и допуск, а теоретическое утверждение для всех достаточно малых шагов доказано в модуле. Машинный опыт не заменяет предел и не проверяет все матрицы.
 
@@ -74,6 +92,15 @@ updated: '2026-11-03'
 ![Ненулевые симметричные матрицы ранга один образуют две гладкие части конуса с общей сингулярной вершиной](80_assets/computational-algebra-principles/geometry-plots-v2/cap-g01-rank-cone.svg)
 
 <a href="80_assets/computational-algebra-principles/geometry-plots-v2/cap-g01-rank-cone.svg" target="_blank" rel="noopener" data-router-ignore>Открыть рисунок в полном размере</a>
+
+> [!example]- Анимация (GIF)
+>
+> ![Касательная геометрия меняется у вершины](80_assets/course-gif-pca-v2/early/cap-g01-rank-cone.gif)
+>
+> Два луча симметричных матриц ранга 1 подходят к нулю. Проекции одного направления вдоль этих лучей имеют разные пределы, поэтому касательную плоскость нельзя продолжить в вершину однозначно.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/early/cap-g01-rank-cone.gif)
+
 
 ## Что остаётся вне проверки
 

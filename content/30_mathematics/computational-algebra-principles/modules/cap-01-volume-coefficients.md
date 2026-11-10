@@ -24,6 +24,15 @@ updated: 2026-11-03
 
 <a href="80_assets/computational-algebra-principles/gpt-image-v1/cap-01-insight.png" target="_blank" rel="noopener" data-router-ignore>Открыть рисунок в полном размере</a>
 
+> [!example]- Анимация (GIF)
+>
+> ![Коэффициент измеряет замену опоры](80_assets/course-gif-pca-v2/early/cap-01-insight.gif)
+>
+> Замена одной опорной строки меняет ориентированный объём в число раз, равное её коэффициенту восстановления. У выбора с максимальным объёмом модуль любого такого коэффициента не больше единицы.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/early/cap-01-insight.gif)
+
+
 *Поясняющая схема GPT.Image. Точные условия и доказательство приведены в тексте; геометрия не является численным опытом.*
 
 ## От всех данных к опорным данным
@@ -194,9 +203,27 @@ $$
 
 <a href="80_assets/computational-algebra-principles/plots-v1/cap-01-row-selection.svg" target="_blank" rel="noopener" data-router-ignore>Открыть рисунок в полном размере</a>
 
+> [!example]- Анимация (GIF)
+>
+> ![Одиночные замены могут пропустить максимум](80_assets/course-gif-pca-v2/early/cap-01-row-selection.gif)
+>
+> При выборе строк 1 и 2 каждая одиночная замена уменьшает объём. Замена обеих строк увеличивает его до 1,62 и уменьшает наибольшую сумму модулей коэффициентов с 1,8 до $10/9$.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/early/cap-01-row-selection.gif)
+
+
 ![Максимальный объём не гарантирует наименьшую обусловленность выбранного блока](80_assets/computational-algebra-principles/plots-v1/cap-01-volume-conditioning.svg)
 
 <a href="80_assets/computational-algebra-principles/plots-v1/cap-01-volume-conditioning.svg" target="_blank" rel="noopener" data-router-ignore>Открыть рисунок в полном размере</a>
+
+> [!example]- Анимация (GIF)
+>
+> ![Одинаковый объём допускает разную обусловленность](80_assets/course-gif-pca-v2/early/cap-01-volume-conditioning.gif)
+>
+> Матрица $B=\operatorname{diag}(M,1/M)$ растягивает одну ось и сжимает другую. Определитель остаётся равным единице, а число обусловленности растёт как $M^2$.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/early/cap-01-volume-conditioning.gif)
+
 
 Исходные данные, проверяемые величины и ограничения интерпретации — в [[70_labs/computational-algebra-principles/cap-visual-lab|лабораторной работе]]. Графики вычислены составителем; они не заменяют доказательство.
 

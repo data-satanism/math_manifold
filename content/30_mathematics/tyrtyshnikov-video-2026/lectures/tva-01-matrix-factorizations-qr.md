@@ -30,6 +30,15 @@ updated: 2026-10-28
 
 <a href="80_assets/tyrtyshnikov-video-2026/gpt-image-v1/tva-01-insight.png" target="_blank" rel="noopener" data-router-ignore>Открыть поясняющую схему в полном размере</a>
 
+> [!example]- Анимация (GIF)
+>
+> ![Поворот первого столбца к горизонтальной оси и изменение элементов матрицы](80_assets/course-gif-pca-v2/video/tva-01-insight.gif)
+>
+> Вращение переводит столбец $(3,4)^T$ в $(5,0)^T$ и сохраняет скалярные произведения столбцов.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/video/tva-01-insight.gif)
+
+
 ## 1. Разделение переменных как общая идея — 00:00–00:14:55
 
 ### Ход лектора
@@ -420,11 +429,29 @@ $$
 
 <a href="80_assets/tyrtyshnikov-video-2026/plots-v1/tva-01-mechanism.svg" target="_blank" rel="noopener" data-router-ignore>Открыть вычисленную схему в полном размере</a>
 
+> [!example]- Анимация (GIF)
+>
+> ![QR-итерации над матрицей три на три и убывание нормы её нижней части](80_assets/course-gif-pca-v2/video/tva-01-mechanism.gif)
+>
+> Смена порядка множителей $Q_kR_k\mapsto R_kQ_k$ сохраняет спектр. В этом симметричном примере матрица приближается к диагональной.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/video/tva-01-mechanism.gif)
+
+
 ![Вычисленная схема к лекции 1: tva-01-polynomial-sensitivity](80_assets/tyrtyshnikov-video-2026/plots-v1/tva-01-polynomial-sensitivity.svg)
 
 *Пример составителя; условия и границы указаны в [[70_labs/tyrtyshnikov-video-2026/tva-visual-lab|лабораторном журнале]].*
 
 <a href="80_assets/tyrtyshnikov-video-2026/plots-v1/tva-01-polynomial-sensitivity.svg" target="_blank" rel="noopener" data-router-ignore>Открыть вычисленную схему в полном размере</a>
+
+> [!example]- Анимация (GIF)
+>
+> ![Восемь корней выходят из кратного корня на окружность](80_assets/course-gif-pca-v2/video/tva-01-polynomial-sensitivity.gif)
+>
+> При добавлении $10^{-8}$ к полиному $(z-1)^8$ каждый из восьми корней смещается на $0{,}1$.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/video/tva-01-polynomial-sensitivity.gif)
+
 
 ## Ответы и указания
 

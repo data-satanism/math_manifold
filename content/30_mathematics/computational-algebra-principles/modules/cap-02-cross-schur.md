@@ -27,6 +27,15 @@ updated: 2026-11-03
 
 <a href="80_assets/computational-algebra-principles/gpt-image-v1/cap-02-insight.png" target="_blank" rel="noopener" data-router-ignore>Открыть рисунок в полном размере</a>
 
+> [!example]- Анимация (GIF)
+>
+> ![Из прочитанного креста собираются столбцы](80_assets/course-gif-pca-v2/early/cap-02-insight.gif)
+>
+> Две опорные строки задают коэффициенты, по которым восстанавливается каждый столбец. В прочитанном кресте ошибки нет, а в непрочитанном блоке остаётся дополнение Шура.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/early/cap-02-insight.gif)
+
+
 *Поясняющая схема GPT.Image. Точные условия и доказательство приведены в тексте; геометрия не является численным опытом.*
 
 ## Что меняется после выбора строк базиса
@@ -246,9 +255,27 @@ $$
 
 <a href="80_assets/computational-algebra-principles/plots-v1/cap-02-schur-residual.svg" target="_blank" rel="noopener" data-router-ignore>Открыть рисунок в полном размере</a>
 
+> [!example]- Анимация (GIF)
+>
+> ![Ошибка остаётся в непрочитанной клетке](80_assets/course-gif-pca-v2/early/cap-02-schur-residual.gif)
+>
+> Меняется только нижний правый элемент исходной матрицы. Крест ранга 2 воспроизводит выбранные строки и столбцы, а непрочитанная добавка целиком переходит в дополнение Шура.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/early/cap-02-schur-residual.gif)
+
+
 ![Отдельные замены строки или столбца не обнаруживают улучшение при совместной замене](80_assets/computational-algebra-principles/plots-v1/cap-02-local-failure.svg)
 
 <a href="80_assets/computational-algebra-principles/plots-v1/cap-02-local-failure.svg" target="_blank" rel="noopener" data-router-ignore>Открыть рисунок в полном размере</a>
+
+> [!example]- Анимация (GIF)
+>
+> ![Совместная замена обходит тупик креста](80_assets/course-gif-pca-v2/early/cap-02-local-failure.gif)
+>
+> У матрицы $\operatorname{diag}(1,L)$ опора 1 не улучшается заменой одной строки или столбца. Совместная замена выбирает опору $L$ и при $L>1$ уменьшает максимальную ошибку с $L$ до 1.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/early/cap-02-local-failure.gif)
+
 
 Исходные данные, проверяемые величины и ограничения интерпретации — в [[70_labs/computational-algebra-principles/cap-visual-lab|лабораторной работе]]. Графики вычислены составителем; они не заменяют доказательство.
 

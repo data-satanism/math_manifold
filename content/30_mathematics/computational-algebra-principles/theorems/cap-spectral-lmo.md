@@ -72,6 +72,15 @@ $$
 
 <a href="80_assets/computational-algebra-principles/qr-riemannion-plots-v1/cap-g02-polar-projection.svg" target="_blank" rel="noopener" data-router-ignore>Открыть рисунок в полном размере</a>
 
+> [!example]- Анимация (GIF)
+>
+> ![Повторная проекция может увеличить спектральную норму](80_assets/course-gif-pca-v2/early/cap-g02-polar-projection.gif)
+>
+> После полярного выравнивания оба сингулярных числа равны единице. Удаление нормальной клетки восстанавливает касательность, но увеличивает спектральную норму до примерно 1,146.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/early/cap-g02-polar-projection.gif)
+
+
 ## Контрпример и вычислительная граница
 
 При $X=E_{11}$ размера $2\times2$ и $M=\left(\begin{smallmatrix}1&1\\1&0\end{smallmatrix}\right)$

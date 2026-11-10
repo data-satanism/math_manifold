@@ -37,6 +37,15 @@ $$
 
 [Открыть рисунок в полном размере](80_assets/computational-algebra-principles/plots-v2-branches17/cap-06-oblique-geometry.svg)
 
+> [!example]- Анимация (GIF)
+>
+> ![Косая проекция сохраняет координату](80_assets/course-gif-pca-v2/early/cap-06-oblique-geometry.gif)
+>
+> Когда точка покидает модельную прямую, косая проекция возвращает её вдоль линии с постоянной первой координатой. Ортогональная проекция выбирает ближайшую точку, но меняет эту координату.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/early/cap-06-oblique-geometry.gif)
+
+
 Ортонормальность $U$ позволяет интерпретировать $\|(P^TU)^{-1}\|$ как усиление при квадратной интерполяции; точная [[30_mathematics/computational-algebra-principles/theorems/cap-deim-projector|теорема DEIM]] доказывает это. [[30_mathematics/computational-algebra-principles/theorems/cap-rectangular-coefficients|Прямоугольная теорема]] контролирует нормы внешних строк коэффициентов при доминантности набора.
 
 Контрпример: у $u=(\varepsilon,\sqrt{1-\varepsilon^2})$ выбор первой координаты имеет усиление $1/\varepsilon$. Независимость измерения не равна его устойчивости.

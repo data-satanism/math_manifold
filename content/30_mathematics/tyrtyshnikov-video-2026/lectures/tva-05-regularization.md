@@ -30,6 +30,15 @@ updated: 2026-10-28
 
 <a href="80_assets/tyrtyshnikov-video-2026/gpt-image-v1/tva-05-insight.png" target="_blank" rel="noopener" data-router-ignore>Открыть поясняющую схему в полном размере</a>
 
+> [!example]- Анимация (GIF)
+>
+> ![Две оценки слабого коэффициента при увеличении шума](80_assets/course-gif-pca-v2/video/tva-05-insight.gif)
+>
+> При одинаковой добавке к данным оценка без штрафа меняется в 25 раз сильнее добавки. Регуляризация Тихонова снижает этот множитель до 12,5 и даёт смещение уже при нулевом шуме.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/video/tva-05-insight.gif)
+
+
 ## 1. Известные приближённые данные и неизвестная система — 00:00–00:04:34
 
 ### Ход лектора
@@ -489,11 +498,29 @@ $$
 
 <a href="80_assets/tyrtyshnikov-video-2026/plots-v1/tva-05-bidiagonal-step.svg" target="_blank" rel="noopener" data-router-ignore>Открыть вычисленную схему в полном размере</a>
 
+> [!example]- Анимация (GIF)
+>
+> ![Повороты строк переносят внедиагональ вверх при неизменных сингулярных числах](80_assets/course-gif-pca-v2/video/tva-05-bidiagonal-step.gif)
+>
+> Два поворота Гивенса превращают нижнюю бидиагональную матрицу в верхнюю. В процессе сохраняются все сингулярные числа.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/video/tva-05-bidiagonal-step.gif)
+
+
 ![Вычисленная схема к лекции 5: tva-05-mechanism](80_assets/tyrtyshnikov-video-2026/plots-v1/tva-05-mechanism.svg)
 
 *Пример составителя; условия и границы указаны в [[70_labs/tyrtyshnikov-video-2026/tva-visual-lab|лабораторном журнале]].*
 
 <a href="80_assets/tyrtyshnikov-video-2026/plots-v1/tva-05-mechanism.svg" target="_blank" rel="noopener" data-router-ignore>Открыть вычисленную схему в полном размере</a>
+
+> [!example]- Анимация (GIF)
+>
+> ![Спектральный фильтр и четыре коэффициента при росте штрафа Тихонова](80_assets/course-gif-pca-v2/video/tva-05-mechanism.gif)
+>
+> Рост параметра Тихонова подавляет вклад шума в слабом направлении. В синтетическом примере слишком сильный штраф увеличивает ошибку коэффициентов из-за смещения.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/video/tva-05-mechanism.gif)
+
 
 ## Самопроверка и связи
 

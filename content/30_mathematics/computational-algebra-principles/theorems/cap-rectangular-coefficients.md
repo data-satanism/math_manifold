@@ -52,6 +52,15 @@ $$
 
 [Открыть рисунок в полном размере](80_assets/computational-algebra-principles/plots-v2-branches17/cap-05-noise-weights.svg)
 
+> [!example]- Анимация (GIF)
+>
+> ![Разный шум меняет лучший набор строк](80_assets/course-gif-pca-v2/early/cap-05-noise-weights.gif)
+>
+> Если дисперсии различаются, вклад каждой строки нужно взвесить. В показанном переборе оптимум переходит от пары 1, 2 к паре 2, 3.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/early/cap-05-noise-weights.gif)
+
+
 *Даже обоснованный объёмный критерий нужно применять к матрице с правильными весами шума. Это отдельная граница статистической интерпретации теоремы.*
 
 Полная геометрия, пример, алгоритм и пять решённых задач — [[30_mathematics/computational-algebra-principles/modules/cap-05-rectangular-d-optimal|в модуле 05]]. [[60_sources/selection-regression-primary-sources|Источник и страницы]].

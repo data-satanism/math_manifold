@@ -43,4 +43,13 @@ $$
 
 [Открыть полный рисунок](80_assets/computational-algebra-principles/full-plan-v1/principle-certificate.svg)
 
+> [!example]- Анимация (GIF)
+>
+> ![При чтении элементов матрицы без повторений постепенно открываются ячейки, а график сопоставляет вероятность пропуска пика и границу риска гауссовской оценки](80_assets/course-gif-pca-v2/late/principle-certificate.gif)
+>
+> По мере чтения элементов без повторений уменьшается вероятность пропустить одиночный пик. Для независимых гауссовых произведений график показывает верхнюю границу вероятности ошибки оценки свыше 50 %.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/late/principle-certificate.gif)
+
+
 Правая панель показывает доказанную консервативную границу при $\eta=1/2$. Левый график относится к другому режиму — чтению отдельных элементов. Подробный разбор и адаптивная остановка — [[30_mathematics/computational-algebra-principles/modules/cap-p05-certificates]]. Использование при случайном сжатии — [[30_mathematics/computational-algebra-principles/modules/cap-p02-random-subspace]]. Источники — [[60_sources/source-cap-principles]].

@@ -61,3 +61,12 @@
     box-sizing: border-box;
   }
 }
+
+// Keep the complete 9:16 scene in view inside the course callout.
+article .callout-content img[src*="/course-gif-pca-v2/"] {
+  display: block;
+  width: min(100%, 43.875vh);
+  height: auto;
+  margin-inline: auto;
+  border-radius: 0;
+}

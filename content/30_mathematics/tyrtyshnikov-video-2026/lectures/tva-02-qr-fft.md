@@ -30,6 +30,15 @@ updated: 2026-10-28
 
 <a href="80_assets/tyrtyshnikov-video-2026/gpt-image-v1/tva-02-insight.png" target="_blank" rel="noopener" data-router-ignore>Открыть поясняющую схему в полном размере</a>
 
+> [!example]- Анимация (GIF)
+>
+> ![Разделение входа FFT и сборка пар спектральных коэффициентов](80_assets/course-gif-pca-v2/video/tva-02-insight.gif)
+>
+> Для чётных и нечётных отсчётов вычисляются две ДПФ длины четыре. После умножения нечётной части на фазовый множитель сумма и разность дают пару коэффициентов восьмиточечной ДПФ.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/video/tva-02-insight.gif)
+
+
 ## 1. Что уже доказано о QR и чего ещё не хватает — 00:00–00:09:26
 
 ### Ход лектора
@@ -375,11 +384,29 @@ $$
 
 <a href="80_assets/tyrtyshnikov-video-2026/plots-v1/tva-02-mechanism.svg" target="_blank" rel="noopener" data-router-ignore>Открыть вычисленную схему в полном размере</a>
 
+> [!example]- Анимация (GIF)
+>
+> ![Сравнение внедиагональных элементов до и после одного сдвинутого QR-шага](80_assets/course-gif-pca-v2/video/tva-02-mechanism.gif)
+>
+> В семействе симметричных матриц с диагональю $(2,1)$ и внедиагональю $\varepsilon$ один QR-шаг со сдвигом 1 даёт $|a^\prime_{21}|=\varepsilon^3/(1+\varepsilon^2)$.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/video/tva-02-mechanism.gif)
+
+
 ![Вычисленная схема к лекции 2: tva-02-toeplitz](80_assets/tyrtyshnikov-video-2026/plots-v1/tva-02-toeplitz.svg)
 
 *Пример составителя; условия и границы указаны в [[70_labs/tyrtyshnikov-video-2026/tva-visual-lab|лабораторном журнале]].*
 
 <a href="80_assets/tyrtyshnikov-video-2026/plots-v1/tva-02-toeplitz.svg" target="_blank" rel="noopener" data-router-ignore>Открыть вычисленную схему в полном размере</a>
+
+> [!example]- Анимация (GIF)
+>
+> ![Заполнение циркулянта с сохранением блока Тёплица и первые компоненты свёртки](80_assets/course-gif-pca-v2/video/tva-02-toeplitz.gif)
+>
+> Циклические сдвиги первого столбца сохраняют исходный блок Тёплица. После дополнения входа нулями первые три компоненты свёртки совпадают с $Tx$.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/video/tva-02-toeplitz.gif)
+
 
 ## Ответы и указания
 

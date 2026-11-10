@@ -30,6 +30,15 @@ updated: 2026-10-28
 
 <a href="80_assets/tyrtyshnikov-video-2026/gpt-image-v1/tva-09-insight.png" target="_blank" rel="noopener" data-router-ignore>Открыть поясняющую схему в полном размере</a>
 
+> [!example]- Анимация (GIF)
+>
+> ![Четыре ненулевых элемента раскладываются в две разные матрицы](80_assets/course-gif-pca-v2/video/tva-09-insight.gif)
+>
+> Те же четыре ненулевых элемента попадают в разные строки и столбцы при смене группировки индексов. Модальная развёртка имеет ранг два, центральная TT-развёртка — ранг один.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/video/tva-09-insight.gif)
+
+
 ## 1. Формула разложения Таккера и сразу её цена — 00:00–00:07:56
 
 ### Ход лектора
@@ -373,11 +382,29 @@ $$
 
 <a href="80_assets/tyrtyshnikov-video-2026/plots-v1/tva-09-left-inverse.svg" target="_blank" rel="noopener" data-router-ignore>Открыть вычисленную схему в полном размере</a>
 
+> [!example]- Анимация (GIF)
+>
+> ![Исходные и восстановленные координаты совпадают, транспонирование даёт другой вектор](80_assets/course-gif-pca-v2/video/tva-09-left-inverse.gif)
+>
+> Левая обратная восстанавливает координаты $z$ из $x=Uz$ при движении по окружности. В выбранном неортонормированном базисе ошибка транспонирования зависит от направления.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/video/tva-09-left-inverse.gif)
+
+
 ![Вычисленная схема к лекции 9: tva-09-mechanism](80_assets/tyrtyshnikov-video-2026/plots-v1/tva-09-mechanism.svg)
 
 *Пример составителя; условия и границы указаны в [[70_labs/tyrtyshnikov-video-2026/tva-visual-lab|лабораторном журнале]].*
 
 <a href="80_assets/tyrtyshnikov-video-2026/plots-v1/tva-09-mechanism.svg" target="_blank" rel="noopener" data-router-ignore>Открыть вычисленную схему в полном размере</a>
+
+> [!example]- Анимация (GIF)
+>
+> ![Перестановка мод тензора и ранги центральной развёртки](80_assets/course-gif-pca-v2/video/tva-09-mechanism.gif)
+>
+> Когда связанные индексы находятся по одну сторону разреза, ранг равен одному. Когда обе пары пересекают разрез, ранг возрастает до девяти.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/video/tva-09-mechanism.gif)
+
 
 ## Самопроверка и связи
 

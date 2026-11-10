@@ -30,6 +30,15 @@ updated: 2026-10-28
 
 <a href="80_assets/tyrtyshnikov-video-2026/gpt-image-v2/tva-03-insight-palette-v2.png" target="_blank" rel="noopener" data-router-ignore>Открыть поясняющую схему в полном размере</a>
 
+> [!example]- Анимация (GIF)
+>
+> ![Окружность и два сингулярных направления проходят через три множителя SVD](80_assets/course-gif-pca-v2/video/tva-03-insight-palette-v2.gif)
+>
+> Входной поворот совмещает правые сингулярные направления с осями. Диагональный множитель меняет их длины, а выходной поворот переносит полученный эллипс.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/video/tva-03-insight-palette-v2.gif)
+
+
 ## 1. С чего начинается задача приближения — 00:00–00:07:40
 
 ### Ход лектора
@@ -422,11 +431,29 @@ $$
 
 <a href="80_assets/tyrtyshnikov-video-2026/plots-v1/tva-03-mechanism.svg" target="_blank" rel="noopener" data-router-ignore>Открыть вычисленную схему в полном размере</a>
 
+> [!example]- Анимация (GIF)
+>
+> ![Матрица остатка и спектральный хвост после включения сингулярных направлений](80_assets/course-gif-pca-v2/video/tva-03-mechanism.gif)
+>
+> С каждым добавленным сингулярным членом укорачивается хвост. Спектральная ошибка равна его наибольшему числу, фробениусова — корню из суммы квадратов.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/video/tva-03-mechanism.gif)
+
+
 ![Вычисленная схема к лекции 3: tva-03-unit-balls](80_assets/tyrtyshnikov-video-2026/plots-v1/tva-03-unit-balls.svg)
 
 *Пример составителя; условия и границы указаны в [[70_labs/tyrtyshnikov-video-2026/tva-visual-lab|лабораторном журнале]].*
 
 <a href="80_assets/tyrtyshnikov-video-2026/plots-v1/tva-03-unit-balls.svg" target="_blank" rel="noopener" data-router-ignore>Открыть вычисленную схему в полном размере</a>
+
+> [!example]- Анимация (GIF)
+>
+> ![Единичный шар меняет форму от ромба через окружность к квадрату](80_assets/course-gif-pca-v2/video/tva-03-unit-balls.gif)
+>
+> При изменении $p$ от $1$ до $\infty$ точка на фиксированном луче движется по границам шаров нормы $\ell_p$.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/video/tva-03-unit-balls.gif)
+
 
 ## Самопроверка и дальнейшие связи
 

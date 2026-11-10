@@ -31,6 +31,15 @@ updated: 2026-11-03
 
 <a href="80_assets/computational-algebra-principles/gpt-image-v1/cap-malyhin-insight.png" target="_blank" rel="noopener" data-router-ignore>Открыть рисунок в полном размере</a>
 
+> [!example]- Анимация (GIF)
+>
+> ![Контроль коэффициентов и упаковка строк](80_assets/course-gif-pca-v2/early/cap-malyhin-insight.gif)
+>
+> В плоском примере оси одновременно дают контакты внешнего круга и базис максимального объёма. При фиксированном одномерном носителе условие разделения ограничивает число строк, которые можно упаковать.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/early/cap-malyhin-insight.gif)
+
+
 *Поясняющая схема GPT.Image. Точные условия и доказательство приведены в тексте; геометрия не является численным опытом.*
 
 ## 1. Карта зависимостей и обозначения
@@ -701,6 +710,15 @@ def entry_density(A: np.ndarray, gamma: float) -> float:
 ![Матрица Грама двух базисов имеет малый ранг, но сохраняет много элементов выше порога](80_assets/computational-algebra-principles/plots-v1/cap-malyhin-gram-density.svg)
 
 <a href="80_assets/computational-algebra-principles/plots-v1/cap-malyhin-gram-density.svg" target="_blank" rel="noopener" data-router-ignore>Открыть рисунок в полном размере</a>
+
+> [!example]- Анимация (GIF)
+>
+> ![Малый ранг не означает мало крупных клеток](80_assets/course-gif-pca-v2/early/cap-malyhin-gram-density.gif)
+>
+> В матрице Грама двух ортонормированных базисов около половины клеток имеют модуль больше 0,1. При превышении порога $1/8$ все межбазисные клетки исчезают из маски.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/early/cap-malyhin-gram-density.gif)
+
 
 Исходные данные, проверяемые величины и ограничения интерпретации — в [[70_labs/computational-algebra-principles/cap-visual-lab|лабораторной работе]]. Графики вычислены составителем; они не заменяют доказательство.
 

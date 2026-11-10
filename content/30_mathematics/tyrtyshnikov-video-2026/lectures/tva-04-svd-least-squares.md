@@ -30,6 +30,15 @@ updated: 2026-10-28
 
 <a href="80_assets/tyrtyshnikov-video-2026/gpt-image-v1/tva-04-insight.png" target="_blank" rel="noopener" data-router-ignore>Открыть поясняющую схему в полном размере</a>
 
+> [!example]- Анимация (GIF)
+>
+> ![Движение предсказания вдоль образа матрицы к ортогональной проекции данных](80_assets/course-gif-pca-v2/video/tva-04-insight.gif)
+>
+> В синтетической задаче точка $Ax$ движется к проекции $b$ на образ $A$. В проекции остаток перпендикулярен образу, а его длина минимальна.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/video/tva-04-insight.gif)
+
+
 ## 1. Что осталось доказать — 00:00–00:04:48
 
 ### Ход лектора
@@ -432,11 +441,29 @@ $$
 
 <a href="80_assets/tyrtyshnikov-video-2026/plots-v1/tva-04-mechanism.svg" target="_blank" rel="noopener" data-router-ignore>Открыть вычисленную схему в полном размере</a>
 
+> [!example]- Анимация (GIF)
+>
+> ![Коэффициенты меняются вдоль ядра, а предсказания и невязка сохраняются](80_assets/course-gif-pca-v2/video/tva-04-mechanism.gif)
+>
+> Добавка из ядра меняет вектор коэффициентов и сохраняет предсказание. В точке $x^\dagger$, перпендикулярной ядру, норма коэффициентов минимальна.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/video/tva-04-mechanism.gif)
+
+
 ![Вычисленная схема к лекции 4: tva-04-secular-interlacing](80_assets/tyrtyshnikov-video-2026/plots-v1/tva-04-secular-interlacing.svg)
 
 *Пример составителя; условия и границы указаны в [[70_labs/tyrtyshnikov-video-2026/tva-visual-lab|лабораторном журнале]].*
 
 <a href="80_assets/tyrtyshnikov-video-2026/plots-v1/tva-04-secular-interlacing.svg" target="_blank" rel="noopener" data-router-ignore>Открыть вычисленную схему в полном размере</a>
+
+> [!example]- Анимация (GIF)
+>
+> ![Четыре интервала бисекции сужаются между полюсами секулярной функции](80_assets/course-gif-pca-v2/video/tva-04-secular-interlacing.gif)
+>
+> Бисекция сужает четыре скобки для корней. Корни совпадают с собственными значениями окаймлённой матрицы и чередуются с собственными значениями диагонального блока.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/video/tva-04-secular-interlacing.gif)
+
 
 ## Самопроверка и связи
 

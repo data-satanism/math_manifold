@@ -35,6 +35,15 @@ updated: 2026-10-28
 
 <a href="80_assets/tyrtyshnikov-video-2026/gpt-image-v2/tva-08-insight-palette-v2.png" target="_blank" rel="noopener" data-router-ignore>Открыть поясняющую схему в полном размере</a>
 
+> [!example]- Анимация (GIF)
+>
+> ![Компенсирующее масштабирование и общая перестановка факторов CP](80_assets/course-gif-pca-v2/video/tva-08-insight-palette-v2.gif)
+>
+> Множители первого слагаемого масштабируются взаимно обратными числами. Перестановка одних и тех же столбцов во всех трёх матрицах также сохраняет тензор.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/video/tva-08-insight-palette-v2.gif)
+
+
 ## 1. Точная задача и значение слова «единственность»
 
 В [00:00–03:00](https://www.youtube.com/watch?v=NA6cJBmO-tc&t=5s) сравниваются представления
@@ -186,6 +195,15 @@ $$
 ![Ранговая проверка условия Крускала и геометрический подсчёт в двух наборах направлений](80_assets/tyrtyshnikov-video-2026/plots-v1/tva-08-mechanism.svg)
 
 <a href="80_assets/tyrtyshnikov-video-2026/plots-v1/tva-08-mechanism.svg" target="_blank" rel="noopener" data-router-ignore>Открыть вычисленную схему в полном размере</a>
+
+> [!example]- Анимация (GIF)
+>
+> ![Последовательный подсчёт в трёх плоскостях, проходящих через общую прямую](80_assets/course-gif-pca-v2/video/tva-08-mechanism.gif)
+>
+> Векторы из общей прямой учитываются трижды. Каждый другой вектор второго набора попадает ровно в одну плоскость, а у первого набора один вектор лежит вне их объединения.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/video/tva-08-mechanism.gif)
+
 
 ## 7. Три перестановки ещё не одна: раскрываем оставленное упражнение
 

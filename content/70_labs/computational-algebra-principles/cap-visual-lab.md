@@ -51,6 +51,15 @@ $$
 
 <a href="80_assets/computational-algebra-principles/plots-v1/cap-01-row-selection.svg" target="_blank" rel="noopener" data-router-ignore>Открыть рисунок в полном размере</a>
 
+> [!example]- Анимация (GIF)
+>
+> ![Одиночные замены могут пропустить максимум](80_assets/course-gif-pca-v2/early/cap-01-row-selection.gif)
+>
+> При выборе строк 1 и 2 каждая одиночная замена уменьшает объём. Замена обеих строк увеличивает его до 1,62 и уменьшает наибольшую сумму модулей коэффициентов с 1,8 до $10/9$.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/early/cap-01-row-selection.gif)
+
+
 В этом скрипте используется полный перебор на малой задаче. Алгоритм обменов в модуле дан как псевдокод, а его ускоренная реализация не заявлена. График не означает, что глобальный maxvol минимизирует любую шумовую характеристику.
 
 Второй рисунок показывает семейство $\operatorname{diag}(M,1/M)$: определитель остаётся 1, число обусловленности равно $M^2$. Это сопоставление разных матриц, не опровержение специальных оценок выбора подматриц.
@@ -62,6 +71,15 @@ $$
 ![Точный остаток Шура на малой матрице](80_assets/computational-algebra-principles/plots-v1/cap-02-schur-residual.svg)
 
 <a href="80_assets/computational-algebra-principles/plots-v1/cap-02-schur-residual.svg" target="_blank" rel="noopener" data-router-ignore>Открыть рисунок в полном размере</a>
+
+> [!example]- Анимация (GIF)
+>
+> ![Ошибка остаётся в непрочитанной клетке](80_assets/course-gif-pca-v2/early/cap-02-schur-residual.gif)
+>
+> Меняется только нижний правый элемент исходной матрицы. Крест ранга 2 воспроизводит выбранные строки и столбцы, а непрочитанная добавка целиком переходит в дополнение Шура.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/early/cap-02-schur-residual.gif)
+
 
 Отрицательный контроль — $\operatorname{diag}(1,L)$ с выбором блока $(1)$. Отдельные замены не находят $L$, остаток равен $L$; глобальный выбор $(L)$ оставляет ошибку 1. Нарушение глобальной оценки у плохого блока ожидаемо и подтверждает, что тест различает предпосылки.
 
@@ -100,6 +118,15 @@ $$
 ![Матрица Грама двух базисов и доля элементов выше порога](80_assets/computational-algebra-principles/plots-v1/cap-malyhin-gram-density.svg)
 
 <a href="80_assets/computational-algebra-principles/plots-v1/cap-malyhin-gram-density.svg" target="_blank" rel="noopener" data-router-ignore>Открыть рисунок в полном размере</a>
+
+> [!example]- Анимация (GIF)
+>
+> ![Малый ранг не означает мало крупных клеток](80_assets/course-gif-pca-v2/early/cap-malyhin-gram-density.gif)
+>
+> В матрице Грама двух ортонормированных базисов около половины клеток имеют модуль больше 0,1. При превышении порога $1/8$ все межбазисные клетки исчезают из маски.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/early/cap-malyhin-gram-density.gif)
+
 
 Это точный конечный пример. Он не устанавливает неизвестные константы Малыхина и не воспроизводит асимптотическое семейство с фиксированным $K$ и $n\le K\log N$ при неограниченном росте $N$. Подробнее — [[30_mathematics/computational-algebra-principles/papers/cap-malyhin-2025|разбор статьи]].
 

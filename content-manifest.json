@@ -245,7 +245,7 @@
     {
       "id": "branches17-selection-and-greedy-lab",
       "path": "70_labs/branches17-selection-and-greedy-lab.md",
-      "sha256": "9f24da8b63aadcbba0fef00da328ccc5021da7ac3bc0858d8b292e7bd5296e90"
+      "sha256": "d3324aa9ce54e75cd178ec6979573fcd6104c2e0f423c975f5c438d8e1e578fc"
     },
     {
       "id": "bridge-analytic-continuation-inverse-problems",
@@ -595,82 +595,82 @@
     {
       "id": "cap-01-volume-coefficients",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-01-volume-coefficients.md",
-      "sha256": "65ec599067ea0f1d1df29caa15b009da1b3d66fd1c27866e0a298f1526833b37"
+      "sha256": "47e57632b815ade195351f85a286feedbd842230655582585f22294b3765d70b"
     },
     {
       "id": "cap-02-cross-schur",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-02-cross-schur.md",
-      "sha256": "86261e1fa795ff47bb7bdef65f6d908aa5fe465780065f75eb1d3a6bf72fcb2c"
+      "sha256": "75466392b112395a3368b815ad44af3da7e97c44a006f9ab5a51b68580d97aeb"
     },
     {
       "id": "cap-03-fekete-interpolation",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-03-fekete-interpolation.md",
-      "sha256": "aeb2793d865a079f865e7d5f231dfa7c9658bd5ef549b52323bda5649265b191"
+      "sha256": "43ffb3228ebff9d72aa48082b51b243c79710dc8021c7f428bb0ff4474928a99"
     },
     {
       "id": "cap-05-rectangular-d-optimal",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-05-rectangular-d-optimal.md",
-      "sha256": "988ad3efd695fa6d496c7fafc8dad789c1a7b59e0eb32f1cb5c7558800cb600c"
+      "sha256": "5d05cee226a7e199cf651f28d24fe42e6277e0580641b5d51effd16c9c041ab3"
     },
     {
       "id": "cap-06-deim",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-06-deim.md",
-      "sha256": "633f1e4559b4d47c284c104a64e37771a575f2292af1972adf2a0a1b3a872a7e"
+      "sha256": "309ff9c1ee91d3dbfc23c63a56cd4b97bcb605b0ad3c13720340fbee821831a3"
     },
     {
       "id": "cap-07-volume-sampling",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-07-volume-sampling.md",
-      "sha256": "83e2b4d54cd8fffa4772ca7d5f85a07fe4f49a559b1226ddcbb055e7cbeade54"
+      "sha256": "ceed3e7b8f8bed7b514f3d50d2e517c89da49bd48937c927c73f9d22643fc641"
     },
     {
       "id": "cap-a04-qr-numerical-rank",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-a04-qr-numerical-rank.md",
-      "sha256": "0e820c3793761031dad15053769590b4313cd3ad19b7c6b529a373a0c2fbdcac"
+      "sha256": "554424b7e022e9e3fcf44b8dc200f5099925cbf4733c0d4143ece332ebb4086b"
     },
     {
       "id": "cap-a05-coala",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-a05-coala.md",
-      "sha256": "4b1f35171d3d27f25d00e796c718a74d579c8f3c685fcfc5cf44c5c0f89df433"
+      "sha256": "52fab0ce413f430c44ab537f1c3b5f619486dc1c26d11feda0ae175495b50822"
     },
     {
       "id": "cap-a06-orthogonal-procrustes",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-a06-orthogonal-procrustes.md",
-      "sha256": "35f5eb908738d1bb0a5d865e89a79dc4ee4c67872d8fdf8623ddd8cc6310cc98"
+      "sha256": "4520b221e777f045f9bd5cf4b72866423efb96407cf4cae5c4f58db07d5be148"
     },
     {
       "id": "cap-branches456-lab",
       "path": "70_labs/cap-branches456-lab.md",
-      "sha256": "d3aa25ca278574d22f86f0a7760c4a06b09ad50322e4ad91728ddf76b9d2ea45"
+      "sha256": "5593206d27a10792c4c8e01a72dcf9ab9bcc307d40b6be924e77b21d7463dba3"
     },
     {
       "id": "cap-covariance-feature-bridge",
       "path": "50_bridges/cap-covariance-feature-bridge.md",
-      "sha256": "a7e12260c9d8ca7bdfea83a1fae9378cc619277de9d31ccf4aa9ed03b6560119"
+      "sha256": "d8661fd15f65022cf43a3a383fc54e0008516ef14f8511030bb4c6b982982d2f"
     },
     {
       "id": "cap-deim-projector-theorem",
       "path": "30_mathematics/computational-algebra-principles/theorems/cap-deim-projector.md",
-      "sha256": "fd80ea56ef813b6a6643678d97d526c9b4080249ec96fd9f7908a21004cc746d"
+      "sha256": "217d4108a260ee4a9fe46b0ec2e86df80c76a9613ed7f00360ee4fa159a52b28"
     },
     {
       "id": "cap-factor-gauge",
       "path": "30_mathematics/computational-algebra-principles/concepts/cap-factor-gauge.md",
-      "sha256": "eaa513043f76f0bf07892afdb2198a1bfa82bda445f9939a831caa150911748b"
+      "sha256": "a3d32ce188eadcee21d9a14f7fd396d22814d913d8e44de66c5f10cc0ffcf643"
     },
     {
       "id": "cap-feature-sampling-bridge",
       "path": "50_bridges/cap-feature-sampling.md",
-      "sha256": "bd482c40d5f34a3df592db2e37fd20173e7fb01b01e49d90ab5465ced3afaaca"
+      "sha256": "ae89b0c30a048ab6fd559c20df034771723ecf2753d350219a0a030c93d2077c"
     },
     {
       "id": "cap-fixed-rank-lab",
       "path": "70_labs/computational-algebra-principles/cap-fixed-rank-lab.md",
-      "sha256": "d68eef68f0be1ecbbdea56f14bcf6443fc6e734cc3f60fb379ae0dc849285c81"
+      "sha256": "b81f094c7440d5cabce9ce0c6d3173b7382f55ca7d9df2a81ce7763e3f8f0176"
     },
     {
       "id": "cap-fixed-rank-tangent-theorem",
       "path": "30_mathematics/computational-algebra-principles/theorems/cap-fixed-rank-tangent.md",
-      "sha256": "36aa7f11b7c60dcfcc401cca5dd6af23f65da740ed1ce316a850b5daca2886f1"
+      "sha256": "12ebd3c53f9a2d4b82d1175476896ad3c85236db825cf23268b553f9bde8a658"
     },
     {
       "id": "cap-full-plan-lab",
@@ -680,32 +680,32 @@
     {
       "id": "cap-g01-fixed-rank-geometry",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-g01-fixed-rank-geometry.md",
-      "sha256": "bd0c0fcf4094bc32e8878784a5382341a26c5d6558139b49b79c275b8d1211bf"
+      "sha256": "b23f0f5a2b7e8ddcbf91e4ca3d2ad89434b24e72ec6bec0423e579e7ca58e61e"
     },
     {
       "id": "cap-g02-riemannion",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-g02-riemannion.md",
-      "sha256": "988074be05fce30d0ab38b809ddc4c4290fcf0649b2b8892f8307ef2e6ee2a79"
+      "sha256": "3e25a7835d6da4e46e4283409e4f453195f70551c21364a584df430ccc62f52f"
     },
     {
       "id": "cap-g03-sf-tucker",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-g03-sf-tucker.md",
-      "sha256": "e077f87d6894fa25a3e7ef367de7b80049ffe990f0863e6df4c44e3767d42e44"
+      "sha256": "699390a6d4a825b86b9ecae87b97eafd5711837bde225a8943b6fcf7f358217c"
     },
     {
       "id": "cap-g04-procrustesgpt",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-g04-procrustesgpt.md",
-      "sha256": "702663ad5fa7a6837667515216691617ce8b8dfea8b235e1bb6cbaab4e4a0be9"
+      "sha256": "805b9ec1d395dd4631c75a7322f8dbbe6d84dfc28e59f1a2e307794f1ea83557"
     },
     {
       "id": "cap-g05-orthofuse",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-g05-orthofuse.md",
-      "sha256": "29282e3a164b0a84b1f1eff12157348580194174701d11981a61f08abf8383cf"
+      "sha256": "168167ffa103a2c01a68e2b047b8f6c229444aa06921c456df9c128ce32fa5cc"
     },
     {
       "id": "cap-gaussian-residual-theorem",
       "path": "30_mathematics/computational-algebra-principles/theorems/cap-gaussian-residual-theorem.md",
-      "sha256": "7480e4fac8f8f61de8cd7fa0a5b7ed5fa66df44f4a6985240ff36816ba19c6f7"
+      "sha256": "2e5015269aca0d49aec9f877d10d9424e04772c46a261eaf5880754675520772"
     },
     {
       "id": "cap-hse-research-map",
@@ -715,17 +715,17 @@
     {
       "id": "cap-kashin-contraction-theorem",
       "path": "30_mathematics/computational-algebra-principles/theorems/cap-kashin-contraction.md",
-      "sha256": "6951f8ca901a5494850ae6b2bdec49e7dca64cef4652bda8de8eab919cda237b"
+      "sha256": "368ab9522c18fd6f8ef79c4cfa88c749f5428f4dab7060c6127e0b6aa0046181"
     },
     {
       "id": "cap-lora-gauge-bridge",
       "path": "50_bridges/cap-lora-gauge.md",
-      "sha256": "95dc0e40b4e469d3ac6efd83fb7ed9bba780fdfb5e38ae40422fe1914f40fb8d"
+      "sha256": "b28eb0c0e363e6606e1ba186cd26a4596b77366d3bfcf9b63bc369c8906f5e0b"
     },
     {
       "id": "cap-malyhin-2025",
       "path": "30_mathematics/computational-algebra-principles/papers/cap-malyhin-2025.md",
-      "sha256": "bbf85e701b271e0b0ed79c1cf260a42ba2335a1eb5541c2a3f0249307bec7588"
+      "sha256": "f0b80dd21dedb6c79d0f95e1a00a20f17bedc153afa3512f4e86c675d143916e"
     },
     {
       "id": "cap-map",
@@ -735,12 +735,12 @@
     {
       "id": "cap-mobius-infinitesimal-theorem",
       "path": "30_mathematics/computational-algebra-principles/theorems/cap-mobius-infinitesimal-theorem.md",
-      "sha256": "606a694040364a559df86f01a41d576661816eda498c549d6c3d2cb8f095d8b4"
+      "sha256": "8ac1463cde251bc7cc41081a02eba0f66dbe9c140df717b9aad1a8b42ce6a2fd"
     },
     {
       "id": "cap-numerical-rank",
       "path": "30_mathematics/computational-algebra-principles/concepts/cap-numerical-rank.md",
-      "sha256": "486e0541a9d2f6ccbc421ab7b5419569703cd96ae8c4a07b5db140123f3ff977"
+      "sha256": "6c4d7ec34a4e352ed46c559dee7a6226cb0fcaa3d80026f11ce8e6d598ffe06f"
     },
     {
       "id": "cap-orthogonal-lab",
@@ -750,122 +750,122 @@
     {
       "id": "cap-p01-isometric-core",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-p01-isometric-core.md",
-      "sha256": "425656dcd05953595e01320f40b1c8ec90f76040c355fbd573744f6c83c4cb08"
+      "sha256": "d030a14e8cb8e32a9b832a02457a83efab5f8af59e8c223be34ea43858de0a02"
     },
     {
       "id": "cap-p02-random-subspace",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-p02-random-subspace.md",
-      "sha256": "1b92800304fbabedfa9607c0b561808887a61bd4a429bd51dfa077c55a5080ea"
+      "sha256": "d94947714821b5b93c7ad5e948c285b6902627bd760b780880cdbe4d40cf7f39"
     },
     {
       "id": "cap-p03-structure-locality",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-p03-structure-locality.md",
-      "sha256": "cd628509818dd151dd7e17735a8147aaf4561f6372f89cf1840bd55e5a499331"
+      "sha256": "13ff26d6236857b4f842b0cbd72b504a5e4aa690752d3029310f4bc9e14d6b70"
     },
     {
       "id": "cap-p04-conditioning",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-p04-conditioning.md",
-      "sha256": "847e26cb59f3b24a5e541ce9eff0e6c1bd4c7fb727ef2899753b0c4a14815e2e"
+      "sha256": "630b45a3992f98d35f35f44bbc1bbc4135535437edba5503fc82470e73d92c0b"
     },
     {
       "id": "cap-p05-certificates",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-p05-certificates.md",
-      "sha256": "376715403f5bc2f7f08a4efdddfc6a5e74beadb518bb0a35464bed155803e303"
+      "sha256": "5e30068cd25680d29c0dcef1c3654eb66bd2d7b1a55fd7e36cf7d7472a8b655d"
     },
     {
       "id": "cap-positive-greedy-counterexample",
       "path": "30_mathematics/computational-algebra-principles/theorems/cap-positive-greedy-counterexample.md",
-      "sha256": "4219c777bfe47d7b0ba79c207526a1af1b611cc5b90493a530939cbf3f16da90"
+      "sha256": "46bcc07d7e3ec9996024d0e0aef2783657136dc09c169782f181d736d325efd1"
     },
     {
       "id": "cap-projection-greedy-theorem",
       "path": "30_mathematics/computational-algebra-principles/theorems/cap-projection-greedy.md",
-      "sha256": "114f43a260cfdc56218140d4027f9e67839a3e761df1004b66204716c8904f7d"
+      "sha256": "ff69abb4f5b7520fae840568411a7e9048682eb2e137b6431d632958d4c82d96"
     },
     {
       "id": "cap-publication-plan",
       "path": "30_mathematics/computational-algebra-principles/cap-publication-plan.md",
-      "sha256": "b6f49430d9e94f6c07215b33af81346986f1589732e5fd5651e0b231d3ea7f11"
+      "sha256": "082295aef5a4e98e74a58e5aea5bd1e9358ece730b20ae4a6bcbd66964f09901"
     },
     {
       "id": "cap-q01-qtt-fem",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-q01-qtt-fem.md",
-      "sha256": "7672a8bc59862635501e81486ba9b0418ee27b3a69532af63f81d68956299c9a"
+      "sha256": "fe866f7e60a0859847469efac364072d50507cb2732ee594f3e5870a4691f0c9"
     },
     {
       "id": "cap-qr-riemannion-lab",
       "path": "70_labs/computational-algebra-principles/cap-qr-riemannion-lab.md",
-      "sha256": "61623a6a6fa3378b86e32f1139ad46914a04a4a48c2ea1b8e90becb7847975bd"
+      "sha256": "ed37393d6a814643dfbfeea450e53b8e068647294445806bec86073103d675d1"
     },
     {
       "id": "cap-qr-small-core-bridge",
       "path": "50_bridges/cap-qr-small-core.md",
-      "sha256": "ccfc39ace3f250b9b6c4ceadf1ffbb217ae28ada02ad86fa6f8a4ea55ca1fd5e"
+      "sha256": "b47352b4eef6ca59fa4b92b3313df89000900fd090ce240895b5a5f35717a39e"
     },
     {
       "id": "cap-qtt-elementary-ranks-theorem",
       "path": "30_mathematics/computational-algebra-principles/theorems/cap-qtt-elementary-ranks-theorem.md",
-      "sha256": "8c6e6158ba187c532db35c0a86a63bc74faaec6e79222913dd99eb473da05eeb"
+      "sha256": "c08c1cf3550b55f109a8f23ab32d77d5f258f2f212c5dab7b4cd30beede038ce"
     },
     {
       "id": "cap-qtt-scientific-ai-bridge",
       "path": "50_bridges/cap-qtt-scientific-ai-bridge.md",
-      "sha256": "5fe3b639b5309b5e3480fefb95c23b4b9d22f10fad3182f5f0f9c0cb72bb04b8"
+      "sha256": "fbed91e6283841532e5524b3cb12307ed5e4933dd911cb3c05d3c8537dd80082"
     },
     {
       "id": "cap-r01-rigidity",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-r01-rigidity.md",
-      "sha256": "47979c0860abf0819c1ecc48899c90de34f357d7086bf41679dc2a80ab644829"
+      "sha256": "e0836dddc27b41ebbfae80b63f5886595744defbd00518016a0c7d82a3812f86"
     },
     {
       "id": "cap-r02-sign-rank",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-r02-sign-rank.md",
-      "sha256": "9d27e3d5341c86d206cff203dc5b0a82fae7cfab3220ad19e4834ef843d4181a"
+      "sha256": "8809ed02880dbce3cdbe96af76aa7fbe93b15284101ec2d66fc3431c5c62727b"
     },
     {
       "id": "cap-r03-displacement-rank",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-r03-displacement-rank.md",
-      "sha256": "e5e23e837b072884c146ce50b7f930b25c8a10e26a47aa3de8ea1d2e69557b1e"
+      "sha256": "047d050c8da92769955fb50681ed68b08ed0335c5b858062827f40dbbd55e7c6"
     },
     {
       "id": "cap-r04-nonnegative-rank",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-r04-nonnegative-rank.md",
-      "sha256": "2d80e8d915f1664cf1ac58c17c0227c54170ee427c7133d7f27b31f6ec5f3ae5"
+      "sha256": "bdf84b6c95f4bde43717c26d0be0d5271e3602171264c9f8f4cbb7b18aa55ab9"
     },
     {
       "id": "cap-r05-displacement-singular-values",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-r05-displacement-singular-values.md",
-      "sha256": "b0f9ad3df357bec04a9173438c486d56635cf8aa6c93a9c894e1bab1c9181da1"
+      "sha256": "11e7fc8e1456d239b5d0d8047e030f2e55fd72377b16078a25d7d3b99c253fa8"
     },
     {
       "id": "cap-r06-tensor-ranks",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-r06-tensor-ranks.md",
-      "sha256": "1b29cf3dfde9cce9f5cfdbf08310019a10968ad544079b3947d511abc2a515cd"
+      "sha256": "3d5b557c2495fd4e16a1f5d10e9fa32de99aa8ac4ba6f32cc3b51403de476659"
     },
     {
       "id": "cap-r07-spectral-localization",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-r07-spectral-localization.md",
-      "sha256": "b86a3da17c102453e48a1fd1b9834f8f635fbef55435aba03fe2a6ad1d433269"
+      "sha256": "d7897f2cebc6e200a073fc58387812ff1b3307c87defbccff8c6b25a592b9db1"
     },
     {
       "id": "cap-r08-unitarily-invariant-norms",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-r08-unitarily-invariant-norms.md",
-      "sha256": "6dedf386155c91f69f81d2dafdf8715497dfa309cc1acdb1eba74d5993e73060"
+      "sha256": "b5fe168ddb414257dae92ecee60b552813e0936642f901b6e1ab0520e081fbce"
     },
     {
       "id": "cap-r09-subspace-perturbation",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-r09-subspace-perturbation.md",
-      "sha256": "575ea64a60c75024f88752bd62b76089eb6179917acc0b138cd5ec333226eeba"
+      "sha256": "b40d64e0913e388dfe988b91ee367a2a587f607ddf69e40947a507b7bb1ae555"
     },
     {
       "id": "cap-r10-finite-operator-interpolation",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-r10-finite-operator-interpolation.md",
-      "sha256": "d2d2fa079850c9804088dd00cd592488c155f74d3abbdb7b88f9be827a0c93b3"
+      "sha256": "20cd59e3733a4e08a5de01d964859ee9df1cbfe73cab19b39cba221b2eca7e31"
     },
     {
       "id": "cap-rank-model-ai-bridge",
       "path": "50_bridges/cap-rank-model-ai-bridge.md",
-      "sha256": "f4c32c5ff8c622df3501d7c241aa298e2e35e3126a04a9965c9378968fa0fb85"
+      "sha256": "4b13b7aac234ff8d9c63c0c83ee1fe814910537ad640ad5845eb70cb6fece77a"
     },
     {
       "id": "cap-rank-spectrum-lab",
@@ -880,77 +880,77 @@
     {
       "id": "cap-rational-displacement-tail",
       "path": "30_mathematics/computational-algebra-principles/theorems/cap-rational-displacement-tail.md",
-      "sha256": "bd22e7bb097f9a8789899f0e3124ff39f57822971ec755b134c8553a9ac7769c"
+      "sha256": "b944691bd410c72e23f79c31b89615b419d05d74c034205ca9b5a8c65d26071c"
     },
     {
       "id": "cap-rearrangement-shrinkage-theorem",
       "path": "30_mathematics/computational-algebra-principles/theorems/cap-rearrangement-shrinkage-theorem.md",
-      "sha256": "a0a6d2ed59b64c0e86788ddc55c2873dbb17e55e34775ff6bd2401a54400fa4a"
+      "sha256": "8754205b07c03f3271adb9f4a18380682a804253ee9df430c0716d1453cd1aca"
     },
     {
       "id": "cap-rectangular-coefficients-theorem",
       "path": "30_mathematics/computational-algebra-principles/theorems/cap-rectangular-coefficients.md",
-      "sha256": "84b4f344bc300e8efc866eaa271d8948d21ab9ce72fd33f94be473bd43571c2f"
+      "sha256": "8c340da0f3486cd1478392bfc02ea3d1597d4bd929f615f82265aefc96a2d508"
     },
     {
       "id": "cap-s01-structured-covariance",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-s01-structured-covariance.md",
-      "sha256": "f9876598824451f0747382f42eb62118cce9b6cbd54f85ea3aeec2294295fc43"
+      "sha256": "2f6157e396ecd600e543e7bc9e7250e60ec111bb2b6ae866d6c2fb6ce5cec87e"
     },
     {
       "id": "cap-s02-schottky-variation",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-s02-schottky-variation.md",
-      "sha256": "cd8a4693400c549771f70ae20fd49a7ac0ff8d8d49ae15b15f2cde59add81a0e"
+      "sha256": "fc111d78351f114b4ff6ee5ebbd14122aa985ae408c158cebc18a08404101609"
     },
     {
       "id": "cap-schottky-differentiable-geometry-bridge",
       "path": "50_bridges/cap-schottky-differentiable-geometry-bridge.md",
-      "sha256": "eedecb92e77300e830d6aeab67086ea26b18b05f7656fecde105336e9b42d57d"
+      "sha256": "60aa6efc1aa8bd6ccbc8c19cf623f6cd7a18aece53de69a63f44f67a2eb03f34"
     },
     {
       "id": "cap-sfett-quasioptimal-theorem",
       "path": "30_mathematics/computational-algebra-principles/theorems/cap-sfett-quasioptimal-theorem.md",
-      "sha256": "c4faceec8cace762d3b7d56e2b1ca3ed9ba340fbd892ea6fb89e76c33f9f16f3"
+      "sha256": "e16d0ebfd718e5148992994732f1a466f296936e864a6842fb2f95c31c962a71"
     },
     {
       "id": "cap-spectral-lmo-theorem",
       "path": "30_mathematics/computational-algebra-principles/theorems/cap-spectral-lmo.md",
-      "sha256": "f66e40f0660ebd7d3e3c1fd6f5b59745cf64c361724dba01867e1507fd23cc11"
+      "sha256": "56c9493ec73aa1d9f6491a86de1c0cc793bc77342e8805d27e50aedcbec474f0"
     },
     {
       "id": "cap-strong-rrqr-theorem",
       "path": "30_mathematics/computational-algebra-principles/theorems/cap-strong-rrqr.md",
-      "sha256": "b3b55ca9fb843f8c414a2aae2d6cd693d095a0938cabb2f21d400ce73d5e805a"
+      "sha256": "8a41466ddc3fb9a0a79b111a29fa40197f939ab31ca9bca25f688b52d61f3366"
     },
     {
       "id": "cap-t01-tt",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-t01-tt.md",
-      "sha256": "706001fc93222d5d35b241d05c2bd9967e7d8fea7c62f3cd6205eb482793243d"
+      "sha256": "00c9e720a3ee859e3989f6fdfa3131b9daf3586d6da823e622165d409ecca92f"
     },
     {
       "id": "cap-t02-sf-ett",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-t02-sf-ett.md",
-      "sha256": "d7bbb95f8b9a76bc2544de4aa6231af67e285e49ec3ecc94fd6a290ffe7067c1"
+      "sha256": "025baf6c450ce236a92b28c3a0b8ef73f1a589c476a0a1e6fdb6f9b0e3459416"
     },
     {
       "id": "cap-t03-cherry-picking",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-t03-cherry-picking.md",
-      "sha256": "1c7ffe35edd5043d03c9a67b3afb96646127e9c42d5e24d0eedd03390be5947c"
+      "sha256": "892f435187d0f929273170a5f56e8193326749305040b2b5df89a5fc7fbbb074"
     },
     {
       "id": "cap-visual-lab",
       "path": "70_labs/computational-algebra-principles/cap-visual-lab.md",
-      "sha256": "206758d1a2ff54d92b61f9d0e90a28e11690ec4950f63fa8126e355afb09eeb3"
+      "sha256": "762e3a0236e8675ed16933bdbd9cf6065996d84ae0ff341be086dd68a0a0c56e"
     },
     {
       "id": "cap-volume-coefficient-theorem",
       "path": "30_mathematics/computational-algebra-principles/theorems/cap-volume-coefficients.md",
-      "sha256": "cdf3bffab656dfda5403d10fa362820ddf66afa1a250923187358a48efaa2e7f"
+      "sha256": "91546f45ac71e29a166d16032d1f808945d1f3ec26e1ec1551e8cc47d28d36ea"
     },
     {
       "id": "cap-volume-unbiased-theorem",
       "path": "30_mathematics/computational-algebra-principles/theorems/cap-volume-unbiased.md",
-      "sha256": "0704c9d09cff051d95f55eb15083c139494beaf211d52000d9ca5249b2fb43f3"
+      "sha256": "1cb82ba99f14f348527de702957e27819c87c726a4dce59ee31eea2987663f7a"
     },
     {
       "id": "cauchy-integral-formula-theorem",
@@ -1075,7 +1075,7 @@
     {
       "id": "coordinate-recovery-operator",
       "path": "20_concepts/coordinate-recovery-operator.md",
-      "sha256": "5df3717631135a137ff93348dc7b54ce3c28e6821d67b91a30e132773f348878"
+      "sha256": "6434a15a109b9b19bad2a01f0a0846b5be757db1f9f474c2527c76eacdfe0822"
     },
     {
       "id": "course-publication-roadmap-2026-2027",
@@ -1500,7 +1500,7 @@
     {
       "id": "greedy-dictionary",
       "path": "20_concepts/greedy-dictionary.md",
-      "sha256": "c632fca770a33f7f088fc2a15b163db2191beee907d9995cffb263a631b753fe"
+      "sha256": "22fd1e569b9b0a57f98afe9b150635715236ac34471ac1f7789a1f81150c61c6"
     },
     {
       "id": "ha-01-harmonic-viewpoint-characters",
@@ -1730,12 +1730,12 @@
     {
       "id": "journal-01-kashin-two-bases",
       "path": "30_mathematics/computational-algebra-principles/modules/journal-01-kashin-two-bases.md",
-      "sha256": "c4eae070c10216cd8e29249cf12d693e6294e6b2551ea4cac859ae12f2e13a00"
+      "sha256": "d18acebeb16ea42e755eaecc8127477372d187d89c95e5b75104dfb7066778f6"
     },
     {
       "id": "journal-02-greedy-projection",
       "path": "30_mathematics/computational-algebra-principles/modules/journal-02-greedy-projection.md",
-      "sha256": "8b46797f301739f1f67c6e3b3fa5437787e5fdc1ed896ce71dc1cc82c42acf78"
+      "sha256": "e0399af830ed8cee76bf87a5d2c8cb63a7ff52a4ae93b983022f0a928962fbdf"
     },
     {
       "id": "kashin-two-bases-primary-sources",
@@ -4095,52 +4095,52 @@
     {
       "id": "tva-01-matrix-factorizations-qr",
       "path": "30_mathematics/tyrtyshnikov-video-2026/lectures/tva-01-matrix-factorizations-qr.md",
-      "sha256": "cff8a5f3057ea4adb9a433b9cf54f85fb2a270b3467bd20f45be9335490a8610"
+      "sha256": "e0f0458d80b9638ec8b2d4b8735a14ea9223831ec32842b9ec2e435390c36a72"
     },
     {
       "id": "tva-02-qr-fft",
       "path": "30_mathematics/tyrtyshnikov-video-2026/lectures/tva-02-qr-fft.md",
-      "sha256": "b1e6eac4bda1a2dcdeb9bc2bf7a9488038a874c70e978e7eeb48b5b524549007"
+      "sha256": "7b9bf7dbfd216fc59f918931845a7f439642a5c0c2e6dded5bf0b7c0a0881a25"
     },
     {
       "id": "tva-03-norms-svd",
       "path": "30_mathematics/tyrtyshnikov-video-2026/lectures/tva-03-norms-svd.md",
-      "sha256": "c6f062e8929d9dc340e3f85aaea6107f52c05826d56912342c472574f5578aa2"
+      "sha256": "ebf6f33813f331fd45e1c6567dbb090923f4572078cf6cb6589f69f2099a3dfb"
     },
     {
       "id": "tva-04-svd-least-squares",
       "path": "30_mathematics/tyrtyshnikov-video-2026/lectures/tva-04-svd-least-squares.md",
-      "sha256": "60b4c483ac035497834293193ad2a9a871e62f0f8102f880dfd34ad9d5f3a173"
+      "sha256": "a28099d9caaf95d5326d8917067c2ce7df29a7b3422855145f979ea7f3a07915"
     },
     {
       "id": "tva-05-regularization",
       "path": "30_mathematics/tyrtyshnikov-video-2026/lectures/tva-05-regularization.md",
-      "sha256": "ca0e256d298b9a3d1381e3e01b5d187b9cbe9b0c8a92104fee27acab2f8f3a14"
+      "sha256": "3434873d3db22f8fce8d86681035f1b021505d16e922bfbf53ebb75816e76cff"
     },
     {
       "id": "tva-06-maxvol-cross",
       "path": "30_mathematics/tyrtyshnikov-video-2026/lectures/tva-06-maxvol-cross.md",
-      "sha256": "6eb4fc6ab20025c749cac72db3afdfa1470607fafde956a45e46b704064e67fe"
+      "sha256": "b5c84f3e57e264eab01e6b1bc7d170a4c931b8156dce937a3fa0d0d671b16cf8"
     },
     {
       "id": "tva-07-tensor-rank-uniqueness",
       "path": "30_mathematics/tyrtyshnikov-video-2026/lectures/tva-07-tensor-rank-uniqueness.md",
-      "sha256": "d005e62c1c1c93f72fe884d95e18ec2bf7fa8add98f16455c2199e6c6ba4ab1e"
+      "sha256": "29331e7f5bed49a1069fa0837ebf92ada1f8fbbd732db1a7840c55ecf5d5073a"
     },
     {
       "id": "tva-08-kruskal-proof",
       "path": "30_mathematics/tyrtyshnikov-video-2026/lectures/tva-08-kruskal-proof.md",
-      "sha256": "d552d4901e1966eb7919faeea2f5ac5d4153053235e32301f9fe5886da746601"
+      "sha256": "94f226726b14bf1f3c41ef9f6da2adb8a4abfaeaf732a201545f750c60b60188"
     },
     {
       "id": "tva-09-tucker-tt",
       "path": "30_mathematics/tyrtyshnikov-video-2026/lectures/tva-09-tucker-tt.md",
-      "sha256": "b61ea88f1eb19ca363db318dcf6dd5c0b7835824b8f9a97aa16c8547a5ea99b4"
+      "sha256": "c9cb3cd46892be66c4b859dd2930c13e1c57a787dcc6ce3a35735f297ceb7a67"
     },
     {
       "id": "tva-10-tt-construction-rounding",
       "path": "30_mathematics/tyrtyshnikov-video-2026/lectures/tva-10-tt-construction-rounding.md",
-      "sha256": "ba8bf19504763d15674b9f1db7c20e2fbcb06e33b2145d16080b291d310bca07"
+      "sha256": "7707e484ae9c61c08397cdeadede010e8f0cb57a55c3245d6ce5aa062ff7655d"
     },
     {
       "id": "tva-map",
@@ -4922,6 +4922,426 @@
     {
       "path": "80_assets/computational-algebra-principles/rank-spectrum-v1/toeplitz-displacement.svg",
       "sha256": "2bb8ef5652aefd31c6cdbe2acba07f5eb1f7c567b078d296dd891211904f899a"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/cap-01-insight.gif",
+      "sha256": "6c49d33ae668aec17323997cc9a37f9e063c223cbde154715e0380f5e2fce027"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/cap-01-row-selection.gif",
+      "sha256": "fa98bc4017a055f0ac6b4b9b9cb716e7da8c0457f768eda79c575e3b5cf02e72"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/cap-01-volume-conditioning.gif",
+      "sha256": "ff88455bd2253e3184cdbc4b5305c1f2e397655d794f430f862a340347b14dc7"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/cap-02-insight.gif",
+      "sha256": "6a93ff36f1c2ee97b9fa33b71342ba31ed460582172ad7d9d096ee31402d953d"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/cap-02-local-failure.gif",
+      "sha256": "7c1a1346a2008c6aa5f3b4d02e64363578247ca77932cad9be777e36afb28bc5"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/cap-02-schur-residual.gif",
+      "sha256": "d15bb15fbf3a5047bf41f7d0851acb397ad4c751d9a4812db6afd7cface42638"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/cap-03-cardinal-lebesgue.gif",
+      "sha256": "7611884c9f5dd3072b3a9881047722ecff0d68c7c8650cc5a5aa0d3971b780d7"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/cap-03-insight.gif",
+      "sha256": "285ec06f1bf8b650fe84fd2c1379de38d72f220cc6b00017b2203389ad98f643"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/cap-03-mesh-failure.gif",
+      "sha256": "c4acbdb3f77af2368693475e05dcf72f739238402f53ca3cd797c8bdb5e6767d"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/cap-03-node-comparison.gif",
+      "sha256": "2d384ec00299b5accf95ff6e66d0c122f81fee996cd7e940922af06b78611975"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/cap-05-confidence-geometry.gif",
+      "sha256": "c1f76d5679e11218da284bcffcb6dbbcaf426d7968ce944b71be4f10a0ca3604"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/cap-05-noise-weights.gif",
+      "sha256": "c3c6c45a7b5b72020b666c58ef4f6b56336e49f4d7ed02a6b6004e0c709e81ac"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/cap-06-amplification.gif",
+      "sha256": "bdf8cd63d96272be82dda1ec58e37c36e3a189a5cd8f1e4dda9a381df4055c9b"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/cap-06-oblique-geometry.gif",
+      "sha256": "3501fb53574656c3c070e9416312aea07c67c094845135f9396d72c71e9a10b8"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/cap-07-subset-distribution.gif",
+      "sha256": "c39e30171a4b1a26be1f248c19ae31f5bf619da42101d67a24441bedeafa701d"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/cap-07-unbiased-geometry.gif",
+      "sha256": "6c632d305f64f879416c856f7cd65e97e8c9525f385498483459d184fc873ce1"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/cap-a04-kahan.gif",
+      "sha256": "1036eacb77868c9915126ac929763670cbf3d394ba3a7e889503630563429776"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/cap-a04-orthogonality.gif",
+      "sha256": "d071307d0f571111120f213540ac7268d6921f6342e69632b745aaa57fc3fcce"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/cap-a04-qr-insight.gif",
+      "sha256": "225734043a297c91e231aa6ad52964c231972691e9f265c9016de65e56584d61"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/cap-a04-rank-threshold-v2.gif",
+      "sha256": "4da2046e92e75645e70e9b6797b2ac488f42e9745d0c1f9697511fb9121ae0b0"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/cap-bridge-model-error.gif",
+      "sha256": "238133fde2e0597a90a0a3d9b5ad30a3fec376876cbffe655ec57d9e3e1c2612"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/cap-g01-gauge-step.gif",
+      "sha256": "a899271b696e9f833685d7612a33b2921f0ea1d682dbd65bc37873c664059efe"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/cap-g01-gauge.gif",
+      "sha256": "5b38cc34dc0bd78d8553914a7e51d483eeec6a551c44b65fc7b28ea0df3ef4ca"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/cap-g01-rank-cone.gif",
+      "sha256": "1b06ab9851f97177305575862b30913bdb3ebe481b9e27f32ae2a71d0e094378"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/cap-g01-retraction-order.gif",
+      "sha256": "027f124c9eac1638efae73e60d8ecba62537288175e77b1f81f605206fb33385"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/cap-g01-tangent.gif",
+      "sha256": "61018c10a633dcc4b9f6a4c5ec094df0341f1186a13543d26176abffc83338f4"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/cap-g02-loi-capture.gif",
+      "sha256": "a8520d71f9044c32dd6d6fff71cbdf73f16762b2bb5e9caeaf951ca7bd9fed3d"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/cap-g02-loi-insight.gif",
+      "sha256": "861d2d601b2e73d012da13708a20cbb63286a6e20abab213e53e8e930f5dcfe9"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/cap-g02-polar-projection.gif",
+      "sha256": "2184f38851f444d91adbccae5bdd1eeb53a13b7e25d6d9a539f802e20d4a17fa"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/cap-g02-riemannion-insight.gif",
+      "sha256": "587b38c0bb7600201e52827111a4a919843d93ce367cb4303e88383ef606956a"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/cap-g02-toy-invariance.gif",
+      "sha256": "6751e14a31cc5cfa24505a11982a485a4feab75ccff7e2628ab97ca14da1f87b"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/cap-malyhin-gram-density.gif",
+      "sha256": "fd78922a2c042af10d4e06b113b622e1ea61c68522cc878ddc7e17833c399862"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/cap-malyhin-insight.gif",
+      "sha256": "deceb546b8fce51c19df310d3beb7263b2ac1381b75f1ef451c39e2ca660a97a"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/cap-qr-small-core.gif",
+      "sha256": "b1fa284bb28a59ff1e746781fd2a12035f830c431e62dfb29393f5142b33f991"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/cherry-gradient.gif",
+      "sha256": "be444208fc973b68f254958dd695af12efabd508935fb2d7b9839379f356ca5b"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/cherry-unseen.gif",
+      "sha256": "f471c2739a27c15a420cb0f7b95d656b22d33d81f7e4f561189af5c650e21f9f"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/coala-context.gif",
+      "sha256": "31bc1cefa4222b658ee366f6e3a613c44beb535870b5c6df98bebd6f04340b61"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/coala-tsqr.gif",
+      "sha256": "31d11af1f4a2d70445236545c56766b73bcbb64860b964f15d9e7063a68a16b1"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/orthofuse-phases.gif",
+      "sha256": "4ce55d2db312a9fbc7ae5ceb8d5a7fc96d6cc9ac97c3c4f3fc21b98edf1589f8"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/orthogonal-arc.gif",
+      "sha256": "e3f7bcce36dc7ede79838e0234f67848324411de88ea2515b5b86d43f9b8e64b"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/procrustes-kron.gif",
+      "sha256": "5bc567a24ce74736451b2baf603724a7048ea76fe2d43d046d66363e5dd046a9"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/sf-retraction.gif",
+      "sha256": "2afed8b08b081965932e3963f577f1f877d145db5f83ffe2caf6cf56f2da6c0c"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/sf-shared-rank.gif",
+      "sha256": "6682ed35d8d4ddfa36db614a1ee631cc8cf890c6e6a2afe3ea97477b18a177b1"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/sf-tangent.gif",
+      "sha256": "a5d9b8bd7b9cb9c070871b1f093b6fd9dbe20ca57726399da91d6a0d220a659c"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/sfett-rank-audit.gif",
+      "sha256": "eccc60e419303e2426bca4b290261472f46127554c643c985a3387bdccf15cdf"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/sfett-tangent-dimension.gif",
+      "sha256": "9d09bc5a53bc757246d40d7a3665af71aed6c381c18f09eae6999009a97edd9b"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/tt-error-budget.gif",
+      "sha256": "2982edca0f74f73a95297faab4f99a15d2c4c8586307f001cea7de0184263a6c"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/early/tt-order.gif",
+      "sha256": "b370dd269dff6fe9792c53865f589c57da0f212faef8c9d07d0124609df96c73"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/late/covariance-misspecification.gif",
+      "sha256": "043e90b16192a2f81a08ea2dca1c5892cf076ae793efea5f68f0ecbde40679a6"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/late/covariance-rearrangement.gif",
+      "sha256": "c993820f886941d2c9d0dd07f631430c342d99dce1c8b884f1304e7cefd1a4ea"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/late/journal-01-kashin-coordinates.gif",
+      "sha256": "b0faa43ad3b8a62cb7e9e23bf55ce093008f519cb99ea0f805b675b199915a83"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/late/journal-01-kashin-residual.gif",
+      "sha256": "5510331ad6ee02abc59c1dda25e97018b18cf78a2ad8e71cdf525582a4fc3dc5"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/late/journal-02-greedy-norm-budget.gif",
+      "sha256": "46c4b84728c43988eddb59b96147c056de075864ece9e8417bac81403112aeb0"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/late/journal-02-greedy-scores.gif",
+      "sha256": "2c674e0c4de7731c90f8f1f94b06d9f64fdff8d79dadf8b93724b54b5f263feb"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/late/principle-certificate.gif",
+      "sha256": "f7528e7c39bc30c3f198c6878ee8c0a8b04b278834894e941f2e4d60d8da010e"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/late/principle-conditioning.gif",
+      "sha256": "1676ceaa042e760307e0665e139208009e2e90f1c417bf7662b2318dc523e8aa"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/late/principle-isometry.gif",
+      "sha256": "c167cdfc1e6f5e25e910e9b411087087806cca6a57c5f0dad1cf04d6860a19c5"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/late/principle-locality.gif",
+      "sha256": "5fc3de078d65cb78430e2e9fae0f873484e82100591fbca1e5344a1c17de5ea4"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/late/principle-random.gif",
+      "sha256": "4c0103d9f0456a12fa2cc0a8ede0dd6bf8e1eda9e675b4b2135a7f5d0ff7ed3c"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/late/qtt-binary-ranks.gif",
+      "sha256": "1598b43c287d83da4ae51cea6022a7bfdd9034f7910b8db27b10ed4a9ad4d613"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/late/qtt-error-budget.gif",
+      "sha256": "02a6f34764c0ce760b75f94d828962e3c9217cc1f1d0673f5d66a94ff8dbfe35"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/late/schottky-disks.gif",
+      "sha256": "32c33ad06db3ffddc7c6af7238a19bbe9df36b0d021eaaac57a596a1a6a20f4c"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/late/schottky-mobius-variation.gif",
+      "sha256": "bdbdc75521fa66091c8977fa160d89bd05aa497c946538f31185eb7580eb1fc9"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/rank/cauchy-spectral-tail.gif",
+      "sha256": "7014a35fe2635ac90def1acda185c23667a10f2fc5b163b087ca55bd799f453a"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/rank/classification-margin.gif",
+      "sha256": "e61f4731dc373bc47b49f6c4b866f8cd0e5e0eeeed0ecbff47d2153ed294c89a"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/rank/entrywise-optimum.gif",
+      "sha256": "cb7800a174aec156968e4b008a27c247b7a5ced13f8a383c737b1891028469a3"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/rank/interpolation-chord.gif",
+      "sha256": "db3c1669735603d8036948ba36b2d2344066d99b98b7e030794118aac4aca337"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/rank/nonnegative-simplex.gif",
+      "sha256": "f21ee07dfa60944e9c6b3dcdf524ecd422d38416a5cf25c81e8c4a9b311f606f"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/rank/norm-majorization.gif",
+      "sha256": "d29dcc6c14413bf2e78c91ecadf554c16e18d7aec3b9b9c266843c3d71069ee0"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/rank/qtt-bit-order.gif",
+      "sha256": "56e522d1ec08cf12a0277d3c122d74f10cae1c5139f41bd332ab06d16cdf9810"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/rank/rational-separation.gif",
+      "sha256": "703ea9de4e4a5cc2cb6d26d188d5f5e2cc7a4802e352bc1aa2fecc8df6d12c97"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/rank/rigidity-budget.gif",
+      "sha256": "f1377013b72fe8dc1b3bcd0241f436ac11779aa8b8f224f046d1c516752c499a"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/rank/sign-rank-threshold.gif",
+      "sha256": "406b0462bc4600fc395f291bced7d95f40d3f20f74b6206aff3b2775326d154b"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/rank/spectral-localization.gif",
+      "sha256": "f443b43536653b7389b0c027d4419f446790bc7abd9312b3c8cd162f761df00b"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/rank/subspace-gap.gif",
+      "sha256": "8a31a5265b1da93acc7f7a422a0e2677834b709d560b0aae07ea6222f1e90088"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/rank/tensor-cut-order.gif",
+      "sha256": "5185314104e50a95e7889c4397834625b1313cf76270fc82605c0c1033b6aecc"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/rank/toeplitz-displacement.gif",
+      "sha256": "9c8493f315b5fe313dec0c2dbaaae6a099b172cfdf4c88e097ab485c4b953a0b"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/video/tva-01-insight.gif",
+      "sha256": "1d42fd072835fe9ca463eadcba9eb53da0a17dde1e3cafd85829d42fa93c0eef"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/video/tva-01-mechanism.gif",
+      "sha256": "a69ddfa5223b9f4bc2be0377472ed5bdf3abde86225f2405e165ec738e4f5343"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/video/tva-01-polynomial-sensitivity.gif",
+      "sha256": "e2fc3012945464730e695f5d70180ed173697c9f72fbd6e2f4d8268736b68376"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/video/tva-02-insight.gif",
+      "sha256": "c22457abc5f709bb5138e00ca4b927bfda7c397c39e97bf8dd6af9cb3678b25e"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/video/tva-02-mechanism.gif",
+      "sha256": "aa36377507e9e646b70db4c376ddc4e2bd92107544e7a3fc611ec25e0988e664"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/video/tva-02-toeplitz.gif",
+      "sha256": "f73203d55be8d6ef14f0fb0bea03932ef5f54b0639f8271a1e86480508c85ba4"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/video/tva-03-insight-palette-v2.gif",
+      "sha256": "a023de2b9319fbabdfed439297b6ec00ec309d478b1a3ef1bf0d47855ba28bed"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/video/tva-03-mechanism.gif",
+      "sha256": "620ab1d24503efc2ed6c40600ed23b016c080254e82458bd23b5032df673c2a0"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/video/tva-03-unit-balls.gif",
+      "sha256": "02ce18986a5c154aeb0be08f18a84ec9d700a272da804edc59045642a4e6b192"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/video/tva-04-insight.gif",
+      "sha256": "314db9304d16a326a950b20d3caa11f7de664301492b3c3bedfbc33f66a43e45"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/video/tva-04-mechanism.gif",
+      "sha256": "2b68c07f1af3184ee8707e8e73579ad2c1b3d3efa3b5628b0d1491919c6e5a83"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/video/tva-04-secular-interlacing.gif",
+      "sha256": "804f9bc2b7eb8d2cc082510a8b1f04a23c6bf5e6a2f0baed99a665b9ac189792"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/video/tva-05-bidiagonal-step.gif",
+      "sha256": "d8353866c4719184c05b8d0074dad0151311ba110bf855ec771e329cc96d6e07"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/video/tva-05-insight.gif",
+      "sha256": "d9e4dcd3085cc69e7549309ead7ab4cc75b11c5e417a35aaf8125c69e5e97d0b"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/video/tva-05-mechanism.gif",
+      "sha256": "a6d54fc9b8e32db00d0f409544d71802ac82edaa5871651246b98d6bc41984f7"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/video/tva-06-insight.gif",
+      "sha256": "8382dc07905b5c3aedb47077fe123d2175598219cf4615a3684496cda78435eb"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/video/tva-06-interpolation.gif",
+      "sha256": "06153fa30af95db004baca23a96c1f9900efa586dd76500534bf36888461b5d0"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/video/tva-06-mechanism.gif",
+      "sha256": "932774f095785a15d8d500f426c114502bb22e528d20568d03bdf9e39fc92bbd"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/video/tva-07-insight-palette-v2.gif",
+      "sha256": "e5a0573b40dbaf654c68514fb55198408f5b2adcee3e34ee3e7bdc55aeac5e43"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/video/tva-07-mechanism.gif",
+      "sha256": "05fb775d1f7bfad1e276020c165c3436b9e14697813021e22b634bfee237827d"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/video/tva-08-insight-palette-v2.gif",
+      "sha256": "70122158315aa73ef7f37f696d0e8913c9b1fd11abb777c8d14715273a88f871"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/video/tva-08-mechanism.gif",
+      "sha256": "0ed4cbd62ef323f9da65615cbd1eb8679590823c46fb216249a12b5b68cf3d1b"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/video/tva-09-insight.gif",
+      "sha256": "7e6c1b53f75d17b364710953ec026adb77cbb46e97790b2ae26cf21b37e41131"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/video/tva-09-left-inverse.gif",
+      "sha256": "32374f41278ee3299d4016e1759730b152bf0cb5b19ec174e265f3e243aeeb94"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/video/tva-09-mechanism.gif",
+      "sha256": "699654b9f00b601cbf3944bc705a537edac120e1d2f85fc3f8c8e2e62107b96f"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/video/tva-10-input-models.gif",
+      "sha256": "8707124783aeb55866e668b738f1df7cb64b1c0edfd43f7ad384f2b187fdf6ff"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/video/tva-10-insight.gif",
+      "sha256": "89a297853548acf05a222f92e277dc64b32a7875cb0eb06d36ffd235fa8483c1"
+    },
+    {
+      "path": "80_assets/course-gif-pca-v2/video/tva-10-mechanism.gif",
+      "sha256": "ab48d72585e1f2956dccd4dcd1f19fdc6b355764555135acb1087ddec2b7d8c8"
     },
     {
       "path": "80_assets/dynamical-systems/gpt-image-v1/averaging-slow-envelope-v1.webp",
@@ -7188,5 +7608,5 @@
       "sha256": "8be458a495badd5423655bf130597f92ac58a33019efb59e8532b54d06449838"
     }
   ],
-  "asset_count": 727
+  "asset_count": 832
 }

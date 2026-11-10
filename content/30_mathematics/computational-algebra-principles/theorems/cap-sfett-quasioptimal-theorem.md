@@ -44,6 +44,15 @@ $$
 
 [Открыть полный рисунок](80_assets/computational-algebra-principles/full-plan-v1/sfett-rank-audit.svg)
 
+> [!example]- Анимация (GIF)
+>
+> ![Общий ранг охватывает все моды](80_assets/course-gif-pca-v2/early/sfett-rank-audit.gif)
+>
+> Три развёртки одного тензора имеют ранги 1, 2 и 2. После объединения их пространств столбцов достаточно двух общих направлений.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/early/sfett-rank-audit.gif)
+
+
 Ранговые ограничения в формулировке относятся к общему пространству волокон. Отдельные связанные моды могут иметь меньший ранг. Подробный пример, собственный локальный аргумент гладкости и численная проверка — [[30_mathematics/computational-algebra-principles/modules/cap-t02-sf-ett]].
 
 Источник основного алгоритма — [[60_sources/source-cap-tensor-research]], arXiv:2508.20928v1, теорема 2. Приведённая константа получена собственным доказательством для порядка SF-HOSVD → TT-SVD.

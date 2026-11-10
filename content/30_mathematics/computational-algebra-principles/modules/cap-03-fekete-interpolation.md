@@ -27,6 +27,15 @@ updated: 2026-11-03
 
 <a href="80_assets/computational-algebra-principles/gpt-image-v1/cap-03-insight.png" target="_blank" rel="noopener" data-router-ignore>Открыть рисунок в полном размере</a>
 
+> [!example]- Анимация (GIF)
+>
+> ![Объём на сетке и между её узлами](80_assets/course-gif-pca-v2/early/cap-03-insight.gif)
+>
+> При замене узла отношение определителей равно кардинальной функции. Максимальный определитель на трёх точках ограничивает её там, но между этими точками функция может вырасти.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/early/cap-03-insight.gif)
+
+
 *Поясняющая схема GPT.Image. Точные условия и доказательство приведены в тексте; геометрия не является численным опытом.*
 
 *Граница справа схематична: для строгого сеточного контрпримера используется функция из пространства V_M в разделе 5. Неравенства кардинальных функций относятся к указанным в тексте условиям максимального объёма на всём компакте.*
@@ -241,13 +250,40 @@ $$
 
 <a href="80_assets/computational-algebra-principles/plots-v1/cap-03-cardinal-lebesgue.svg" target="_blank" rel="noopener" data-router-ignore>Открыть рисунок в полном размере</a>
 
+> [!example]- Анимация (GIF)
+>
+> ![Из трёх функций складывается норма интерполяции](80_assets/course-gif-pca-v2/early/cap-03-cardinal-lebesgue.gif)
+>
+> В каждой точке складываются модули трёх кардинальных функций. Для узлов $-1,0,1$ максимум этой суммы равен $5/4$ и достигается в двух точках.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/early/cap-03-cardinal-lebesgue.gif)
+
+
 ![Малые значения на конечной сетке не исключают роста кардинальной функции между узлами](80_assets/computational-algebra-principles/plots-v1/cap-03-mesh-failure.svg)
 
 <a href="80_assets/computational-algebra-principles/plots-v1/cap-03-mesh-failure.svg" target="_blank" rel="noopener" data-router-ignore>Открыть рисунок в полном размере</a>
 
+> [!example]- Анимация (GIF)
+>
+> ![Узлы сетки не видят растущего отклонения](80_assets/course-gif-pca-v2/early/cap-03-mesh-failure.gif)
+>
+> Добавка $Mx(x^2-1)$ обнуляется в трёх точках сетки. Между ними максимум растёт, хотя проверка по сетке по-прежнему даёт единицу.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/early/cap-03-mesh-failure.gif)
+
+
 ![Узлы Чебышёва и QR-выбор уменьшают ошибку интерполяции функции Рунге по сравнению с равномерными узлами](80_assets/computational-algebra-principles/plots-v1/cap-03-node-comparison.svg)
 
 <a href="80_assets/computational-algebra-principles/plots-v1/cap-03-node-comparison.svg" target="_blank" rel="noopener" data-router-ignore>Открыть рисунок в полном размере</a>
+
+> [!example]- Анимация (GIF)
+>
+> ![Выбор узлов влияет на ошибку интерполяции](80_assets/course-gif-pca-v2/early/cap-03-node-comparison.gif)
+>
+> С ростом степени равномерные узлы дают большие отклонения у границ интервала. При степени 14 узлы Чебышёва–Лобатто и QR-выбор уменьшают максимум ошибки на проверочной сетке.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/early/cap-03-node-comparison.gif)
+
 
 Исходные данные, проверяемые величины и ограничения интерпретации — в [[70_labs/computational-algebra-principles/cap-visual-lab|лабораторной работе]]. Графики вычислены составителем; они не заменяют доказательство.
 

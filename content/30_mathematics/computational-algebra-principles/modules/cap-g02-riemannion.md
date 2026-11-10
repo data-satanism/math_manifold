@@ -224,11 +224,29 @@ $$
 
 <a href="80_assets/computational-algebra-principles/qr-riemannion-gpt-v1/cap-g02-riemannion-insight.png" target="_blank" rel="noopener" data-router-ignore>Открыть рисунок в полном размере</a>
 
+> [!example]- Анимация (GIF)
+>
+> ![От градиента к шагу на фиксированном ранге](80_assets/course-gif-pca-v2/early/cap-g02-riemannion-insight.gif)
+>
+> Касательная проекция, полярное выравнивание и повторная проекция по-разному меняют матрицу направления. После линейного шага SVD-ретракция возвращает матрицу к рангу 1.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/early/cap-g02-riemannion-insight.gif)
+
+
 Эллипсоид изображает спектральные масштабы условно, а не само многообразие весов. Рисунок показывает порядок разных операций; он не доказывает спектральную допустимость ненормированного направления.
 
 ![В точном касательном примере спектральная норма после повторной проекции превышает единицу](80_assets/computational-algebra-principles/qr-riemannion-plots-v1/cap-g02-polar-projection.svg)
 
 <a href="80_assets/computational-algebra-principles/qr-riemannion-plots-v1/cap-g02-polar-projection.svg" target="_blank" rel="noopener" data-router-ignore>Открыть рисунок в полном размере</a>
+
+> [!example]- Анимация (GIF)
+>
+> ![Повторная проекция может увеличить спектральную норму](80_assets/course-gif-pca-v2/early/cap-g02-polar-projection.gif)
+>
+> После полярного выравнивания оба сингулярных числа равны единице. Удаление нормальной клетки восстанавливает касательность, но увеличивает спектральную норму до примерно 1,146.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/early/cap-g02-polar-projection.gif)
+
 
 Рисунок должен читаться вместе с контрпримером: касательность, выравнивание спектра и допустимость в спектральном шаре — три разных свойства. Последняя проекция восстанавливает первое, но может нарушить два остальных.
 
@@ -581,11 +599,29 @@ $$
 
 <a href="80_assets/computational-algebra-principles/qr-riemannion-gpt-v1/cap-g02-loi-insight.png" target="_blank" rel="noopener" data-router-ignore>Открыть рисунок в полном размере</a>
 
+> [!example]- Анимация (GIF)
+>
+> ![Перекрёстная инициализация захватывает две группы](80_assets/course-gif-pca-v2/early/cap-g02-loi-insight.gif)
+>
+> При повороте правого направления к другому сингулярному вектору адаптер остаётся ранга 1, а его касательное пространство захватывает оба ведущих блока градиента. Компенсация сохраняет исходную матрицу слоя.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/early/cap-g02-loi-insight.gif)
+
+
 Левая часть показывает блоки внутри первых 2r сингулярных направлений для явной конструкции U₁V₂ᵀ: нормальный блок относительно неё расположен снизу слева. Это не картинка всех возможных оптимальных точек. Правая часть обозначает компенсацию $W'=W_0-X_0$, $W'+X_0=W_0$; цветные блоки условны и не являются буквальными значениями элементов матрицы.
 
 ![В конкретном градиенте перекрёстная LOI-конструкция достигает оптимальной захваченной энергии двух блоков](80_assets/computational-algebra-principles/qr-riemannion-plots-v1/cap-g02-loi-capture.svg)
 
 <a href="80_assets/computational-algebra-principles/qr-riemannion-plots-v1/cap-g02-loi-capture.svg" target="_blank" rel="noopener" data-router-ignore>Открыть рисунок в полном размере</a>
+
+> [!example]- Анимация (GIF)
+>
+> ![Перекрёстный адаптер захватывает энергию ранга 2](80_assets/course-gif-pca-v2/early/cap-g02-loi-capture.gif)
+>
+> При усилении второй сингулярной группы перекрёстная конструкция ранга 1 захватывает её вместе с первой. В показанном семействе квадрат нормы проекции совпадает с суммой квадратов двух ведущих сингулярных чисел.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/early/cap-g02-loi-capture.gif)
+
 
 На графике адаптер ранга 1 захватывает норму √34 при G=diag(5,3,1,0.4,0.2). Случайные примеры иллюстрируют результат; доказательство оптимальности находится выше и не заменяется выборкой.
 
@@ -768,6 +804,15 @@ $$
 
 <a href="80_assets/computational-algebra-principles/qr-riemannion-plots-v1/cap-qr-small-core.svg" target="_blank" rel="noopener" data-router-ignore>Открыть рисунок в полном размере</a>
 
+> [!example]- Анимация (GIF)
+>
+> ![Смена базиса выделяет малое ядро](80_assets/course-gif-pca-v2/early/cap-qr-small-core.gif)
+>
+> QR-базисы собирают всё ненулевое действие произведения в блоке $4\times4$. После удаления нулевых строк и столбцов остаются те же четыре ненулевых сингулярных числа.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/early/cap-qr-small-core.gif)
+
+
 Это собственный пример равенства спектров для факторов 7×4 и 6×4. Связь с размерностями, нулевыми направлениями и ценой операций раскрыта в [[50_bridges/cap-qr-small-core|связующей заметке]].
 
 ## 11. Что установлено о спуске и сходимости
@@ -801,6 +846,15 @@ $$
 ![Учебная матричная схема без импульса и уменьшения весов сохраняет одинаковую траекторию для эквивалентных факторов](80_assets/computational-algebra-principles/qr-riemannion-plots-v1/cap-g02-toy-invariance.svg)
 
 <a href="80_assets/computational-algebra-principles/qr-riemannion-plots-v1/cap-g02-toy-invariance.svg" target="_blank" rel="noopener" data-router-ignore>Открыть рисунок в полном размере</a>
+
+> [!example]- Анимация (GIF)
+>
+> ![Разные факторы дают одну матричную траекторию](80_assets/course-gif-pca-v2/early/cap-g02-toy-invariance.gif)
+>
+> Две факторизации одной начальной матрицы приводят к совпадающим траекториям учебной матричной схемы. Шаг принимается по условию Армихо; импульс и уменьшение весов отключены.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/early/cap-g02-toy-invariance.gif)
+
 
 Здесь показан собственный пример с нулевым импульсом, без уменьшения весов, с обратным поиском Armijo и ограничением шага относительно рангового разрыва. Это согласованная учебная схема для малой матрицы, а не запуск Algorithm 5 или репозитория авторов. Точные входы и ограничения — в [[70_labs/computational-algebra-principles/cap-qr-riemannion-lab|лабораторной работе]].
 

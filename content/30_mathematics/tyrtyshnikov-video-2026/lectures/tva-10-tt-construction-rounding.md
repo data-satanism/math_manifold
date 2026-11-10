@@ -30,6 +30,15 @@ updated: 2026-10-28
 
 <a href="80_assets/tyrtyshnikov-video-2026/gpt-image-v1/tva-10-insight.png" target="_blank" rel="noopener" data-router-ignore>Открыть поясняющую схему в полном размере</a>
 
+> [!example]- Анимация (GIF)
+>
+> ![Последовательное усечение трёх развёрток и накопление квадратов ошибок](80_assets/course-gif-pca-v2/video/tva-10-insight.gif)
+>
+> В синтетическом TT-SVD на каждом разрезе остаются две компоненты. Отброшенные остатки ортогональны, и сумма их энергий совпадает с квадратом глобальной ошибки.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/video/tva-10-insight.gif)
+
+
 ## 1. Задача и существенное ограничение памяти — 00:00–00:05:30
 
 ### Ход лектора
@@ -414,11 +423,29 @@ $$
 
 <a href="80_assets/tyrtyshnikov-video-2026/plots-v1/tva-10-input-models.svg" target="_blank" rel="noopener" data-router-ignore>Открыть вычисленную схему в полном размере</a>
 
+> [!example]- Анимация (GIF)
+>
+> ![Полная развёртка, готовые TT-ядра и запросы элементов одного тензора](80_assets/course-gif-pca-v2/video/tva-10-input-models.gif)
+>
+> Один синтетический тензор ранга один дан тремя способами. Полный массив можно развернуть для SVD, ядра можно перемножить, а в примере с ненулевым опорным элементом достаточно четырёх крестовых запросов.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/video/tva-10-input-models.gif)
+
+
 ![Вычисленная схема к лекции 10: tva-10-mechanism](80_assets/tyrtyshnikov-video-2026/plots-v1/tva-10-mechanism.svg)
 
 *Пример составителя; условия и границы указаны в [[70_labs/tyrtyshnikov-video-2026/tva-visual-lab|лабораторном журнале]].*
 
 <a href="80_assets/tyrtyshnikov-video-2026/plots-v1/tva-10-mechanism.svg" target="_blank" rel="noopener" data-router-ignore>Открыть вычисленную схему в полном размере</a>
+
+> [!example]- Анимация (GIF)
+>
+> ![Перенос множителей между ядрами при правой ортогонализации и левом усечении](80_assets/course-gif-pca-v2/video/tva-10-mechanism.gif)
+>
+> Проход справа налево ортогонализует ядра и сохраняет представленный тензор. Затем проход слева направо уменьшает внутренние ранги с трёх до двух.
+>
+> [Открыть GIF в полном размере](80_assets/course-gif-pca-v2/video/tva-10-mechanism.gif)
+
 
 ## Самопроверка
 
