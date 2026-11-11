@@ -2220,7 +2220,7 @@
     {
       "id": "math-ai-home",
       "path": "index.md",
-      "sha256": "f2abd204095c4b0da236b3e78d052bc1efd53d2a1a86abc0554358b644780d29"
+      "sha256": "9653d6c62c097e83bd195cb0be68fdd01946a9c543ad29a8ecc1151f05731d54"
     },
     {
       "id": "mathematics-integration-map",
@@ -3633,6 +3633,126 @@
       "sha256": "4464a51d5b12d0e7772fdfced4ef64190b5cf5e5a236bfd967ab12241247ca9a"
     },
     {
+      "id": "tga-01",
+      "path": "30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-01.md",
+      "sha256": "5abcda82a81dd3413afddece464c3c3caa324a5189b030ae9ec616d09511da13"
+    },
+    {
+      "id": "tga-02",
+      "path": "30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-02.md",
+      "sha256": "335716df6ff8fefc0023280cbc94ebaea9ad81ca3b35e51967c774fbe5fcf4e8"
+    },
+    {
+      "id": "tga-03",
+      "path": "30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-03.md",
+      "sha256": "3b0eb8271f7d0c3bf92fc62b2690499066faa3b72ec681967e6d22de1a0e0eea"
+    },
+    {
+      "id": "tga-04",
+      "path": "30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-04.md",
+      "sha256": "3259b6da342143160eee5a47f85174c40ccdb89e5ab3e27341ab4f3c872c0c2d"
+    },
+    {
+      "id": "tga-05",
+      "path": "30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-05.md",
+      "sha256": "26948165e751ffc5482031350a64c5981d7bfad15c165a46bbf945e7acddd842"
+    },
+    {
+      "id": "tga-06",
+      "path": "30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-06.md",
+      "sha256": "38eaf1302bdad550764e9c1fc41be3597bd89dafb6634002a81d3ed7afde7e80"
+    },
+    {
+      "id": "tga-07",
+      "path": "30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-07.md",
+      "sha256": "10ecfebd78514b7ba7aac3538f2d1dd47f7a6d7ced8a53b224a2fb6a07092cf0"
+    },
+    {
+      "id": "tga-08",
+      "path": "30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-08.md",
+      "sha256": "1a80e70b47f4c3c3f4fff8040d6092a7893648d81201abee34c5262f8205e794"
+    },
+    {
+      "id": "tga-09",
+      "path": "30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-09.md",
+      "sha256": "5d4483c463f02435aac28fe9b08ce883d2f360ddeac4b65e87e85d2a2dc02d9d"
+    },
+    {
+      "id": "tga-10",
+      "path": "30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-10.md",
+      "sha256": "64b017dabe32faad6d5e334ed33568f72306cb42e7b065d55cd07d7eee105e1d"
+    },
+    {
+      "id": "tga-11",
+      "path": "30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-11.md",
+      "sha256": "0adec50d9d6a51b425da5ceee2aaa9fba6fbc1221875993a701e31fc38f5e169"
+    },
+    {
+      "id": "tga-12",
+      "path": "30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-12.md",
+      "sha256": "143927295836cbfca9661a7731ce042dce8ed463ecd6c6673fb61b1a5400e9ec"
+    },
+    {
+      "id": "tga-13",
+      "path": "30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-13.md",
+      "sha256": "dff182e0f281b1ac3193e3ba6a74419fcd766541de534e7d96651cd353cf210d"
+    },
+    {
+      "id": "tga-14",
+      "path": "30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-14.md",
+      "sha256": "20973f5eec03b2ba95f11cbe11a5f8ea814d25a731afd9fa1b417783924ff73c"
+    },
+    {
+      "id": "tga-15",
+      "path": "30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-15.md",
+      "sha256": "9c27539ee588d81ed95ac21ad96b4eade1b87aa45c4df41a5878bcccd0dc4be6"
+    },
+    {
+      "id": "tga-16",
+      "path": "30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-16.md",
+      "sha256": "61951cf2b90ee23b4b5a65f9af8f4910ca248cf76e66d150f072aca8aa7f024f"
+    },
+    {
+      "id": "tga-17",
+      "path": "30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-17.md",
+      "sha256": "621f14f25cb291900710b57bae445a38b945d8778dfd0dc793115408316dbc8f"
+    },
+    {
+      "id": "tga-18",
+      "path": "30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-18.md",
+      "sha256": "707e0cf326e6377e6148aecf7cc3a6260e10e318345805b34403b669e3f446b7"
+    },
+    {
+      "id": "tga-map",
+      "path": "30_mathematics/tyrtyshnikov-tensors-2023-2024/tga-map.md",
+      "sha256": "9ed32de790ea40907326013e017604acc7f30d919982448212cb7e4a87304bf8"
+    },
+    {
+      "id": "tga-ml-01-groebner-cp",
+      "path": "50_bridges/tyrtyshnikov-tensors-2023-2024/tga-ml-01-groebner-cp.md",
+      "sha256": "a887f5c2b7d430221fbf4abc2822a32859c4c08c7885643fc2333ed2367eeed2"
+    },
+    {
+      "id": "tga-ml-02-moe",
+      "path": "50_bridges/tyrtyshnikov-tensors-2023-2024/tga-ml-02-moe.md",
+      "sha256": "df0a7c3bdf4e113433a1c0a358cc81b2beb23d7d77358abacd91b78952d49e03"
+    },
+    {
+      "id": "tga-ml-03-weighted-rank",
+      "path": "50_bridges/tyrtyshnikov-tensors-2023-2024/tga-ml-03-weighted-rank.md",
+      "sha256": "7bec79e2f45af18bbf79b19a678ea51f1fb3da3ef65145e121344fc36ae7e9c7"
+    },
+    {
+      "id": "tga-source-map",
+      "path": "30_mathematics/tyrtyshnikov-tensors-2023-2024/tga-source-map.md",
+      "sha256": "38553908d4557bf984e6e5b7253812e7bf97a4f252a7c9546cfe50c8d7fe367b"
+    },
+    {
+      "id": "tga-visual-lab",
+      "path": "70_labs/tyrtyshnikov-tensors-2023-2024/tga-visual-lab.md",
+      "sha256": "410e5eda4d81d0eeb5470ccbff9beda382311d91671e80694eaa645ffad43353"
+    },
+    {
       "id": "theorem-boundary-squared-zero",
       "path": "30_mathematics/topological-data-analysis/theorems/boundary-squared-zero.md",
       "sha256": "b9f83af47f711ddb30aea578b501825c19098a5e2539c1dbd8fcc1b3c6f3b077"
@@ -4166,6 +4286,11 @@
       "id": "tyrtyshnikov-source-map",
       "path": "30_mathematics/numerical-analysis/tyrtyshnikov-source-map.md",
       "sha256": "9a652d0ed9526ea1761a0b63f6b08bf9a1713c99e1df67a35b99a545f0661b07"
+    },
+    {
+      "id": "tyrtyshnikov-tensors-video-2023-2024",
+      "path": "60_sources/tyrtyshnikov-tensors-video-2023-2024.md",
+      "sha256": "17f406116a5125ede79cb65033ad012b3e3f8b49c55b6de7c9b5967dde300d7d"
     },
     {
       "id": "vandermonde-conditioning-lower-bound-theorem",
@@ -7456,6 +7581,190 @@
       "sha256": "48a4472882677bbc516d42ce61992eac60ef96e11867031fb1d3832d45e88d02"
     },
     {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-01.gif",
+      "sha256": "1270a39bfde2af1fd676c2d01d42439bb4bbdfc7b2be287e59776b651bc8d3e3"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-01.png",
+      "sha256": "1f8ebe6172e392b72637e99b16390c38c7b030886bb6a521f8e8f8319565b657"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-02.gif",
+      "sha256": "e03ca107f769f27359fc72bbb486b44e7a93fae1e7d8f9be8bf318d184db5b3f"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-02.png",
+      "sha256": "f4129e5b6c17dab7bc4ecd22f78eda09be55043d57a606455b60784ef2ea3ad5"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-03.gif",
+      "sha256": "d73510e568478e7201cc7c2d9f75bf2bbd7caf71ddccbb9af6ac08d66d51466a"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-03.png",
+      "sha256": "ae674661272b67d5c214dcf8b7cfe19d1b3e87e98c62cfe98ea6fee7422f55b8"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-04.gif",
+      "sha256": "c702790255a5a7504213a0df72ae9fdb96729387eb4a6436ab2ef0937f391f98"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-04.png",
+      "sha256": "8b32249ef8ea355f35e49374611fa1dd6df699d752384166fd7835109ae7b1fc"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-05.gif",
+      "sha256": "c4e6ad3506e45065f7db31f33697da2e4ff3af5695bedba960dc1e0f91344121"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-05.png",
+      "sha256": "e41718d3293d9672d506ad4110c291293bbff66a67e34db10b307560721a614b"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-06.gif",
+      "sha256": "f37a16d6da752704947f91fe2faac82d7a2b6b2b224035fae80bbfef66175f73"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-06.png",
+      "sha256": "e3f9d3b68d81c61ffc8ec22a7c0c0057c78bd93aef4acf103ad57de22db274d8"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-07.gif",
+      "sha256": "fa1f476bd705f7970318a09f108cac520c5a5b61e2c18ae505a73e50d4cee7e0"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-07.png",
+      "sha256": "20ded6f054308fe3db4fdc3e656e503f0fb0fa01f31946822dc4eabb9fd2fc24"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-08.gif",
+      "sha256": "a272c477ce1f1ff12dc47751193fa2fdafcc163633d18daed54a0fc71c678432"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-08.png",
+      "sha256": "c269b39df5c3df3fb632cc5e450aabcc3ac464ff09c1d117d852563b2d1fd627"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-09.gif",
+      "sha256": "09cbed7759c7108ea2472a6a0543a93fa4554db7864cf73e132978ddb6706bd3"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-09.png",
+      "sha256": "72c29d4a403f80237c0069193ff416b07e2b022d2a5b80fa1ade002fe6dc3860"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-10-als.gif",
+      "sha256": "28e531e40caaf096476a5b3fa695f8cb88e9d0d5b9acff595e653260d088a8ff"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-10-als.png",
+      "sha256": "ae8e74c6a78eb8e48171a540a479f90daf5a35c36d1af646491d87dbc0400b8c"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-10.gif",
+      "sha256": "0630d0e4cb3bcefaa53d52cc469b4b52f2b72a4a54a07936d7359928cea2291f"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-10.png",
+      "sha256": "700e9fee79adb94564a8d20878974399d420ad6e8cd16ad1a68f4d0fa9c9bcdd"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-11.gif",
+      "sha256": "a0874e27931838b2efc09dc25151bdea9dbbe228b8ca58931e117d7b6ae9ba8f"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-11.png",
+      "sha256": "f34962d91bf535d9b219515005281cd552afc9457cd4153701e1d7a9daa5b0ad"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-12.gif",
+      "sha256": "85a0b79f606a8cffcc7780d782f44de737373d2d2aaa8e4a4f784d9d2427e819"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-12.png",
+      "sha256": "e6e6050ca66e4b22f111e1330b742bd1fcb90a98fe864201f8d6fafc871ba575"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-13.gif",
+      "sha256": "59760c4c0c28e7725b1d847fa379cc23bde57af75e173660374092f6eb6a590e"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-13.png",
+      "sha256": "b2c15bd4dc9dfc41250a0d5b05e7a58dfcf887b8df2e40cbd0ba283249f8e273"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-14.gif",
+      "sha256": "daf2f2dd092100d814729c475ae8272c85d1f97c632044d9dcc6d7b1d5af36e2"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-14.png",
+      "sha256": "4249b4e28d66599129626f9c93d65d0ad1c10c46541ec3a77301496d8d8efa26"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-15.gif",
+      "sha256": "64aba707938359f7ddcbb1d78f2089a93eb4004dc12ecf6114c1c43e2ebaae32"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-15.png",
+      "sha256": "5725e7b762aa6cb9b9011683983de480a3df1dee7f8503e4208719b9ec287aa4"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-16-triangle.gif",
+      "sha256": "b55e9048a1e70f337bfe2c975f01b3ca0cce831d25186417afd592d22393fc85"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-16-triangle.png",
+      "sha256": "917dd53877cfd0edea5fbc280ed6a28608fe1860a3d2d04f3e04d625a858d4d1"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-16.gif",
+      "sha256": "e165581c9af500de923610a58e10007d8ccb5ad5cf28d1d3feb87dbc5894e4bb"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-16.png",
+      "sha256": "1c6e54961cf6087376361f9ecbb8e0e424722f51edf5da50ba9d268b8c0efc3c"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-17.gif",
+      "sha256": "7a714fc039cfd965a41e9351264521ef885c8e758f685d80cf4c7677c68c06d0"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-17.png",
+      "sha256": "77791baaecc2dcc170638854b1b552483f65a29cc5cd6fab71ee9136b2e7ca04"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-18.gif",
+      "sha256": "1e056b838d8ee54808eadf95accb58e5e8f260a50f748f7b7caf51979d72a9b9"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-18.png",
+      "sha256": "3b3fd8ecf3f258c5b88aa1c895663f7c48ef0955ef1f336a6b477bcf9e1b8d3f"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-ml-01.gif",
+      "sha256": "3d30cfee1767f80d0d36a6353529be92405c75b871cd9564d0f52b7c2946ce84"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-ml-01.png",
+      "sha256": "8f3dd944138711195269e06ec8d84e0545e07a4d4dd7b38686cd85aabfa7ce82"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-ml-02.gif",
+      "sha256": "ae0148987659f3fe212d51d1b4e04b031b4fd6bba049bd26a4ac2014a63e3960"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-ml-02.png",
+      "sha256": "007c8272ae6a46d760233a6ff489861db58a5a3842de3c7b500bdfe14d39d334"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-ml-03.gif",
+      "sha256": "d690ad7ffc3ddb85d85d81ded54b261ed4d906af5ed2c5c3a0c696a7ab6e5143"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-ml-03.png",
+      "sha256": "7ef8c8c3d1c5957f175ba1a18894b95b4c345e7f0650a64d1eb64ab612ad7c94"
+    },
+    {
       "path": "80_assets/tyrtyshnikov-video-2026/gpt-image-v1/tva-01-insight.png",
       "sha256": "5c65694f8966a8335373094d07f5c3865507b3c6c175494f3a03b2ac200fd0cb"
     },
@@ -7608,5 +7917,5 @@
       "sha256": "8be458a495badd5423655bf130597f92ac58a33019efb59e8532b54d06449838"
     }
   ],
-  "asset_count": 832
+  "asset_count": 878
 }

@@ -38,6 +38,8 @@ tags: [map, math-for-ai]
 
 #### Вычисления и высокоразмерные модели
 
+- [Алгебра и геометрия тензоров. Спецкурс Е. Е. Тыртышникова](30_mathematics/tyrtyshnikov-tensors-2023-2024/tga-map.md).
+
 - [[30_mathematics/numerical-analysis/numerical-linear-algebra-map|Численный анализ и численная линейная алгебра]].
 - [[10_maps/optimization|Оптимизация для машинного обучения]].
 - [[30_mathematics/random-matrix-theory/random-matrix-theory-map|Теория случайных матриц для машинного обучения]].
