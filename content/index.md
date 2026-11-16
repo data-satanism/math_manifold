@@ -38,6 +38,8 @@ tags: [map, math-for-ai]
 
 #### Вычисления и высокоразмерные модели
 
+- [Популяционная оптимизация на римановых многообразиях. Разбор монографии Фонга и Тино](30_mathematics/population-optimization-manifolds/pom-map).
+
 - [Многомерный анализ на матричных многообразиях. Разбор монографии Трендафилова и Галло](30_mathematics/matrix-manifolds-manopt/mda-map).
 
 - [Алгебра и геометрия тензоров. Спецкурс Е. Е. Тыртышникова](30_mathematics/tyrtyshnikov-tensors-2023-2024/tga-map.md).

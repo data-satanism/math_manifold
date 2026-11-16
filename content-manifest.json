@@ -2220,7 +2220,7 @@
     {
       "id": "math-ai-home",
       "path": "index.md",
-      "sha256": "006a4e8982792594f118f9837297d9eca0c4b5c37f8bec562aa2b08c1696b118"
+      "sha256": "74c240819a80c635f0cc7efd161c80cb45ec7befb8c00e08a819925072eb3930"
     },
     {
       "id": "mathematics-integration-map",
@@ -2818,6 +2818,71 @@
       "sha256": "a6571e31df5eb634af23c17b165e73de1cc51fed6e694ae15c5fcf27310a1aa3"
     },
     {
+      "id": "pom-01-introduction",
+      "path": "30_mathematics/population-optimization-manifolds/chapters/pom-01-introduction.md",
+      "sha256": "4e22e89223bca25f00eafc913c0d02723164bbb01ab0a954c923340e14c48161"
+    },
+    {
+      "id": "pom-02-riemannian-geometry",
+      "path": "30_mathematics/population-optimization-manifolds/chapters/pom-02-riemannian-geometry.md",
+      "sha256": "a2a07ce1a26f3c712403404605bea2939cf0544e5e41c2ce484bdfc325b1b149"
+    },
+    {
+      "id": "pom-03-information-geometry",
+      "path": "30_mathematics/population-optimization-manifolds/chapters/pom-03-information-geometry.md",
+      "sha256": "ec069d90aa6e0ba12652975ce4ca3b07e6a841fc2910769aa31487dd4e8e893c"
+    },
+    {
+      "id": "pom-04-probability-densities",
+      "path": "30_mathematics/population-optimization-manifolds/chapters/pom-04-probability-densities.md",
+      "sha256": "b6f57c95dec6ca17e35c8f13c7c6c93d6f643064fd179c9c33dfa1fc4dc7f4ef"
+    },
+    {
+      "id": "pom-05-inherited-densities",
+      "path": "30_mathematics/population-optimization-manifolds/chapters/pom-05-inherited-densities.md",
+      "sha256": "984d7bb1f0173d14a0d95e19e033ae2c069457d4f030339cec6f7046e88a205f"
+    },
+    {
+      "id": "pom-06-mixture-densities",
+      "path": "30_mathematics/population-optimization-manifolds/chapters/pom-06-mixture-densities.md",
+      "sha256": "3edfe69b5b5b011407ae86ed642f9868d360f735706531a5e23ed55b979154c6"
+    },
+    {
+      "id": "pom-07-geometry-in-optimization",
+      "path": "30_mathematics/population-optimization-manifolds/chapters/pom-07-geometry-in-optimization.md",
+      "sha256": "9875f2501b7973b6003833f48e739962d5d48de5f2c5fc9e080f3dee14c7f98b"
+    },
+    {
+      "id": "pom-08-rsdfo",
+      "path": "30_mathematics/population-optimization-manifolds/chapters/pom-08-rsdfo.md",
+      "sha256": "aac22b69cb7f9308c474cb5a28d336afe1db703fa0ce9b331a73474f74276c43"
+    },
+    {
+      "id": "pom-09-experiments",
+      "path": "30_mathematics/population-optimization-manifolds/chapters/pom-09-experiments.md",
+      "sha256": "703aef458d2a0bfef572f503b7613c743162e3edb819e643f23af542f24fb873"
+    },
+    {
+      "id": "pom-10-conclusion",
+      "path": "30_mathematics/population-optimization-manifolds/chapters/pom-10-conclusion.md",
+      "sha256": "a46ec6848435b97db7b478d6d7ca6358e6f042768c115eca2cb25f417fd7f0bc"
+    },
+    {
+      "id": "pom-geometry-lab",
+      "path": "70_labs/population-optimization-manifolds/pom-geometry-lab.md",
+      "sha256": "ef7ab18f5fdef746066fe6305864bc61344f5386b85169c9a42c9f212b81cace"
+    },
+    {
+      "id": "pom-map",
+      "path": "30_mathematics/population-optimization-manifolds/pom-map.md",
+      "sha256": "192ca55e0e68bbddd603f08439b87aca13bd79fe819bb9f1bc762378be15e9f6"
+    },
+    {
+      "id": "pom-source-map",
+      "path": "30_mathematics/population-optimization-manifolds/pom-source-map.md",
+      "sha256": "3e56588c2310d845d33a636427d80e1e4c0528bb35573397ccc58ceb6c8eab46"
+    },
+    {
       "id": "positive-definite-kernel",
       "path": "20_concepts/positive-definite-kernel.md",
       "sha256": "ca19bfb0db647a108a592a78e245d67616084f0125a96ebec1c3e6261197a23e"
@@ -3271,6 +3336,11 @@
       "id": "source-fixed-rank-geometry",
       "path": "60_sources/fixed-rank-geometry-primary-sources.md",
       "sha256": "d7de28fd54004210f0065d6a20bb35294474a1e4c5b5b32162bc2650783ef4a7"
+    },
+    {
+      "id": "source-fong-tino-population-optimization",
+      "path": "60_sources/source-fong-tino-population-optimization.md",
+      "sha256": "0d556d0e0fc0cbf2752e3b0243222e37830f47cfc13bfe21cd4d3b9e469afc77"
     },
     {
       "id": "source-gallier-riemannian-manifolds-2011",
@@ -7288,6 +7358,114 @@
       "sha256": "b8275fbbbbb40a47563e85b3ba534f68ba325d5b9519dfe838accc233eabb4e5"
     },
     {
+      "path": "80_assets/population-optimization-manifolds/pca-geometry-v1/pom-01-objective-mean.png",
+      "sha256": "2edf8245206b03d4663ef9b578f9653965e91ebb307ca38dc7cb4817d1311b51"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/pca-geometry-v1/pom-02-holonomy.gif",
+      "sha256": "289b6fbe77000cebc70d8c9da6a91570398d58fa240a15460427bc65ce28c02d"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/pca-geometry-v1/pom-02-holonomy.png",
+      "sha256": "46dc848110cecf75f4c310644dccb9dcef180dd68992f85c4cac41826cc52ab4"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/pca-geometry-v1/pom-02-normal-chart.png",
+      "sha256": "120157344facb7e1952177aa125dc06e4e2fda6ecc3024275c669a61f7e61928"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/pca-geometry-v1/pom-03-dual-paths.gif",
+      "sha256": "0dcf1c1f4fee7100620ba56031479dcaf4163d0ad7b571efe5dfb39c6507c5c9"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/pca-geometry-v1/pom-03-dual-paths.png",
+      "sha256": "1b27499361fa553d890fa5c30909fa37d0f7fe900dce8710e14f91280e2e7fcf"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/pca-geometry-v1/pom-04-area.png",
+      "sha256": "735b3f11c55e050228520ee748e252516327607c7fe80f4b1d6f2d485b6858aa"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/pca-geometry-v1/pom-05-pushforward.gif",
+      "sha256": "64e51828abdc9158ca051082c0ba5105f8037352add1f7c61b4453ac998ccc6c"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/pca-geometry-v1/pom-05-pushforward.png",
+      "sha256": "e2beaedc88db5b1cb1669954f00d713d9883d7561633d922017bb2155df3ebc4"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/pca-geometry-v1/pom-06-overlap.png",
+      "sha256": "ec276a7bbf8da786820557b3795d6884371ca246f0dae33b1dfb1d3c569e3500"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/pca-geometry-v1/pom-07-covariance.gif",
+      "sha256": "d5903cb6ee38e05e58e75062827a1595fe6a9c44e445090cf2219fe5afd8f778"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/pca-geometry-v1/pom-07-covariance.png",
+      "sha256": "fa0500f7e0bb5d4eddfc52afbd25eb03d0b78c05d19e2d7f4783503ad7166963"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/pca-geometry-v1/pom-07-rpso.gif",
+      "sha256": "ddd3d161ca70ca14058a1fad2836d1095b6529dc0337f4d0ad1752018904e2ef"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/pca-geometry-v1/pom-07-rpso.png",
+      "sha256": "10a8568bf98b44f1069e5d3de75cfbdccf61986d8d7153a9abad6abd6eadf6c1"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/pca-geometry-v1/pom-08-frontier.gif",
+      "sha256": "179bf22c39992d2445f2927ef65acf1e10e947d46c85c91c901dd194b845aead"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/pca-geometry-v1/pom-08-frontier.png",
+      "sha256": "7fac0a8a513eb9c20ab97d794ea504eba4a8dbbf29f33d2f1dcf0b803c89d10e"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/pca-geometry-v1/pom-08-local.gif",
+      "sha256": "72db03d064552f3c58978df32d949a1ebc1c35c37577940e17bdadfcdd24c623"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/pca-geometry-v1/pom-08-local.png",
+      "sha256": "afb70c950c6ed940a797950c630944da4e85912493a0ecfa1f751ba73106e51d"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/pca-geometry-v1/pom-08-monotonicity.png",
+      "sha256": "7e9ff18ff6b284f07e960a0a258c91010f358a1970caa1f29d575aa5f2dfe83f"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/pca-geometry-v1/pom-08-population.gif",
+      "sha256": "e3a3e3360d9bef033f4e4a45c846f9f54279014e49870e57ec271987f5a366c2"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/pca-geometry-v1/pom-08-population.png",
+      "sha256": "6265e7a2ba88e7354825026d67e3a39d0763e7da180bc3c43da657cfba1e3db5"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/pca-geometry-v1/pom-08-simplex.gif",
+      "sha256": "9667629be98963c348db35c2b417ac2ff1f9987c32c869e964f35830f6a5d547"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/pca-geometry-v1/pom-08-simplex.png",
+      "sha256": "a28d9541d4f7a6faa34190965d59609ac624ae0d8012780505ed31a8cf8c2beb"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/pca-geometry-v1/pom-09-grassmann.gif",
+      "sha256": "511178afb4cafb013adcc4b18aa7ba9326f85e92f61fc3428f8155755622efe6"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/pca-geometry-v1/pom-09-grassmann.png",
+      "sha256": "b292bcad76b42cbb1ef054d1056a230154d2071a5e72ee8836cb2fb7bed7dc1d"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/pca-geometry-v1/pom-09-ladder.png",
+      "sha256": "7f1c568f472a7a4902e418adf77b46dc3f86f06de5c7d3280f4c4ec43911023f"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/pca-geometry-v1/pom-10-frechet.png",
+      "sha256": "2016df45b535a71e920bdf4d10b25eaab1ce658ade6394ff10c2b3a84d327d19"
+    },
+    {
       "path": "80_assets/probability/gpt-image-v1/bernstein-inequality-insight-v1.webp",
       "sha256": "e9c59d918f1b67bfc1aa5350056e5d4ae723585ce2743a33570612f15e7baa95"
     },
@@ -8128,5 +8306,5 @@
       "sha256": "8be458a495badd5423655bf130597f92ac58a33019efb59e8532b54d06449838"
     }
   ],
-  "asset_count": 912
+  "asset_count": 939
 }
