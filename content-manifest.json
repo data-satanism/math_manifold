@@ -2220,7 +2220,7 @@
     {
       "id": "math-ai-home",
       "path": "index.md",
-      "sha256": "9653d6c62c097e83bd195cb0be68fdd01946a9c543ad29a8ecc1151f05731d54"
+      "sha256": "006a4e8982792594f118f9837297d9eca0c4b5c37f8bec562aa2b08c1696b118"
     },
     {
       "id": "mathematics-integration-map",
@@ -2231,6 +2231,76 @@
       "id": "matrix-deviation-inequality",
       "path": "30_mathematics/probability/theorems/matrix-deviation-inequality.md",
       "sha256": "727d42f2950e53f82f9885d63f3c4fa82e93464801f674f378f0eb0313cb55f3"
+    },
+    {
+      "id": "mda-01-introduction",
+      "path": "30_mathematics/matrix-manifolds-manopt/chapters/mda-01-introduction.md",
+      "sha256": "8b9bd95b551bc12516fe512c7f71698e1d811372f9402eaa3708dd68c87a7772"
+    },
+    {
+      "id": "mda-02-matrix-calculus",
+      "path": "30_mathematics/matrix-manifolds-manopt/chapters/mda-02-matrix-calculus.md",
+      "sha256": "037583b4da3228dd9dd8fb8ccd0f4a378dfda9637b95edef4b519e37cd7315e2"
+    },
+    {
+      "id": "mda-03-matrix-manifolds",
+      "path": "30_mathematics/matrix-manifolds-manopt/chapters/mda-03-matrix-manifolds.md",
+      "sha256": "e3bf29431ea76233ba2666c59ff91f9c3bdaf1a2d2dd4873b9eea3cbfd769d73"
+    },
+    {
+      "id": "mda-04-pca",
+      "path": "30_mathematics/matrix-manifolds-manopt/chapters/mda-04-pca.md",
+      "sha256": "5a6d58a017a601a5b73d5d27ee40651f0aa13693688e5814266646dbd2fb4cac"
+    },
+    {
+      "id": "mda-05-factor-analysis",
+      "path": "30_mathematics/matrix-manifolds-manopt/chapters/mda-05-factor-analysis.md",
+      "sha256": "22083b82cb1c462320dba8810c073f89b6a865b80a694a4adb54d9248d99e013"
+    },
+    {
+      "id": "mda-06-procrustes",
+      "path": "30_mathematics/matrix-manifolds-manopt/chapters/mda-06-procrustes.md",
+      "sha256": "6176e3bdf6e743eb1e5a69d8b444daf04c05b17f835ebba089f3a6bdb37ab734"
+    },
+    {
+      "id": "mda-07-lda",
+      "path": "30_mathematics/matrix-manifolds-manopt/chapters/mda-07-lda.md",
+      "sha256": "691b260596f2573551f05f891af69a1439a017f4567a347fa7e7c848d33c726e"
+    },
+    {
+      "id": "mda-08-cca",
+      "path": "30_mathematics/matrix-manifolds-manopt/chapters/mda-08-cca.md",
+      "sha256": "26f8ddf0e7c7e8c95518e17477f5ac6d971b8cbdcda5a34f15d3909d67e1909f"
+    },
+    {
+      "id": "mda-09-cpc",
+      "path": "30_mathematics/matrix-manifolds-manopt/chapters/mda-09-cpc.md",
+      "sha256": "457b289c5d13e1600c3f03b43609269da5721dae92f364e87bbf032bc9a6c27f"
+    },
+    {
+      "id": "mda-10-mds",
+      "path": "30_mathematics/matrix-manifolds-manopt/chapters/mda-10-mds.md",
+      "sha256": "04c5c88b7253f16aeb8bf2d5d2eea981938257ad214434e7b5c323a68a075aa5"
+    },
+    {
+      "id": "mda-11-simplexes",
+      "path": "30_mathematics/matrix-manifolds-manopt/chapters/mda-11-simplexes.md",
+      "sha256": "a4a9e4320133a673aa3ef2b866777c505ca68b84c7b22e734708825b036766cd"
+    },
+    {
+      "id": "mda-geometry-lab",
+      "path": "70_labs/matrix-manifolds-manopt/mda-geometry-lab.md",
+      "sha256": "2403961e57dae24d3ba27dcc41074c7ee902cddc95c8471c2a0a205af7594124"
+    },
+    {
+      "id": "mda-map",
+      "path": "30_mathematics/matrix-manifolds-manopt/mda-map.md",
+      "sha256": "f80c1b5d126d090728bd55e74099d1b50a4f54c991ab626aa21a9093b7ace0ba"
+    },
+    {
+      "id": "mda-source-map",
+      "path": "30_mathematics/matrix-manifolds-manopt/mda-source-map.md",
+      "sha256": "65c9e55b146e8167ca088c9be5700b9fde5f18dfbe236416d2a2d75715cf3e48"
     },
     {
       "id": "method-conditional-exponential-rkhs-model",
@@ -3306,6 +3376,11 @@
       "id": "source-mazumder-hastie-tibshirani-soft-impute",
       "path": "60_sources/mazumder-hastie-tibshirani-soft-impute.md",
       "sha256": "7e3c1a821f403fcb4d9cdaaec2bb1effe41990338c234ebd355e651b63f30692"
+    },
+    {
+      "id": "source-mda-manopt-2021",
+      "path": "60_sources/source-mda-manopt-2021.md",
+      "sha256": "b8a9cb1738b5b666678a64f53717877461423f98c89dcefcb80fe6f6317794e9"
     },
     {
       "id": "source-munkres-topology",
@@ -6177,6 +6252,142 @@
       "sha256": "82ab57cb4a8917594f5ebadf919d34ca63619267a1d384b0f56014219ed50b53"
     },
     {
+      "path": "80_assets/matrix-manifolds-manopt/pca-geometry-v1/mda-01-procrustes.png",
+      "sha256": "ee34070be0969554d71dd02d5948220d22aac6a1d6b9bd06ef51a5c969cf5bf5"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/pca-geometry-v1/mda-02-differential.png",
+      "sha256": "ab690bb116ccd8bc9d2a0be820459b22d1fc46a6439c9c18a42643bbadc53f22"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/pca-geometry-v1/mda-03-cayley.gif",
+      "sha256": "4225c20eeb0323995e3f63bbd188d45ad77ea32e5e3de6ee627184e902846dd5"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/pca-geometry-v1/mda-03-cayley.png",
+      "sha256": "0dd7943d1d02e4413675dc346e83de7d31f21a74a79d651e4504baccfa6672ca"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/pca-geometry-v1/mda-03-ellipsoid.png",
+      "sha256": "b56a5185668ad0837c2d0af807ce371d3dc42c303044bbb5ad5d92a9a0e30943"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/pca-geometry-v1/mda-03-flow.gif",
+      "sha256": "917e95c04656dac2c2274d330026d19afedfcdbf8894b60f2b555d31b5a992da"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/pca-geometry-v1/mda-03-flow.png",
+      "sha256": "ed982b95f2126d10190732b51b8f4e959a44d5542927b06700a5b5fda0bd3b43"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/pca-geometry-v1/mda-03-geodesic.gif",
+      "sha256": "431c2a43399885a724efc130b112f14a5d5e9ee0c7098b4b1e4b6094769c0cac"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/pca-geometry-v1/mda-03-geodesic.png",
+      "sha256": "5c32ce3203425a1b891f392f03436e41359d1e84bde9ba00d565328a70ec926a"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/pca-geometry-v1/mda-03-grassmann.gif",
+      "sha256": "64e1462a543d3b1e8fbcc8e10e4831418bc909ba179af9bcacf34020e051c08c"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/pca-geometry-v1/mda-03-grassmann.png",
+      "sha256": "274aa7e7170a8af725c1bf260367d3b56a3653d87c9c8164398c044248fcb076"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/pca-geometry-v1/mda-03-oblique.gif",
+      "sha256": "3407a704f40d7e2cd4ff0b4261ce154f790a958db04b4304c8b13a619a036dce"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/pca-geometry-v1/mda-03-oblique.png",
+      "sha256": "8ced9d7d866eb2f5be04ff67c4793bb0cc669c837408a52b7858b1f6589eb741"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/pca-geometry-v1/mda-03-stiefel.png",
+      "sha256": "54fbbb38864c1b8ca407d7d00ea7e8ce2eae36f881b3eb854bdca2bf1fc953e4"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/pca-geometry-v1/mda-04-pca-rotation.gif",
+      "sha256": "f9b45c6f122110c08fe00745f2010207ceaffe39fa02d6e81263fc2fe9ef1b48"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/pca-geometry-v1/mda-04-pca-rotation.png",
+      "sha256": "b2b4b66d8cd9d5662c58388b349e2d4315581b55eb29236873697e5a152f3b61"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/pca-geometry-v1/mda-04-sparse-pca.gif",
+      "sha256": "3615abc38956eb0351fc2cff3d7dc7cdb80ad59206c57066682b5ff67fe7b037"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/pca-geometry-v1/mda-04-sparse-pca.png",
+      "sha256": "2a140a0cfc5c596550cbf36483070d03e3b082bfd26bdb2ba7898d4703f8aa39"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/pca-geometry-v1/mda-05-heywood.gif",
+      "sha256": "45f29bf6f6587ee3160263557ddbe31df8bb08e97c84f2739f1521940f410fe7"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/pca-geometry-v1/mda-05-heywood.png",
+      "sha256": "b03b6a63046230a8945171f08c116aa226766d0be1c2f15e6f1095f819e34ee8"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/pca-geometry-v1/mda-06-procrustes.gif",
+      "sha256": "1c5c54c1cd8e8f4003006a13f54a05fd60b74dd35a43d3d15d08448bdcb20d29"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/pca-geometry-v1/mda-06-procrustes.png",
+      "sha256": "700d4172f4f64ebf1db8113df266735f5a6e14fea49fa740cbb3a504189e3d37"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/pca-geometry-v1/mda-07-lda.png",
+      "sha256": "3dea8b3b1ebaa77bc276728383ce2d205096f361519d681e50db198e2048b352"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/pca-geometry-v1/mda-08-cca.gif",
+      "sha256": "a4ae6534d8114d1d1ea28edc35dd1956f7d7846b05ec3c571f2ae385a876d99b"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/pca-geometry-v1/mda-08-cca.png",
+      "sha256": "15bc31aed7fead0a2c5cf7a1c86b5bef58775c0231cce7069fa1515e82a6362d"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/pca-geometry-v1/mda-09-cpc.gif",
+      "sha256": "d23d850292f2c0e0cb3701a1bf9764929face82a28d2bf0fdd31bfb295a8b152"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/pca-geometry-v1/mda-09-cpc.png",
+      "sha256": "db8acc88dc753e6984bb2ff7b1873f0e369d979dc7cbf917b609bbfab8211f58"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/pca-geometry-v1/mda-10-hosvd.png",
+      "sha256": "57ff86dd6a406a90b4e92e2725339806bcc5e6a77e26fa7bba6c4400b8a6597f"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/pca-geometry-v1/mda-10-mds-stress.gif",
+      "sha256": "f2208995a5a2388660c6bb94b9a98dd402a8f6d623748e91a0a1f11adf2a8bd7"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/pca-geometry-v1/mda-10-mds-stress.png",
+      "sha256": "71fb4ad0e35d95532cad9963f4efee696e54ad0dd435389d3732771c4252ad56"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/pca-geometry-v1/mda-11-archetypes.gif",
+      "sha256": "24f8ed82ba0740c990077627b239bdd6d13d0eaac79d9f80c7abd3d71f017a3e"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/pca-geometry-v1/mda-11-archetypes.png",
+      "sha256": "4fd336b0752b45b841bf68bdc22970fdfcb01cc449ba530d9542d6a42c94a183"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/pca-geometry-v1/mda-11-simplex-metrics.gif",
+      "sha256": "76fb0bac3f061232c7887ecf228b03d561636daf6426daeb72ee5f93ca8f7f75"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/pca-geometry-v1/mda-11-simplex-metrics.png",
+      "sha256": "0268e6678132bd4df1be31c408710cfe4fc3e0f9607fd57c4ad6c2f5c322ffa8"
+    },
+    {
       "path": "80_assets/next-release/webp-v1/bridge-complexity-information-generalization-v1.webp",
       "sha256": "84313efff8d3198cabb8a7c43bd87147bdf35c1f252c3607143eaae57a7176d4"
     },
@@ -7917,5 +8128,5 @@
       "sha256": "8be458a495badd5423655bf130597f92ac58a33019efb59e8532b54d06449838"
     }
   ],
-  "asset_count": 878
+  "asset_count": 912
 }

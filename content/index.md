@@ -38,6 +38,8 @@ tags: [map, math-for-ai]
 
 #### Вычисления и высокоразмерные модели
 
+- [Многомерный анализ на матричных многообразиях. Разбор монографии Трендафилова и Галло](30_mathematics/matrix-manifolds-manopt/mda-map).
+
 - [Алгебра и геометрия тензоров. Спецкурс Е. Е. Тыртышникова](30_mathematics/tyrtyshnikov-tensors-2023-2024/tga-map.md).
 
 - [[30_mathematics/numerical-analysis/numerical-linear-algebra-map|Численный анализ и численная линейная алгебра]].
