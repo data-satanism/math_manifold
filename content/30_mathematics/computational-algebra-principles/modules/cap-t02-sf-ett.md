@@ -45,9 +45,13 @@ $$
 
 Возьмём $X=e_1\otimes I_2$ и свяжем все три моды. Отдельные ранги равны $(1,2,2)$, общий ранг равен 2, TT-ранги равны $(1,2)$. Такое представление существует, но тензор не принадлежит Tucker-многообразию точных рангов $(2,2,2)$.
 
-![Общий ранг 2 при индивидуальных рангах 1,2,2](80_assets/computational-algebra-principles/full-plan-v1/sfett-rank-audit.svg)
+![Общий ранг 2 при индивидуальных рангах 1,2,2](80_assets/computational-algebra-principles/gpt-image-static-v1/sfett-rank-audit.png)
 
-[Открыть рисунок в полном размере](80_assets/computational-algebra-principles/full-plan-v1/sfett-rank-audit.svg)
+В первом примере три пространства порождаются одними и теми же двумя направлениями. Для трёх разных одномерных направлений общая оболочка имеет размерность три.
+
+[Исходный рисунок](80_assets/computational-algebra-principles/full-plan-v1/sfett-rank-audit.svg)
+
+[Открыть рисунок в полном размере](80_assets/computational-algebra-principles/gpt-image-static-v1/sfett-rank-audit.png)
 
 > [!example]- Анимация (GIF)
 >
@@ -82,9 +86,13 @@ $$
 
 где $s_j=s$ для $j\in S$. Первая разность — размерность TT-ядра после удаления внутренних замен базиса. Остальные слагаемые — размерности внешних подпространств. Это самостоятельная локальная реконструкция доказательства. Базовая гладкость TT-страты здесь импортирована, а переход к общему подпространству раскрыт полностью.
 
-![Ранг якобиана и разложение размерности SF-ETT](80_assets/computational-algebra-principles/full-plan-v1/sfett-tangent-dimension.svg)
+![Ранг якобиана и разложение размерности SF-ETT](80_assets/computational-algebra-principles/gpt-image-static-v1/sfett-tangent-dimension.png)
 
-[Открыть рисунок в полном размере](80_assets/computational-algebra-principles/full-plan-v1/sfett-tangent-dimension.svg)
+Внутри ядра одно из шести направлений отвечает за взаимно обратное масштабирование и оставляет тензор тем же. Два независимых наклона общего базиса дают суммарную размерность семь.
+
+[Исходный рисунок](80_assets/computational-algebra-principles/full-plan-v1/sfett-tangent-dimension.svg)
+
+[Открыть рисунок в полном размере](80_assets/computational-algebra-principles/gpt-image-static-v1/sfett-tangent-dimension.png)
 
 > [!example]- Анимация (GIF)
 >

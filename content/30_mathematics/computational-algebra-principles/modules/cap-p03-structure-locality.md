@@ -37,9 +37,13 @@ $$
 
 Для $X_{ijkl}=\delta_{ik}\delta_{jl}$ порядок $(i,j,k,l)$ даёт средний ранг $n^2$. Порядок $(i,k,j,l)$ даёт средний ранг 1. В первом случае разрез пересекает две независимые связи, во втором каждая из них остаётся внутри своей группы.
 
-![Ранги разрезов меняются при перестановке мод](80_assets/computational-algebra-principles/full-plan-v1/tt-order.svg)
+![Ранги разрезов меняются при перестановке мод](80_assets/computational-algebra-principles/gpt-image-static-v1/tensor-cut-order.png)
 
-[Открыть полный рисунок](80_assets/computational-algebra-principles/full-plan-v1/tt-order.svg)
+Если обе связи равенства пересекают разрез, развёртка имеет ранг 16. После перестановки мод обе связи остаются внутри групп, а развёртка становится внешним произведением ранга один.
+
+[Исходный рисунок](80_assets/computational-algebra-principles/full-plan-v1/tt-order.svg)
+
+[Открыть полный рисунок](80_assets/computational-algebra-principles/gpt-image-static-v1/tensor-cut-order.png)
 
 > [!example]- Анимация (GIF)
 >

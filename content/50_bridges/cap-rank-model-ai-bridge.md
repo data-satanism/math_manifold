@@ -3,7 +3,7 @@ id: "cap-rank-model-ai-bridge"
 title: "Ранги матриц и выбор метрики в моделях ИИ"
 aliases: []
 type: "application"
-status: "canonical"
+status: canonical
 publish: true
 areas: ["numerical-linear-algebra"]
 concepts: ["low-rank-approximation","sign-rank","nonnegative-rank"]
@@ -35,9 +35,13 @@ M=\begin{pmatrix}1&-0{,}02\\1&1\end{pmatrix}.
 $$
 Замена одной клетки на $+0{,}02$ даёт ошибку Фробениуса $0{,}04$ и меняет одну метку. Замена всей матрицы на $2M$ даёт ошибку $\sqrt{3{,}0004}$ и сохраняет все метки. Обе замены имеют обычный ранг 2. Пример изолирует роль функции потерь, поэтому не утверждает уменьшение ранга.
 
-![Малая численная поправка меняет знак, а масштабирование сохраняет решения](80_assets/computational-algebra-principles/rank-spectrum-v1/classification-margin.svg)
+![Малая численная поправка меняет знак, а масштабирование сохраняет решения](80_assets/computational-algebra-principles/gpt-image-static-v1/classification-margin.png)
 
-[Открыть рисунок в полном размере](80_assets/computational-algebra-principles/rank-spectrum-v1/classification-margin.svg)
+Изменение оценки с −0,02 до 0,02 пересекает порог. Удвоение всей матрицы даёт большую ошибку по Фробениусу и сохраняет все знаки.
+
+[Исходный рисунок](80_assets/computational-algebra-principles/rank-spectrum-v1/classification-margin.svg)
+
+[Открыть рисунок в полном размере](80_assets/computational-algebra-principles/gpt-image-static-v1/classification-margin.png)
 
 > [!example]- Анимация (GIF)
 >

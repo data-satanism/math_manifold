@@ -417,11 +417,15 @@ $$
 
 ## Вычисленные иллюстрации
 
-![Вычисленная схема к лекции 10: tva-10-input-models](80_assets/tyrtyshnikov-video-2026/plots-v1/tva-10-input-models.svg)
+![Три способа доступа к тензору](80_assets/tyrtyshnikov-video-2026/gpt-image-static-v1/tva-10-input-models.png)
+
+Все три панели используют один тензор ранга один. Из четырёх указанных измерений восстанавливают $X_{ijk}=X_{i00}X_{0j0}X_{00k}/X_{000}^2$, когда опора $X_{000}$ ненулевая.
+
+[Исходный рисунок](80_assets/tyrtyshnikov-video-2026/plots-v1/tva-10-input-models.svg)
 
 *Пример составителя; условия и границы указаны в [[70_labs/tyrtyshnikov-video-2026/tva-visual-lab|лабораторном журнале]].*
 
-<a href="80_assets/tyrtyshnikov-video-2026/plots-v1/tva-10-input-models.svg" target="_blank" rel="noopener" data-router-ignore>Открыть вычисленную схему в полном размере</a>
+<a href="80_assets/tyrtyshnikov-video-2026/gpt-image-static-v1/tva-10-input-models.png" target="_blank" rel="noopener" data-router-ignore>Открыть схему в полном размере</a>
 
 > [!example]- Анимация (GIF)
 >

@@ -28,9 +28,13 @@ updated: '2026-11-04'
 
 Аргумент сохраняется при адаптивном выборе запросов: до момента остановки ответы одинаковы, поэтому одинаковы и следующие запросы. Для низкорангового класса ситуация тоньше: одиночный пик сам имеет ранг 1. Значит, одного верхнего ограничения ранга также недостаточно, если алгоритм не получил условий обнаружимости.
 
-![Непосещённый пик не влияет на прочитанные строки и столбцы](80_assets/computational-algebra-principles/full-plan-v1/cherry-unseen.svg)
+![Непосещённый пик не влияет на прочитанные строки и столбцы](80_assets/computational-algebra-principles/gpt-image-static-v1/cherry-unseen.png)
 
-[Открыть рисунок в полном размере](80_assets/computational-algebra-principles/full-plan-v1/cherry-unseen.svg)
+Рисунок использует тот же пример, что и GIF. Добавка 15 находится вне измеренного креста, поэтому измерения совпадают, а максимум по элементам остатка меняется с 0 до 15.
+
+[Исходный рисунок](80_assets/computational-algebra-principles/full-plan-v1/cherry-unseen.svg)
+
+[Открыть рисунок в полном размере](80_assets/computational-algebra-principles/gpt-image-static-v1/cherry-unseen.png)
 
 > [!example]- Анимация (GIF)
 >

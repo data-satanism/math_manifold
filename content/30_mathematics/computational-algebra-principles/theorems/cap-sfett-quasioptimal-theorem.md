@@ -40,9 +40,13 @@ $$
 
 Оценка относится к норме Фробениуса и указанному порядку алгоритма. При приближённых SVD в неё входят дополнительные погрешности. Она не доказывает единственность минимизатора или точную оптимальность алгоритма.
 
-![Проверка общего ранга и рангов отдельных мод](80_assets/computational-algebra-principles/full-plan-v1/sfett-rank-audit.svg)
+![Проверка общего ранга и рангов отдельных мод](80_assets/computational-algebra-principles/gpt-image-static-v1/sfett-rank-audit.png)
 
-[Открыть полный рисунок](80_assets/computational-algebra-principles/full-plan-v1/sfett-rank-audit.svg)
+В первом примере три пространства порождаются одними и теми же двумя направлениями. Для трёх разных одномерных направлений общая оболочка имеет размерность три.
+
+[Исходный рисунок](80_assets/computational-algebra-principles/full-plan-v1/sfett-rank-audit.svg)
+
+[Открыть полный рисунок](80_assets/computational-algebra-principles/gpt-image-static-v1/sfett-rank-audit.png)
 
 > [!example]- Анимация (GIF)
 >

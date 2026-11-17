@@ -34,9 +34,13 @@ $$
 
 Следовательно, $D^2=D$, $DU=U$, $P^TD=P^T$. Образ проектора равен $\operatorname{range}U$, ядро — $\ker P^T$. Как правило, эти пространства не ортогональны.
 
-![Косое восстановление по координате отличается от ближайшей ортогональной проекции](80_assets/computational-algebra-principles/plots-v2-branches17/cap-06-oblique-geometry.svg)
+![Косое восстановление по координате отличается от ближайшей ортогональной проекции](80_assets/computational-algebra-principles/gpt-image-static-v1/cap-06-oblique-geometry.png)
 
-[Открыть рисунок в полном размере](80_assets/computational-algebra-principles/plots-v2-branches17/cap-06-oblique-geometry.svg)
+Вертикальный отрезок сохраняет первую координату, а перпендикулярный прямой отрезок минимизирует расстояние. Для восстановления по первой координате нужно $u_1\ne 0$.
+
+[Исходный рисунок](80_assets/computational-algebra-principles/plots-v2-branches17/cap-06-oblique-geometry.svg)
+
+[Открыть рисунок в полном размере](80_assets/computational-algebra-principles/gpt-image-static-v1/cap-06-oblique-geometry.png)
 
 > [!example]- Анимация (GIF)
 >

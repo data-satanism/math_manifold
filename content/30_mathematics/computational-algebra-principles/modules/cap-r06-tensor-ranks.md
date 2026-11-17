@@ -3,7 +3,7 @@ id: "cap-r06-tensor-ranks"
 title: "РС06. Канонический ранг, TT и QTT на одних данных"
 aliases: []
 type: "course-module"
-status: "canonical"
+status: canonical
 publish: true
 areas: ["numerical-linear-algebra"]
 concepts: ["tensor-train","tensor-rank","qtt"]
@@ -31,9 +31,13 @@ $$
 
 В порядке $(i,j,k,l)$ ранги последовательных разрезов $(n,n^2,n)$. После перестановки в порядок $(i,k,j,l)$ средняя развёртка — внешнее произведение $\operatorname{vec}(I_n)\operatorname{vec}(I_n)^\top$ и имеет ранг 1. Крайние разрезы в обоих случаях имеют ранг $n$, поскольку строки, соответствующие разным индексам крайней моды, имеют непересекающиеся ненулевые носители.
 
-![Два порядка мод с рангами разрезов и подсчётом памяти тензорного поезда](80_assets/computational-algebra-principles/rank-spectrum-v1/tensor-cut-order.svg)
+![Два порядка мод с рангами разрезов и подсчётом памяти тензорного поезда](80_assets/computational-algebra-principles/gpt-image-static-v1/tensor-cut-order.png)
 
-[Открыть рисунок в полном размере](80_assets/computational-algebra-principles/rank-spectrum-v1/tensor-cut-order.svg)
+Если обе связи равенства пересекают разрез, развёртка имеет ранг 16. После перестановки мод обе связи остаются внутри групп, а развёртка становится внешним произведением ранга один.
+
+[Исходный рисунок](80_assets/computational-algebra-principles/rank-spectrum-v1/tensor-cut-order.svg)
+
+[Открыть рисунок в полном размере](80_assets/computational-algebra-principles/gpt-image-static-v1/tensor-cut-order.png)
 
 > [!example]- Анимация (GIF)
 >

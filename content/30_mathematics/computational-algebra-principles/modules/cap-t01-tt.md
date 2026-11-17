@@ -58,9 +58,13 @@ $$
 
 Для $X_{ijkl}=\delta_{ik}\delta_{jl}$ с индексами от 1 до $n$ средний разрез $(i,j)\mid(k,l)$ является единичной матрицей размера $n^2$ и имеет ранг $n^2$. После перестановки мод в порядок $(i,k,j,l)$ средний разрез равен внешнему произведению двух векторизованных единичных матриц и имеет ранг 1. Крайние TT-ранги в обоих случаях равны $n$. Даже точная перестановка, сохраняющая все элементы и норму тензора, меняет стоимость представления.
 
-![Ранги трёх разрезов до и после перестановки четырёх мод](80_assets/computational-algebra-principles/full-plan-v1/tt-order.svg)
+![Ранги трёх разрезов до и после перестановки четырёх мод](80_assets/computational-algebra-principles/gpt-image-static-v1/tensor-cut-order.png)
 
-[Открыть рисунок в полном размере](80_assets/computational-algebra-principles/full-plan-v1/tt-order.svg)
+Если обе связи равенства пересекают разрез, развёртка имеет ранг 16. После перестановки мод обе связи остаются внутри групп, а развёртка становится внешним произведением ранга один.
+
+[Исходный рисунок](80_assets/computational-algebra-principles/full-plan-v1/tt-order.svg)
+
+[Открыть рисунок в полном размере](80_assets/computational-algebra-principles/gpt-image-static-v1/tensor-cut-order.png)
 
 > [!example]- Анимация (GIF)
 >

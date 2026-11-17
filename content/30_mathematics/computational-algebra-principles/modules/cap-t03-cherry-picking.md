@@ -83,9 +83,13 @@ $$
 
 В матрице точного ранга 1 одного корректного креста достаточно. Добавим пик в позицию, которая не входит ни в выбранные строки, ни в столбцы. Все входы алгоритма и его производные по прочитанным значениям остаются прежними, а ошибка возрастает на величину пика.
 
-![Крест видит нулевой остаток на выбранных строке и столбце, но пропускает пик](80_assets/computational-algebra-principles/full-plan-v1/cherry-unseen.svg)
+![Крест видит нулевой остаток на выбранных строке и столбце, но пропускает пик](80_assets/computational-algebra-principles/gpt-image-static-v1/cherry-unseen.png)
 
-[Открыть рисунок в полном размере](80_assets/computational-algebra-principles/full-plan-v1/cherry-unseen.svg)
+Рисунок использует тот же пример, что и GIF. Добавка 15 находится вне измеренного креста, поэтому измерения совпадают, а максимум по элементам остатка меняется с 0 до 15.
+
+[Исходный рисунок](80_assets/computational-algebra-principles/full-plan-v1/cherry-unseen.svg)
+
+[Открыть рисунок в полном размере](80_assets/computational-algebra-principles/gpt-image-static-v1/cherry-unseen.png)
 
 > [!example]- Анимация (GIF)
 >

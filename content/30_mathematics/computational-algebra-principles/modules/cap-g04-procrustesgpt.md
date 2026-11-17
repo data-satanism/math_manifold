@@ -41,9 +41,13 @@ $$
 
 **Вычисленный пример.** Пусть $W=\operatorname{diag}(I_2,R(\pi/2))$. Ненулевые строки $\mathcal R(W)$ — векторизации $I_2$ и $R(\pi/2)$, ортогональные и длины $\sqrt2$. Ошибка ранга 1 в переставленных координатах равна $\sqrt2$. При $Q=W^\top$ получаем $WQ=I_4=I_2\otimes I_2$, и ошибка становится нулевой. Соседний оператор получает компенсирующее преобразование. Этот пример специально построен и показывает существование эффекта, а не гарантию для двух произвольных весов сразу.
 
-![Спектр переставленной матрицы и ошибка до и после согласованного поворота](80_assets/computational-algebra-principles/orthogonal-v1/procrustes-kron.svg)
+![Спектр переставленной матрицы и ошибка до и после согласованного поворота](80_assets/computational-algebra-principles/gpt-image-static-v1/procrustes-kron.png)
 
-[Открыть рисунок в полном размере](80_assets/computational-algebra-principles/orthogonal-v1/procrustes-kron.svg)
+Соседний множитель $Q^\top$ компенсирует поворот. В приведённом примере перестановка блоков $WQ$ выявляет совпадающие ненулевые строки, поэтому достаточно одного члена Кронекера.
+
+[Исходный рисунок](80_assets/computational-algebra-principles/orthogonal-v1/procrustes-kron.svg)
+
+[Открыть рисунок в полном размере](80_assets/computational-algebra-principles/gpt-image-static-v1/procrustes-kron.png)
 
 > [!example]- Анимация (GIF)
 >
