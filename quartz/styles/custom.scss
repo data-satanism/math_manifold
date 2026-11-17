@@ -72,6 +72,10 @@ article .callout-content img[src*="/course-gif-pca-v2/"] {
 }
 
 @media all and ($mobile) {
+  body[data-slug="static-figures"] .page > #quartz-body,
+  body[data-slug^="30_mathematics/tyrtyshnikov-tensors-2023-2024/"] .page > #quartz-body,
+  body[data-slug^="50_bridges/tyrtyshnikov-tensors-2023-2024/"] .page > #quartz-body,
+  body[data-slug^="70_labs/tyrtyshnikov-tensors-2023-2024/"] .page > #quartz-body,
   body[data-slug^="30_mathematics/population-optimization-manifolds/"] .page > #quartz-body,
   body[data-slug="70_labs/population-optimization-manifolds/pom-geometry-lab"] .page > #quartz-body,
   body[data-slug="60_sources/source-fong-tino-population-optimization"] .page > #quartz-body,
