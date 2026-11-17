@@ -92,13 +92,13 @@ $$
 
 является доверительным эллипсоидом, если $q$ выбран как соответствующий квантиль $\chi_r^2$. Его объём пропорционален $\sigma^r q^{r/2}/\sqrt{\det(B^TB)}$. Следовательно, при фиксированных $s$, $\sigma$ и уровне доверия максимизация прямоугольного объёма минимизирует объём эллипсоида. Без нормальности ковариационная формула остаётся верной; точная доверительная вероятность уже требует дополнительного обоснования.
 
-![Эллипсоиды с одинаковым определителем имеют разные длинные полуоси](80_assets/computational-algebra-principles/gpt-image-static-v1/cap-05-confidence-geometry.png)
+![Круг и эллипс одинаковой площади имеют разные наибольшие направленные дисперсии](80_assets/computational-algebra-principles/gpt-image-static-v2/cap-05-confidence-geometry.png)
 
-При единичной дисперсии шума площади обоих контуров равны π/3. Наибольшая дисперсия у вытянутого контура в три раза выше.
+Два эллипса с одинаковым определителем ковариации 1/9 и площадью π/3 имеют наибольшие направленные дисперсии 1/3 и 1.
 
 [Исходный рисунок](80_assets/computational-algebra-principles/plots-v2-branches17/cap-05-confidence-geometry.svg)
 
-[Открыть рисунок в полном размере](80_assets/computational-algebra-principles/gpt-image-static-v1/cap-05-confidence-geometry.png)
+[Открыть рисунок в полном размере](80_assets/computational-algebra-principles/gpt-image-static-v2/cap-05-confidence-geometry.png)
 
 > [!example]- Анимация (GIF)
 >

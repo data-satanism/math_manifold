@@ -610,12 +610,12 @@
     {
       "id": "cap-05-rectangular-d-optimal",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-05-rectangular-d-optimal.md",
-      "sha256": "7162771862be7fb969c12172e09efdb26072314481c471d312eecbeb592146bf"
+      "sha256": "31f9571d75488bfaddb3505488274e13f2dd6989364e56c3699bbfdb83e8912e"
     },
     {
       "id": "cap-06-deim",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-06-deim.md",
-      "sha256": "23992dad6fc077d5543dfb72d45cbb303f627bb59c82ea0a434f9cfc325b6c71"
+      "sha256": "4aa790f2eba61a44b6d6e09d05a0d346dacbb78cf07e0da69bcced33a08d51d6"
     },
     {
       "id": "cap-07-volume-sampling",
@@ -665,7 +665,7 @@
     {
       "id": "cap-fixed-rank-lab",
       "path": "70_labs/computational-algebra-principles/cap-fixed-rank-lab.md",
-      "sha256": "b79218a34a1f659e5838fc0c007380d5d2a9db3a24c3d319195b2103410c0f01"
+      "sha256": "c6409ea44dd210bee73a8ccf425ab605081efda6232fc9b881b74cf404a1e032"
     },
     {
       "id": "cap-fixed-rank-tangent-theorem",
@@ -680,7 +680,7 @@
     {
       "id": "cap-g01-fixed-rank-geometry",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-g01-fixed-rank-geometry.md",
-      "sha256": "44e7c8e22d19383e37aa91612cf8fd477f216755f323fb193be7d27e9a0105f1"
+      "sha256": "aa6f82c3d291b74d1e15af4431a44a910999f152b47e195217c06a45f98b3569"
     },
     {
       "id": "cap-g02-riemannion",
@@ -695,7 +695,7 @@
     {
       "id": "cap-g04-procrustesgpt",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-g04-procrustesgpt.md",
-      "sha256": "4a69bc922f83f1bbba1453f893f12988150b8221f51bcd47c29da043849601a4"
+      "sha256": "a0eec2a232edb6c5f767501f6fb8f90dacecc8c52031ee97d5dd5db29251a4a4"
     },
     {
       "id": "cap-g05-orthofuse",
@@ -760,7 +760,7 @@
     {
       "id": "cap-p03-structure-locality",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-p03-structure-locality.md",
-      "sha256": "101ff9a81a55df75a209d17991af07facf5adaa685c2076576a76145dd363c3e"
+      "sha256": "32cb70b87cc5b056127a25d1378db78c18933495fd2496c7ce552e7112773b45"
     },
     {
       "id": "cap-p04-conditioning",
@@ -770,7 +770,7 @@
     {
       "id": "cap-p05-certificates",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-p05-certificates.md",
-      "sha256": "cfe57077a3059a4aebb0152e0fb786101bc0abe52a74035f0a2ced7561ed151f"
+      "sha256": "908fe882dafcecd4480560e723bd98b3e16ebdba228d7aa3b6fcbd078bf1db57"
     },
     {
       "id": "cap-positive-greedy-counterexample",
@@ -840,7 +840,7 @@
     {
       "id": "cap-r06-tensor-ranks",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-r06-tensor-ranks.md",
-      "sha256": "77755c852539a03b558709d280d2943f076bdd7f1c64a7405020d7cfa08e7490"
+      "sha256": "04c767964ae95dcd6affc2fe4c6a1a3af34fb1d807e1e4524feb3ea01813e0ce"
     },
     {
       "id": "cap-r07-spectral-localization",
@@ -865,7 +865,7 @@
     {
       "id": "cap-rank-model-ai-bridge",
       "path": "50_bridges/cap-rank-model-ai-bridge.md",
-      "sha256": "c5b27e2b5ec91c1308ab35fc34cd951cb6ef397faf23d03013c9477a8c021b7e"
+      "sha256": "388635f7342d98c98738e940669075fed2edb831f581f152fbbd8e33a6221948"
     },
     {
       "id": "cap-rank-spectrum-lab",
@@ -910,7 +910,7 @@
     {
       "id": "cap-sfett-quasioptimal-theorem",
       "path": "30_mathematics/computational-algebra-principles/theorems/cap-sfett-quasioptimal-theorem.md",
-      "sha256": "96e113fadd4ab0dec89d179f1f8eb3de796338a6acd73e23056fbc623ad3f699"
+      "sha256": "712eb0e62bdb0c07544ec39f2a73e9c642d4954e2e165661bbafd82dc98ca658"
     },
     {
       "id": "cap-spectral-lmo-theorem",
@@ -925,17 +925,17 @@
     {
       "id": "cap-t01-tt",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-t01-tt.md",
-      "sha256": "2c5e7cbc930f8bacf6b9541c86f648c17e3e1a473642535de2d797e9647fcbcb"
+      "sha256": "428c4588c8d7b307556d0fa8be030acce539020f55e927b64f4d36f11756a106"
     },
     {
       "id": "cap-t02-sf-ett",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-t02-sf-ett.md",
-      "sha256": "c43edb1ffc60f68d93a85dcd9ed1ba83e93e3a7c981c546a6f38683c3f6eea98"
+      "sha256": "7b4f6b31f4755d20fea1c5dde224baeb41c2ae56605ed469e33917cdc9cd38fa"
     },
     {
       "id": "cap-t03-cherry-picking",
       "path": "30_mathematics/computational-algebra-principles/modules/cap-t03-cherry-picking.md",
-      "sha256": "6106f5216693a68ebdc15db2383ce5a3b55707185eeda75a68c2a0c9a1c0eea7"
+      "sha256": "bdb23c90268d0cf03c734f54257844aaba6a9440e24a8a44e93976f4ea6fecfb"
     },
     {
       "id": "cap-visual-lab",
@@ -1075,7 +1075,7 @@
     {
       "id": "coordinate-recovery-operator",
       "path": "20_concepts/coordinate-recovery-operator.md",
-      "sha256": "5dab5bf09c5bfaeeb3f8e6f6ac0e1745d77e30de7e39e2be934ce66faaa5b8bd"
+      "sha256": "36c74cd9890fb9899a15c3c552b3300cd7acc6aa79238658594596fdff2fc9f2"
     },
     {
       "id": "course-publication-roadmap-2026-2027",
@@ -2235,62 +2235,62 @@
     {
       "id": "mda-01-introduction",
       "path": "30_mathematics/matrix-manifolds-manopt/chapters/mda-01-introduction.md",
-      "sha256": "60daf6140194e2c97fd3e9f1897708bac8e7393f3a26a21b5a53d7cb48ff4a1c"
+      "sha256": "f3d7a9b8c63a0bb45428dde2230da8989a038a539272f402a363cc44cf3d96ae"
     },
     {
       "id": "mda-02-matrix-calculus",
       "path": "30_mathematics/matrix-manifolds-manopt/chapters/mda-02-matrix-calculus.md",
-      "sha256": "3971da2474f675c509a2d78eee9d17f1f477838c9bc9ca73bdf128b83917b3ea"
+      "sha256": "02adb0525fdc4578f349bc802cf923b85bb34f2963be47acd1a530bc6681b67f"
     },
     {
       "id": "mda-03-matrix-manifolds",
       "path": "30_mathematics/matrix-manifolds-manopt/chapters/mda-03-matrix-manifolds.md",
-      "sha256": "184b08b5bff50238c91ced13ab9de03e23ba423b99a2bf31e05472084bef5076"
+      "sha256": "3ee0e470dc4a687271387feb32e0646985cbd556693fcc706cdda24147610b5a"
     },
     {
       "id": "mda-04-pca",
       "path": "30_mathematics/matrix-manifolds-manopt/chapters/mda-04-pca.md",
-      "sha256": "373d57269f91e51689bbe09e4856d837092d731efcaf58e310c2ff691076ac9f"
+      "sha256": "6193164877cbb61cd2c02ef860cae134fe8a1c1ec30cc113741e6456891474e5"
     },
     {
       "id": "mda-05-factor-analysis",
       "path": "30_mathematics/matrix-manifolds-manopt/chapters/mda-05-factor-analysis.md",
-      "sha256": "9de39aa81824e6bc991053de19248909af27a7508fbb6fa3c92ab77386c07832"
+      "sha256": "f12cc6c164ab4be81543e51dee812f54080060ba9d8e4cdf9eadbc8638b9d6ea"
     },
     {
       "id": "mda-06-procrustes",
       "path": "30_mathematics/matrix-manifolds-manopt/chapters/mda-06-procrustes.md",
-      "sha256": "3b18c937dfd92f0eee8dae15f7e81c63e4951526c30d2a3250f9fcdab19e897a"
+      "sha256": "d289ac6decb3e19b139e19567a3df20f2911b3f4cc737b58efa27dcb3f7ce9f4"
     },
     {
       "id": "mda-07-lda",
       "path": "30_mathematics/matrix-manifolds-manopt/chapters/mda-07-lda.md",
-      "sha256": "e4393bce952b91fa0b61bfb4657582308da00a9f700adf5737b3b0f3c19d6323"
+      "sha256": "a92fa6da2be4323b3702b67d3e2145b584f68bb5094e1cae0a3394deb07d889c"
     },
     {
       "id": "mda-08-cca",
       "path": "30_mathematics/matrix-manifolds-manopt/chapters/mda-08-cca.md",
-      "sha256": "4ddb1450746eee3a81c0ba1d14bfd4cfa32d1af24e52a714c7d64094e93bb185"
+      "sha256": "eb579f8378e2d5b3e26b1152ef89c55c0f4b06730f05b67bdbc5de71d3903350"
     },
     {
       "id": "mda-09-cpc",
       "path": "30_mathematics/matrix-manifolds-manopt/chapters/mda-09-cpc.md",
-      "sha256": "89e9ec598f861d1fdea2f4f9edd6d169631b983c34a12a0429499d1cddba43a8"
+      "sha256": "9a107c5834fd078e62c7806fd62f8a8d9dfe19a67ceabb775a6af451469c3a63"
     },
     {
       "id": "mda-10-mds",
       "path": "30_mathematics/matrix-manifolds-manopt/chapters/mda-10-mds.md",
-      "sha256": "3dfb9ab322a1f754eb8e2fa690af3b0e6bd93120b3a886386f24228562ad21f4"
+      "sha256": "2e381d3172190af7e6409d651493903f97bde97bd8d2e2c8100e5fc648b1ff93"
     },
     {
       "id": "mda-11-simplexes",
       "path": "30_mathematics/matrix-manifolds-manopt/chapters/mda-11-simplexes.md",
-      "sha256": "51422c59575bfbe2b061d49f940699fb81e9db475525ad988c52a95a0deab972"
+      "sha256": "f49ce0e7e458699f587068f1c53027add4321f878daa2979db9fd2cf6bf1e2d3"
     },
     {
       "id": "mda-geometry-lab",
       "path": "70_labs/matrix-manifolds-manopt/mda-geometry-lab.md",
-      "sha256": "9c592166729368e094c487c25644b3e7ef2b2ae2af3775e487d760ad7c6a915b"
+      "sha256": "248e3b5fddaecd085d1fc7f7b9c46e14256cc928f49ace27cee0f42695a58b2c"
     },
     {
       "id": "mda-map",
@@ -2820,57 +2820,57 @@
     {
       "id": "pom-01-introduction",
       "path": "30_mathematics/population-optimization-manifolds/chapters/pom-01-introduction.md",
-      "sha256": "87f801f5148bca262054362a5f4ea3bcb0221995ea2443aa9ec1059494f9c2d8"
+      "sha256": "a92d4cc7d2fd8a6cf90c1c5388843275502eb9de402ac0fd9da8e3066f2af979"
     },
     {
       "id": "pom-02-riemannian-geometry",
       "path": "30_mathematics/population-optimization-manifolds/chapters/pom-02-riemannian-geometry.md",
-      "sha256": "5cf5d3c8e5d033a6de7a0b0a23812db9119c8fae8d530e30c228337354acf357"
+      "sha256": "f217c89fe32be26f0b048d1087604d80b6ede2b0c801a63ba0071ebdc7492c29"
     },
     {
       "id": "pom-03-information-geometry",
       "path": "30_mathematics/population-optimization-manifolds/chapters/pom-03-information-geometry.md",
-      "sha256": "7e3a76e9b219fbeb321d3c41f85831bc2702c853e0b31ebcfebbe141fefe3f83"
+      "sha256": "0394ad38196974906800d2d91a82f7b6c27c689ee9a16d646bc8b53c16d1805b"
     },
     {
       "id": "pom-04-probability-densities",
       "path": "30_mathematics/population-optimization-manifolds/chapters/pom-04-probability-densities.md",
-      "sha256": "86fe94c5a3136730bfe630856c07baf1e487dfe6bc51dba53404c0258c50d32c"
+      "sha256": "f45a1cdb70b201e055efea25ae150440c537cf9132d05bb67d38d202e61df3a5"
     },
     {
       "id": "pom-05-inherited-densities",
       "path": "30_mathematics/population-optimization-manifolds/chapters/pom-05-inherited-densities.md",
-      "sha256": "de87b3b9f1d6b25ad11039fdac391b3c7a4c0061f5fe314f06a8e8ad39bb231f"
+      "sha256": "85e1f6dacba73c5ec9792738bc9f2f242dc8707bbc902392b794daab33c04732"
     },
     {
       "id": "pom-06-mixture-densities",
       "path": "30_mathematics/population-optimization-manifolds/chapters/pom-06-mixture-densities.md",
-      "sha256": "e3afd5d87b4dc86bf992bb4c0748d5dd2f8f79bacd08f5d2d6f33e5e4aa16a43"
+      "sha256": "d92f97b7e8554361664a83dbe3179cfb75bba6f8a03f68ed706d564084f085c2"
     },
     {
       "id": "pom-07-geometry-in-optimization",
       "path": "30_mathematics/population-optimization-manifolds/chapters/pom-07-geometry-in-optimization.md",
-      "sha256": "cb7ae97bad9214e331e8f12d369e9d7b8898d4e2b8b5c095b5ebe35994996728"
+      "sha256": "ce1c5a8bb6a5dce9b0a32bdd07f12f42ae5d565b26f58778c74ad80f6af35dca"
     },
     {
       "id": "pom-08-rsdfo",
       "path": "30_mathematics/population-optimization-manifolds/chapters/pom-08-rsdfo.md",
-      "sha256": "4e194b136d2fb401c2b3fc187a0fed7f3def11697da0c3c44f0b7c0b9b37c538"
+      "sha256": "d86d384766897bf338b242a761896523c35a927559f25623c529c94b6e950c05"
     },
     {
       "id": "pom-09-experiments",
       "path": "30_mathematics/population-optimization-manifolds/chapters/pom-09-experiments.md",
-      "sha256": "241d66babe4c392589bc89da2b2008807a8c3572e21434ccbc99f348baf73786"
+      "sha256": "66d083799ecacbbe2e07b90bf67fe1a43219cd26b7b10da00c139c4ccaf213b9"
     },
     {
       "id": "pom-10-conclusion",
       "path": "30_mathematics/population-optimization-manifolds/chapters/pom-10-conclusion.md",
-      "sha256": "488416d28de5de5740f9ab4233843021bc32f635becaa02721c59d9db7f45557"
+      "sha256": "bc5dffab66aa751f516ab630c166847c6418492e1570bc0e4cdf1e4b1739e414"
     },
     {
       "id": "pom-geometry-lab",
       "path": "70_labs/population-optimization-manifolds/pom-geometry-lab.md",
-      "sha256": "1b1d0ea81eadc71ea6d8efb73933e2770e4d4509ace088828d7613a9482fcff0"
+      "sha256": "e4d37b568edf3b5b93e96c81fe43e301c4f64e922c01d243151d55406d93a369"
     },
     {
       "id": "pom-map",
@@ -3615,7 +3615,7 @@
     {
       "id": "static-figures",
       "path": "static-figures.md",
-      "sha256": "695fb66f734d071ade1017e623f6b81092e065b2c5c99463ec01c060678b7590"
+      "sha256": "e79f0d0ae4cba5ca03c8da382093f39ccb939774ad08548d12fb9b71afcd67cd"
     },
     {
       "id": "steele-inequalities-source-map",
@@ -3785,92 +3785,92 @@
     {
       "id": "tga-01",
       "path": "30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-01.md",
-      "sha256": "78cdbd3f308e62f4f9953fec391a782ec6478745bde534ce62ca9cb6dbb3f14c"
+      "sha256": "7e67bf0b232351d0850cbb3f4884cb0bd04dd4ff2479dc46ed4e4a190f4c8e90"
     },
     {
       "id": "tga-02",
       "path": "30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-02.md",
-      "sha256": "0b5cd78ae46c1d9a55576fa08002b174ca3f9a21b075b87b462a55587fd13d87"
+      "sha256": "a2317a6575ef3a4ef75caa386155b4ef404f09fcc0e0731b800243ed3128b6e9"
     },
     {
       "id": "tga-03",
       "path": "30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-03.md",
-      "sha256": "a6c326e228106a2a2086bb4c01be4e77973c096d054c59e1152a121034cadd32"
+      "sha256": "d92d32787716d630b6d38c583f6ecba3a84b4c69c3391b57eab89e6cfeea2a87"
     },
     {
       "id": "tga-04",
       "path": "30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-04.md",
-      "sha256": "737ed12b807aea8093303356b98ccac1bafaf4635bd0c65a534525a89067b6c8"
+      "sha256": "1007de6e32d1b433f1b8807858bea9ad4a88ab93c6c9b5b90e5114f6691d3df0"
     },
     {
       "id": "tga-05",
       "path": "30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-05.md",
-      "sha256": "9bdba9de21483c5e8167f4cc42f2032dff7dc76cef7e1a7d5ff2cef05a07822f"
+      "sha256": "cfc05880b80b6e0e7b98f005d72bc713843f019a78b13110d662fa288e7019b9"
     },
     {
       "id": "tga-06",
       "path": "30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-06.md",
-      "sha256": "664034020741ca017debf7bea2f32db12c026ffaa04a6fbd7020407caabfc69a"
+      "sha256": "beaa3db66c6fbb569d6d6874d8cce6dacaa4d4beadd9c83d62848ec6040ab3bd"
     },
     {
       "id": "tga-07",
       "path": "30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-07.md",
-      "sha256": "1513677d2a6db20b61d4230b78a01a12dc71dd8be9717e8ba61da13f9a91c5d6"
+      "sha256": "77bcefb45cf3e9fe3571a47cf2239ec816e19d4bb4b24dbca583656ffd531328"
     },
     {
       "id": "tga-08",
       "path": "30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-08.md",
-      "sha256": "c58fa2352ae0ac5e611c980226ef1f0bfc8e6a95b6fe3f599e819b117d9d071c"
+      "sha256": "7cb74125451143e665e3a64784702db2a58e749155e5cdf4b825d5cd83cbb788"
     },
     {
       "id": "tga-09",
       "path": "30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-09.md",
-      "sha256": "bb70b95dadc6fa7e40e82784f7339685a4cd78645b6b3cc1050fc76025adb23a"
+      "sha256": "d92c408d47ac68186ec5b298757099b561a33e46c34502bcbb56bbef3e03dfd3"
     },
     {
       "id": "tga-10",
       "path": "30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-10.md",
-      "sha256": "4421b432f5d00f89325a33dcc26e12d5f064b2c7e178b608bddc7dde5405f1ec"
+      "sha256": "9f91b64772c8b8206a16fc38db37336201729543f7d2676c8877a1858e06a371"
     },
     {
       "id": "tga-11",
       "path": "30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-11.md",
-      "sha256": "c67a8c1f2354f89668bfd1897c72c0fadddf18defd10e9e03d20d0cad6fabaf7"
+      "sha256": "71ad63252d0681acd168f7f898382ed361b9b457ea5b1916d77ff16153b047eb"
     },
     {
       "id": "tga-12",
       "path": "30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-12.md",
-      "sha256": "db690113b62f3a24859daf462acc1727b92823d326b1c1aedc8886e5345fcb95"
+      "sha256": "b24965adb4ada3e904757b1517715ec628320e51558de4a3e36a7825f17cc200"
     },
     {
       "id": "tga-13",
       "path": "30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-13.md",
-      "sha256": "36d358bfed61fe92c275723d5981985e69be549a101538e704595699fd1c6594"
+      "sha256": "869fb2ac20444a9fc253fdc1f300acafcdf2052a20576471ba1aeb719f3ab117"
     },
     {
       "id": "tga-14",
       "path": "30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-14.md",
-      "sha256": "aa49680ec4534eeb7966275e805cb9df73405eb33f108911d9899534d9cf1767"
+      "sha256": "aa877b966bb477aab70f311fe6918631ef44aa06575a29062257324af03ceb4f"
     },
     {
       "id": "tga-15",
       "path": "30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-15.md",
-      "sha256": "8d98400c0b429c52418a4b1b7fd4dd87a57ba690b821aa68b422a46d36137a78"
+      "sha256": "5e8b8659049e297b7868c54676580b703b1920b6c122eb3101a48c9c032e5436"
     },
     {
       "id": "tga-16",
       "path": "30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-16.md",
-      "sha256": "0d3930c1bde7925fb0728dc704c50a40f05e62ed3e5df7fdbc4f027b981be65f"
+      "sha256": "669ff58bf799608e20e6ce749bbf6ae6d6d2903b7794f2d50959752a973acf82"
     },
     {
       "id": "tga-17",
       "path": "30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-17.md",
-      "sha256": "089f75965c33febe4684d0bb8fdb4863152baf4d4427a9b28c4909694c4b84d8"
+      "sha256": "281d62b08ed22369f8ce28c20a04f3fb9934d929a0de180fd6f64aa1237b8690"
     },
     {
       "id": "tga-18",
       "path": "30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-18.md",
-      "sha256": "ced65ffee3b7f468da1ce010ec7b6cbd1ec97726312979140c6f9cb3215d2eb0"
+      "sha256": "17074386d9ab70fdf4eae8cb3826eea435743934a25b303d08f730c4388f77ee"
     },
     {
       "id": "tga-map",
@@ -3880,17 +3880,17 @@
     {
       "id": "tga-ml-01-groebner-cp",
       "path": "50_bridges/tyrtyshnikov-tensors-2023-2024/tga-ml-01-groebner-cp.md",
-      "sha256": "eea0d5243ea09aff8ee6a3370f0dd5b6f907c507712d5058fbaf468b8779492e"
+      "sha256": "056af13a80aa0426c4810f88533b12dacbe3a4d0529c3e71169d188d817dafa6"
     },
     {
       "id": "tga-ml-02-moe",
       "path": "50_bridges/tyrtyshnikov-tensors-2023-2024/tga-ml-02-moe.md",
-      "sha256": "870f76824014973a877857fe1f697a74baefa29ce9d50aa562be3347a642742c"
+      "sha256": "7861ff42e929abde91686a5f39ef8bd0ee9b2a626185f73b44238ec40de48854"
     },
     {
       "id": "tga-ml-03-weighted-rank",
       "path": "50_bridges/tyrtyshnikov-tensors-2023-2024/tga-ml-03-weighted-rank.md",
-      "sha256": "7703809c8affd96aafc3131c33f0e1993cbc6dc9826e7478692dd6d53397000c"
+      "sha256": "5565d037552c1b5c8480053ce107642e4be4eedeaa86f2f60b5d65d270fc69e4"
     },
     {
       "id": "tga-source-map",
@@ -3900,7 +3900,7 @@
     {
       "id": "tga-visual-lab",
       "path": "70_labs/tyrtyshnikov-tensors-2023-2024/tga-visual-lab.md",
-      "sha256": "8cef0625ae88fde92c691d070098e84b1df651c1b1ce7caab9a29240777aa8d2"
+      "sha256": "f9abf6a55ae4df269ea20f538f61f90aa0c0acd4827fe70f07f734de9a4a7e52"
     },
     {
       "id": "theorem-boundary-squared-zero",
@@ -4385,7 +4385,7 @@
     {
       "id": "tva-05-regularization",
       "path": "30_mathematics/tyrtyshnikov-video-2026/lectures/tva-05-regularization.md",
-      "sha256": "64dd21fed4551c2efc776bd8aec3c00e36ae4e8dc52ac44f17053d81ee10f6e7"
+      "sha256": "d915b5081de26598399db9d627e35b97818b1325cd7b9fa281a41d7cbd144f0c"
     },
     {
       "id": "tva-06-maxvol-cross",
@@ -4400,17 +4400,17 @@
     {
       "id": "tva-08-kruskal-proof",
       "path": "30_mathematics/tyrtyshnikov-video-2026/lectures/tva-08-kruskal-proof.md",
-      "sha256": "c2a8833097a0c61c83ba54a4d7f5c0d0b5a0a19351e9d7eaf59dab3fbbeae024"
+      "sha256": "c70c6a742aebece81dcc292b57ae0e3e74f8454109695a5a17ee6667b7c97807"
     },
     {
       "id": "tva-09-tucker-tt",
       "path": "30_mathematics/tyrtyshnikov-video-2026/lectures/tva-09-tucker-tt.md",
-      "sha256": "9942e0b83656662551e10fa9e7978f3f8b8e416674fa3534df0d06e0dbad9ead"
+      "sha256": "4ee713e1b183eaf89ead5a9ad4fe3480eeea9071f19747958aece24a9ac52cd5"
     },
     {
       "id": "tva-10-tt-construction-rounding",
       "path": "30_mathematics/tyrtyshnikov-video-2026/lectures/tva-10-tt-construction-rounding.md",
-      "sha256": "69875499ecf6396b80e279b66b2b6931a21ff815c9550b4ef6cf298c2db438e1"
+      "sha256": "a9d127cc8ed40c3abce6eeb9fb6e9eb6f572f9fd86ff734fbba37e4a037a9e1d"
     },
     {
       "id": "tva-map",
@@ -5005,6 +5005,42 @@
     {
       "path": "80_assets/computational-algebra-principles/gpt-image-static-v1/tensor-cut-order.png",
       "sha256": "c989dee851e1a395850263c865db717cfe246f25983afab0a6b6e7ad2cdcc20c"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/gpt-image-static-v2/cap-05-confidence-geometry.png",
+      "sha256": "7b733ecd0b15edcaa5c8d8b6266a9f6a530d8709db3fbb28db0f3ad37abd843a"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/gpt-image-static-v2/cap-06-oblique-geometry.png",
+      "sha256": "ab99dce9fd7c464c6f46de01909c9ed281ac9c24460c643bde52933baeb19a59"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/gpt-image-static-v2/cap-g01-rank-cone.png",
+      "sha256": "de2750ae5b7d83eb3fd506af6288478df01eb99f37416ddbba13207d3b8a483f"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/gpt-image-static-v2/cherry-unseen.png",
+      "sha256": "fcd5a0dbfeda5f5d538c4abf07d78ce7742e359d7a4f13a1cfd1ad5a38feb201"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/gpt-image-static-v2/classification-margin.png",
+      "sha256": "035ad4227141d45f3f0adb3db9678d9ac9d1dd09331afe6a51da29089602b260"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/gpt-image-static-v2/procrustes-kron.png",
+      "sha256": "8bbf979a3e96a2c44aee03674b31c8738e37cb0769176448ea051de90b2c3bea"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/gpt-image-static-v2/sfett-rank-audit.png",
+      "sha256": "de1444b34742002ef675605d38284db3dc943b6474c3aaac6eb70f8219174459"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/gpt-image-static-v2/sfett-tangent-dimension.png",
+      "sha256": "dfcd7fb61295dda192515362850ffd2f540a7a4339e4ff6af49744ba533506da"
+    },
+    {
+      "path": "80_assets/computational-algebra-principles/gpt-image-static-v2/tensor-cut-order.png",
+      "sha256": "b1b27d760b1378fc43cebcf9f9554401c003c38e2baed115a49162efe80934cc"
     },
     {
       "path": "80_assets/computational-algebra-principles/gpt-image-v1/cap-01-insight.png",
@@ -6443,6 +6479,86 @@
       "sha256": "1f4682a0d4d6a47f7def5bb991442bbc6d5a0f969fd079cc6a22395c4434c509"
     },
     {
+      "path": "80_assets/matrix-manifolds-manopt/gpt-image-static-v2/mda-01-procrustes.png",
+      "sha256": "7378eeffa2afef506531f9f81aaf5a17419acac0cf641b325ead8c527cbddcdc"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/gpt-image-static-v2/mda-02-differential.png",
+      "sha256": "100c45271fee0c682eb2d0e6fce77294c1f47fe4ca64d6c9041a3cabf1d21f9e"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/gpt-image-static-v2/mda-03-cayley.png",
+      "sha256": "13907497987634c5399e8766243d4cbf9cf4a1dfbf5dba97ab9fd49f63d9251c"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/gpt-image-static-v2/mda-03-ellipsoid.png",
+      "sha256": "b7d0d78d4d485ef1fff43f031d0ac8f821941aa9dbe7c2011085789dfffe0129"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/gpt-image-static-v2/mda-03-flow.png",
+      "sha256": "354e9f0c6fcae211f5968812013c8d1b5cf9e4c03f0b9241b2591fe06d6dc92f"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/gpt-image-static-v2/mda-03-geodesic.png",
+      "sha256": "9cf101ada927f1f3c6adfa3dd05ccf2d4ff9e9f643718da7bd2defcbca4a39aa"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/gpt-image-static-v2/mda-03-grassmann.png",
+      "sha256": "9ea2e0f13f5295793d02297b3f6757efe4f28db14728817eeb0f82e0d51c81a6"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/gpt-image-static-v2/mda-03-oblique.png",
+      "sha256": "93a7ae95d3c1b26f6c3cffe70dc15756b8fc0009b6e2b2895b3375b882c51f6d"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/gpt-image-static-v2/mda-03-stiefel.png",
+      "sha256": "2b4455852030d7dd2c3f04648f9b1542f3b9a8653ad7ae7452a65e72d9616d7d"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/gpt-image-static-v2/mda-04-pca-rotation.png",
+      "sha256": "608e0a9f515dc1a7b7ee5e6f6f8c64692362002455fc653cb86e1ef2c143a4dd"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/gpt-image-static-v2/mda-04-sparse-pca.png",
+      "sha256": "d7d7439297c5fc16e48f549c87c86a18be3a10730745326a353af312b3c78c9d"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/gpt-image-static-v2/mda-05-heywood.png",
+      "sha256": "224d8267fe97f665687d9adaa56deb17c9aaa75496654d94896702680410291a"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/gpt-image-static-v2/mda-06-procrustes.png",
+      "sha256": "fc2282f197f4d59c51bec7cf3a5eae676f2ffe13449ab9bc36c5a221a96e7b05"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/gpt-image-static-v2/mda-07-lda.png",
+      "sha256": "bef4ab7421a407d27e7a63983805a31fff3c9da15731045b67a00c6d4633e345"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/gpt-image-static-v2/mda-08-cca.png",
+      "sha256": "a64fe7dfee38cc19adb1269b165d28ce3cea34d1244b49659d9c9f2e9507342d"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/gpt-image-static-v2/mda-09-cpc.png",
+      "sha256": "22fd53739640427cd832d925ec3956c5e1f4a649e5de08ddcdaaa8915cd0f092"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/gpt-image-static-v2/mda-10-hosvd.png",
+      "sha256": "5adcceb4dff4f2e25953d1069d590d73f3c696304a2966229951eaebd2cf182a"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/gpt-image-static-v2/mda-10-mds-stress.png",
+      "sha256": "ecd91d1865b0ae984851e8622bc6082e8c7e9298b734712df42fcf4cd9014115"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/gpt-image-static-v2/mda-11-archetypes.png",
+      "sha256": "b57bb67204a473554b2a1930892788e3584e690b28a5ae04d6730e2732dcbba4"
+    },
+    {
+      "path": "80_assets/matrix-manifolds-manopt/gpt-image-static-v2/mda-11-simplex-metrics.png",
+      "sha256": "5c47e3afebacb408ddbcaf4b5f933888a1917662922c76dabd5f53d596a84ee9"
+    },
+    {
       "path": "80_assets/matrix-manifolds-manopt/pca-geometry-v1/mda-01-procrustes.png",
       "sha256": "ee34070be0969554d71dd02d5948220d22aac6a1d6b9bd06ef51a5c969cf5bf5"
     },
@@ -7547,6 +7663,74 @@
       "sha256": "65b0562745a40e8a9999003c181aaefc05297c347a65aa938110401269cbe594"
     },
     {
+      "path": "80_assets/population-optimization-manifolds/gpt-image-static-v2/pom-01-objective-mean.png",
+      "sha256": "f134a196dd7c808b7ec11a740c1f35e5e4112ec41797935cc858f1c85501070e"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/gpt-image-static-v2/pom-02-holonomy.png",
+      "sha256": "da108347ba0bfefbad39a258ca92e927632063e9479c2618acd8e863480370a6"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/gpt-image-static-v2/pom-02-normal-chart.png",
+      "sha256": "919cc8bb7fafc6032d0c3894b87441938bb88581210e834a4e75decced0c78f7"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/gpt-image-static-v2/pom-03-dual-paths.png",
+      "sha256": "9074528e4e24e5a94407b097dbe05078ecc9d9446957465f3514b114ff20f4f3"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/gpt-image-static-v2/pom-04-area.png",
+      "sha256": "5b364f86ee2becfe958dde40bf651d96d250359a8a86b96269e6f9985074a56b"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/gpt-image-static-v2/pom-05-pushforward.png",
+      "sha256": "27f55dfd4b299dffeaa0288165a4d6604ec82877eb55f1fcd4339fd823ffda62"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/gpt-image-static-v2/pom-06-overlap.png",
+      "sha256": "1a3b1d02c570e3960f5d1610e333433f4c23802c2bcc7ca27304b9563ef870b9"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/gpt-image-static-v2/pom-07-covariance.png",
+      "sha256": "adf1feca524de980c2423c2dc11889cb179568b73660f599d6b61605240e6f2c"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/gpt-image-static-v2/pom-07-rpso.png",
+      "sha256": "b7bbcd2543455d1ecc4fd4c61b0358972500f9431f28c2853aaf21ac1ffbfe8f"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/gpt-image-static-v2/pom-08-frontier.png",
+      "sha256": "bfd73243cea5ac2d60e6d5737e325ce75bd9ce7b113d4a3e23fa2219d2ef8352"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/gpt-image-static-v2/pom-08-local.png",
+      "sha256": "b2b4f6647f4134c5f1c090fd56e6293a971a45183ddfdabf8ca7ec45b8a1be62"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/gpt-image-static-v2/pom-08-monotonicity.png",
+      "sha256": "cd6ddd22b11ceecc9f2714a5582b67b3ccdfc01154c9331a0a9fbc66b23fd55b"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/gpt-image-static-v2/pom-08-population.png",
+      "sha256": "f3f916e4e2e544d01beee0d06fe1140b8fcce4b91426570ee16b8ef80c3c1c59"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/gpt-image-static-v2/pom-08-simplex.png",
+      "sha256": "386dbb5a6d7b3abc3644d1662317a6d9381df28555741ef95c549272720e637c"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/gpt-image-static-v2/pom-09-grassmann.png",
+      "sha256": "8c0d7e9a26b7d61a0d61d461885982c6c925e892a680585dd77dae912b196060"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/gpt-image-static-v2/pom-09-ladder.png",
+      "sha256": "bbdd40d5cc19f246839df81d2a7c515513d3404ad4b48b34b44908987b1a3f85"
+    },
+    {
+      "path": "80_assets/population-optimization-manifolds/gpt-image-static-v2/pom-10-frechet.png",
+      "sha256": "8b356bf9ff36daa873c0788b404658893c622bde9f5009c199d2df5dc6485e36"
+    },
+    {
       "path": "80_assets/population-optimization-manifolds/pca-geometry-v1/pom-01-objective-mean.png",
       "sha256": "2edf8245206b03d4663ef9b578f9653965e91ebb307ca38dc7cb4817d1311b51"
     },
@@ -8251,6 +8435,98 @@
       "sha256": "9a19ef9bc167377c981aec42a8a4797e705799024906f107d7f2748350d17576"
     },
     {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/gpt-image-static-v2/tga-01.png",
+      "sha256": "25ee5e23b324d03f71e8dafa90a3646271a9030a1c2459c3c488ea6a30456b1e"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/gpt-image-static-v2/tga-02.png",
+      "sha256": "c68c4a206c67bb1ec04712cd1e75b797fcb3082748fb77bc130a8611b671555b"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/gpt-image-static-v2/tga-03.png",
+      "sha256": "75679250100cdeb4c69b7061b8519e3fd29558560a1f3759da7b4b616d4d79dc"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/gpt-image-static-v2/tga-04.png",
+      "sha256": "e5f09c1fbd9c046ab3d48ea9cd23343e543cbacc730a7c6b9d8bc1a5dbfb0c6c"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/gpt-image-static-v2/tga-05.png",
+      "sha256": "b57373420a758eabe65c4bad35c8af881814ac842db996197eafc189b37c473e"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/gpt-image-static-v2/tga-06.png",
+      "sha256": "ce47d745a9f6c0d76474063eb73d6311fbc1074711d3a3746dfae484629be834"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/gpt-image-static-v2/tga-07.png",
+      "sha256": "1bed802f49615759017d3958af0446671dfdde7e313ea574f00f091784f71d3a"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/gpt-image-static-v2/tga-08.png",
+      "sha256": "647f306df9aa27c424aee9394e0b2f1f0b5feb1c8ef1bd18fc31bea6a645c184"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/gpt-image-static-v2/tga-09.png",
+      "sha256": "c286ebbe7802efec09ee84690bba301b3fb491ff121bcb8612d01f39d71f6413"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/gpt-image-static-v2/tga-10-als.png",
+      "sha256": "13048302d7ed291effcc64115dfeb6e4c757c676acfdc3cf57aa1a534da43b1a"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/gpt-image-static-v2/tga-10.png",
+      "sha256": "b85966dee6a1acc554e5e8fb6998c8cd19bfeba47681714f5a325d254e73027b"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/gpt-image-static-v2/tga-11.png",
+      "sha256": "7bd59a74b8447fbdbf6d67a01570438b5c4eca1319ab0b671fa395cd2fede4ab"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/gpt-image-static-v2/tga-12.png",
+      "sha256": "ff95e6fda366c5d034345ad4937842a43d126af9b86cc7f913caf2f0b52e59ee"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/gpt-image-static-v2/tga-13.png",
+      "sha256": "b63b81e7600807e710582824689c9a2a064526e1dac958dae75cb1f7384145c6"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/gpt-image-static-v2/tga-14.png",
+      "sha256": "1b0733d34fb533fdfc27efdd1a4265752eab5018f3f6d14bfa6adc5e0f1d2f0b"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/gpt-image-static-v2/tga-15.png",
+      "sha256": "a46c911ca932b92281d4d195d9fce404f52b29b73b647eab59f7b4742274d8ac"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/gpt-image-static-v2/tga-16-triangle.png",
+      "sha256": "348320c6a453057de6ba6f06c3e4b5c10d489f0a3607cb97768bbc7bf230901a"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/gpt-image-static-v2/tga-16.png",
+      "sha256": "6d9d58b46abfaf46ce05db4100e317c3a39567f252ac4cd836e98664b52a44be"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/gpt-image-static-v2/tga-17.png",
+      "sha256": "af56b0d19eb65fdf53e5839ffb4cc16c66eb97820e0d6ae214ece9fd67a30233"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/gpt-image-static-v2/tga-18.png",
+      "sha256": "318d53bccdc1409757608e190bef68ce2c085b49b4a4cd6567a8d781553124ab"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/gpt-image-static-v2/tga-ml-01.png",
+      "sha256": "f9b7794694488f3cbfd9b743ad7d1b77d8271647a8005cd682252fcf62a654db"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/gpt-image-static-v2/tga-ml-02.png",
+      "sha256": "79ea30bda1580b3576ede69f46f1e3b6407ba659a312c7115c7768f69769423a"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-tensors-2023-2024/gpt-image-static-v2/tga-ml-03.png",
+      "sha256": "f1b2e1ab71af1f74350e2333f8bda548bcb441846f66818252eceb3a62a33bf6"
+    },
+    {
       "path": "80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-01.gif",
       "sha256": "1270a39bfde2af1fd676c2d01d42439bb4bbdfc7b2be287e59776b651bc8d3e3"
     },
@@ -8451,6 +8727,22 @@
       "sha256": "7a5565de81092bd74864084081072827b1cbf9e0a03d160709ebd5c28fe1983e"
     },
     {
+      "path": "80_assets/tyrtyshnikov-video-2026/gpt-image-static-v2/tva-05-bidiagonal-step.png",
+      "sha256": "977b8a0edacd49abd04995349388b0733a303ccff01a40e20074260e914c2822"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-video-2026/gpt-image-static-v2/tva-08-insight-palette-v2.png",
+      "sha256": "659d4af5e6722804a620096439081a9047d9b29d454ae906fe586a66649c8dd8"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-video-2026/gpt-image-static-v2/tva-09-left-inverse.png",
+      "sha256": "48b09fcf1cd15b9acce9f5e7acd205cb3b78f662d0a12e91c1b5e320f5e44bc1"
+    },
+    {
+      "path": "80_assets/tyrtyshnikov-video-2026/gpt-image-static-v2/tva-10-input-models.png",
+      "sha256": "0574f4f48581100a160fa3a204b627707c9a164b569e5684082558e449bcd272"
+    },
+    {
       "path": "80_assets/tyrtyshnikov-video-2026/gpt-image-v1/tva-01-insight.png",
       "sha256": "5c65694f8966a8335373094d07f5c3865507b3c6c175494f3a03b2ac200fd0cb"
     },
@@ -8603,5 +8895,5 @@
       "sha256": "8be458a495badd5423655bf130597f92ac58a33019efb59e8532b54d06449838"
     }
   ],
-  "asset_count": 1012
+  "asset_count": 1085
 }

@@ -35,13 +35,13 @@ M=\begin{pmatrix}1&-0{,}02\\1&1\end{pmatrix}.
 $$
 Замена одной клетки на $+0{,}02$ даёт ошибку Фробениуса $0{,}04$ и меняет одну метку. Замена всей матрицы на $2M$ даёт ошибку $\sqrt{3{,}0004}$ и сохраняет все метки. Обе замены имеют обычный ранг 2. Пример изолирует роль функции потерь, поэтому не утверждает уменьшение ранга.
 
-![Малая численная поправка меняет знак, а масштабирование сохраняет решения](80_assets/computational-algebra-principles/gpt-image-static-v1/classification-margin.png)
+![Малая поправка меняет знак одной оценки, а положительное масштабирование сохраняет знаки](80_assets/computational-algebra-principles/gpt-image-static-v2/classification-margin.png)
 
-Изменение оценки с −0,02 до 0,02 пересекает порог. Удвоение всей матрицы даёт большую ошибку по Фробениусу и сохраняет все знаки.
+При запасе γ=0,02 поправка 0,04 меняет знак одной оценки. Условие max|Δᵢⱼ|<γ гарантирует сохранение всех знаков.
 
 [Исходный рисунок](80_assets/computational-algebra-principles/rank-spectrum-v1/classification-margin.svg)
 
-[Открыть рисунок в полном размере](80_assets/computational-algebra-principles/gpt-image-static-v1/classification-margin.png)
+[Открыть рисунок в полном размере](80_assets/computational-algebra-principles/gpt-image-static-v2/classification-margin.png)
 
 > [!example]- Анимация (GIF)
 >

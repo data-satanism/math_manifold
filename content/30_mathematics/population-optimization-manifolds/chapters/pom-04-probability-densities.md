@@ -77,11 +77,11 @@ $$
 
 **Проверка на сфере.** Для единичной $S^2$ вне полюсов возьмём полярный угол $\vartheta$ и долготу $\varphi$. $G=\operatorname{diag}(1,\sin^2\vartheta)$, и площадь равна $\int_0^{2\pi}\int_0^\pi\sin\vartheta\,d\vartheta\,d\varphi=4\pi$. Равномерная плотность относительно площади равна $1/(4\pi)$, а координатная плотность равна $\sin\vartheta/(4\pi)$. Вероятность северной шапки $\vartheta\le\pi/3$ равна $(1-\cos(\pi/3))/2=1/4$. При равномерном выборе самого угла $\vartheta$ она составила бы $1/3$.
 
-![Одинаковые приращения углов дают разные площади.](80_assets/population-optimization-manifolds/gpt-image-static-v1/pom-04-area.png)
+![Две равные угловые клетки на единичной сфере занимают разную площадь](80_assets/population-optimization-manifolds/gpt-image-static-v2/pom-04-area.png)
 
-Две ячейки с одинаковыми приращениями колатитуды и долготы имеют разные площади. Здесь ячейка ближе к экватору занимает в 2,73 раза больше площади.
+При одинаковых шагах по долготе и колатитуде клетка ближе к экватору имеет в 2,73 раза большую площадь. Множитель sinθ задаёт эту поправку.
 
-[Открыть схему полностью](80_assets/population-optimization-manifolds/gpt-image-static-v1/pom-04-area.png) · [Исходный рисунок](80_assets/population-optimization-manifolds/pca-geometry-v1/pom-04-area.png)
+[Открыть схему полностью](80_assets/population-optimization-manifolds/gpt-image-static-v2/pom-04-area.png) · [Исходный рисунок](80_assets/population-optimization-manifolds/pca-geometry-v1/pom-04-area.png)
 
 Две ячейки имеют одинаковые ширины $\Delta\theta=0{,}35$ и $\Delta\phi=0{,}73$. Так как $\theta$ — колатитуда, ближняя к экватору бирюзовая ячейка занимает примерно в 2,73 раза больше площади. Вероятность равномерной точки на сфере пропорциональна этой площади.
 

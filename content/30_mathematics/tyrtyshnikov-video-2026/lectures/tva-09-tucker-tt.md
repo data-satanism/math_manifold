@@ -376,15 +376,15 @@ $$
 
 ## Вычисленные иллюстрации
 
-![Координаты в неортогональном базисе](80_assets/tyrtyshnikov-video-2026/gpt-image-static-v1/tva-09-left-inverse.png)
+![Скалярные произведения и восстановление координат в косом базисе](80_assets/tyrtyshnikov-video-2026/gpt-image-static-v2/tva-09-left-inverse.png)
 
-Левая обратная $L$ возвращает координаты, а $U^\top$ вычисляет скалярные произведения. Для всех входов эти операции совпадают при $U^\top U=I$.
+В конкретном базисе координатам $(1,2)^\top$ соответствуют скалярные произведения $(3,5)^\top$. Решение системы с матрицей Грама возвращает исходные координаты. При почти зависимых столбцах малая ошибка поперёк общей оси заметно усиливается.
 
 [Исходный рисунок](80_assets/tyrtyshnikov-video-2026/plots-v1/tva-09-left-inverse.svg)
 
 *Пример составителя; условия и границы указаны в [[70_labs/tyrtyshnikov-video-2026/tva-visual-lab|лабораторном журнале]].*
 
-<a href="80_assets/tyrtyshnikov-video-2026/gpt-image-static-v1/tva-09-left-inverse.png" target="_blank" rel="noopener" data-router-ignore>Открыть схему в полном размере</a>
+<a href="80_assets/tyrtyshnikov-video-2026/gpt-image-static-v2/tva-09-left-inverse.png" target="_blank" rel="noopener" data-router-ignore>Открыть схему в полном размере</a>
 
 > [!example]- Анимация (GIF)
 >

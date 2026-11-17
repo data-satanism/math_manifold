@@ -31,13 +31,13 @@ $$
 
 В порядке $(i,j,k,l)$ ранги последовательных разрезов $(n,n^2,n)$. После перестановки в порядок $(i,k,j,l)$ средняя развёртка — внешнее произведение $\operatorname{vec}(I_n)\operatorname{vec}(I_n)^\top$ и имеет ранг 1. Крайние разрезы в обоих случаях имеют ранг $n$, поскольку строки, соответствующие разным индексам крайней моды, имеют непересекающиеся ненулевые носители.
 
-![Два порядка мод с рангами разрезов и подсчётом памяти тензорного поезда](80_assets/computational-algebra-principles/gpt-image-static-v1/tensor-cut-order.png)
+![Разрезы тензора равенств и размеры ядер TT](80_assets/computational-algebra-principles/gpt-image-static-v2/tensor-cut-order.png)
 
-Если обе связи равенства пересекают разрез, развёртка имеет ранг 16. После перестановки мод обе связи остаются внутри групп, а развёртка становится внешним произведением ранга один.
+При порядке $(i,j,k,l)$ две связи пересекают средний разрез, образуя единичную матрицу ранга 16. Порядок $(i,k,j,l)$ оставляет связи внутри частей и даёт внешнее произведение ранга 1. Размеры всех ядер дают 544 и 64 коэффициента соответственно.
 
 [Исходный рисунок](80_assets/computational-algebra-principles/rank-spectrum-v1/tensor-cut-order.svg)
 
-[Открыть рисунок в полном размере](80_assets/computational-algebra-principles/gpt-image-static-v1/tensor-cut-order.png)
+[Открыть рисунок в полном размере](80_assets/computational-algebra-principles/gpt-image-static-v2/tensor-cut-order.png)
 
 > [!example]- Анимация (GIF)
 >

@@ -33,13 +33,13 @@ $$
 
 Из $DU=U$ следует $y-Dy=(I-D)e$ для любой записи $y=U\theta+e$. У ошибки есть два независимых источника: насколько хорошо выбрано пространство и насколько сильно оператор восстановления усиливает остаток и шум.
 
-![Косая проекция сохраняет измеренную координату, но не минимальное расстояние](80_assets/computational-algebra-principles/gpt-image-static-v1/cap-06-oblique-geometry.png)
+![Косая и ортогональная проекции одной точки на прямую](80_assets/computational-algebra-principles/gpt-image-static-v2/cap-06-oblique-geometry.png)
 
-Вертикальный отрезок сохраняет первую координату, а перпендикулярный прямой отрезок минимизирует расстояние. Для восстановления по первой координате нужно $u_1\ne 0$.
+Для $f=(1,0)$ косой проектор возвращает $(1,2)$ и сохраняет измеренную координату. Ближайшая точка равна $(1/5,2/5)$. Длины остатков отличаются в $\sqrt5$ раз.
 
 [Исходный рисунок](80_assets/computational-algebra-principles/plots-v2-branches17/cap-06-oblique-geometry.svg)
 
-[Открыть рисунок в полном размере](80_assets/computational-algebra-principles/gpt-image-static-v1/cap-06-oblique-geometry.png)
+[Открыть рисунок в полном размере](80_assets/computational-algebra-principles/gpt-image-static-v2/cap-06-oblique-geometry.png)
 
 > [!example]- Анимация (GIF)
 >

@@ -89,13 +89,13 @@ updated: '2026-11-03'
 
 График построен непосредственно из параметризации $d=\rho\cos\theta$, $b=\rho\sin\theta$, $t=\pm\rho$. Это точное равенство $t^2=d^2+b^2$, соответствующее $\det\left(\begin{smallmatrix}t+d&b\\b&t-d\end{smallmatrix}\right)=0$. Конус — срез симметричных матриц, а не полное пространство всех прямоугольных матриц малого ранга.
 
-![Ненулевые симметричные матрицы ранга один образуют две гладкие части конуса с общей сингулярной вершиной](80_assets/computational-algebra-principles/gpt-image-static-v1/cap-g01-rank-cone.png)
+![Два пути по конусу матриц ранга один дают разные пределы касательной проекции](80_assets/computational-algebra-principles/gpt-image-static-v2/cap-g01-rank-cone.png)
 
-На пути $\varepsilon E_{11}$ проекция направления $E_{11}$ равна $E_{11}$, а на пути $\varepsilon E_{22}$ она равна нулю. Оба пути ведут в нулевую матрицу.
+При ε→0⁺ точки εE₁₁ и εE₂₂ сходятся к нулевой матрице, но проекции E₁₁ на их касательные пространства дают E₁₁ и 0.
 
 [Исходный рисунок](80_assets/computational-algebra-principles/geometry-plots-v2/cap-g01-rank-cone.svg)
 
-<a href="80_assets/computational-algebra-principles/gpt-image-static-v1/cap-g01-rank-cone.png" target="_blank" rel="noopener" data-router-ignore>Открыть рисунок в полном размере</a>
+<a href="80_assets/computational-algebra-principles/gpt-image-static-v2/cap-g01-rank-cone.png" target="_blank" rel="noopener" data-router-ignore>Открыть рисунок в полном размере</a>
 
 > [!example]- Анимация (GIF)
 >

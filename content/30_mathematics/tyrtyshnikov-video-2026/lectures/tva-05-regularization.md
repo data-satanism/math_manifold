@@ -492,15 +492,15 @@ $$
 
 ## Вычисленные иллюстрации
 
-![Два поворота строк перед SVD](80_assets/tyrtyshnikov-video-2026/gpt-image-static-v1/tva-05-bidiagonal-step.png)
+![Два поворота Гивенса превращают нижнюю бидиагональ в верхнюю](80_assets/tyrtyshnikov-video-2026/gpt-image-static-v2/tva-05-bidiagonal-step.png)
 
-Два поворота последовательно обнуляют элементы под диагональю. Условие $G^\top G=I$ сохраняет $B^\top B$ и все сингулярные числа.
+Первый поворот обнуляет единицу под диагональю, второй обнуляет $1/2$. Умножение слева на ортогональные матрицы сохраняет матрицу Грама, поэтому сингулярные числа совпадают.
 
 [Исходный рисунок](80_assets/tyrtyshnikov-video-2026/plots-v1/tva-05-bidiagonal-step.svg)
 
 *Пример составителя; условия и границы указаны в [[70_labs/tyrtyshnikov-video-2026/tva-visual-lab|лабораторном журнале]].*
 
-<a href="80_assets/tyrtyshnikov-video-2026/gpt-image-static-v1/tva-05-bidiagonal-step.png" target="_blank" rel="noopener" data-router-ignore>Открыть схему в полном размере</a>
+<a href="80_assets/tyrtyshnikov-video-2026/gpt-image-static-v2/tva-05-bidiagonal-step.png" target="_blank" rel="noopener" data-router-ignore>Открыть схему в полном размере</a>
 
 > [!example]- Анимация (GIF)
 >
