@@ -42,7 +42,7 @@ source_refs:
     role: primary
 level: advanced
 created: 2026-07-10
-updated: 2026-10-02
+updated: 2026-11-18
 ---
 
 # Карта источников курса по теории случайных матриц
@@ -58,8 +58,8 @@ updated: 2026-10-02
 | 1.3 План книги и программные материалы | 39–42 | [[30_mathematics/random-matrix-theory/random-matrix-theory-map]] | canonical |
 | 2.1 Фундаментальные объекты | 44–50 | [[20_concepts/empirical-spectral-distribution]], [[20_concepts/resolvent-stieltjes-transform]] | canonical |
 | 2.2 Основополагающие результаты | 51–90 | [[30_mathematics/random-matrix-theory/modules/02-resolvents-deterministic-equivalents]], [[30_mathematics/random-matrix-theory/theorems/marchenko-pastur-law]] | canonical |
-| 2.3 Продвинутый анализ выборочных ковариаций | 91–97 | [[30_mathematics/random-matrix-theory/modules/02-resolvents-deterministic-equivalents]] | canonical |
-| 2.4 Предварительные сведения по статистическому выводу | 98–112 | [[30_mathematics/random-matrix-theory/modules/03-covariance-inference-linear-models]] | canonical |
+| 2.3 Продвинутый анализ выборочных ковариаций | 91–98 | [[30_mathematics/random-matrix-theory/theorems/sample-covariance-spectral-support|Носитель и точное разделение]] | Критерий, два расчёта, внешняя теорема точного разделения |
+| 2.4 Предварительные сведения по статистическому выводу | 98–112 | [[30_mathematics/random-matrix-theory/theorems/population-covariance-contour|Контурный вывод]], [[30_mathematics/random-matrix-theory/modules/03-covariance-inference-linear-models]] | Вывод, поправка в нуле, второй момент и перекрытие проекторов |
 | 2.5 Спайковые модели | 113–126 | [[30_mathematics/random-matrix-theory/theorems/spiked-covariance-transition]] | canonical |
 | 2.6 Модели «сигнал плюс шум» и деформированный Вигнер | 127–142 | [[30_mathematics/random-matrix-theory/modules/02-resolvents-deterministic-equivalents]] | canonical |
 | 2.7 Концентрация меры в RMT | 143–159 | [[30_mathematics/random-matrix-theory/modules/02-resolvents-deterministic-equivalents]], [[30_mathematics/random-matrix-theory/theorems/lipschitz-image-concentration]] | canonical |
@@ -71,7 +71,7 @@ updated: 2026-10-02
 | 3.4–3.5 Итоги и практикум | 215–224 | [[30_mathematics/random-matrix-theory/modules/03-covariance-inference-linear-models]], [[70_labs/figures/rmt-chapters-02-08-v3]] | canonical |
 | 4.1 Базовая постановка ядровых методов | 227–229 | [[30_mathematics/random-matrix-theory/modules/04-random-kernel-matrices]] | canonical |
 | 4.2 Случайные ядровые матрицы расстояний и скалярных произведений | 230–246 | [[30_mathematics/random-matrix-theory/theorems/distance-kernel-low-rank-equivalent]] | canonical |
-| 4.3 Правильное масштабирование ядра | 247–261 | [[30_mathematics/random-matrix-theory/modules/04-random-kernel-matrices]] | canonical |
+| 4.3 Правильное масштабирование ядра | 247–261 | [[30_mathematics/random-matrix-theory/modules/04-random-kernel-matrices]] | Нулевая гауссова модель, пример $s^2-1$, точный расчёт масштаба. Теоремы 4.4–4.5 остаются внешними |
 | 4.4 Следствия для ядровых методов | 262–293 | [[30_mathematics/random-matrix-theory/modules/04-random-kernel-matrices]] | canonical |
 | 4.5–4.6 Итоги и практикум | 294–298 | [[30_mathematics/random-matrix-theory/modules/04-random-kernel-matrices]], [[70_labs/figures/rmt-chapters-02-08-v3]] | canonical |
 | 5.1 Случайные нейронные сети | 299–317 | [[30_mathematics/random-matrix-theory/modules/05-random-neural-networks]], [[30_mathematics/random-matrix-theory/theorems/random-feature-gram-deterministic-equivalent]] | canonical |

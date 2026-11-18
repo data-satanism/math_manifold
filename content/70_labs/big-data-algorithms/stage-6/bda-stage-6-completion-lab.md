@@ -21,12 +21,34 @@ source_refs:
     role: primary
 level: advanced
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-11-18
 ---
 
 # Лаборатория этапа 6. Маска, однозначность и отложенные наблюдения
 
 Проверяются математические механизмы [[30_mathematics/big-data-algorithms/modules/bda-05-matrix-completion|блока 05]] и [[30_mathematics/big-data-algorithms/theorems/bda-matrix-completion-identifiability|графовой теоремы ранга один]]. Примеры различают совпадение с наблюдениями, однозначность, оптимизацию регуляризованной функции и качество на отложенных значениях. Опыт малый и синтетический; он не проверяет асимптотическую теорему Candès–Recht или скорость промышленной реализации.
+
+> [!note] Как повторить опыт
+> Полный сценарий и перечисленные файлы измерений находятся в авторском хранилище. На сайте доступны описание опыта и опубликованные иллюстрации. Самостоятельная проверка ниже запускается стандартным Python 3.
+
+## Шаг мягкого порога
+
+Для диагональной матрицы с сингулярными числами $3,1$ и $\lambda=2$
+ожидаем $1,0$. Проверяем значение проксимальной цели для найденного решения,
+нуля и исходных значений. Допуск на значения $10^{-12}$.
+
+```python
+singular_values = (3.0, 1.0)
+lam = 2.0
+prox = tuple(max(value - lam, 0.0) for value in singular_values)
+def objective(candidate):
+    return sum((a - b)**2/2 + lam*abs(a) for a, b in zip(candidate, singular_values))
+
+assert max(abs(a - b) for a, b in zip(prox, (1.0, 0.0))) < 1e-12
+assert abs(objective(prox) - 4.5) < 1e-12
+assert objective(prox) < min(objective((0, 0)), objective(singular_values))
+print(prox, objective(prox))
+```
 
 ## Запуск и воспроизводимость
 

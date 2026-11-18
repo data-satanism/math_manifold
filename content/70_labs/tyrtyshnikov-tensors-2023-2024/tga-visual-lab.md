@@ -15,12 +15,43 @@ source_refs:
     role: primary
 level: advanced
 created: 2026-11-11
-updated: 2026-11-11
+updated: 2026-11-18
 ---
 
 # Лаборатория курса «Алгебра и геометрия тензоров»
 
 Сцены построены из формул и небольших заданных массивов. В каждом GIF тёмный портретный кадр 720×1280, формула в верхней части и отдельная сцена, показывающая изменение объекта. Статичная схема сохраняет ключевой кадр. Примеры описывают математический механизм на синтетических данных. Проверку качества обученной модели нужно проводить отдельно. [Карта курса](30_mathematics/tyrtyshnikov-tensors-2023-2024/tga-map)
+
+> [!note] Как повторить опыт
+> Полный сценарий и перечисленные файлы измерений находятся в авторском хранилище. На сайте доступны описание опыта и опубликованные иллюстрации. Самостоятельная проверка ниже запускается стандартным Python 3.
+
+## Один шаг ALS при ортонормированных столбцах
+
+В примере $T_{ijk\ell}=\delta_{ik}\delta_{j\ell}$ три фиксированных множителя
+дают столбцы $e_b\otimes e_a\otimes e_b$. Проверяем нормальную матрицу $I_4$.
+После обновления первого фактора ожидаем нулевую ошибку, до обновления при половинном
+масштабе — норму ошибки $1$. Допуск на нормы $10^{-12}$.
+
+```python
+from itertools import product
+from math import sqrt
+
+pairs = list(product(range(2), repeat=2))
+triples = list(product(range(2), repeat=3))
+columns = [[int((j, k, ell) == (b, a, b)) for j, k, ell in triples] for a, b in pairs]
+gram = [[sum(a*b for a, b in zip(z, w)) for w in columns] for z in columns]
+assert gram == [[int(i == j) for j in range(4)] for i in range(4)]
+target = [[int(i == k and j == ell) for j, k, ell in triples] for i in range(2)]
+factor = [[sum(a*b for a, b in zip(row, z)) for z in columns] for row in target]
+
+def error(scale):
+    return sqrt(sum((target[i][j] - scale*sum(factor[i][k]*columns[k][j] for k in range(4)))**2
+                    for i in range(2) for j in range(8)))
+
+before, after = error(0.5), error(1.0)
+assert abs(before - 1.0) < 1e-12 and after < 1e-12
+print(before, after)
+```
 
 ## Простыми словами
 
@@ -65,11 +96,13 @@ updated: 2026-11-11
 - [Сокращение MoE](50_bridges/tyrtyshnikov-tensors-2023-2024/tga-ml-02-moe). Проверяются равенство выходов и рост числа активных экспертов при переносе вершины маршрута.
 - [Сжатие по активациям](50_bridges/tyrtyshnikov-tensors-2023-2024/tga-ml-03-weighted-rank). Проверяются значения ошибки по весам, по калибровочным входам и после смены второго момента.
 
-![Симплекс маршрутов и отрезок выходов экспертов](80_assets/tyrtyshnikov-tensors-2023-2024/gpt-image-static-v2/tga-ml-02.png)
+![Симплекс маршрутов и вклад третьего эксперта с положительным весом](80_assets/atlas-content-improvements/gpt-image-v1/moe-positive-weight.png)
+
+В панели D ошибка равна $g_3\|r\|_2$. При $g_3=0$ она нулевая при любом $r$.
+
+[Открыть рисунок в полном размере](80_assets/atlas-content-improvements/gpt-image-v1/moe-positive-weight.png) · [Предыдущий рисунок](80_assets/tyrtyshnikov-tensors-2023-2024/gpt-image-static-v2/tga-ml-02.png)
 
 При фиксированном входе вершина $(0,0,1)$ и середина ребра $(1/2,1/2,0)$ дают одинаковый выход, если третий эксперт равен среднему двух остальных. При отклонении от среднего ошибка равна весу третьего эксперта, умноженному на норму этого отклонения.
-
-[Открыть схему полностью](80_assets/tyrtyshnikov-tensors-2023-2024/gpt-image-static-v2/tga-ml-02.png)
 
 Для запуска из корня авторского хранилища нужны Python, NumPy, Matplotlib и Pillow для сцен и SymPy для символьной проверки примеров. Скрипт использует ту же палитру, что и предыдущий курс, и сохраняет результаты в отдельную папку `pca-v1`.
 

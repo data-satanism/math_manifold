@@ -16,7 +16,7 @@ source_refs:
     role: primary
 level: advanced
 created: 2026-11-17
-updated: 2026-11-17
+updated: 2026-11-18
 ---
 
 В каждом разборе можно открыть новую схему, сравнить её с предыдущей и свериться с исходным рисунком. Численные примеры из схем опираются на расчёты и обозначения из заметок. Динамику по-прежнему можно посмотреть в GIF рядом с рисунками.
@@ -77,7 +77,7 @@ updated: 2026-11-17
 | Шесть вкладов ориентированного треугольника и поправка по следам | [Открыть](30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-16) | [Новая схема](80_assets/tyrtyshnikov-tensors-2023-2024/gpt-image-static-v2/tga-16-triangle.png) · [Предыдущая схема](80_assets/tyrtyshnikov-tensors-2023-2024/gpt-image-static-v1/tga-16-triangle.png) · [Исходный рисунок](80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-16-triangle.png) |
 | Один шаг ALS и два направления для приближения тензора ранга один | [Открыть](30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-10) | [Новая схема](80_assets/tyrtyshnikov-tensors-2023-2024/gpt-image-static-v2/tga-10-als.png) · [Предыдущая схема](80_assets/tyrtyshnikov-tensors-2023-2024/gpt-image-static-v1/tga-10-als.png) · [Исходный рисунок](80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-10-als.png) |
 | Собственные направления среза Jₛ при положительном, отрицательном и нулевом s | [Открыть](50_bridges/tyrtyshnikov-tensors-2023-2024/tga-ml-01-groebner-cp) | [Новая схема](80_assets/tyrtyshnikov-tensors-2023-2024/gpt-image-static-v2/tga-ml-01.png) · [Предыдущая схема](80_assets/tyrtyshnikov-tensors-2023-2024/gpt-image-static-v1/tga-ml-01.png) · [Исходный рисунок](80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-ml-01.png) |
-| Симплекс маршрутов и отрезок выходов экспертов | [Открыть](50_bridges/tyrtyshnikov-tensors-2023-2024/tga-ml-02-moe) | [Новая схема](80_assets/tyrtyshnikov-tensors-2023-2024/gpt-image-static-v2/tga-ml-02.png) · [Предыдущая схема](80_assets/tyrtyshnikov-tensors-2023-2024/gpt-image-static-v1/tga-ml-02.png) · [Исходный рисунок](80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-ml-02.png) |
+| Симплекс маршрутов и отрезок выходов экспертов | [Открыть](50_bridges/tyrtyshnikov-tensors-2023-2024/tga-ml-02-moe) | [Новая схема](80_assets/atlas-content-improvements/gpt-image-v1/moe-positive-weight.png) · [Правка от 17 ноября](80_assets/tyrtyshnikov-tensors-2023-2024/gpt-image-static-v2/tga-ml-02.png) · [Предыдущая схема](80_assets/tyrtyshnikov-tensors-2023-2024/gpt-image-static-v1/tga-ml-02.png) · [Исходный рисунок](80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-ml-02.png) |
 | Смена ведущей оси взвешенного приближения ранга один | [Открыть](50_bridges/tyrtyshnikov-tensors-2023-2024/tga-ml-03-weighted-rank) | [Новая схема](80_assets/tyrtyshnikov-tensors-2023-2024/gpt-image-static-v2/tga-ml-03.png) · [Предыдущая схема](80_assets/tyrtyshnikov-tensors-2023-2024/gpt-image-static-v1/tga-ml-03.png) · [Исходный рисунок](80_assets/tyrtyshnikov-tensors-2023-2024/pca-v1/tga-ml-03.png) |
 
 ## Многомерный анализ с Manopt

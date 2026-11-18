@@ -35,7 +35,7 @@
     {
       "id": "ai-domain-navigation-map",
       "path": "10_maps/ai-domain-navigation.md",
-      "sha256": "7ef3f36eb5862581101f5a3fd1c69742dce6a05a06ec9e2343d19192df9f2469"
+      "sha256": "024bfe111ea3b33415ce7721c8efcd1656e18df2134309cc5957133c0465309b"
     },
     {
       "id": "ai-domain-scientific-industrial-ai",
@@ -95,7 +95,12 @@
     {
       "id": "arnoldi-lanczos-method",
       "path": "30_mathematics/numerical-analysis/methods/arnoldi-lanczos.md",
-      "sha256": "f2864b4c44642b1692ee4316ce45069ff4ebb9000f0e4ce04fd4df41a8da4b1e"
+      "sha256": "024c9cb570446907c31687b38aea6b5e73b0fedaaa73a84bd775ee2a155b313b"
+    },
+    {
+      "id": "atlas-content-review-2026-11-18",
+      "path": "atlas-content-review.md",
+      "sha256": "2a0b889ed3286f18e7193bb7582f58d6efa65816fd5a005167f370bdd63ec3f0"
     },
     {
       "id": "atlas-stage-4-review",
@@ -105,7 +110,7 @@
     {
       "id": "averaging-slow-amplitude-phase",
       "path": "30_mathematics/applied-mathematics/methods/averaging-slow-amplitude-phase.md",
-      "sha256": "58135364fa2c3d11a1e4cbdf9763037b7b71c77d3e1358ecfd2c8d833cce0cf1"
+      "sha256": "9d135ede70c7060633ecda419ede9c04e5f88081a003b32fa442bfddbc0450f8"
     },
     {
       "id": "backward-stability",
@@ -140,7 +145,7 @@
     {
       "id": "bda-01-svd-pca-gram",
       "path": "30_mathematics/big-data-algorithms/modules/bda-01-svd-pca-gram.md",
-      "sha256": "c653d8b5592418f86ceb854fd9d9d9bcac81abe694792efc5b19aa0e5a85aab9"
+      "sha256": "13bb92750af4415ee12c2626c5e5b3bf9de2f750f15c3bb3c3566484ec2e2d54"
     },
     {
       "id": "bda-02-pseudoinverse-regularization",
@@ -190,17 +195,17 @@
     {
       "id": "bda-stage-5-streaming-lab",
       "path": "70_labs/big-data-algorithms/stage-5/bda-stage-5-streaming-lab.md",
-      "sha256": "331e60a7e7059983c53d9e242fd531ddc203424bc4cf4e776e1c8211e31a0f47"
+      "sha256": "43b92b01ecf18346cb7c5f36a70b4ea8575a977d9e157a44bf964e6b3653c1ec"
     },
     {
       "id": "bda-stage-6-completion-lab",
       "path": "70_labs/big-data-algorithms/stage-6/bda-stage-6-completion-lab.md",
-      "sha256": "84a7c4c46fd544902c70094620e3902d77078d848ea31de0df78af620b96173a"
+      "sha256": "4a3848812a8b21e313537f555cb207fdd07774d0600e0560a17b7d594d289d96"
     },
     {
       "id": "bda-stage-7-nmf-lab",
       "path": "70_labs/big-data-algorithms/stage-7/bda-stage-7-nmf-lab.md",
-      "sha256": "25c7c79893190329ad92c6a904c8657e6e30893410a54251da9e3c4321d5e461"
+      "sha256": "cdefbe52f1805eabc61b43284d5ce53389971709e97bdd33064cf7a274fb0e51"
     },
     {
       "id": "bernstein-ellipse-interpolation-theorem",
@@ -245,7 +250,7 @@
     {
       "id": "branches17-selection-and-greedy-lab",
       "path": "70_labs/branches17-selection-and-greedy-lab.md",
-      "sha256": "d3324aa9ce54e75cd178ec6979573fcd6104c2e0f423c975f5c438d8e1e578fc"
+      "sha256": "4254e3a85b63a0127364554c1dbe3c90f26749bd54cec0a55d92c1f6cd81e201"
     },
     {
       "id": "bridge-analytic-continuation-inverse-problems",
@@ -390,12 +395,12 @@
     {
       "id": "bridge-krylov-hessian-vector-products",
       "path": "50_bridges/krylov-hessian-vector-products.md",
-      "sha256": "778f23c7e30d20563469ce1b3bc49f80c6e4050fb3fddb15580d4aa486ca336e"
+      "sha256": "37edb976d4d172123b87ab429cd042c59aaa9bb4b280d3f84674d8d94adc41a4"
     },
     {
       "id": "bridge-krylov-preconditioning-ml",
       "path": "50_bridges/krylov-preconditioning-ml.md",
-      "sha256": "292c034cf5c889efa90a79a6c13ca6566c3b6bfd4b0f868a3638dc2bfadecfee"
+      "sha256": "5640e81792a0bcaff6ea1b7300c607d8c10ba4eeb97a99c5277d8ffbff7d4c1b"
     },
     {
       "id": "bridge-laplace-state-space-learning",
@@ -640,7 +645,7 @@
     {
       "id": "cap-branches456-lab",
       "path": "70_labs/cap-branches456-lab.md",
-      "sha256": "5593206d27a10792c4c8e01a72dcf9ab9bcc307d40b6be924e77b21d7463dba3"
+      "sha256": "f28143fabb74593f446354f11f43e4931fb3052e5a03745a7639c2928e0f9acf"
     },
     {
       "id": "cap-covariance-feature-bridge",
@@ -665,7 +670,7 @@
     {
       "id": "cap-fixed-rank-lab",
       "path": "70_labs/computational-algebra-principles/cap-fixed-rank-lab.md",
-      "sha256": "c6409ea44dd210bee73a8ccf425ab605081efda6232fc9b881b74cf404a1e032"
+      "sha256": "e93a8b567dc366f1a955604dc8a0e3bff18271b6b5263da96d45ecb369c17c02"
     },
     {
       "id": "cap-fixed-rank-tangent-theorem",
@@ -675,7 +680,7 @@
     {
       "id": "cap-full-plan-lab",
       "path": "70_labs/computational-algebra-principles/cap-full-plan-lab.md",
-      "sha256": "c69bd1cea25edc3ca3599439a29bc46c798804e73f30f5ed5d7f630323e9de7d"
+      "sha256": "0a0fc94eb31280b19d9d558d15102d359136d4c7b03edd2f64bcd83756760bee"
     },
     {
       "id": "cap-g01-fixed-rank-geometry",
@@ -745,7 +750,7 @@
     {
       "id": "cap-orthogonal-lab",
       "path": "70_labs/computational-algebra-principles/cap-orthogonal-lab.md",
-      "sha256": "1c635f11d7500a295bd36994b9d72a92e7e3b07a1ca53c27da178092ea8edde3"
+      "sha256": "a7deaf93e48752920beab3f63d93e179dd56640ad2c21c5419e8878d65a6eae7"
     },
     {
       "id": "cap-p01-isometric-core",
@@ -795,7 +800,7 @@
     {
       "id": "cap-qr-riemannion-lab",
       "path": "70_labs/computational-algebra-principles/cap-qr-riemannion-lab.md",
-      "sha256": "ed37393d6a814643dfbfeea450e53b8e068647294445806bec86073103d675d1"
+      "sha256": "50bb995bc9536912e2d4f7fbca8d1bf46693623dd2c30631bc575c62a98bb271"
     },
     {
       "id": "cap-qr-small-core-bridge",
@@ -870,7 +875,7 @@
     {
       "id": "cap-rank-spectrum-lab",
       "path": "70_labs/computational-algebra-principles/cap-rank-spectrum-lab.md",
-      "sha256": "25023a5f13445d6eced8e3cae381a6d36f601eda5990a426878416dafa454e41"
+      "sha256": "c6392eddf51aa4c45339fb0688db28ab776f85a1d8e3fc4c95f9d116bf268de1"
     },
     {
       "id": "cap-rank-spectrum-map",
@@ -940,7 +945,7 @@
     {
       "id": "cap-visual-lab",
       "path": "70_labs/computational-algebra-principles/cap-visual-lab.md",
-      "sha256": "762e3a0236e8675ed16933bdbd9cf6065996d84ae0ff341be086dd68a0a0c56e"
+      "sha256": "eb0b7e0cd68b411c8208f19783afbf6fd05b5187452b64452586a2b4825db4fb"
     },
     {
       "id": "cap-volume-coefficient-theorem",
@@ -1180,7 +1185,7 @@
     {
       "id": "dyn-06-numerical-sde",
       "path": "30_mathematics/stochastic-dynamics/modules/dyn-06-numerical-sde.md",
-      "sha256": "5d7daa048342c73ba62229d69ce0d25c3738e6d694a753a27dff30fc9de678b9"
+      "sha256": "ad3c137259d3ae5e77484df3053eba1d75aeea7e3198fd4702bb38872c64b52b"
     },
     {
       "id": "dyn-07-reverse-sde-diffusion",
@@ -1230,7 +1235,7 @@
     {
       "id": "fa-01-sets-spaces-maps",
       "path": "30_mathematics/functional-analysis/modules/01-sets-spaces-maps.md",
-      "sha256": "764c270bbd5edb78f1ab764602df49277de6a3fc18891b91adc2c16331c2584e"
+      "sha256": "1780debc3a77c1db5afc16527b4802eae8e2de2f06d07b93120fa40c7c97db75"
     },
     {
       "id": "fa-02-metric-normed-spaces",
@@ -1260,7 +1265,7 @@
     {
       "id": "fa-07-hilbert-operators",
       "path": "30_mathematics/functional-analysis/modules/07-hilbert-operators.md",
-      "sha256": "1c2e319bb460ab23f6fd757d794a29035b259c04c85336eb2892d8469f0099d1"
+      "sha256": "b3b98dc5bebf394d833bc4f944cab4af6bfdd88910b49eb3688df906249dc6f1"
     },
     {
       "id": "fa-08-distributions-convolution",
@@ -1385,7 +1390,7 @@
     {
       "id": "gdl-01-high-dimensional-priors",
       "path": "30_mathematics/geometric-deep-learning/modules/gdl-01-high-dimensional-priors.md",
-      "sha256": "d7f1a6eb936dd39194b7200d0655140d94178279fc4d3592a270c7557e001471"
+      "sha256": "5019ce4ab3f44198a64327ddfe4842a4a7e13fd2aa6ab513fa2e4c120f772a75"
     },
     {
       "id": "gdl-02-groups-actions-symmetry",
@@ -1505,7 +1510,7 @@
     {
       "id": "ha-01-harmonic-viewpoint-characters",
       "path": "30_mathematics/harmonic-analysis-wavelets/modules/ha-01-harmonic-viewpoint-characters.md",
-      "sha256": "cebd1121bbf93aed470f1c8dbb8b355fc5a231aa1a9df35c4fa2bfd12a4f6f46"
+      "sha256": "27fec09b9ae0532507607f70331e629b2318355dd4f182b46261d9dca42d81e2"
     },
     {
       "id": "ha-02-fourier-schwartz-inversion",
@@ -1530,7 +1535,7 @@
     {
       "id": "ha-06-sampling-dft-fft-aliasing",
       "path": "30_mathematics/harmonic-analysis-wavelets/modules/ha-06-sampling-dft-fft-aliasing.md",
-      "sha256": "b24f265c404984973b414fd658d555abe92097254ac12d9afbc8f4fea934418d"
+      "sha256": "b819e9e70c3431dabce7b3ff9afd333199e6b353c624f1d386a8b863f17249e2"
     },
     {
       "id": "ha-07-dyadic-littlewood-paley",
@@ -1550,7 +1555,7 @@
     {
       "id": "ha-10-filter-banks-perfect-reconstruction",
       "path": "30_mathematics/harmonic-analysis-wavelets/modules/ha-10-filter-banks-perfect-reconstruction.md",
-      "sha256": "6c8c6ba256239353e62041c6387ef47251848223d9a1a678fbf492579176eb38"
+      "sha256": "4f834311875cd1b7c3a7f6bc09a7537f09a2ebfce652d97c715eda027353414d"
     },
     {
       "id": "ha-11-compact-wavelets-sparsity",
@@ -1605,7 +1610,7 @@
     {
       "id": "hermitian-qr-cubic-convergence-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/hermitian-qr-cubic-convergence.md",
-      "sha256": "163edbab54b56465074b48d8b2af7732322219c0d5bbf80842c53a091cdd647e"
+      "sha256": "9cacdf00961fc97a4239d985ec0daa3399790ae65024829fc67f45eb8ca2215a"
     },
     {
       "id": "hierarchical-low-rank-matrix-method",
@@ -1640,7 +1645,7 @@
     {
       "id": "ig-01-statistical-manifolds",
       "path": "30_mathematics/information-geometry/modules/ig-01-statistical-manifolds.md",
-      "sha256": "457491edab1642b6904390b51640a9dc4a0f9496e9029cd12a76a3de7554cf28"
+      "sha256": "061d110bccca3b41eb15ac4494c3471b9f48589edca17cf3749fc814020ba2a9"
     },
     {
       "id": "ig-02-fisher-rao-metric",
@@ -1670,7 +1675,7 @@
     {
       "id": "ig-07-natural-gradient",
       "path": "30_mathematics/information-geometry/modules/ig-07-natural-gradient.md",
-      "sha256": "c4bab771ed1ec2a16daf9634b0a4b1997cad201c201fb203326a865e92721adc"
+      "sha256": "2f989c6a1ca0337dbb3386ec47fadc9ac6fccb95d8f97c6dd025c2fa414148c8"
     },
     {
       "id": "ig-08-projections-inference-clustering",
@@ -1695,7 +1700,7 @@
     {
       "id": "inequalities-01-cauchy-amgm-squares",
       "path": "30_mathematics/inequalities/modules/01-cauchy-amgm-squares.md",
-      "sha256": "7a1ae4af87e7d7cee1c9cae41b22640489ba3c4ae48e91e75164e47056c53f26"
+      "sha256": "9eadee3cbea34f41b24ad190f71b38017b758eded0f0e7ff58f86e2ed8099291"
     },
     {
       "id": "inequalities-02-order-convexity-power-means",
@@ -1790,7 +1795,7 @@
     {
       "id": "lab-big-data-pilot-reproducibility",
       "path": "70_labs/big-data-algorithms/pilot-reproducibility.md",
-      "sha256": "05a92b082868ffdf67469f4e345f662b71e0f72b28f3f175e7ed1d4b16ba742e"
+      "sha256": "2fcd195945c883b435e395bd46f069409295929c735592375187398e38deb8be"
     },
     {
       "id": "lab-exponential-rkhs-statistical-models-figures",
@@ -1930,7 +1935,7 @@
     {
       "id": "lab-rmt-bbp-spiked-transition",
       "path": "70_labs/rmt/02-bbp-spiked-transition.md",
-      "sha256": "c3261a279b6201aba8c0551274bbd7f451d62482ca6100b3652f90f10d9c78cb"
+      "sha256": "c98fde850066871317d138cc4d5c183f4b1decc548d44bd1f0ea0bebe4df5daa"
     },
     {
       "id": "lab-rmt-gpt-image-prompts-v1",
@@ -1940,7 +1945,7 @@
     {
       "id": "lab-rmt-marchenko-pastur-finite-size",
       "path": "70_labs/rmt/01-marchenko-pastur-finite-size.md",
-      "sha256": "d72cdb569ed5e0a6fdbcd215afa4228e9153fa02c92f8a380ffd29e5712cf1ed"
+      "sha256": "c06ebb3a95743663734c0ff77f848c3b7bdafaf64bd053c2c1efc6ffbb931e2f"
     },
     {
       "id": "lab-rmt-moe-inference-acceleration-gpt-image-v1",
@@ -1950,7 +1955,7 @@
     {
       "id": "lab-rmt-random-features-capacity",
       "path": "70_labs/rmt/04-random-features-capacity.md",
-      "sha256": "8ffd2fb4ab146caa394a8021cdf6872a012aa121a1bc9a307a9495f5ac2f97df"
+      "sha256": "0f945b87804f16a44ae811d13a4cff361330a21536fc88e100d4d0a5621ce976"
     },
     {
       "id": "lab-rmt-release-interactives",
@@ -1970,17 +1975,17 @@
     {
       "id": "lab-rmt-resolvent-density-recovery",
       "path": "70_labs/rmt/03-resolvent-density-recovery.md",
-      "sha256": "5f16583a60e62e50cb2ad1a9f6813c822d44f068736c95e0b3062a71cabc38fc"
+      "sha256": "31abc80599d834bc87a8bac88cf897aa54049c876efccb2fa3b0786df30f936c"
     },
     {
       "id": "lab-rmt-sbm-dense-sparse",
       "path": "70_labs/rmt/05-sbm-dense-sparse.md",
-      "sha256": "fa5c5fedc7f8686fde96037cf544d7e2c248a896ef0d2b3babdb412e79f9c668"
+      "sha256": "eac63950237b5862374dd35fa3d329cc44664b5754478cd6b218fe77c1b32e0b"
     },
     {
       "id": "lab-rmt-stage-4-diagnostics",
       "path": "70_labs/rmt/stage-4/rmt-stage-4-diagnostics.md",
-      "sha256": "49fd0cdc5d1884b29a92dbf88ecb812cc44d7d05e21a4ae9ad287b2c22e1e243"
+      "sha256": "d978deb1dd02d024239a9db66a3bfcdda181d4c86c5677d82455878238a8c6df"
     },
     {
       "id": "lab-support-vector-estimation-figures",
@@ -1990,7 +1995,7 @@
     {
       "id": "lab-tensor-stage-4-diagnostics",
       "path": "70_labs/tensor-methods/stage-4/tensor-stage-4-diagnostics.md",
-      "sha256": "f6ffbc74aa6c1df6aa4c270d0391770cc6a7efc3bb1857b4a334849dda609a15"
+      "sha256": "ce85276a11b1d68f88e69714eab516f46a855d3025e84c25e0b75b8b086426a3"
     },
     {
       "id": "lab-tensors-matrix-equations-prompts-v1",
@@ -2035,7 +2040,7 @@
     {
       "id": "lg-01-smooth-manifolds-atlases",
       "path": "30_mathematics/lie-groups-differential-geometry/modules/lg-01-smooth-manifolds-atlases.md",
-      "sha256": "0e6a4421bf6f3ef77af81db582149327abddcbbb963c9375114b478d1b91af36"
+      "sha256": "b3b2034b0cb3650cc1155c3bba4d229a9f0e7db278000952373912f3b8129f43"
     },
     {
       "id": "lg-02-tangent-cotangent-differential",
@@ -2125,7 +2130,7 @@
     {
       "id": "linear-algebra-01-coordinate-geometry-invariants",
       "path": "30_mathematics/linear-algebra/modules/01-coordinate-geometry-invariants.md",
-      "sha256": "6e474971ff2816d8034ba400ce6bc267713274ec36e6548e33cbbbbae587eee2"
+      "sha256": "a86c3319d66f845c2ad73e92948dc7c7e443bc9e2863c373c669b7e954fbaf71"
     },
     {
       "id": "linear-algebra-02-linear-representations-recognition",
@@ -2215,17 +2220,17 @@
     {
       "id": "marchenko-pastur-law",
       "path": "30_mathematics/random-matrix-theory/theorems/marchenko-pastur-law.md",
-      "sha256": "cdfe9a4365a409838f65cc5cd754bd18448c6dfc7ca773b6c56a4f80dff0eea8"
+      "sha256": "5c11455d95425a77d5eb09fa732d76d72ca8d5353034df8f5914e21cdf91792f"
     },
     {
       "id": "math-ai-home",
       "path": "index.md",
-      "sha256": "96a0fa4bedf586c54da2260dee0b93010ca5978a2d9e30ec0b1e60f1768b6e0d"
+      "sha256": "3658b1e7eea125f792718a41c77f315223cb4bfeeaf57a8daf1830f0fdbffd6d"
     },
     {
       "id": "mathematics-integration-map",
       "path": "10_maps/mathematics-integration-map.md",
-      "sha256": "dba7e33f5a5a99345b7c9dffcf7b904892a24420c029ec8f26230a13aab84417"
+      "sha256": "e63aecfeda8f973b9dcdead5c395168234d37e2424b7cd8d0aeddf16a0f9dfec"
     },
     {
       "id": "matrix-deviation-inequality",
@@ -2290,7 +2295,7 @@
     {
       "id": "mda-geometry-lab",
       "path": "70_labs/matrix-manifolds-manopt/mda-geometry-lab.md",
-      "sha256": "248e3b5fddaecd085d1fc7f7b9c46e14256cc928f49ace27cee0f42695a58b2c"
+      "sha256": "059837ca3079db48bfae0e87e162097226df5c4cc0cabe350983bed755b880bc"
     },
     {
       "id": "mda-map",
@@ -2305,7 +2310,7 @@
     {
       "id": "method-conditional-exponential-rkhs-model",
       "path": "30_mathematics/kernel-methods/methods/conditional-exponential-rkhs-model.md",
-      "sha256": "2318f67f2c97a953e0e91abef3c07d1cc221fadcafa9833ed62e7c9bae8cf2a6"
+      "sha256": "ce2cccbdd5272a568a25be6be55cb67c0bea29516f0e8804886de721b0dcff29"
     },
     {
       "id": "method-epsilon-insensitive-kernel-regression",
@@ -2515,7 +2520,7 @@
     {
       "id": "nla-20-krylov-projection-methods",
       "path": "30_mathematics/numerical-analysis/modules/20-krylov-projection-methods.md",
-      "sha256": "8c4f615fd0914df1922c31b5cc32224cc47380f8eb55bbf192d253055e95220e"
+      "sha256": "d89d19c86ed1fbc256663d43c8e0d346a5e5fd697c5b9e30b3c92a727a110a22"
     },
     {
       "id": "nla-21-gmres-convergence",
@@ -2585,7 +2590,7 @@
     {
       "id": "opl-01-pde-solution-operators",
       "path": "30_mathematics/operator-learning/modules/opl-01-pde-solution-operators.md",
-      "sha256": "f7ed8b535c022b7ec0a1c4cab7d77c821099b0cb5bf43daea145090c4140e717"
+      "sha256": "205e596557b9272939a9cb20096cc51a051a6e0811c5a1e8ddb6f6bee112aafd"
     },
     {
       "id": "opl-02-weak-variational-formulations",
@@ -2600,7 +2605,7 @@
     {
       "id": "opl-04-deeponet-branch-trunk",
       "path": "30_mathematics/operator-learning/modules/opl-04-deeponet-branch-trunk.md",
-      "sha256": "4509f5e840b74b15c982555575a980821aaec70ac1f2484108ab74b0770e7b95"
+      "sha256": "db3a4633f400bc5250419b6e38919912df656f70775ca6f1932ac271d56292b3"
     },
     {
       "id": "opl-05-fourier-neural-operator",
@@ -2635,7 +2640,7 @@
     {
       "id": "optimization-01-problem-geometry",
       "path": "30_mathematics/optimization/modules/01-problem-geometry.md",
-      "sha256": "5369e24952ba8e2e67002914deafcaadeacfba4d185e92f08b4dcda08b8f8d6f"
+      "sha256": "6cf8804dbf04220b9b593bd7453e61028ca930be188c5630c4228209bda322b5"
     },
     {
       "id": "optimization-02-gradient-methods-ml",
@@ -2715,12 +2720,12 @@
     {
       "id": "parabolic-galerkin-existence-theorem",
       "path": "30_mathematics/classical-pde-variational/theorems/parabolic-galerkin-existence-theorem.md",
-      "sha256": "5659954d2d48cdac8d9851e58c5edf840e08a90ccb06509a243cacc7dbc142be"
+      "sha256": "f4c7730c2be837102112e42beae15aebf8a33c0fd347ec4ca7db657ddff181d4"
     },
     {
       "id": "pde-01-operator-data-well-posedness",
       "path": "30_mathematics/classical-pde-variational/modules/pde-01-operator-data-well-posedness.md",
-      "sha256": "bfc5a9e81714cf2925cc8c2532ddea98307252c805ff216fbffc93a361d3edd9"
+      "sha256": "88f1154721600a9394a89783f42f5d5e7e79d3eb13999c8296d9d2adf16ee23d"
     },
     {
       "id": "pde-02-harmonic-functions-maximum-green",
@@ -2750,7 +2755,7 @@
     {
       "id": "pde-07-parabolic-weak-galerkin",
       "path": "30_mathematics/classical-pde-variational/modules/pde-07-parabolic-weak-galerkin.md",
-      "sha256": "4f2229a49c0104ad6c3ed7a64f58f2ed16e621781b702b9802cfbb325d13afa4"
+      "sha256": "2e03a3b2a374085a87c26ef548d2c9e74f3d2dc783af1332d26fb8ed88ea5c1d"
     },
     {
       "id": "pde-08-wave-energy-domain-dependence",
@@ -2870,7 +2875,7 @@
     {
       "id": "pom-geometry-lab",
       "path": "70_labs/population-optimization-manifolds/pom-geometry-lab.md",
-      "sha256": "e4d37b568edf3b5b93e96c81fe43e301c4f64e922c01d243151d55406d93a369"
+      "sha256": "bfde154cdc8d861964e66229421196ee65fc4195576b75f29149f1765ccae8f8"
     },
     {
       "id": "pom-map",
@@ -2881,6 +2886,11 @@
       "id": "pom-source-map",
       "path": "30_mathematics/population-optimization-manifolds/pom-source-map.md",
       "sha256": "3e56588c2310d845d33a636427d80e1e4c0528bb35573397ccc58ceb6c8eab46"
+    },
+    {
+      "id": "population-covariance-contour",
+      "path": "30_mathematics/random-matrix-theory/theorems/population-covariance-contour.md",
+      "sha256": "fbacef78215aad0485109f62f7112f3ebcba067ea3c27660701591d3b73210e6"
     },
     {
       "id": "positive-definite-kernel",
@@ -2900,7 +2910,7 @@
     {
       "id": "probability-01-refresher",
       "path": "30_mathematics/probability/modules/01-probability-refresher.md",
-      "sha256": "013bb023e6d189bbc2505e29f2ffa5922a222df3471a338c68774a5e38e7ce9e"
+      "sha256": "dd408765b6de5b32acc8320b2f0822e788cde8d4624e8a6cb3b7626658299ac1"
     },
     {
       "id": "probability-02-concentration-independent-sums",
@@ -2995,17 +3005,17 @@
     {
       "id": "random-matrix-theory-map",
       "path": "30_mathematics/random-matrix-theory/random-matrix-theory-map.md",
-      "sha256": "e1bf9337afc4e23021e2b58746b9a8b00ed1798469fe2655a7ab28704afe5551"
+      "sha256": "7fc4ca39df9153db739a61a7a6bad4b6a03e6c83182bb4ee1d44f17e4afcfb59"
     },
     {
       "id": "rayleigh-shift-quadratic-convergence-theorem",
       "path": "30_mathematics/numerical-analysis/theorems/rayleigh-shift-quadratic-convergence.md",
-      "sha256": "c0bc8292088cd9e4728dd0a2d6a905978ed1b36d633a0bf31986db071d05fa4c"
+      "sha256": "2b3ddfebce421c194722abce3070ded0d63ce88178dec5fdf51986b4a03cc810"
     },
     {
       "id": "real-analysis-01-measures-radon-nikodym",
       "path": "30_mathematics/real-analysis/modules/01-measures-radon-nikodym.md",
-      "sha256": "4b4b8655e24cf053f206f125e20fe771aecafe190dcd7f737e5da3c77b86d988"
+      "sha256": "f316942800766eb549d18ca319ce79ef7546834a597aef1db36791c1b81ee913"
     },
     {
       "id": "real-analysis-02-lp-hilbert-duality",
@@ -3085,22 +3095,22 @@
     {
       "id": "rmt-01-high-dimensional-spectra",
       "path": "30_mathematics/random-matrix-theory/modules/01-high-dimensional-spectra.md",
-      "sha256": "cb5100ab8a8d1888f4f255d0ef945149189897ae10a7a1aaef62a87b555f21e4"
+      "sha256": "a198f0708f46e8e6bb51c79e16d07e99e2e5dbbed81f518b36f10134e63d1512"
     },
     {
       "id": "rmt-02-resolvents-deterministic-equivalents",
       "path": "30_mathematics/random-matrix-theory/modules/02-resolvents-deterministic-equivalents.md",
-      "sha256": "f0db5762695bf8cd22a12e961aa8101a619352242e481b845542e336e3675f5e"
+      "sha256": "f504c7926da476da3f89881d981d6c9c329331745984e947e876d10d1d98be9d"
     },
     {
       "id": "rmt-03-covariance-inference-linear-models",
       "path": "30_mathematics/random-matrix-theory/modules/03-covariance-inference-linear-models.md",
-      "sha256": "57856a4e8a8adf69d32048d15cd4252158c255d1ff9a4c96796e41dd43810e13"
+      "sha256": "ec16379df77009be2619cc8ed9af5936572cc81260687cc272e70cf2a3deed2a"
     },
     {
       "id": "rmt-04-random-kernel-matrices",
       "path": "30_mathematics/random-matrix-theory/modules/04-random-kernel-matrices.md",
-      "sha256": "e1a2663b51349cecd6f66ead306ee016185d7c93fa26bcf61e70399677ecbdcc"
+      "sha256": "b55eba16815e2173210e03b7a6abd89d5d65fbde7f8da81736de13d31fa1bd47"
     },
     {
       "id": "rmt-05-random-neural-networks",
@@ -3140,7 +3150,7 @@
     {
       "id": "rmt-source-map",
       "path": "30_mathematics/random-matrix-theory/rmt-source-map.md",
-      "sha256": "7a782629b53771c1bd07a5976b78988acc2a29f33763ce647fd25cc66089c6a4"
+      "sha256": "78a39318ac29561e894b6c8301da5f23f5c04b595ff92f2dfb4f1a6f49ac1f1e"
     },
     {
       "id": "rmt-universality",
@@ -3151,6 +3161,11 @@
       "id": "sample-covariance-deterministic-equivalent",
       "path": "30_mathematics/random-matrix-theory/theorems/sample-covariance-deterministic-equivalent.md",
       "sha256": "d48197eb41dc66a170ba48aedc200e342b9c38df19dde4a800655ed41d2f8834"
+    },
+    {
+      "id": "sample-covariance-spectral-support",
+      "path": "30_mathematics/random-matrix-theory/theorems/sample-covariance-spectral-support.md",
+      "sha256": "ef6cc2fcec9c14422fc49dfe0df6fae93d7138764fd16bd29c60a73a7dc5790a"
     },
     {
       "id": "scattering-nonexpansiveness-stability",
@@ -3180,7 +3195,7 @@
     {
       "id": "slt-01-risk-erm-pac",
       "path": "30_mathematics/statistical-learning-information-theory/modules/slt-01-risk-erm-pac.md",
-      "sha256": "4d429c345b8c706b7e25da1fa0b8ba14ea81b317c13fbb6c9769b83a79f14fee"
+      "sha256": "05242968ee4da50829976f3ef86da8f3c4d17db744a0d48bab35b744790d93d7"
     },
     {
       "id": "slt-02-concentration-finite-classes",
@@ -3615,7 +3630,7 @@
     {
       "id": "static-figures",
       "path": "static-figures.md",
-      "sha256": "e79f0d0ae4cba5ca03c8da382093f39ccb939774ad08548d12fb9b71afcd67cd"
+      "sha256": "ae097f1ef6b08c02a13f8cd4830639122e2c99c3103e0dea929b130e4404b4f6"
     },
     {
       "id": "steele-inequalities-source-map",
@@ -3735,27 +3750,27 @@
     {
       "id": "ten-01-multilinear-objects",
       "path": "30_mathematics/tensor-methods/modules/ten-01-multilinear-objects.md",
-      "sha256": "d9e325c86796c7b54339f35e73fab8419f0cc8a164fb50da670e9d2a3d642713"
+      "sha256": "f8053209985832495fafd7e2eb4bf8b7a3f0c23d57a99606be4ab83ca728a5ae"
     },
     {
       "id": "ten-02-cp-rank",
       "path": "30_mathematics/tensor-methods/modules/ten-02-cp-rank.md",
-      "sha256": "b9085b2068a94b337e66e190ce1546b7a5e7907a76e1e39ffd4503511b02b681"
+      "sha256": "aef91286a4086f0f62b827f7c034910681bad1fee7bbbd2ebcd24f850c99a17d"
     },
     {
       "id": "ten-03-tucker-hosvd",
       "path": "30_mathematics/tensor-methods/modules/ten-03-tucker-hosvd.md",
-      "sha256": "616cb27cbfe81b263e4488ac24992354571d4276dd00084a0c33613202fbbca0"
+      "sha256": "80a7f97bc8c3f482e3929acb25a521a8d46fefb1e17b856dd3acd9cca25799b2"
     },
     {
       "id": "ten-04-tensor-networks",
       "path": "30_mathematics/tensor-methods/modules/ten-04-tensor-networks.md",
-      "sha256": "d0fc9151da218ef79eca800b44b1a7b8807296ae5e881906db343bfb174fad8b"
+      "sha256": "32b76687ffb45b017d6fd2af89982e22f481ddbe3972dde2a36ccebf754ce64e"
     },
     {
       "id": "ten-05-identifiability-degeneracy",
       "path": "30_mathematics/tensor-methods/modules/ten-05-identifiability-degeneracy.md",
-      "sha256": "aadbbd4d11abd978cca9cc83cf8e8f4d55fa12e329177d0edb4298e5a762dead"
+      "sha256": "a546a0eb19954e9ec95773367a0d025d012ce92de4a645b99ca164f838329893"
     },
     {
       "id": "ten-06-randomized-range-finding",
@@ -3775,7 +3790,12 @@
     {
       "id": "ten-course-map",
       "path": "30_mathematics/tensor-methods/ten-map.md",
-      "sha256": "45a2bc0404c78b62df3166d6d78d6a39aa535b9889e32b9bc6773435529eada1"
+      "sha256": "9667aa1c0346779775fff56d64e9685b4b42597c6683380d63f1c848f1b77ee3"
+    },
+    {
+      "id": "ten-formats-worked-example",
+      "path": "30_mathematics/tensor-methods/modules/ten-formats-worked-example.md",
+      "sha256": "ffa9b41a798359ebe830888e0950d629fc2edbd7e59928715b873acadcb10d41"
     },
     {
       "id": "ten-source-map",
@@ -3885,7 +3905,7 @@
     {
       "id": "tga-ml-02-moe",
       "path": "50_bridges/tyrtyshnikov-tensors-2023-2024/tga-ml-02-moe.md",
-      "sha256": "7861ff42e929abde91686a5f39ef8bd0ee9b2a626185f73b44238ec40de48854"
+      "sha256": "0606f7aef2b74504a8dce73dfcac8795ffcb538dd60a194dc7472ba35ba2f65c"
     },
     {
       "id": "tga-ml-03-weighted-rank",
@@ -3900,7 +3920,7 @@
     {
       "id": "tga-visual-lab",
       "path": "70_labs/tyrtyshnikov-tensors-2023-2024/tga-visual-lab.md",
-      "sha256": "f9abf6a55ae4df269ea20f538f61f90aa0c0acd4827fe70f07f734de9a4a7e52"
+      "sha256": "19624e6ca5267fdd27bb301889da17ab2e718edec09143236f47f9213f035ffb"
     },
     {
       "id": "theorem-boundary-squared-zero",
@@ -3930,7 +3950,7 @@
     {
       "id": "theorem-deeponet-universal-operator-approximation",
       "path": "30_mathematics/operator-learning/theorems/deeponet-universal-operator-approximation.md",
-      "sha256": "c715cb05fb01c0a2773e90ba762137d5003449ac54773c6a68106137c899bf6c"
+      "sha256": "66443cd42dfbc19c45142125a8faf6d5c368e26a85ede566b5a82b225a5c2776"
     },
     {
       "id": "theorem-descent-lemma",
@@ -3945,7 +3965,7 @@
     {
       "id": "theorem-fisher-reparameterization-invariance",
       "path": "30_mathematics/information-geometry/theorems/fisher-reparameterization-invariance.md",
-      "sha256": "1e362015dbbef79bf8cc7e9cb46fe32375ac641255425a0be3a7d28e14040735"
+      "sha256": "de8d295e9911543420b4a01db34c920b2668f8ec1c9a9a42dd910093f9f838a0"
     },
     {
       "id": "theorem-gdl-equivariant-composition",
@@ -4040,7 +4060,7 @@
     {
       "id": "theorem-sauer-shelah-growth",
       "path": "30_mathematics/statistical-learning-information-theory/theorems/sauer-shelah-growth.md",
-      "sha256": "342e2e494f6cdbf4fd45d4fff3b56d8856a3775a81c69ec7b3ea83d2f3f8bc23"
+      "sha256": "80abe3f4c56e80f9feb0a1e18877649fdff66372d7cc60464edb680ee60173e5"
     },
     {
       "id": "theorem-seifert-van-kampen",
@@ -4355,7 +4375,7 @@
     {
       "id": "trace-covariance-distance-correction",
       "path": "30_mathematics/random-matrix-theory/theorems/trace-covariance-distance-correction.md",
-      "sha256": "ce0bcb018a6b203d28dcd37189faeef8a9650c677348118fcdccf1f52be64850"
+      "sha256": "e28f9fd113549a49b1a5fdca07cd3179d386ca3a3fd97585fe0bbc09baf143b0"
     },
     {
       "id": "tsybakov-noise-localization",
@@ -4425,7 +4445,7 @@
     {
       "id": "tva-visual-lab",
       "path": "70_labs/tyrtyshnikov-video-2026/tva-visual-lab.md",
-      "sha256": "6520618228577668e824773fa1d714fd94fab9dc6d3e163b0134166d719cd196"
+      "sha256": "d28585b89e4993188e3989bd06478bf48fed1598bb3bb42cae3c4f9f1a3e274a"
     },
     {
       "id": "tyrtyshnikov-chapters-09-11-figure-registry",
@@ -4455,7 +4475,7 @@
     {
       "id": "vca-01-complex-geometry",
       "path": "30_mathematics/complex-analysis/modules/01-complex-geometry.md",
-      "sha256": "5050c1cbe66a83c5994207ab3e0b2f1de999865845f8123eb691b6baaeeb9ff3"
+      "sha256": "277bdc8206977a2c44298bf5c068250790fbd974b517f248f14942929715b356"
     },
     {
       "id": "vca-02-functions-transformations",
@@ -4605,6 +4625,78 @@
     {
       "path": "80_assets/applied-mathematics/gpt-image-v1/stokes-theorem-insight.webp",
       "sha256": "a776808c17c25bb087382c6ccacd2638c49815fad521e05cb94eaf82f6dcf327"
+    },
+    {
+      "path": "80_assets/atlas-content-improvements/gpt-image-v1/chart-transitions.png",
+      "sha256": "e61a490def3cf404d7c3e75a7b7ceb114af6d2e813c9d4c0eb3b2f5879f4ef53"
+    },
+    {
+      "path": "80_assets/atlas-content-improvements/gpt-image-v1/conditional-rkhs.png",
+      "sha256": "1d13bb5964e7ef61b5eb3d646d87868e743fb4ba280930652f39bab0df0eb6f0"
+    },
+    {
+      "path": "80_assets/atlas-content-improvements/gpt-image-v1/deeponet-sensor-collision.png",
+      "sha256": "187f19235cd732cd2932fe33add02f1c86d7a4cf1ff3ad57d9943c1fe06c6231"
+    },
+    {
+      "path": "80_assets/atlas-content-improvements/gpt-image-v1/fisher-bernoulli.png",
+      "sha256": "d50dd0ab9b9995fb9448e2d124d259531c93ce92af12508135af6392d1d7e3e0"
+    },
+    {
+      "path": "80_assets/atlas-content-improvements/gpt-image-v1/ha-exact-alias-haar.png",
+      "sha256": "62ff81316e496662427ac3754ce0c3be301d910ce74322fb40be3f80e7ec4ec2"
+    },
+    {
+      "path": "80_assets/atlas-content-improvements/gpt-image-v1/harmonic-shifts.png",
+      "sha256": "f0dab00e30f5ac99cf42d537177cb178b681521038dddeea955e1ce343658868"
+    },
+    {
+      "path": "80_assets/atlas-content-improvements/gpt-image-v1/jordan-positive-parts.png",
+      "sha256": "49c58179251fab575f566fd6b96581b5fb1ceb883277f146cbc750d9a43f6917"
+    },
+    {
+      "path": "80_assets/atlas-content-improvements/gpt-image-v1/krylov-residual.png",
+      "sha256": "bd46a623a002e2cf91be397eddb8c408a5e375b2f9ce7b3843f6d248669a2b0c"
+    },
+    {
+      "path": "80_assets/atlas-content-improvements/gpt-image-v1/moe-positive-weight.png",
+      "sha256": "c909cc3ad13465f306750e8cdfbaf13797bf6298a4e59fdc68c29d9eed7a469d"
+    },
+    {
+      "path": "80_assets/atlas-content-improvements/gpt-image-v1/operator-coercivity.png",
+      "sha256": "ab0d48992ab1348a8f758599e9bdd6ad1773b548b1855aa82a16a033c7b75e67"
+    },
+    {
+      "path": "80_assets/atlas-content-improvements/gpt-image-v1/orthogonal-coordinates.png",
+      "sha256": "4980d4d35919127cd4538df12aafd462e2d8b8734b41588f9177fd49f8d3e1e7"
+    },
+    {
+      "path": "80_assets/atlas-content-improvements/gpt-image-v1/pac-excess-risk.png",
+      "sha256": "4fbebd5ae20da0aa4b2b2ad239ece58e23a3462a80d16cf2a6a6d9e4d5e77af3"
+    },
+    {
+      "path": "80_assets/atlas-content-improvements/gpt-image-v1/pde-three-geometries.png",
+      "sha256": "5034f16c0f9a6cc26022bcc03460f82e66df10522a1d113cd357911206726bf3"
+    },
+    {
+      "path": "80_assets/atlas-content-improvements/gpt-image-v1/rmt-kernel-scale.png",
+      "sha256": "b4010cae7a18b42e58fb703a4e2451569d06aa27c610f5751dce52d42b427064"
+    },
+    {
+      "path": "80_assets/atlas-content-improvements/gpt-image-v1/rmt-support.png",
+      "sha256": "fa38cb9065e887ca4f0398a7e5894117397bd417c6d5f5bab14510e75967fad9"
+    },
+    {
+      "path": "80_assets/atlas-content-improvements/gpt-image-v1/statistic-and-law.png",
+      "sha256": "b69f80559786667a15b9725c288b8f8c682b663f9bd0be737cd9d9998784e97b"
+    },
+    {
+      "path": "80_assets/atlas-content-improvements/gpt-image-v1/tensor-order-example.png",
+      "sha256": "bb15dd9ca6668d6ee2774bd93bfaed52144c0cc33ea7abc6f27aceeefbf24ec5"
+    },
+    {
+      "path": "80_assets/atlas-content-improvements/gpt-image-v1/tensor-unfolding.png",
+      "sha256": "0ecff6196b085276ccbe3142944e09c2761c797f2458a8ce18bd3955cafaea89"
     },
     {
       "path": "80_assets/big-data-algorithms/gpt-image-stage5-v1/batch-information-v1.png",
@@ -8895,5 +8987,5 @@
       "sha256": "8be458a495badd5423655bf130597f92ac58a33019efb59e8532b54d06449838"
     }
   ],
-  "asset_count": 1085
+  "asset_count": 1103
 }

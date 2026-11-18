@@ -21,7 +21,7 @@ source_refs:
     role: secondary
 level: advanced
 created: 2026-07-10
-updated: 2026-10-02
+updated: 2026-11-18
 ---
 
 # Модуль RMT 01. Спектральное мышление в высокой размерности
@@ -194,8 +194,11 @@ edge_right = (1 + np.sqrt(c)) ** 2
 
 ## Визуализация
 
-![Спектральное мышление RMT: тонкая оболочка данных, поверхность шумового спектра, его край и устойчивое сигнальное направление](80_assets/random-matrix-theory/gpt-image-v5/rmt-module-01-high-dimensional-spectra-v5.webp)
+![Предельная полоса Марченко — Пастура, зазор двухуровневой модели и положение сверхкритического спайка](80_assets/atlas-content-improvements/gpt-image-v1/rmt-support.png)
 
+Отрезки и угол показаны схематически. При $c=1/4$ точные значения шумового края, отделившегося значения и квадрата согласования равны $9/4$, $5/2$ и $3/5$. В B округлены внутренние концы двух полос.
+
+[Открыть рисунок в полном размере](80_assets/atlas-content-improvements/gpt-image-v1/rmt-support.png) · [Предыдущий рисунок](80_assets/random-matrix-theory/gpt-image-v5/rmt-module-01-high-dimensional-spectra-v5.webp)
 
 ## Самопроверка
 

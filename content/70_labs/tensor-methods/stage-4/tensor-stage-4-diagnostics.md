@@ -21,10 +21,40 @@ source_refs:
     role: primary
 level: advanced
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-11-18
 ---
 
 # Лаборатория этапа 4: граница CP-ранга и ошибки TT/HOSVD
+
+> [!note] Как повторить опыт
+> Полный сценарий и перечисленные файлы измерений находятся в авторском хранилище. На сайте доступны описание опыта и опубликованные иллюстрации. Самостоятельная проверка ниже запускается стандартным Python 3.
+
+## Два порядка осей одного тензора
+
+Возьмём $T_{ijk\ell}=\delta_{ik}\delta_{j\ell}$ размера $2^4$.
+Построим центральные развёртки по обоим порядкам осей. Первая должна быть $I_4$,
+вторая — внешнее произведение $(1,0,0,1)$ на себя. При выборе ранга один
+в первом разрезе получаем остаток $\sqrt3$ и исчезновение выхода на втором входном векторе.
+Элементы сравниваются точно, остаток — с допуском $10^{-12}$.
+
+```python
+from itertools import product
+from math import sqrt
+
+pairs = list(product(range(2), repeat=2))
+ordinary = [[int(i == k and j == ell) for k, ell in pairs] for i, j in pairs]
+reordered = [[int(i == k and j == ell) for j, ell in pairs] for i, k in pairs]
+vector = [1, 0, 0, 1]
+assert ordinary == [[int(i == j) for j in range(4)] for i in range(4)]
+assert reordered == [[a*b for b in vector] for a in vector]
+approx = [[int(i == j == 0) for j in range(4)] for i in range(4)]
+residual = sqrt(sum((ordinary[i][j] - approx[i][j])**2
+                    for i in range(4) for j in range(4)))
+assert abs(residual - sqrt(3)) < 1e-12
+assert [row[1] for row in ordinary] == [0, 1, 0, 0]
+assert [row[1] for row in approx] == [0, 0, 0, 0]
+print(ordinary, reordered, residual)
+```
 
 ## Графики из сохранённых измерений
 

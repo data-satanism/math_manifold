@@ -15,7 +15,7 @@ source_refs:
     role: primary
 level: advanced
 created: 2026-07-15
-updated: 2026-07-27
+updated: 2026-11-18
 ---
 
 # Процессы Арнольди и Ланцоша
@@ -63,7 +63,13 @@ $$
 
 ## Визуализация
 
-![Рост крыловского базиса, полиномиальный фильтр и матрично-свободное действие гессиана](80_assets/numerical-analysis/gpt-image-v4/nla-ch19-krylov-insight.webp)
+Пусть $A=\begin{pmatrix}1&0\\1&1\end{pmatrix}$, $b=e_1$, $x_0=0$. При одном шаге пространство поправок есть $\operatorname{span}(e_1)$, а невязки лежат на прямой $r(\alpha)=(1-\alpha,-\alpha)$. Условие Галёркина $r\perp e_1$ даёт $\alpha=1$ и $\|r\|_2=1$. Условие GMRES $r\perp Ae_1$ даёт $\alpha=1/2$ и $\|r\|_2=1/\sqrt2$. В пространстве невязок оранжевый отрезок к точке GMRES перпендикулярен прямой с направлением $(1,1)$. Здесь $v_1=e_1$, $v_2=e_2$ и столбец Арнольди равен $(1,1)^\top$. [[30_mathematics/numerical-analysis/theorems/gmres-minimal-residual|Общий вывод для GMRES]].
+
+![Кандидаты одномерного шага, прямая невязок и условия ортогональности Галёркина и GMRES](80_assets/atlas-content-improvements/gpt-image-v1/krylov-residual.png)
+
+В A отмечены две поправки на одной оси, в B им соответствуют разные невязки. Синяя линия в B имеет направление $Ae_1$, поэтому её перпендикуляр из начала выделяет минимум нормы невязки GMRES.
+
+[Открыть рисунок в полном размере](80_assets/atlas-content-improvements/gpt-image-v1/krylov-residual.png) · [Предыдущий рисунок](80_assets/numerical-analysis/gpt-image-v4/nla-ch19-krylov-insight.webp)
 
 ## Источник
 

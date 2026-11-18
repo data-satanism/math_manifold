@@ -12,7 +12,7 @@ ai_domains: [llm, computer-vision, time-series, model-compression, graph-ml, ind
 source_refs: []
 level: foundation
 created: 2026-07-10
-updated: 2026-09-03
+updated: 2026-11-18
 description: "Два входа в единую систему: через математические абстракции и через задачи AI."
 tags: [map, math-for-ai]
 ---
@@ -22,6 +22,8 @@ tags: [map, math-for-ai]
 Эта база устроена не как полка с независимыми учебниками. Её основной объект — **математическая абстракция**, которая проявляется в нескольких областях и получает вычислительную реализацию в AI.
 
 ## Два входа
+
+[[atlas-content-review|Доработки по итогам ревизии]].
 
 ### От математики к приложениям
 
@@ -45,6 +47,9 @@ tags: [map, math-for-ai]
 - [Многомерный анализ на матричных многообразиях. Разбор монографии Трендафилова и Галло](30_mathematics/matrix-manifolds-manopt/mda-map).
 
 - [Алгебра и геометрия тензоров. Спецкурс Е. Е. Тыртышникова](30_mathematics/tyrtyshnikov-tensors-2023-2024/tga-map.md).
+
+- [[30_mathematics/tyrtyshnikov-video-2026/tva-map|Вычислительная алгебра. Лекции Е. Е. Тыртышникова]].
+- [[30_mathematics/big-data-algorithms/bda-map|Алгоритмы для больших данных]].
 
 - [[30_mathematics/numerical-analysis/numerical-linear-algebra-map|Численный анализ и численная линейная алгебра]].
 - [[10_maps/optimization|Оптимизация для машинного обучения]].

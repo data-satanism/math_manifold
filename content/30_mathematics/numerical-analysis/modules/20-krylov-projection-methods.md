@@ -18,7 +18,7 @@ source_refs:
     role: intuition
 level: advanced
 created: 2026-07-15
-updated: 2026-08-12
+updated: 2026-11-18
 ---
 
 # Глава 19. Проекционные методы и подпространства Крылова
@@ -107,7 +107,11 @@ $$
 
 ## Визуализация
 
-![Подпространство Крылова, лучшая поправка, полиномиальный фильтр и шаг второго порядка в обучении модели](80_assets/numerical-analysis/gpt-image-v4/nla-ch19-krylov-insight.webp)
+![Кандидаты одномерного шага, прямая невязок и условия ортогональности Галёркина и GMRES](80_assets/atlas-content-improvements/gpt-image-v1/krylov-residual.png)
+
+В A отмечены две поправки на одной оси, в B им соответствуют разные невязки. Синяя линия в B имеет направление $Ae_1$, поэтому её перпендикуляр из начала выделяет минимум нормы невязки GMRES.
+
+[Открыть рисунок в полном размере](80_assets/atlas-content-improvements/gpt-image-v1/krylov-residual.png) · [Предыдущий рисунок](80_assets/numerical-analysis/gpt-image-v4/nla-ch19-krylov-insight.webp)
 
 [Открыть интерактив полиномиального фильтра](80_assets/interactive/krylov-polynomial-filter.html) · [лабораторная страница](70_labs/interactive/nonlinear-optimization-krylov-widgets)
 

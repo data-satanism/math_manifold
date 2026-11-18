@@ -18,7 +18,7 @@ source_refs:
     role: primary
 level: advanced
 created: 2026-08-12
-updated: 2026-10-02
+updated: 2026-11-18
 ---
 
 # Тензорные и малоранговые методы
@@ -36,11 +36,11 @@ updated: 2026-10-02
 7. [[30_mathematics/tensor-methods/modules/ten-07-completion-cur-sampling|Матричное и тензорное заполнение, CUR и когерентность]].
 8. [[30_mathematics/tensor-methods/modules/ten-08-low-rank-ai-protocol|Малоранговые методы в обучении и сжатии моделей]].
 
-## Редакционный режим
+## Маршрут с одним расчётом
 
-Редакционный пакет утверждён владельцем 3 сентября 2026 года и включён в публичный выпуск.
+Сначала проверьте [[30_mathematics/tensor-methods/modules/ten-01-multilinear-objects|порядок индексов развёртки]], затем пройдите [[30_mathematics/tensor-methods/modules/ten-formats-worked-example|один тензор в CP, Таккере и TT]]. На нём вычисляются ранги, один шаг ALS, размеры ядер, остаток и ошибка на входе слоя.
 
-Локальное углубление от 2 октября 2026 года раскрывает HOSVD, TT-SVD и пример вырождения CP. Это изменение авторской версии; опубликованный сайт пока содержит предыдущий выпуск. Новая лабораторная заметка проходит отдельную проверку. Точная область обработанных результатов и оставшиеся внешние доказательства указаны в карте источников.
+Для единственности прочитайте [[30_mathematics/tyrtyshnikov-video-2026/lectures/tva-08-kruskal-proof|доказательство Крускала]] и [[30_mathematics/tensor-methods/modules/ten-05-identifiability-degeneracy|пример вырождения CP]]. Чтобы восстановить шаг алгоритма на произвольных факторах, переходите к [[30_mathematics/tyrtyshnikov-tensors-2023-2024/lectures/tga-10|лекции об ALS]]. Вычисления собраны в [[70_labs/tensor-methods/stage-4/tensor-stage-4-diagnostics|лаборатории]].
 
 ## Карта источников и пересечений
 

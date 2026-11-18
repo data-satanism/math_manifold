@@ -18,12 +18,15 @@ source_refs:
     role: primary
 level: advanced
 created: 2026-10-01
-updated: 2026-10-02
+updated: 2026-11-18
 ---
 
 # Проверки первого блока по алгоритмам для больших данных
 
 Эта лаборатория проверяет величины из трёх учебных блоков: [[30_mathematics/big-data-algorithms/modules/bda-01-svd-pca-gram|SVD, PCA и матрица Грама]], [[30_mathematics/big-data-algorithms/modules/bda-02-pseudoinverse-regularization|псевдообратная и регуляризация]], [[30_mathematics/big-data-algorithms/modules/bda-03-randomized-svd|рандомизированное SVD]].
+
+> [!note] Как повторить опыт
+> Полный сценарий и перечисленные файлы измерений находятся в авторском хранилище. На сайте доступны описание опыта и опубликованные иллюстрации.
 
 ## Запуск и сохранённые результаты
 

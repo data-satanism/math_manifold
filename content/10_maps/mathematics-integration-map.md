@@ -21,7 +21,7 @@ source_refs:
     role: primary
 level: advanced
 created: 2026-07-16
-updated: 2026-09-03
+updated: 2026-11-18
 ---
 
 # Интеграция математических направлений и ИИ
@@ -54,13 +54,11 @@ updated: 2026-09-03
 | Гомология и устойчивость фильтраций | топология; вычислительная линейная алгебра | [[30_mathematics/topological-data-analysis/modules/tda-05-stability-bottleneck|устойчивость персистентности]], [[50_bridges/topology-representation-diagnostics|топология представлений]] | диагностика скрытых представлений, графов и многообразий данных |
 | Многолинейный ранг и тензорные сети | линейная и численная алгебра; RMT | [[30_mathematics/tensor-methods/modules/ten-03-tucker-hosvd|Tucker и HOSVD]], [[50_bridges/tensor-low-rank-ai|тензорные методы в ИИ]] | сжатие, адаптация моделей, восстановление и научные вычисления |
 
-## Очередь интеграции
+## Как выбрать первый шаг
 
-1. Устранить шаблонные повторения и углубить теоремный слой семи курсов, опубликованных 12 августа 2026 года.
-2. Нормализовать словари `concepts`, `prerequisites` и `ai_domains`, не превращая тематические теги в ложные ссылки на заметки.
-3. Провести пользовательское ревью готового курса гармонического анализа и вейвлетов: 12 модулей, 9 теорем и 22 визуализации.
-4. Провести пользовательское ревью курса групп Ли, теории представлений и дифференциальной геометрии: 12 модулей, 11 новых теорем и 24 визуализации.
-5. Провести пользовательское ревью курса классических PDE и вариационных методов: 12 модулей, 11 новых теорем, расширенные общие узлы и 24 визуализации.
+- Для работы с матрицами сначала проверьте [[30_mathematics/linear-algebra/modules/01-coordinate-geometry-invariants|ортогональные инварианты]] и [[30_mathematics/big-data-algorithms/modules/bda-01-svd-pca-gram|связь SVD с матрицей Грама]]. Если уверенно пользуетесь SVD, сравните [[30_mathematics/tensor-methods/modules/ten-formats-worked-example|три тензорных формата на одном примере]].
+- Для спектральной диагностики больших выборок начните с [[30_mathematics/random-matrix-theory/theorems/marchenko-pastur-law|закона Марченко—Пастура]], затем восстановите [[30_mathematics/random-matrix-theory/theorems/sample-covariance-spectral-support|условие появления зазора]].
+- Для задач с непрерывной динамикой начните с [[30_mathematics/classical-pde-variational/modules/pde-01-operator-data-well-posedness|типа уравнения и данных]]. Если уже умеете получать слабую форму, проверьте [[30_mathematics/classical-pde-variational/theorems/parabolic-galerkin-existence-theorem|переход к пределу Галёркина]].
 
 Решение по каждому пересекающемуся разделу хранится в `90_admin/content_overlap_registry.csv`. Правила выбора описаны в административной заметке `90_admin/content-integration-policy.md`.
 

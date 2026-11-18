@@ -15,7 +15,7 @@ source_refs:
     role: primary
 level: advanced
 created: 2026-11-16
-updated: 2026-11-16
+updated: 2026-11-18
 ---
 
 # Геометрическая лаборатория Manopt
@@ -23,6 +23,36 @@ updated: 2026-11-16
 [Карта курса](30_mathematics/matrix-manifolds-manopt/mda-map) · [Все разделы и страницы](30_mathematics/matrix-manifolds-manopt/mda-source-map)
 
 Сцены построены на небольших синтетических примерах. У репера в $\mathbb R^3$ видно оба столбца, у подпространства — плоскость и её нормаль, у симплекса — все три доли. Угол, расстояние и значение цели вычисляются из координат. В GIF ракурс и шкала сохраняются, а на заключительном кадре есть пауза для чтения.
+
+> [!note] Как повторить опыт
+> Полный сценарий и перечисленные файлы измерений находятся в авторском хранилище. На сайте доступны описание опыта и опубликованные иллюстрации. Самостоятельная проверка ниже запускается стандартным Python 3.
+
+## Кэли и проба Армихо
+
+Начнём с $Q_0=I_2$ и генератора $K=\left(\begin{smallmatrix}0&-1\\1&0\end{smallmatrix}\right)$.
+Берём $Q(t)=(I+tK)(I-tK)^{-1}$ и цель $F(Q)=-Q_{21}$.
+Производная $F(Q(t))$ в нуле равна $-2$. С коэффициентом Армихо $1/4$
+проверяем $F(Q(t))\le -t/2$. При $t=2$ значение $-0{,}8$ не проходит проверку,
+при $t=1$ значение $-1$ принимается. Дефект ортогональности обеих проб должен быть меньше $10^{-12}$.
+
+```python
+def cayley(t):
+    denominator = 1.0 + t*t
+    c, s = (1.0 - t*t)/denominator, 2*t/denominator
+    return ((c, -s), (s, c))
+
+results = []
+for t, expected in ((2.0, False), (1.0, True)):
+    q = cayley(t)
+    gram = [[sum(q[k][i]*q[k][j] for k in range(2))
+             for j in range(2)] for i in range(2)]
+    defect = max(abs(gram[i][j] - (i == j)) for i in range(2) for j in range(2))
+    loss = -q[1][0]
+    accepted = loss <= -t/2
+    assert defect < 1e-12 and accepted == expected
+    results.append((t, loss, accepted))
+print(results)
+```
 
 ## Что проверить своими руками
 

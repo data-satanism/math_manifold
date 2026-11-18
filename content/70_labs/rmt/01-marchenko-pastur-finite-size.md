@@ -15,10 +15,38 @@ source_refs:
     role: primary
 level: advanced
 created: 2026-07-30
-updated: 2026-08-12
+updated: 2026-11-18
 ---
 
 # Лаборатория RMT 01. Конечномерный закон Марченко—Пастура
+
+> [!note] Как повторить опыт
+> Полный сценарий и перечисленные файлы измерений находятся в авторском хранилище. На сайте доступны описание опыта и опубликованные иллюстрации. Самостоятельная проверка ниже запускается стандартным Python 3.
+
+## Края и нормировка плотности
+
+Вычислим края и массу непрерывной части. При $c=1/4$ ожидаются $1/4$, $9/4$
+и масса $1$. При $c=2$ ожидаемая непрерывная масса равна $1/2$, ещё $1/2$ составляет атом в нуле.
+Края проверяем с допуском $10^{-12}$, массу по квадратуре — с допуском $10^{-5}$.
+
+```python
+from math import pi, sqrt
+
+def measure(c, cells=20000):
+    lo, hi = (1 - sqrt(c))**2, (1 + sqrt(c))**2
+    step = (hi - lo)/cells
+    grid = (lo + step*(i + 0.5) for i in range(cells))
+    mass = step*sum(sqrt((x - lo)*(hi - x))/(2*pi*c*x) for x in grid)
+    return lo, hi, mass, max(0.0, 1 - 1/c)
+
+lo, hi, mass, atom = measure(0.25)
+assert abs(lo - 0.25) < 1e-12 and abs(hi - 2.25) < 1e-12
+assert abs(mass + atom - 1) < 1e-5 and atom == 0
+print(lo, hi, mass, atom)
+lo, hi, mass, atom = measure(2.0)
+assert abs(mass - 0.5) < 1e-5 and atom == 0.5
+print(lo, hi, mass, atom)
+```
 
 ## Исследовательский вопрос
 

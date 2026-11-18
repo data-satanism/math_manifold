@@ -21,10 +21,52 @@ source_refs:
     role: primary
 level: advanced
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-11-18
 ---
 
 # Лаборатория этапа 4: гауссова ковариация и один спайк
+
+> [!note] Как повторить опыт
+> Полный сценарий и перечисленные файлы измерений находятся в авторском хранилище. На сайте доступны описание опыта и опубликованные иллюстрации. Самостоятельная проверка ниже запускается стандартным Python 3.
+
+## Зазор, поправка к моменту и масштаб ядра
+
+Для $\nu=(\delta_1+\delta_4)/2$ и $c=1/4$ найдём четыре края бисекцией
+уравнения $x'(v)=0$. Контрольные значения $0{,}324519$, $1{,}567412$, $1{,}876339$,
+$7{,}481730$, допуск $10^{-6}$. В точке $v=-1/2$ ожидаются $x=7/4$ и $x'=3/2$.
+Дополнительно проверим контурную поправку $3/2-(1/2)\cdot1^2=1$.
+При $p=1000,n=4000$ ожидаемый след квадрата нелинейного ядра равен $8{,}021994$.
+
+```python
+from math import isclose
+
+def x(v):
+    return -1/v + (1/(1 + v) + 4/(1 + 4*v))/8
+
+def derivative(v):
+    return 1/v**2 - (1/(1 + v)**2 + 16/(1 + 4*v)**2)/8
+
+def bisect(left, right):
+    assert derivative(left)*derivative(right) < 0
+    for _ in range(48):
+        middle = (left + right)/2
+        if derivative(left)*derivative(middle) <= 0:
+            right = middle
+        else:
+            left = middle
+    return (left + right)/2
+
+brackets = [(-2, -1.2), (-0.8, -0.6), (-0.45, -0.35), (-0.21, -0.15)]
+edges = [x(bisect(*interval)) for interval in brackets]
+expected = (0.324519, 1.567412, 1.876339, 7.481730)
+assert all(isclose(a, b, rel_tol=0, abs_tol=1e-6) for a, b in zip(edges, expected))
+assert abs(x(-0.5) - 1.75) < 1e-12 and abs(derivative(-0.5) - 1.5) < 1e-12
+assert 1.5 - 0.5*1.0**2 == 1
+p, n = 1000, 4000
+second_moment = (n - 1)/p*(2 + 6/p)
+assert abs(second_moment - 8.021994) < 1e-12
+print(edges, second_moment)
+```
 
 ## Вопросы и границы проверки
 

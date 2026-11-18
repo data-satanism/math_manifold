@@ -15,7 +15,7 @@ source_refs:
     role: primary
 level: advanced
 created: 2026-07-13
-updated: 2026-07-27
+updated: 2026-11-18
 ---
 
 # Предобусловливание и крыловские методы → крупномасштабное машинное обучение
@@ -85,7 +85,11 @@ $$
 
 ## Визуализация
 
-![Подпространство Крылова, полиномиальный фильтр и матрично-свободный шаг второго порядка](80_assets/numerical-analysis/gpt-image-v4/nla-ch19-krylov-insight.webp)
+![Кандидаты одномерного шага, прямая невязок и условия ортогональности Галёркина и GMRES](80_assets/atlas-content-improvements/gpt-image-v1/krylov-residual.png)
+
+В A отмечены две поправки на одной оси, в B им соответствуют разные невязки. Синяя линия в B имеет направление $Ae_1$, поэтому её перпендикуляр из начала выделяет минимум нормы невязки GMRES.
+
+[Открыть рисунок в полном размере](80_assets/atlas-content-improvements/gpt-image-v1/krylov-residual.png) · [Предыдущий рисунок](80_assets/numerical-analysis/gpt-image-v4/nla-ch19-krylov-insight.webp)
 
 ## Самопроверка
 

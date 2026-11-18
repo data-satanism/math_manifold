@@ -27,7 +27,7 @@ source_refs:
     role: primary
 level: advanced
 created: 2026-07-10
-updated: 2026-10-02
+updated: 2026-11-18
 ---
 
 # Теория случайных матриц для машинного обучения
@@ -36,7 +36,14 @@ updated: 2026-10-02
 
 ## Маршрут
 
-Количественное дополнение к первым трём модулям: [[30_mathematics/random-matrix-theory/theorems/gaussian-sample-covariance-operator-bound|конечновыборочная ошибка гауссовой ковариации]] и [[30_mathematics/random-matrix-theory/theorems/spiked-covariance-transition|раскрытый спайковый переход]]. Предельная мера, вероятность при конечной выборке и асимптотика собственного вектора рассматриваются раздельно. Локальное дополнение от 2 октября 2026 года проходит проверку; опубликованный сайт пока содержит предыдущий выпуск.
+## Маршрут от шумовой модели к выводу
+
+1. [[30_mathematics/random-matrix-theory/theorems/marchenko-pastur-law|Закон Марченко—Пастура]]. Повторите вывод скалярного уравнения и вычислите края при $c=1/4$. Для гауссовой модели переход от меры к верхнему краю использует [[30_mathematics/random-matrix-theory/theorems/gaussian-sample-covariance-operator-bound|оценку сингулярного числа]].
+2. [[30_mathematics/random-matrix-theory/theorems/sample-covariance-spectral-support|Носитель и точное разделение]]. Из знака $x'(v)$ получите зазор для двух популяционных уровней и порог, который определяет число значений по обе стороны.
+3. [[30_mathematics/random-matrix-theory/theorems/spiked-covariance-transition|Один спайк]]. Проверьте допустимость алгебраического корня и вычислите согласование направления. Докритическое поведение выборочного собственного вектора опирается на теорему Пола.
+4. [[30_mathematics/random-matrix-theory/theorems/population-covariance-contour|Популяционный вывод]] и [[30_mathematics/random-matrix-theory/modules/04-random-kernel-matrices|два масштаба ядра]]. В первом случае вычислите поправку к моменту, во втором выведите дисперсию предельного полукруга из масштаба элементов.
+
+[[70_labs/rmt/01-marchenko-pastur-finite-size|Лаборатория шума]] и [[70_labs/rmt/stage-4/rmt-stage-4-diagnostics|лаборатория спектральных проверок]] дают первые расчёты. В [[30_mathematics/random-matrix-theory/rmt-source-map|карте источников]] указаны места, где нужны внешние вероятностные теоремы.
 
 1. [[30_mathematics/random-matrix-theory/modules/01-high-dimensional-spectra|Спектральное мышление в высокой размерности]].
 2. [[30_mathematics/random-matrix-theory/modules/02-resolvents-deterministic-equivalents|Резольвентный метод и детерминированные эквиваленты]].

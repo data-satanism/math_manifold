@@ -18,7 +18,7 @@ source_refs:
     role: primary
 level: advanced
 created: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-18
 ---
 
 # Воспроизводимая проверка формул
@@ -73,3 +73,6 @@ py -3.11 70_labs/figures/branches17_scientific_v1.py
 Бесконечномерный контрпример Бородина не моделируется конечной матрицей. Его второй рисунок показывает лишь суммируемый бюджет потерь, а первый — различие критериев выбора. Это помогает не принять конечный расчёт за доказательство расходимости.
 
 Связанные модули: [[30_mathematics/computational-algebra-principles/modules/cap-05-rectangular-d-optimal]], [[30_mathematics/computational-algebra-principles/modules/cap-06-deim]], [[30_mathematics/computational-algebra-principles/modules/cap-07-volume-sampling]], [[30_mathematics/computational-algebra-principles/modules/journal-01-kashin-two-bases]], [[30_mathematics/computational-algebra-principles/modules/journal-02-greedy-projection]].
+
+> [!note] Как повторить опыт
+> Полный сценарий и перечисленные файлы измерений находятся в авторском хранилище. На сайте доступны описание опыта и опубликованные иллюстрации.
