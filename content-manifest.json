@@ -2220,7 +2220,7 @@
     {
       "id": "marchenko-pastur-law",
       "path": "30_mathematics/random-matrix-theory/theorems/marchenko-pastur-law.md",
-      "sha256": "5c11455d95425a77d5eb09fa732d76d72ca8d5353034df8f5914e21cdf91792f"
+      "sha256": "8e1b34a06bb995ef2e0f2862d0330b753e9dd475bee2e9d690b27d969ea315a0"
     },
     {
       "id": "math-ai-home",
@@ -2520,7 +2520,7 @@
     {
       "id": "nla-20-krylov-projection-methods",
       "path": "30_mathematics/numerical-analysis/modules/20-krylov-projection-methods.md",
-      "sha256": "d89d19c86ed1fbc256663d43c8e0d346a5e5fd697c5b9e30b3c92a727a110a22"
+      "sha256": "c4a07f530e8cb4d91922969b2138866ecb6f4e2f8e1c98d248ba2a2681a947fe"
     },
     {
       "id": "nla-21-gmres-convergence",
@@ -3015,7 +3015,7 @@
     {
       "id": "real-analysis-01-measures-radon-nikodym",
       "path": "30_mathematics/real-analysis/modules/01-measures-radon-nikodym.md",
-      "sha256": "f316942800766eb549d18ca319ce79ef7546834a597aef1db36791c1b81ee913"
+      "sha256": "c377fe7c6eb8a6adff7525af3b30d5f45317bfb1b258601684a42bb6589c5d9a"
     },
     {
       "id": "real-analysis-02-lp-hilbert-duality",

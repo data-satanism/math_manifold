@@ -42,7 +42,7 @@ updated: 2026-11-18
 
 ## Карта зависимостей
 
-[[30_mathematics/numerical-analysis/methods/arnoldi-lanczos|процесс Арнольди/Ланцоша]] → [[30_mathematics/numerical-analysis/theorems/krylov-near-optimality|почти оптимальная информация]] → [[30_mathematics/numerical-analysis/methods/gmres|минимальные невязки]] или [[30_mathematics/numerical-analysis/methods/conjugate-gradient|сопряжённые градиенты]].
+[[30_mathematics/numerical-analysis/methods/arnoldi-lanczos|процессы Арнольди и Ланцоша]] → [[30_mathematics/numerical-analysis/theorems/krylov-near-optimality|почти оптимальная информация]] → [[30_mathematics/numerical-analysis/methods/gmres|минимальные невязки]] или [[30_mathematics/numerical-analysis/methods/conjugate-gradient|сопряжённые градиенты]].
 
 ## 1. Линейная система как минимум
 
